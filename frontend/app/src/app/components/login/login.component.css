@@ -1,4 +1,57 @@
-.error-message {
-    color: red;
+/* Apply a container style to wrap the login form for better structure */
+.login-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+/* Style the form groups similarly to the register form */
+.form-group {
     margin-bottom: 15px;
-  }
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Style input fields like in the register form */
+.form-group input[type="email"],
+.form-group input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Use the same button styles for consistency */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Add margin-bottom for spacing */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Keep the error and success message styles as they are already consistent */
+.error-message {
+    color: #d9534f; /* Bootstrap 'danger' color */
+    margin-bottom: 15px;
+}
+
+.success-message {
+    color: #5cb85c; /* Bootstrap 'success' color */
+    margin-bottom: 15px;
+}
+
+/* Remove any unnecessary file input styling from login if not needed */

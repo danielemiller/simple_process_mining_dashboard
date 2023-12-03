@@ -1,0 +1,21 @@
+<div class="file-upload-container">
+    <input type="file" (change)="onFilesSelected($event)" multiple accept=".csv">
+    
+    <div *ngIf="errorMessage" class="error-message">
+      {{ errorMessage }}
+    </div>
+  
+    <button (click)="uploadFiles()" [disabled]="!selectedFiles.length">Upload Files</button>
+    
+    <div class="progress-container" *ngIf="uploadProgress > 0">
+        <div class="progress-bar" [style.width]="uploadProgress + '%'"></div>
+      </div>
+      
+    <div *ngIf="uploadProgress">
+      Upload Progress: {{ uploadProgress }}%
+    </div>
+  
+    <div *ngIf="uploadMessage" class="success-message">
+      {{ uploadMessage }}
+    </div>
+</div>

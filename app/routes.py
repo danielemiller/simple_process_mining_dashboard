@@ -1,49 +1,61 @@
 import os
-from flask import render_template, request, url_for, redirect
+from flask import jsonify, request
+from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity
 from werkzeug.utils import secure_filename
-from app import app, db
+from werkzeug.security import generate_password_hash, check_password_hash
+from app.extensions import db
 from app.models import EventLog, User
-from app.forms import UploadEventLogForm
 
-# Set the directory where uploaded files will be stored
-UPLOAD_FOLDER = './uploads'
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-# Ensure the upload folder exists
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+def register_routes(app):
 
-@app.route("/upload", methods=['GET', 'POST'])
-def upload():
-    form = UploadEventLogForm()
-    if form.validate_on_submit():
-        # Get the file fro the form
-        file = form.file.data
+    # Set the directory where uploaded files will be stored
+    UPLOAD_FOLDER = './uploads'
+    app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-        # Secure the filename before storing it directly from the user input
+    # Ensure the upload folder exists
+    os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+    @app.route("/upload", methods=['POST'])
+    def upload():
+        if 'file' not in request.files:
+            return jsonify({'error': 'No file part'}), 400
+        file = request.files['file']
         filename = secure_filename(file.filename)
+        if filename == '':
+            return jsonify({'error': 'No selected file'}), 400
 
-        # Define the full path for the file
-        file_path = os.path.join(app.config(['UPLOAD_FOLDER'], filename))
-
-        # Save the file to the filesystem
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
         file.save(file_path)
 
-        # Create a new EventLog entry
         event_log = EventLog(filename=filename, user_id=current_user.id)
         db.session.add(event_log)
         db.session.commit()
 
-        return redirect(url_for('home'))
-    return render_template('upload.html', title='Upload Event Log', form=form)
+        return jsonify({'message': 'File uploaded successfully', 'filename': filename}), 201
 
-@app.route("/register", methods=['POST'])
-def register():
-    username = request.form['username']
-    email = request.form['email']
-    password = request.form['password']
+    @app.route("/register", methods=['POST'])
+    def register():
+        data = request.get_json()
+        hashed_password = generate_password_hash(data['password'])
+        user = User(username=data['username'], email=data['email'], password_hash=hashed_password)
+        db.session.add(user)
+        db.session.commit()
+        return jsonify({'message': 'User registered successfully'}), 201
 
-    new_user = User(username=username, email=email, password=password)
-    db.session.add(new_user)
-    db.session.commit()
+    @app.route("/login", methods=['POST'])
+    def login():
+        data = request.get_json()
+        user = User.query.filter_by(email=data['email']).first()
+        if user and check_password_hash(user.password_hash, data['password']):
+            access_token = create_access_token(identity=user.id)
+            return jsonify(access_token=access_token), 200
+        return jsonify({'error': 'Invalid username or password'}), 401
 
-    return 'User registered!'
+    @app.route("/logout", methods=['POST'])
+    @jwt_required()
+    def logout():
+        user_id = get_jwt_identity()
+        # The actual 'logout' is just the client discarding the token.
+        # Optionally, implement token revocation here if you have a more advanced setup.
+        return jsonify({'message': f'User {user_id} logged out successfully'}), 200

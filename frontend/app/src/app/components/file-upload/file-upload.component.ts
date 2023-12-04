@@ -1,14 +1,14 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Router } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 import { FileService } from '../../services/file.service';
 import { HttpEventType } from '@angular/common/http';
 
 @Component({
   selector: 'app-file-upload',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, RouterLink],
   templateUrl: './file-upload.component.html',
   styleUrl: './file-upload.component.css'
 })

@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: center; /* Align items horizontally center */
+    align-items: center;
+}
+
+.navbar-title {
+    /* margin-right: auto; Pushes everything to the right */
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.navbar-brand .navbar-item img {
+    max-height: 3rem;
+    margin-right: 2rem; /* Provide some space between logo and title */
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; /* Allows the navbar menu to take up as much space as possible */
+}
+
+.navbar-start,
+.navbar-end {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-item {
+    color: #fff;
+    margin: 0 1rem; /* Ensures consistent margin on both sides */
+    white-space: nowrap; /* Prevents items from wrapping */
+    cursor: pointer; /* Changes cursor to pointer */
+    transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for color and background */
+}
+
+.navbar-item:not(.logo):hover {
+    background-color: #555; /* Darkens the item on hover */
+    color: #ddd; /* Optional: Changes the color on hover */
+    text-decoration: none; /* Optional: Underlines the text on hover */
+}
+
+/* Optional: If you want to add a different effect when an item is active or focused */
+.navbar-item:active,
+.navbar-item:focus {
+    color: #bbb; /* Lightens the color for active state */
+    background-color: #222; /* Optional: Changes background for active state */
+}
+
+
+/* Media query for smaller screens to adjust layout */
+@media (max-width: 768px) {
+    .navbar-menu {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar-item {
+        margin-bottom: 0.5rem; /* Stack items vertically with a little space in between */
+    }
+    .navbar-end {
+        align-items: flex-start;
+        margin-top: 0.5rem; /* Adds a little space between the two sections */
+    }
+}

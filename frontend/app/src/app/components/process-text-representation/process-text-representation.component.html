@@ -1,0 +1,9 @@
+<div class="process-text-representation">
+    <h2>Process Text Representation</h2>
+    <div *ngIf="textRepresentation; else noData">
+      <pre>{{ textRepresentation }}</pre>
+    </div>
+    <ng-template #noData>
+      <p>No data available.</p>
+    </ng-template>
+</div>

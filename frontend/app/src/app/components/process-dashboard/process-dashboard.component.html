@@ -1,0 +1,7 @@
+<div class="process-dashboard">
+    <button (click)="showEventLogsList = !showEventLogsList">Select Event Log</button>
+    <app-event-logs-list *ngIf="showEventLogsList" (eventLogSelected)="onEventLogSelected($event)"></app-event-logs-list>
+  
+    <!-- Further components that use the selected event log's data can be included here -->
+    <app-process-text-representation [textRepresentation]="textRepresentation"></app-process-text-representation>
+</div>

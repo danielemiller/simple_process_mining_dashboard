@@ -1,0 +1,15 @@
+.event-logs-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+.event-logs-list li {
+cursor: pointer;
+padding: 10px;
+border-bottom: 1px solid #ccc;
+}
+
+.event-logs-list li:hover {
+background-color: #f0f0f0;
+}
+  

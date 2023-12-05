@@ -1,8 +1,0 @@
-#!/Users/danielmiller/Documents/Lab/intern_lab/fullstack_process_mining_app/simple_process_mining_dashboard/venv/bin/python3
-# -*- coding: utf-8 -*-
-import re
-import sys
-from mako.cmd import cmdline
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(cmdline())

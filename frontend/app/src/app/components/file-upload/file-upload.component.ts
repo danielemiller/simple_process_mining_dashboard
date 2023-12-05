@@ -39,7 +39,7 @@ export class FileUploadComponent {
     }
 
     this.selectedFiles.forEach(file => {
-      this.fileService.uploadFile(file).subscribe(
+      this.fileService.uploadFile(file)?.subscribe(
         event => {
           if (event.type === HttpEventType.UploadProgress && event.total) {
             this.uploadProgress = Math.round(100 * event.loaded / event.total);
@@ -50,7 +50,7 @@ export class FileUploadComponent {
         error => {
           this.errorMessage = 'Failed to upload file.';
         }
-      );
+      )
     });
   }
 }

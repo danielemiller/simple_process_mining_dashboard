@@ -8,21 +8,28 @@ from pm4py.visualization.petri_net import visualizer as pn_visualizer
 from pm4py.statistics.traces.generic.log import case_statistics
 from datetime import datetime
 from collections import defaultdict
-from io import StringIO
 import pandas as pd
-import logging
+import logging, os
+from backend.app.models import EventLog
+from backend.app.extensions import db
 
 
 class ProcessMiningService:
 
     @staticmethod
-    def process_discovery(file, representation_type):
+    def process_discovery(event_log_id, representation_type, upload_folder):
         try:
             # Convert the file to a Pandas DataFrame
-            string_io = StringIO(file.stream.read().decode("UTF-8"), newline=None)
-            data = pd.read_csv(string_io)
-            data = dataframe_utils.convert_timestamp_columns_in_df(data)
-            data = data.sort_values('time:timestamp')
+            event_log = EventLog.query.get(event_log_id)
+            if not event_log:
+                raise ValueError("Event log not found")
+
+            file_path = os.path.join(upload_folder, event_log.filename)
+
+            with open(file_path, 'rb') as file:
+                data = pd.read_csv(file)
+                data = dataframe_utils.convert_timestamp_columns_in_df(data)
+                data = data.sort_values('time:timestamp')
 
             # Convert to event log
             parameters = {log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: 'case_id'}
@@ -42,7 +49,7 @@ class ProcessMiningService:
             raise  # Re-raise the exception to be handled or logged at a higher level
 
     @staticmethod
-    def _text_representation(process_model, initial_marking, final_marking):
+    def _text_representation(process_model):
         # Generate a simple text representation of the process model
         return str(process_model)
 

@@ -1,21 +1,19 @@
-import logging
 from flask import Response, request, jsonify
+from flask_jwt_extended import jwt_required, get_jwt_identity
 from backend.app.services.process_mining_service import ProcessMiningService
-from backend.app.extensions import db
 from backend.app.models import EventLog
+import logging, os
 
 def register_process_mining_routes(app):
 
     @app.route('/process_mining/discovery', methods=['POST'])
     def process_discovery():
-        file = request.files['file']
-        representation_type = request.args.get('type', 'text')
-        
-        if not file:
-            return jsonify({'error': 'No file provided'}), 400
-        
+        event_log_id = request.json.get('event_log_id')
+        representation_type = request.json.get('type', 'text')
+    
         try:
-            results = ProcessMiningService.process_discovery(file, representation_type)
+            results = ProcessMiningService.process_discovery(event_log_id, representation_type, app.config['UPLOAD_FOLDER'])
+        
             if representation_type == 'text':
                 return jsonify({'text_representation': results})
             elif representation_type == 'graph':
@@ -40,11 +38,16 @@ def register_process_mining_routes(app):
         bottlenecks = ProcessMiningService.identify_bottlenecks(event_log)
         return jsonify(bottlenecks)
 
+    
     @app.route('/process_mining/event_logs', methods=['GET'])
+    @jwt_required
     def get_event_logs():
         try:
-            # Query the database for all event logs
-            event_logs = EventLog.query.with_entities(EventLog.id, EventLog.filename).all()
+            # Get the current user's identity from the JWT
+            current_user_id = get_jwt_identity()
+            
+            # Query the database for event logs associated with the current user
+            event_logs = EventLog.query.filter_by(user_id=current_user_id).with_entities(EventLog.id, EventLog.filename).all()
             
             # Transform the result into a list of dictionaries
             event_logs_list = [{'id': log.id, 'filename': log.filename} for log in event_logs]

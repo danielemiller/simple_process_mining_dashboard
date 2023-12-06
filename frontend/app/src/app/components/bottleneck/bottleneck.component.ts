@@ -1,18 +1,21 @@
 import { Component, Input, OnChanges, SimpleChange, SimpleChanges } from '@angular/core';
 import { ProcessMiningService } from '../../services/process-mining.service';
+import { CommonModule } from '@angular/common';
+import { RouterLink, Router } from '@angular/router';
+import { BottleneckData } from '../../models/bottleneck-data.model';
 
 @Component({
   selector: 'app-bottleneck',
   standalone: true,
-  imports: [ Input, SimpleChange ],
+  imports: [ CommonModule, RouterLink ],
   templateUrl: './bottleneck.component.html',
   styleUrl: './bottleneck.component.css'
 })
 export class BottleneckComponent implements OnChanges {
   @Input() eventLogId?: number;
-  bottlenecks: any; // Define a proper type for your data structure
+  bottlenecks?: BottleneckData; 
 
-  constructor(private processMiningService: ProcessMiningService) {}
+  constructor(private processMiningService: ProcessMiningService, private router: Router) {}
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes['eventLogId'] && this.eventLogId) {

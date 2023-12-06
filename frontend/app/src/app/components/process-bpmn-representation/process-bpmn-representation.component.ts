@@ -1,10 +1,12 @@
 import { Component, Input, AfterViewInit, ElementRef, ViewChild } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { RouterLink, Router } from '@angular/router';
 import BpmnViewer from 'bpmn-js';
 
 @Component({
   selector: 'app-process-bpmn-representation',
   standalone: true,
-  imports: [ BpmnViewer, Input, ElementRef, ViewChild ],
+  imports: [ CommonModule, RouterLink ],
   templateUrl: './process-bpmn-representation.component.html',
   styleUrl: './process-bpmn-representation.component.css'
 })
@@ -14,7 +16,7 @@ export class ProcessBpmnRepresentationComponent implements AfterViewInit {
 
   private viewer: BpmnViewer;
   
-  constructor() {
+  constructor(router: Router) {
     this.viewer = new BpmnViewer({ container: '#canvas' });
   }
 

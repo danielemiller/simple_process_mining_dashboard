@@ -1,13 +1,19 @@
 import { Component } from '@angular/core';
 import { EventLog } from '../../models/event-log.model';
 import { ProcessMiningService } from '../../services/process-mining.service';
+import { CommonModule } from '@angular/common';
+import { RouterLink, Router } from '@angular/router';
+import { ProcessBpmnRepresentationComponent } from '../process-bpmn-representation/process-bpmn-representation.component';
+import { ProcessGraphRepresentationComponent } from '../process-graph-representation/process-graph-representation.component';
+import { ProcessTextRepresentationComponent } from '../process-text-representation/process-text-representation.component';
+import { EventLogsListComponent } from '../event-logs-list/event-logs-list.component';
 
 @Component({
   selector: 'app-process-dashboard',
   standalone: true,
-  imports: [],
+  imports: [ CommonModule, RouterLink, EventLogsListComponent, ProcessBpmnRepresentationComponent, ProcessGraphRepresentationComponent, ProcessTextRepresentationComponent],
   templateUrl: './process-dashboard.component.html',
-  styleUrls: ['./process-dashboard.component.css'] // Corrected to 'styleUrls' and made it an array
+  styleUrls: ['./process-dashboard.component.css'] 
 })
 export class ProcessDashboardComponent {
   currentEventLog: EventLog | null = null;
@@ -17,7 +23,7 @@ export class ProcessDashboardComponent {
   graphData: any | null = null; // Adjust the type based on your graph data
   bpmnXml: string | null = null;
 
-  constructor(private processMiningService: ProcessMiningService) {}
+  constructor(private processMiningService: ProcessMiningService, router: Router) {}
 
   onEventLogSelected(eventLog: EventLog): void {
     this.currentEventLog = eventLog;

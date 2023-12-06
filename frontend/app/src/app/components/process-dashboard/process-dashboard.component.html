@@ -1,21 +1,21 @@
 <div class="process-dashboard">
     <!-- Tab controls -->
     <ul class="tab-list">
-      <li class="tab-list-item" [class.active]="selectedTab === 'text'" (click)="selectTab('text')">Text</li>
-      <li class="tab-list-item" [class.active]="selectedTab === 'graph'" (click)="selectTab('graph')">Graph</li>
-      <li class="tab-list-item" [class.active]="selectedTab === 'bpmn'" (click)="selectTab('bpmn')">BPMN</li>
+      <li class="tab-list-item" [class.active]="activeTab === 'text'" (click)="selectTab('text')">Text</li>
+      <li class="tab-list-item" [class.active]="activeTab === 'graph'" (click)="selectTab('graph')">Graph</li>
+      <li class="tab-list-item" [class.active]="activeTab === 'bpmn'" (click)="selectTab('bpmn')">BPMN</li>
     </ul>
     
     <!-- Tab content -->
-    <div class="tab-content" *ngIf="selectedTab === 'text'">
+    <div class="tab-content" *ngIf="activeTab === 'text'">
       <!-- Include Text Representation Component Here -->
       <app-process-text-representation *ngIf="textRepresentation" [textRepresentation]="textRepresentation"></app-process-text-representation>
     </div>
-    <div class="tab-content" *ngIf="selectedTab === 'graph'">
+    <div class="tab-content" *ngIf="activeTab === 'graph'">
       <!-- Include Graph Representation Component Here -->
       <app-process-graph-representation *ngIf="graphData" [graphData]="graphData"></app-process-graph-representation>
     </div>
-    <div class="tab-content" *ngIf="selectedTab === 'bpmn'">
+    <div class="tab-content" *ngIf="activeTab === 'bpmn'">
       <!-- Include BPMN Representation Component Here -->
       <app-process-bpmn-representation *ngIf="bpmnXml" [bpmnXml]="bpmnXml"></app-process-bpmn-representation>
     </div>

@@ -1,12 +1,14 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { ProcessMiningService } from '../../services/process-mining.service';
-import { EventLog } from '../../models/event-log.model'; 
+import { EventLog } from '../../models/event-log.model';
+import { CommonModule } from '@angular/common';
+import { RouterLink, Router } from '@angular/router';
 
 
 @Component({
   selector: 'app-event-logs-list',
   standalone: true,
-  imports: [],
+  imports: [ CommonModule, RouterLink],
   templateUrl: './event-logs-list.component.html',
   styleUrl: './event-logs-list.component.css'
 })
@@ -15,7 +17,7 @@ export class EventLogsListComponent implements OnInit {
   selectedEventLog: EventLog | null = null;
   @Output() eventLogSelected = new EventEmitter<EventLog>();
   
-  constructor(private processMiningService: ProcessMiningService) {}
+  constructor(private processMiningService: ProcessMiningService, private router: Router) {}
 
   ngOnInit() {
     this.processMiningService.getEventLogs().subscribe(

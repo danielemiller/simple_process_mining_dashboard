@@ -1,0 +1,15 @@
+.cycle-times-container {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+.cycle-times-container h3 {
+margin-bottom: 10px;
+}
+
+.cycle-times-container div {
+margin-bottom: 5px;
+}
+  

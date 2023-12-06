@@ -1,0 +1,7 @@
+<div *ngIf="cycleTimes" class="cycle-times-container">
+    <h3>Cycle Times</h3>
+    <div><strong>Average:</strong> {{ cycleTimes.average_cycle_time | number: '1.2-2' }} days</div>
+    <div><strong>Max:</strong> {{ cycleTimes.max_cycle_time | number: '1.2-2' }} days</div>
+    <div><strong>Min:</strong> {{ cycleTimes.min_cycle_time | number: '1.2-2' }} days</div>
+</div>
+  

@@ -15,10 +15,21 @@ export class ProcessMiningService {
     return this.http.get<EventLog[]>(`${this.apiUrl}/process_mining/event_logs`);
   }
 
-  getTextRepresentation(eventLogId: number, representationType: string): Observable<any> {
+  getProcessRepresentation(eventLogId: number, representationType: 'text' | 'graph' | 'bpmn'): Observable<any> {
     return this.http.post(`${this.apiUrl}/process_mining/discovery`, {
       event_log_id: eventLogId,
       type: representationType
     });
   }
+
+  calculateCycleTimes(eventLogId: number): Observable<any> {
+    return this.http.post(`${this.apiUrl}/calculate_cycle_times`, { event_log_id: eventLogId });
+  }
+
+  // New method to call the bottleneck analysis endpoint
+  analyzeBottlenecks(eventLogId: number): Observable<any> {
+    return this.http.post(`${this.apiUrl}/identify_bottlenecks`, { event_log_id: eventLogId });
+  }
+
+
 }

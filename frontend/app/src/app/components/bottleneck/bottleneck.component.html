@@ -1,0 +1,33 @@
+<div *ngIf="bottlenecks" class="bottlenecks-container">
+    <h3>Bottlenecks</h3>
+
+    <!-- Displaying average waiting times -->
+    <div class="data-section">
+        <h4>Average Waiting Times</h4>
+        <ul>
+            <li *ngFor="let pair of bottlenecks.average_waiting_times | keyvalue">
+                {{ pair.key }}: {{ pair.value | number:'1.0-2' }} seconds
+            </li>
+        </ul>
+    </div>
+
+    <!-- Displaying activity frequencies -->
+    <div class="data-section">
+        <h4>Activity Frequencies</h4>
+        <ul>
+            <li *ngFor="let activity of bottlenecks.activity_frequency | keyvalue">
+                {{ activity.key }}: {{ activity.value }} times
+            </li>
+        </ul>
+    </div>
+
+    <!-- Displaying average activity durations -->
+    <div class="data-section">
+        <h4>Average Activity Durations</h4>
+        <ul>
+            <li *ngFor="let duration of bottlenecks.average_activity_durations | keyvalue">
+                {{ duration.key }}: {{ duration.value | number:'1.0-2' }} seconds
+            </li>
+        </ul>
+    </div>
+</div>

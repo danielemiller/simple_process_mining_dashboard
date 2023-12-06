@@ -2,7 +2,7 @@ from flask import Response, request, jsonify
 from flask_jwt_extended import jwt_required, get_jwt_identity
 from backend.app.services.process_mining_service import ProcessMiningService
 from backend.app.models import EventLog
-import logging, os
+import logging
 
 def register_process_mining_routes(app):
 
@@ -28,14 +28,14 @@ def register_process_mining_routes(app):
     @app.route('/calculate_cycle_times', methods=['POST'])
     def calculate_cycle_times():
         # Assuming the event log is sent in the request
-        event_log = request.json['event_log']
-        cycle_times = ProcessMiningService.calculate_cycle_times(event_log)
+        event_log_id = request.json['event_log_id']
+        cycle_times = ProcessMiningService.calculate_cycle_times(event_log_id)
         return jsonify(cycle_times)
 
     @app.route('/identify_bottlenecks', methods=['POST'])
     def identify_bottlenecks():
-        event_log = request.json['event_log']
-        bottlenecks = ProcessMiningService.identify_bottlenecks(event_log)
+        event_log_id = request.json['event_log_id']
+        bottlenecks = ProcessMiningService.identify_bottlenecks(event_log_id)
         return jsonify(bottlenecks)
 
     

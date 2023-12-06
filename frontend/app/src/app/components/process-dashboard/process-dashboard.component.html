@@ -1,7 +1,23 @@
 <div class="process-dashboard">
-    <button (click)="showEventLogsList = !showEventLogsList">Select Event Log</button>
-    <app-event-logs-list *ngIf="showEventLogsList" (eventLogSelected)="onEventLogSelected($event)"></app-event-logs-list>
-  
-    <!-- Further components that use the selected event log's data can be included here -->
-    <app-process-text-representation [textRepresentation]="textRepresentation"></app-process-text-representation>
+    <!-- Tab controls -->
+    <ul class="tab-list">
+      <li class="tab-list-item" [class.active]="selectedTab === 'text'" (click)="selectTab('text')">Text</li>
+      <li class="tab-list-item" [class.active]="selectedTab === 'graph'" (click)="selectTab('graph')">Graph</li>
+      <li class="tab-list-item" [class.active]="selectedTab === 'bpmn'" (click)="selectTab('bpmn')">BPMN</li>
+    </ul>
+    
+    <!-- Tab content -->
+    <div class="tab-content" *ngIf="selectedTab === 'text'">
+      <!-- Include Text Representation Component Here -->
+      <app-process-text-representation *ngIf="textRepresentation" [textRepresentation]="textRepresentation"></app-process-text-representation>
+    </div>
+    <div class="tab-content" *ngIf="selectedTab === 'graph'">
+      <!-- Include Graph Representation Component Here -->
+      <app-process-graph-representation *ngIf="graphData" [graphData]="graphData"></app-process-graph-representation>
+    </div>
+    <div class="tab-content" *ngIf="selectedTab === 'bpmn'">
+      <!-- Include BPMN Representation Component Here -->
+      <app-process-bpmn-representation *ngIf="bpmnXml" [bpmnXml]="bpmnXml"></app-process-bpmn-representation>
+    </div>
 </div>
+  

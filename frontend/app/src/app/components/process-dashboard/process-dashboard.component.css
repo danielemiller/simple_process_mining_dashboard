@@ -1,0 +1,43 @@
+/* Dashboard Component CSS */
+.process-dashboard {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+
+/* Tab Styles */
+.tab-list {
+    /* Styles for the tab list */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .tab-list-item {
+    /* Styles for each tab list item */
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .tab-list-item.active {
+    /* Styles for the active tab */
+    background-color: #eee;
+    border-bottom: none;
+  }
+  
+  .tab-content {
+    /* Styles for the tab content */
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .hidden {
+    display: none;
+  }

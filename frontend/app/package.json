@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
     "bpmn-js": "^15.2.2",
+    "bpmn-visualization": "^0.42.0",
     "d3": "^7.8.5",
     "d3-graphviz": "^5.2.0",
     "express": "^4.18.2",

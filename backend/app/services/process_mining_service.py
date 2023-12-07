@@ -4,6 +4,7 @@ from pm4py.objects.conversion.log import converter as log_converter
 from pm4py.objects.conversion.process_tree.variants.to_bpmn import apply as pt_converter_apply
 from pm4py.objects.bpmn.exporter import exporter as bpmn_exporter
 from pm4py.objects.bpmn.importer.importer import apply as bpmn_importer_apply
+from pm4py.objects.bpmn.layout.layouter import apply as apply_layout
 from pm4py.algo.discovery.alpha import algorithm as alpha_miner
 from pm4py.visualization.petri_net import visualizer as pn_visualizer
 from pm4py.statistics.traces.generic.log import case_statistics
@@ -72,19 +73,21 @@ class ProcessMiningService:
 
     @staticmethod
     def _bpmn_representation(event_log):
-        # print('entered function')
+        print('entered function')
         process_tree = pm4py.discover_process_tree_inductive(event_log)
-        # print('created event log')
-        # print(process_tree)
+        print('created event log')
+        print(process_tree)
 
         # Convert the process tree to a BPMN model
         bpmn_model = pt_converter_apply(process_tree)
         print(bpmn_model)
+        bpmn_model_with_layout = apply_layout(bpmn_model)
+        print(bpmn_model_with_layout)
 
         # Now, use the bpmn_exporter to export the BPMN model to an XML string
-        bpmn_xml_byte_data = bpmn_exporter.serialize(bpmn_model)
+        bpmn_xml_byte_data = bpmn_exporter.serialize(bpmn_model_with_layout)
         bpmn_xml_string_data = bpmn_xml_byte_data.decode('utf-8')  
-        # print(bpmn_xml_byte_data)
+        print(bpmn_xml_byte_data)
         print(bpmn_xml_string_data)
 
         return bpmn_xml_string_data

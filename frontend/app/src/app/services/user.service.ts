@@ -1,11 +1,14 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
 })
 export class UserService {
   private authUrl = 'http://localhost:5050';
+  private headers = new HttpHeaders({
+    'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+  });
 
   constructor(private http: HttpClient) {}
 
@@ -19,7 +22,7 @@ export class UserService {
 
   logout() {
     localStorage.removeItem('access_token');
-    return this.http.post<any>(`${this.authUrl}/logout`, 'Logging logout action to server.')
+    return this.http.post<any>(`${this.authUrl}/logout`, 'Logging logout action to server.', { headers: this.headers })
   }
 
   refreshToken(refreshToken: string) {

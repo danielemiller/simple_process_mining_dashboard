@@ -8,6 +8,7 @@ import { ProcessGraphRepresentationComponent } from '../process-graph-representa
 import { ProcessTextRepresentationComponent } from '../process-text-representation/process-text-representation.component';
 import { EventLogsListComponent } from '../event-logs-list/event-logs-list.component';
 import { ProcessRepresentationResponse } from '../../models/process-representation-resposnse.model';
+import { SharedDataService } from '../../services/shared-data.service';
 
 @Component({
   selector: 'app-process-dashboard',
@@ -25,11 +26,12 @@ export class ProcessDashboardComponent {
   graphData: any | null = null; // Adjust the type based on your graph data
   bpmnXml: string | null = null;
 
-  constructor(private processMiningService: ProcessMiningService, router: Router) {}
+  constructor(private processMiningService: ProcessMiningService, router: Router, private sharedDataService: SharedDataService) {}
 
   onEventLogSelected(eventLog: EventLog): void {
     this.currentEventLog = eventLog;
     this.resetRepresentations();
+    this.sharedDataService.eventLogId = eventLog.id;
     // Optionally fetch the default representation here if desired
   }
 

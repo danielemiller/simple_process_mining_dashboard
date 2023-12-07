@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterLink, Router } from '@angular/router';
 import { AuthService } from '../../services/auth-service.service';
+import { UserService } from '../../services/user.service';
 
 
 @Component({
@@ -12,11 +13,25 @@ import { AuthService } from '../../services/auth-service.service';
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent {
-  constructor(public authService: AuthService, private router: Router) {}
+  errorMessage = '';  // Variable to store the error message
+
+  constructor(public authService: AuthService, private router: Router, private userService: UserService) {}
 
   logout() {
-    // Logic for logging out (e.g., removing the token)
+    // Remove the token immediately and navigate to login
     localStorage.removeItem('access_token');
     this.router.navigate(['/login']); // Redirect to login page
+  
+    // Optionally notify the server about the logout
+    this.userService.logout().subscribe(
+      data => {
+        // Handle successful server response if needed
+      },
+      error => {
+        // Log the error or handle it if necessary
+        console.error('Error during logout:', error);
+      }
+    );
   }
+  
 }

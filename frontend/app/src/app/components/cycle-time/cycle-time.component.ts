@@ -11,14 +11,16 @@ import { RouterLink, Router } from '@angular/router';
   styleUrl: './cycle-time.component.css'
 })
 export class CycleTimeComponent {
-  @Input() eventLogId?: number;
+  @Input() eventLogId: number | null = null;
 
   cycleTimes: any; // Define a proper type for your data structure
 
   constructor(private processMiningService: ProcessMiningService, private router: Router) {}
-
+  
   ngOnChanges(changes: SimpleChanges): void {
+    console.log('CycleTimeComponent ngOnChanges called', changes);
     if (changes['eventLogId'] && this.eventLogId) {
+      console.log('entered if block')
       this.fetchCycleTimes();
     }
   }

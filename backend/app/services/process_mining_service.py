@@ -20,6 +20,20 @@ from backend.app.extensions import db
 
 
 class ProcessMiningService:
+    @staticmethod
+    def _parse_timestamp(timestamp):
+        """Attempts to parse a timestamp string into a datetime object using multiple known formats."""
+        known_formats = ['%m/%d/%y %H:%M', '%Y-%m-%d %H:%M:%S', '%d-%m-%Y %H:%M:%S', ...]  # Add more formats as needed
+        for fmt in known_formats:
+            try:
+                return pd.to_datetime(timestamp, format=fmt)
+            except ValueError:
+                continue
+        # As a last resort, try to infer the format
+        try:
+            return parser.parse(timestamp)
+        except ValueError:
+            raise ValueError(f"Unable to parse timestamp: {timestamp}")
 
     @staticmethod
     def _fetch_and_process_event_log(event_log_id, upload_folder):
@@ -36,7 +50,6 @@ class ProcessMiningService:
             timestamp_column = event_log.timestamp_column
             case_key_column = event_log.case_key_column
 
-            # Check if the necessary column names are provided
             if not all([activity_column, timestamp_column, case_key_column]):
                 raise ValueError("Column names for activity, timestamp, or case key are missing")
 
@@ -44,12 +57,11 @@ class ProcessMiningService:
             data.rename(columns={
                 activity_column: 'concept:name',
                 timestamp_column: 'time:timestamp',
-                case_key_column: '_CASE_KEY'  # Rename the case key column to '_CASE_KEY'
+                case_key_column: '_CASE_KEY'
             }, inplace=True)
 
-            # Convert 'time:timestamp' to datetime with explicit format if needed
-            # Adjust the format string as per the actual format of your timestamp data
-            data['time:timestamp'] = pd.to_datetime(data['time:timestamp'], format='%Y-%m-%d %H:%M:%S')
+            # Convert 'time:timestamp' to datetime, attempting multiple formats
+            data['time:timestamp'] = data['time:timestamp'].apply(ProcessMiningService._parse_timestamp)
 
             return data
 
@@ -111,8 +123,8 @@ class ProcessMiningService:
     def calculate_cycle_times(event_log_id, upload_folder):
         try:
             data = ProcessMiningService._fetch_and_process_event_log(event_log_id, upload_folder)
-            event_log = log_converter.apply(data, parameters={log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: 'case_id'})
-            durations = case_statistics.get_all_casedurations(event_log, parameters=None)
+            event_log = log_converter.apply(data, parameters={log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: '_CASE_KEY'})
+            durations = case_statistics.get_all_case_durations(event_log, parameters=None)
             average_duration = sum(durations) / len(durations)
             return {
                 "average_cycle_time": average_duration,
@@ -127,7 +139,7 @@ class ProcessMiningService:
     def analyze_bottlenecks(event_log_id, upload_folder):
         try:
             data = ProcessMiningService._fetch_and_process_event_log(event_log_id, upload_folder)
-            event_log = log_converter.apply(data, parameters={log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: 'case_id'})
+            event_log = log_converter.apply(data, parameters={log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: '_CASE_KEY'})
             
             activity_frequency = defaultdict(int)
             waiting_times = defaultdict(list)
@@ -151,10 +163,15 @@ class ProcessMiningService:
                             duration = (end_time_current - start_time_current).total_seconds()
                             activity_durations[current_activity].append(duration)
 
-            average_waiting_times = {act_pair: sum(times) / len(times) for act_pair, times in waiting_times.items()}
-            average_activity_durations = {act: sum(durations) / len(durations) for act, durations in activity_durations.items()}
+            # Convert tuple keys to string keys
+            average_waiting_times = {' -> '.join(act_pair): sum(times) / len(times) if times else 0 for act_pair, times in waiting_times.items()}
+            average_activity_durations = {act: sum(durations) / len(durations) if durations else 0 for act, durations in activity_durations.items()}
 
-            return activity_frequency, average_waiting_times, average_activity_durations
+            return {
+                "activity_frequency": dict(activity_frequency),
+                "average_waiting_times": average_waiting_times,
+                "average_activity_durations": average_activity_durations
+            }
         except Exception as e:
             logging.error(f"Error analyzing bottlenecks: {e}")
             raise

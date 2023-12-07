@@ -12,7 +12,7 @@ import { BottleneckData } from '../../models/bottleneck-data.model';
   styleUrl: './bottleneck.component.css'
 })
 export class BottleneckComponent implements OnChanges {
-  @Input() eventLogId?: number;
+  @Input() eventLogId: number | null = null;
   bottlenecks?: BottleneckData; 
 
   constructor(private processMiningService: ProcessMiningService, private router: Router) {}

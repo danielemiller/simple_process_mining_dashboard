@@ -12,15 +12,9 @@ import { graphviz } from 'd3-graphviz';
   styleUrl: './process-graph-representation.component.css'
 })
 export class ProcessGraphRepresentationComponent implements AfterViewInit {
-  @Input() graphData!: string; // DOT format string
-
-  constructor(private router: Router) {}
+  @Input() graphData: string | null = null; // Expecting DOT format string
 
   ngAfterViewInit() {
-    this.renderGraph();
-  }
-
-  renderGraph() {
     if (this.graphData) {
       graphviz('#graph').renderDot(this.graphData);
     }

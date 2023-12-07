@@ -21,7 +21,8 @@ export class EventLogsListComponent implements OnInit {
 
   ngOnInit() {
     this.processMiningService.getEventLogs().subscribe(
-      (data: EventLog[]) => { // Replace 'any' with the appropriate type
+      (data: EventLog[]) => { 
+        console.log(data);
         this.eventLogs = data;
       },
       (error: any) => {

@@ -11,28 +11,51 @@ import BpmnViewer from 'bpmn-js';
   styleUrl: './process-bpmn-representation.component.css'
 })
 export class ProcessBpmnRepresentationComponent implements AfterViewInit {
-  @Input() bpmnXml?: string; // BPMN XML string from the backend
-  @ViewChild('canvas') private canvasRef?: ElementRef;
+  @Input() bpmnXml?: string;
+  @ViewChild('canvas') private canvasRef!: ElementRef;
 
-  private viewer: BpmnViewer;
-  
-  constructor(router: Router) {
-    this.viewer = new BpmnViewer({ container: '#canvas' });
-  }
+  private viewer?: BpmnViewer;
 
-  ngAfterViewInit() {
+  constructor() { }
+
+  ngAfterViewInit(): void {
+    this.viewer = new BpmnViewer({ container: this.canvasRef.nativeElement });
     this.renderBpmn();
   }
 
-  renderBpmn() {
+  renderBpmn(): void {
+    console.log('Attempting to render BPMN.');
+  
+    // Log the XML content that you are trying to import.
     if (this.bpmnXml) {
-      this.viewer.importXML(this.bpmnXml, (err) => {
+      console.log('BPMN XML:', this.bpmnXml);
+    } else {
+      console.warn('No BPMN XML provided.');
+      return; // Exit if there is no XML to render.
+    }
+  
+    // Ensure the viewer is initialized before attempting to import XML.
+    if (this.viewer) {
+      console.log('Viewer is initialized, importing XML...');
+      this.viewer.importXML(this.bpmnXml, (err, warnings) => {
         if (err) {
-          console.error('Error rendering BPMN', err);
+          console.error('Failed to import BPMN XML', err);
         } else {
-          this.viewer.get('canvas').zoom('fit-viewport');
+          console.log('BPMN XML imported successfully.', warnings);
+          // Log any warnings that might have occurred during import.
+          if (warnings) {
+            console.warn('Import warnings:', warnings);
+          }
+          // Attempt to zoom the canvas to fit the viewport and log any potential errors.
+          try {
+            this.viewer?.get('canvas').zoom('fit-viewport');
+          } catch (zoomErr) {
+            console.error('Failed to zoom BPMN canvas', zoomErr);
+          }
         }
       });
+    } else {
+      console.error('Viewer is not initialized.');
     }
   }
 }

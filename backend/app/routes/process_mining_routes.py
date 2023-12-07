@@ -21,7 +21,8 @@ def register_process_mining_routes(app):
                 return jsonify({'graph_representation': results})
             elif representation_type == 'bpmn':
                 # Returning BPMN XML as plain text; frontend should handle rendering
-                return Response(results, mimetype='application/xml')
+                # return Response(results, mimetype='application/xml')
+                return jsonify({'bpmn': results})
         except Exception as e:
             return jsonify({'error': str(e)}), 500
         
@@ -40,7 +41,7 @@ def register_process_mining_routes(app):
 
     
     @app.route('/process_mining/event_logs', methods=['GET'])
-    @jwt_required
+    @jwt_required()
     def get_event_logs():
         try:
             # Get the current user's identity from the JWT

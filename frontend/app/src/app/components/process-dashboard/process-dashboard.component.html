@@ -1,23 +1,29 @@
 <div class="process-dashboard">
-    <!-- Tab controls -->
-    <ul class="tab-list">
-      <li class="tab-list-item" [class.active]="activeTab === 'text'" (click)="selectTab('text')">Text</li>
-      <li class="tab-list-item" [class.active]="activeTab === 'graph'" (click)="selectTab('graph')">Graph</li>
-      <li class="tab-list-item" [class.active]="activeTab === 'bpmn'" (click)="selectTab('bpmn')">BPMN</li>
-    </ul>
+    <button (click)="showEventLogsList = !showEventLogsList">Select Event Log</button>
+    <app-event-logs-list *ngIf="showEventLogsList" (eventLogSelected)="onEventLogSelected($event)"></app-event-logs-list>
     
-    <!-- Tab content -->
-    <div class="tab-content" *ngIf="activeTab === 'text'">
-      <!-- Include Text Representation Component Here -->
-      <app-process-text-representation *ngIf="textRepresentation" [textRepresentation]="textRepresentation"></app-process-text-representation>
+    <div *ngIf="currentEventLog">
+      <!-- Tab controls -->
+      <ul class="tab-list">
+        <li class="tab-list-item" [class.active]="activeTab === 'text'" (click)="selectTab('text')">Text</li>
+        <li class="tab-list-item" [class.active]="activeTab === 'graph'" (click)="selectTab('graph')">Graph</li>
+        <li class="tab-list-item" [class.active]="activeTab === 'bpmn'" (click)="selectTab('bpmn')">BPMN</li>
+      </ul>
+      
+      <!-- Tab content -->
+      <div class="tab-content" *ngIf="activeTab === 'text'">
+        <!-- Include Text Representation Component Here -->
+        <app-process-text-representation *ngIf="textRepresentation" [textRepresentation]="textRepresentation"></app-process-text-representation>
+      </div>
+      <div class="tab-content" *ngIf="activeTab === 'graph'">
+        <!-- Include Graph Representation Component Here -->
+        <app-process-graph-representation *ngIf="graphData" [graphData]="graphData"></app-process-graph-representation>
+      </div>
+      <div class="tab-content" *ngIf="activeTab === 'bpmn'">
+        <!-- Include BPMN Representation Component Here -->
+        <app-process-bpmn-representation *ngIf="bpmnXml" [bpmnXml]="bpmnXml"></app-process-bpmn-representation>
+      </div>
     </div>
-    <div class="tab-content" *ngIf="activeTab === 'graph'">
-      <!-- Include Graph Representation Component Here -->
-      <app-process-graph-representation *ngIf="graphData" [graphData]="graphData"></app-process-graph-representation>
-    </div>
-    <div class="tab-content" *ngIf="activeTab === 'bpmn'">
-      <!-- Include BPMN Representation Component Here -->
-      <app-process-bpmn-representation *ngIf="bpmnXml" [bpmnXml]="bpmnXml"></app-process-bpmn-representation>
-    </div>
+    
 </div>
   

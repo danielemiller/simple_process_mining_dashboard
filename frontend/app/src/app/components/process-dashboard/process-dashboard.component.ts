@@ -7,6 +7,7 @@ import { ProcessBpmnRepresentationComponent } from '../process-bpmn-representati
 import { ProcessGraphRepresentationComponent } from '../process-graph-representation/process-graph-representation.component';
 import { ProcessTextRepresentationComponent } from '../process-text-representation/process-text-representation.component';
 import { EventLogsListComponent } from '../event-logs-list/event-logs-list.component';
+import { ProcessRepresentationResponse } from '../../models/process-representation-resposnse.model';
 
 @Component({
   selector: 'app-process-dashboard',
@@ -18,6 +19,7 @@ import { EventLogsListComponent } from '../event-logs-list/event-logs-list.compo
 export class ProcessDashboardComponent {
   currentEventLog: EventLog | null = null;
   activeTab: 'text' | 'graph' | 'bpmn' | null = null;
+  showEventLogsList: boolean = false;
 
   textRepresentation: string | null = null;
   graphData: any | null = null; // Adjust the type based on your graph data
@@ -52,18 +54,21 @@ export class ProcessDashboardComponent {
   fetchRepresentation(type: 'text' | 'graph' | 'bpmn'): void {
     if (this.currentEventLog) {
       this.processMiningService.getProcessRepresentation(this.currentEventLog.id, type)
-        .subscribe(data => {
+        .subscribe((data: ProcessRepresentationResponse) => {
           switch (type) {
             case 'text':
-              this.textRepresentation = data['text_representation'];
+              this.textRepresentation = data['text_representation'] ?? null;
               break;
             case 'graph':
-              this.graphData = data['graph_representation'];
+              this.graphData = data['graph_representation'] ?? null;
               break;
             case 'bpmn':
-              this.bpmnXml = data['bpmn_representation'];
+              this.bpmnXml = data['bpmn'] ?? null;
               break;
           }
+          console.log(this.bpmnXml)
+          console.log(data);
+
         }, error => {
           console.error(`Error fetching ${type} representation:`, error);
         });

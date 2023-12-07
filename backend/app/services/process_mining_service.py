@@ -1,17 +1,22 @@
 import pm4py
 from pm4py.objects.conversion.log import converter as log_converter
-from pm4py.objects.log.util import dataframe_utils
-from pm4py.objects.conversion.process_tree import converter as pt_converter
+# from pm4py.objects.conversion.process_tree import converter as pt_converter
+from pm4py.objects.conversion.process_tree.variants.to_bpmn import apply as pt_converter_apply
 from pm4py.objects.bpmn.exporter import exporter as bpmn_exporter
+from pm4py.objects.bpmn.importer.importer import apply as bpmn_importer_apply
 from pm4py.algo.discovery.alpha import algorithm as alpha_miner
 from pm4py.visualization.petri_net import visualizer as pn_visualizer
 from pm4py.statistics.traces.generic.log import case_statistics
+from bpmn_python.bpmn_diagram_rep import BpmnDiagramGraph
+from bpmn_python.bpmn_diagram_layouter import generate_layout
+import xml.etree.ElementTree as ET
 from datetime import datetime
 from collections import defaultdict
-import pandas as pd
-import logging, os
+from io import BytesIO
+import logging, os, io, pandas as pd, tempfile
 from backend.app.models import EventLog
 from backend.app.extensions import db
+
 
 class ProcessMiningService:
 
@@ -24,7 +29,13 @@ class ProcessMiningService:
         file_path = os.path.join(upload_folder, event_log.filename)
         with open(file_path, 'rb') as file:
             data = pd.read_csv(file)
-            data = dataframe_utils.convert_timestamp_columns_in_df(data)
+
+            # Rename columns to match pm4py expectations
+            data.rename(columns={'ACTIVITY_EN': 'concept:name', 'EVENTTIME': 'time:timestamp'}, inplace=True)
+
+            # Convert 'time:timestamp' to datetime with explicit format if needed
+            data['time:timestamp'] = pd.to_datetime(data['time:timestamp'], format='%m/%d/%y %H:%M')
+
             return data
 
     @staticmethod
@@ -32,7 +43,7 @@ class ProcessMiningService:
         try:
             data = ProcessMiningService._fetch_and_process_event_log(event_log_id, upload_folder)
             data = data.sort_values('time:timestamp')
-            parameters = {log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: 'case_id'}
+            parameters = {log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: '_CASE_KEY'}
             event_log = log_converter.apply(data, parameters=parameters, variant=log_converter.Variants.TO_EVENT_LOG)
             process_model, initial_marking, final_marking = alpha_miner.apply(event_log)
 
@@ -46,6 +57,7 @@ class ProcessMiningService:
             logging.error(f"Error during process discovery: {e}")
             raise
 
+
     @staticmethod
     def _text_representation(process_model):
         return str(process_model)
@@ -53,14 +65,30 @@ class ProcessMiningService:
     @staticmethod
     def _graph_representation(process_model, initial_marking, final_marking):
         gviz = pn_visualizer.apply(process_model, initial_marking, final_marking)
-        return pn_visualizer.serialize(gviz)
+        
+        # Extract the DOT string from gviz
+        dot_string = gviz.source
+        return dot_string
 
     @staticmethod
     def _bpmn_representation(event_log):
+        # print('entered function')
         process_tree = pm4py.discover_process_tree_inductive(event_log)
-        bpmn_model = pt_converter.apply(process_tree)
-        bpmn_xml = bpmn_exporter.apply_to_string(bpmn_model)
-        return bpmn_xml
+        # print('created event log')
+        # print(process_tree)
+
+        # Convert the process tree to a BPMN model
+        bpmn_model = pt_converter_apply(process_tree)
+        print(bpmn_model)
+
+        # Now, use the bpmn_exporter to export the BPMN model to an XML string
+        bpmn_xml_byte_data = bpmn_exporter.serialize(bpmn_model)
+        bpmn_xml_string_data = bpmn_xml_byte_data.decode('utf-8')  
+        # print(bpmn_xml_byte_data)
+        print(bpmn_xml_string_data)
+
+        return bpmn_xml_string_data
+
 
     @staticmethod
     def calculate_cycle_times(event_log_id, upload_folder):

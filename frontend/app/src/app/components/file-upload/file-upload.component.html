@@ -19,3 +19,16 @@
       {{ uploadMessage }}
     </div>
 </div>
+
+<!-- Modal for Column Names -->
+<div *ngIf="showColumnModal" class="modal">
+  <form (ngSubmit)="onModalSubmit()">
+    <label>Activity Column Name:</label>
+    <input type="text" [(ngModel)]="userDefinedColumns.activityColumn" name="activityColumn">
+    <label>Timestamp Column Name:</label>
+    <input type="text" [(ngModel)]="userDefinedColumns.timestampColumn" name="timestampColumn">
+    <label>Case Key Column Name:</label>
+    <input type="text" [(ngModel)]="userDefinedColumns.caseKeyColumn" name="caseKeyColumn">
+    <button type="submit">Submit</button>
+  </form>
+</div>

@@ -17,6 +17,8 @@ export class FileUploadComponent {
   uploadProgress: number = 0;
   uploadMessage = '';
   errorMessage = '';
+  showColumnModal = false;
+  userDefinedColumns = { activityColumn: '', timestampColumn: '', caseKeyColumn: '' }; // Added caseKeyColumn
 
   constructor(private fileService: FileService, private router: Router) {}
 
@@ -29,7 +31,13 @@ export class FileUploadComponent {
       }
       this.selectedFiles.push(file);
     }
+    this.showColumnModal = true; // Show column modal
     this.errorMessage = ''; // Clear previous error message
+  }
+
+  onModalSubmit() {
+    this.showColumnModal = false;
+    this.uploadFiles();
   }
 
   uploadFiles() {
@@ -39,7 +47,8 @@ export class FileUploadComponent {
     }
 
     this.selectedFiles.forEach(file => {
-      this.fileService.uploadFile(file)?.subscribe(
+      // Pass the additional parameters to the uploadFile method
+      this.fileService.uploadFile(file, this.userDefinedColumns.activityColumn, this.userDefinedColumns.timestampColumn, this.userDefinedColumns.caseKeyColumn).subscribe(
         event => {
           if (event.type === HttpEventType.UploadProgress && event.total) {
             this.uploadProgress = Math.round(100 * event.loaded / event.total);
@@ -50,7 +59,7 @@ export class FileUploadComponent {
         error => {
           this.errorMessage = 'Failed to upload file.';
         }
-      )
+      );
     });
   }
 }

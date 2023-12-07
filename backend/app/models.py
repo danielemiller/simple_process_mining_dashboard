@@ -18,3 +18,6 @@ class EventLog(db.Model):
     filename = db.Column(db.String(100), nullable=False)
     date_uploaded = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    activity_column = db.Column(db.String(100))  
+    timestamp_column = db.Column(db.String(100))  
+    case_key_column = db.Column(db.String(100))  

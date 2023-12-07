@@ -31,11 +31,25 @@ class ProcessMiningService:
         with open(file_path, 'rb') as file:
             data = pd.read_csv(file)
 
-            # Rename columns to match pm4py expectations
-            data.rename(columns={'ACTIVITY_EN': 'concept:name', 'EVENTTIME': 'time:timestamp'}, inplace=True)
+            # Retrieve column names from the event log entry in the database
+            activity_column = event_log.activity_column
+            timestamp_column = event_log.timestamp_column
+            case_key_column = event_log.case_key_column
+
+            # Check if the necessary column names are provided
+            if not all([activity_column, timestamp_column, case_key_column]):
+                raise ValueError("Column names for activity, timestamp, or case key are missing")
+
+            # Dynamically rename columns based on values from the database
+            data.rename(columns={
+                activity_column: 'concept:name',
+                timestamp_column: 'time:timestamp',
+                case_key_column: '_CASE_KEY'  # Rename the case key column to '_CASE_KEY'
+            }, inplace=True)
 
             # Convert 'time:timestamp' to datetime with explicit format if needed
-            data['time:timestamp'] = pd.to_datetime(data['time:timestamp'], format='%m/%d/%y %H:%M')
+            # Adjust the format string as per the actual format of your timestamp data
+            data['time:timestamp'] = pd.to_datetime(data['time:timestamp'], format='%Y-%m-%d %H:%M:%S')
 
             return data
 

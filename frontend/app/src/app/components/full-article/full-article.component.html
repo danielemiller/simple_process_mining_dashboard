@@ -1,0 +1,4 @@
+<div *ngIf="article" class="full-article-container">
+    <markdown [data]="article.content"></markdown>
+    <footer>Last updated: {{ article.updated }}</footer>
+</div>

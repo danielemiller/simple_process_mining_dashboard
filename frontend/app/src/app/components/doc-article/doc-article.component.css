@@ -1,0 +1,36 @@
+.doc-article {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid #eaecef;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.doc-article:last-child {
+    border-bottom: none;
+}
+
+.doc-article h2 {
+    font-size: 1.75em;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.doc-article p {
+    font-size: 1em;
+    color: #555;
+}
+
+.doc-article a.read-more {
+    font-size: 0.9em;
+    color: #3498db;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.doc-article a.read-more:hover {
+    text-decoration: underline;
+}

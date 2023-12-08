@@ -1,5 +1,7 @@
 <article class="doc-article">
     <h2>{{ article.title }}</h2>
-    <markdown [data]="article.content"></markdown>
+    <markdown [data]="previewContent"></markdown>
+    
+    <a (click)="readMore(article)">Read More</a>
     <footer>Last updated: {{ article.updated }}</footer>
 </article>

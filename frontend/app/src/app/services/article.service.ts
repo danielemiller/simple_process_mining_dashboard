@@ -15,4 +15,11 @@ export class ArticleService {
   getArticles(): Observable<Article[]> {
     return this.http.get<Article[]>(`${this.apiUrl}/articles`);
   }
+
+  
+  getArticleById(id: string): Observable<Article> {
+    return this.http.get<Article>(`${this.apiUrl}/articles/${id}`);
+  }
+
 }
+

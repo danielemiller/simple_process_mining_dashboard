@@ -15,7 +15,6 @@ def register_docs_routes(app):
         return jsonify([article.to_dict() for article in articles])
     
     @app.route('/docs/initialcommit', methods=['GET'])
-    @app.route('/docs/initialcommit', methods=['GET'])
     def commit_first_articles():
         print('starting function')    
         # Iterate over the article_contents dictionary and insert each article into the database
@@ -38,3 +37,11 @@ def register_docs_routes(app):
         except Exception as e:
             db.session.rollback()
             return jsonify({'error': 'Failed to add articles'}), 500  # Return an error message
+        
+    @app.route('/docs/articles/<article_id>', methods=['GET'])
+    def get_article(article_id):
+        article = Article.query.get(article_id)
+        if article:
+            return jsonify(article.to_dict())
+        else:
+            return jsonify({'error': 'Article not found'}), 404

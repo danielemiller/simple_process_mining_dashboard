@@ -1,5 +1,7 @@
-<div class="process-dashboard">
-    <button (click)="showEventLogsList = !showEventLogsList">Select Event Log</button>
+<div class="process-dashboard my-3">
+    <button class="btn btn-primary mb-2" (click)="showEventLogsList = !showEventLogsList">
+      {{ showEventLogsList ? 'Hide Event Logs' : 'Select Event Logs' }}
+    </button>
     <app-event-logs-list *ngIf="showEventLogsList" (eventLogSelected)="onEventLogSelected($event)"></app-event-logs-list>
     
     <div *ngIf="currentEventLog">

@@ -10,7 +10,7 @@
     <div class="navbar-start">
       <a class="navbar-item" [routerLink]="'/'">Home</a>
       <a class="navbar-item" [routerLink]="'/about'">About</a>
-      <a class="navbar-item" [routerLink]="'/contact'">Contact</a>
+      <a class="navbar-item" [routerLink]="'/docs'">Docs</a>
 
       <!-- Links for Logged-in Users -->
       <a *ngIf="authService.isLoggedIn()" class="navbar-item" [routerLink]="'/dashboard'">Process Dashboard</a>

@@ -1,0 +1,54 @@
+/* Home Component CSS */
+.home-container {
+    padding: 20px;
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    background-size: cover;
+    background-position: center;
+    color: #333; /* Adjust color to suit your hero background */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+.home-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em; /* Reduced to tighten up the header */
+}
+
+.home-container p {
+    font-size: 1.2em;
+    color: #333; /* Adjust color to suit your hero background */
+    margin-bottom: 1em; /* Added to give space above the features */
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap; /* Wrap the children to manage smaller screens */
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.features section {
+    flex: 1; /* Allow sections to grow */
+    margin: 10px; /* Added margin for spacing */
+    min-width: 250px; /* Minimum width for smaller screens */
+}
+
+.features section img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    display: block; /* Ensure it's a block to manage width */
+}
+
+.features h2 {
+    font-size: 1.5em;
+    color: #333; /* Adjust color to suit your hero background */
+    margin-bottom: 0.25em; /* Added for spacing */
+}
+
+.features p {
+    font-size: 1em;
+    color: #333; /* Adjust color to suit your hero background */
+}

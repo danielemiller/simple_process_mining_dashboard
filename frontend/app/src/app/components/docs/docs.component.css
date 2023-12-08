@@ -1,0 +1,21 @@
+.docs-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+.docs-container h1 {
+font-size: 2.5em;
+margin-bottom: 20px;
+}
+
+.docs-container p {
+font-size: 1.2em;
+color: #555;
+}
+
+.documentation-links {
+margin-top: 40px;
+/* Additional styles for documentation links */
+}
+  

@@ -2,4 +2,20 @@
     margin-top: 20px;
     border-top: 1px solid #ccc;
     padding-top: 20px;
-}
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .btn-primary.mb-2 {
+    margin-bottom: 0.5rem;
+  }

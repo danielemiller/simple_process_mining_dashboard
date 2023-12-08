@@ -20,6 +20,10 @@ export class ProcessMiningService {
     return this.http.get<EventLog[]>(`${this.apiUrl}/process_mining/event_logs`, { headers: this.headers });
   }
 
+  deleteEventLog(eventLogId: number): Observable<any> {
+    return this.http.delete(`${this.apiUrl}/process_mining/event_logs/${eventLogId}`, { headers: this.headers });
+  }
+
   getProcessRepresentation(eventLogId: number, representationType: 'text' | 'graph' | 'bpmn'): Observable<any> {
     return this.http.post<any>(`${this.apiUrl}/process_mining/discovery`, {
       event_log_id: eventLogId,

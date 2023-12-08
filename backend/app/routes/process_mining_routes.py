@@ -2,6 +2,7 @@ from flask import Response, request, jsonify
 from flask_jwt_extended import jwt_required, get_jwt_identity
 from backend.app.services.process_mining_service import ProcessMiningService
 from backend.app.models import EventLog
+from backend.app.extensions import db
 import logging
 
 def register_process_mining_routes(app):
@@ -57,6 +58,18 @@ def register_process_mining_routes(app):
         except Exception as e:
             # Handle exceptions
             logging.error(f"Error fetching event logs: {e}")
+            return jsonify({'error': str(e)}), 500
+        
+    @app.route('/process_mining/event_logs/<int:event_log_id>', methods=['DELETE'])
+    @jwt_required()
+    def delete_event_log(event_log_id):
+        try:
+            event_log = EventLog.query.get_or_404(event_log_id)
+            db.session.delete(event_log)
+            db.session.commit()
+            return jsonify({'message': f'Event log {event_log_id} deleted successfully'}), 200
+        except Exception as e:
+            logging.error(f"Error deleting event log: {e}")
             return jsonify({'error': str(e)}), 500
 
     

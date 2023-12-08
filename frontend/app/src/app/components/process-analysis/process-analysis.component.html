@@ -1,4 +1,8 @@
-<div class="process-analysis">
+<div class="process-analysis my-3">
+    <button class="btn btn-primary mb-2" (click)="showEventLogsList = !showEventLogsList">
+        {{ showEventLogsList ? 'Hide Event Logs' : 'Select Event Logs' }}
+    </button>
+    <app-event-logs-list *ngIf="showEventLogsList" (eventLogSelected)="onEventLogSelected($event)"></app-event-logs-list>
     <app-cycle-time [eventLogId]="eventLogId"></app-cycle-time>
     <app-bottleneck [eventLogId]="eventLogId"></app-bottleneck>
 </div>

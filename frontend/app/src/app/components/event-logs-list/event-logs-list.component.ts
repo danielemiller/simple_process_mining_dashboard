@@ -37,4 +37,12 @@ export class EventLogsListComponent implements OnInit {
     // Here you could emit an event or call another service to inform other parts of your application that a new event log has been selected.
     console.log(`Selected event log: ${eventLog.filename}`);
   }
+
+  deleteEventLog(eventLogId: number, event: MouseEvent): void {
+    event.stopPropagation(); // Prevents the selectEventLog from firing
+    this.processMiningService.deleteEventLog(eventLogId).subscribe(() => {
+      this.eventLogs = this.eventLogs.filter(log => log.id !== eventLogId);
+    });
+  }
+  
 }

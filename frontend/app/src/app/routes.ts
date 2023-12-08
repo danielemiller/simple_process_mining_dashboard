@@ -5,6 +5,9 @@ import { FileUploadComponent } from './components/file-upload/file-upload.compon
 import { ProcessDashboardComponent } from './components/process-dashboard/process-dashboard.component';
 import { ProcessAnalysisComponent } from './components/process-analysis/process-analysis.component';
 import { AuthGuard } from './guards/auth.guard';
+import { HomeComponent } from './components/home/home.component';
+import { AboutComponent } from './components/about/about.component';
+import { DocsComponent } from './components/docs/docs.component';
 
 export const routes: Route[] = [
   { path: 'login', component: LoginComponent },
@@ -12,5 +15,8 @@ export const routes: Route[] = [
   { path: 'upload', component: FileUploadComponent, canActivate: [AuthGuard] },
   { path: 'dashboard', component: ProcessDashboardComponent, canActivate: [AuthGuard] },
   { path: 'analytics', component: ProcessAnalysisComponent, canActivate: [AuthGuard] },
-  { path: '', redirectTo: '/login', pathMatch: 'full' }
+  {path: 'home', component: HomeComponent},
+  {path: 'about', component: AboutComponent},
+  {path: 'docs', component: DocsComponent},
+  { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];

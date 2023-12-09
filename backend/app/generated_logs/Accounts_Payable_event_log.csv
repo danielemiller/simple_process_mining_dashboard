@@ -1,0 +1,2667 @@
+Event ID,Case ID,Activity,Timestamp
+event_0_4,case_0,Process Vendor Queries,2023-01-17 04:51:15.900114
+event_0_7,case_0,Archive Documentation,2023-01-28 01:43:13.297696
+event_0_1,case_0,Receive Invoice,2023-04-29 02:07:33.111585
+event_0_6,case_0,Authorize Expenditure,2023-08-23 15:56:54.414657
+event_0_3,case_0,Execute Payment,2023-09-13 22:53:44.583014
+event_0_2,case_0,Approve Payment,2023-10-10 05:33:26.287290
+event_0_5,case_0,Maintain Vendor Accounts,2023-10-28 14:10:05.103752
+event_0_8,case_0,Generate Financial Reports,2023-11-11 06:34:21.656066
+event_1_3,case_1,Reconcile Accounts,2023-04-28 23:27:26.552143
+event_1_1,case_1,Receive Invoice,2023-06-19 03:49:20.738526
+event_1_7,case_1,Perform Audit Trails,2023-07-18 23:54:37.429583
+event_1_5,case_1,Maintain Vendor Accounts,2023-07-29 10:58:03.244304
+event_1_4,case_1,Process Vendor Queries,2023-09-14 12:29:12.054303
+event_1_2,case_1,Approve Payment,2023-10-03 19:51:46.250709
+event_1_8,case_1,Conduct Periodic Reviews,2023-11-28 07:18:24.012119
+event_1_6,case_1,Resolve Discrepancies,2023-12-04 09:37:18.428139
+event_10_7,case_10,Perform Audit Trails,2023-01-31 09:40:37.593871
+event_10_2,case_10,Validate Invoice,2023-04-06 21:50:06.469748
+event_10_3,case_10,Execute Payment,2023-04-14 18:29:50.077035
+event_10_8,case_10,Conduct Periodic Reviews,2023-05-26 00:16:30.908403
+event_10_4,case_10,Process Vendor Queries,2023-06-24 16:27:45.272491
+event_10_6,case_10,Authorize Expenditure,2023-09-12 09:10:32.712136
+event_10_5,case_10,Maintain Vendor Accounts,2023-09-26 19:03:12.040179
+event_10_1,case_10,Receive Invoice,2023-12-07 18:33:58.294882
+event_100_5,case_100,Update Ledger,2023-01-23 01:48:48.089162
+event_100_3,case_100,Execute Payment,2023-03-14 09:49:20.627023
+event_100_4,case_100,Verify Transaction Compliance,2023-05-06 12:45:22.911015
+event_100_7,case_100,Archive Documentation,2023-05-07 18:09:45.918582
+event_100_6,case_100,Authorize Expenditure,2023-05-26 20:33:28.811426
+event_100_8,case_100,Generate Financial Reports,2023-06-10 13:00:10.232188
+event_100_2,case_100,Approve Payment,2023-09-14 07:30:18.734477
+event_100_1,case_100,Receive Invoice,2023-11-21 09:03:18.205860
+event_101_6,case_101,Authorize Expenditure,2023-01-07 23:52:41.224847
+event_101_7,case_101,Archive Documentation,2023-02-20 12:34:13.306285
+event_101_4,case_101,Process Vendor Queries,2023-03-23 18:20:36.850524
+event_101_3,case_101,Execute Payment,2023-03-29 16:36:51.029163
+event_101_2,case_101,Validate Invoice,2023-04-13 14:02:49.268742
+event_101_2,case_101,Execute Payment,2023-06-11 00:26:30.769560
+event_101_4,case_101,Verify Transaction Compliance,2023-06-18 19:13:52.731840
+event_101_3,case_101,Reconcile Accounts,2023-07-23 03:46:43.126604
+event_101_5,case_101,Maintain Vendor Accounts,2023-08-13 01:04:04.101459
+event_101_1,case_101,Receive Invoice,2023-09-22 09:02:13.264145
+event_101_8,case_101,Conduct Periodic Reviews,2023-10-13 07:06:44.862927
+event_101_5,case_101,Update Ledger,2023-10-23 08:39:00.807717
+event_102_2,case_102,Approve Payment,2023-03-13 21:50:12.631852
+event_102_8,case_102,Generate Financial Reports,2023-05-09 20:04:30.377503
+event_102_7,case_102,Perform Audit Trails,2023-06-06 17:54:08.726204
+event_102_4,case_102,Verify Transaction Compliance,2023-07-14 03:45:35.024945
+event_102_4,case_102,Process Vendor Queries,2023-08-09 03:09:24.926174
+event_102_5,case_102,Maintain Vendor Accounts,2023-08-14 11:47:13.000931
+event_102_6,case_102,Authorize Expenditure,2023-08-15 01:24:16.663430
+event_102_1,case_102,Receive Invoice,2023-11-01 13:15:18.703953
+event_102_3,case_102,Reconcile Accounts,2023-11-08 18:55:37.912657
+event_103_7,case_103,Perform Audit Trails,2023-01-03 18:05:33.814474
+event_103_2,case_103,Validate Invoice,2023-03-23 11:27:02.644650
+event_103_4,case_103,Process Vendor Queries,2023-04-05 16:05:20.530911
+event_103_1,case_103,Receive Invoice,2023-04-06 23:54:06.675625
+event_103_6,case_103,Resolve Discrepancies,2023-05-21 08:52:27.738100
+event_103_5,case_103,Update Ledger,2023-06-19 16:42:55.956177
+event_103_3,case_103,Reconcile Accounts,2023-07-21 21:17:15.465184
+event_103_8,case_103,Generate Financial Reports,2023-07-23 20:32:48.440623
+event_103_4,case_103,Verify Transaction Compliance,2023-09-01 00:20:09.679407
+event_103_5,case_103,Maintain Vendor Accounts,2023-09-15 02:20:00.580052
+event_104_6,case_104,Authorize Expenditure,2023-03-28 05:12:08.968285
+event_104_8,case_104,Conduct Periodic Reviews,2023-04-06 06:35:57.453242
+event_104_7,case_104,Archive Documentation,2023-04-27 11:40:15.878926
+event_104_2,case_104,Validate Invoice,2023-07-17 19:48:19.769598
+event_104_2,case_104,Approve Payment,2023-08-04 01:18:51.172990
+event_104_4,case_104,Process Vendor Queries,2023-08-17 16:35:54.537614
+event_104_5,case_104,Maintain Vendor Accounts,2023-10-08 21:54:31.477539
+event_104_3,case_104,Reconcile Accounts,2023-11-05 06:42:37.625141
+event_104_1,case_104,Receive Invoice,2023-11-23 07:01:14.423762
+event_105_3,case_105,Reconcile Accounts,2023-01-04 18:53:07.756840
+event_105_5,case_105,Update Ledger,2023-02-15 06:55:52.169755
+event_105_8,case_105,Generate Financial Reports,2023-02-19 20:46:32.062779
+event_105_4,case_105,Process Vendor Queries,2023-05-02 00:37:32.128789
+event_105_4,case_105,Verify Transaction Compliance,2023-05-27 17:23:05.498585
+event_105_6,case_105,Resolve Discrepancies,2023-07-15 19:25:27.456350
+event_105_2,case_105,Validate Invoice,2023-08-26 02:24:14.552548
+event_105_1,case_105,Receive Invoice,2023-09-17 05:10:02.228081
+event_105_7,case_105,Archive Documentation,2023-10-18 17:11:48.971678
+event_105_5,case_105,Update Ledger,2023-11-04 08:38:49.729380
+event_106_6,case_106,Authorize Expenditure,2023-01-19 23:16:30.818089
+event_106_5,case_106,Update Ledger,2023-02-01 10:48:07.771771
+event_106_2,case_106,Approve Payment,2023-03-04 06:34:24.122972
+event_106_7,case_106,Perform Audit Trails,2023-05-09 23:13:30.261039
+event_106_1,case_106,Receive Invoice,2023-06-04 05:50:41.194368
+event_106_4,case_106,Verify Transaction Compliance,2023-07-31 18:35:01.196714
+event_106_8,case_106,Generate Financial Reports,2023-09-28 07:23:10.444500
+event_106_3,case_106,Reconcile Accounts,2023-11-02 19:16:57.711028
+event_107_1,case_107,Receive Invoice,2023-01-15 23:39:18.554761
+event_107_5,case_107,Update Ledger,2023-01-22 23:15:40.901220
+event_107_4,case_107,Verify Transaction Compliance,2023-04-20 03:39:01.970272
+event_107_2,case_107,Approve Payment,2023-04-28 18:32:11.544072
+event_107_7,case_107,Archive Documentation,2023-08-19 10:40:27.354746
+event_107_8,case_107,Generate Financial Reports,2023-08-26 02:28:02.883977
+event_107_3,case_107,Execute Payment,2023-09-29 01:04:27.327668
+event_107_6,case_107,Authorize Expenditure,2023-10-25 09:50:58.676515
+event_108_1,case_108,Receive Invoice,2023-01-31 01:46:58.818924
+event_108_7,case_108,Perform Audit Trails,2023-02-01 13:04:25.440860
+event_108_3,case_108,Execute Payment,2023-03-09 09:34:41.893957
+event_108_8,case_108,Generate Financial Reports,2023-05-12 10:54:47.397362
+event_108_4,case_108,Process Vendor Queries,2023-06-17 05:29:37.118583
+event_108_2,case_108,Validate Invoice,2023-10-03 03:12:12.632644
+event_108_3,case_108,Reconcile Accounts,2023-10-28 01:18:19.624616
+event_108_5,case_108,Update Ledger,2023-11-12 17:07:15.729534
+event_108_6,case_108,Authorize Expenditure,2023-12-09 08:45:01.315535
+event_109_7,case_109,Perform Audit Trails,2023-01-01 11:55:13.190887
+event_109_2,case_109,Approve Payment,2023-03-08 15:19:55.782324
+event_109_3,case_109,Execute Payment,2023-06-26 08:16:57.148329
+event_109_1,case_109,Receive Invoice,2023-07-20 02:23:53.393757
+event_109_4,case_109,Process Vendor Queries,2023-09-18 07:52:39.840514
+event_109_6,case_109,Resolve Discrepancies,2023-09-24 00:16:01.702203
+event_109_5,case_109,Maintain Vendor Accounts,2023-10-12 22:05:46.449973
+event_109_8,case_109,Generate Financial Reports,2023-12-07 16:39:59.691189
+event_11_3,case_11,Execute Payment,2023-01-24 04:24:23.524721
+event_11_4,case_11,Process Vendor Queries,2023-06-26 22:12:18.358320
+event_11_6,case_11,Authorize Expenditure,2023-08-04 13:49:17.296151
+event_11_1,case_11,Receive Invoice,2023-08-08 03:03:36.143390
+event_11_7,case_11,Perform Audit Trails,2023-09-12 16:32:41.132423
+event_11_5,case_11,Update Ledger,2023-10-03 07:28:55.137235
+event_11_8,case_11,Conduct Periodic Reviews,2023-10-03 17:07:30.764854
+event_11_2,case_11,Approve Payment,2023-11-16 17:14:49.626871
+event_110_6,case_110,Authorize Expenditure,2023-02-06 05:58:19.162616
+event_110_3,case_110,Execute Payment,2023-02-11 06:55:26.959436
+event_110_1,case_110,Receive Invoice,2023-02-20 03:13:33.256667
+event_110_3,case_110,Reconcile Accounts,2023-03-12 04:38:14.721447
+event_110_7,case_110,Archive Documentation,2023-03-19 07:39:04.253607
+event_110_2,case_110,Validate Invoice,2023-04-24 13:29:17.819313
+event_110_5,case_110,Update Ledger,2023-05-05 02:15:22.123446
+event_110_4,case_110,Process Vendor Queries,2023-06-19 01:06:14.087507
+event_110_8,case_110,Conduct Periodic Reviews,2023-08-16 12:28:19.419603
+event_111_8,case_111,Generate Financial Reports,2023-02-09 05:03:37.658491
+event_111_7,case_111,Archive Documentation,2023-02-13 22:18:30.570363
+event_111_3,case_111,Execute Payment,2023-05-31 20:22:21.255921
+event_111_2,case_111,Validate Invoice,2023-06-27 13:24:13.815878
+event_111_6,case_111,Authorize Expenditure,2023-09-01 08:54:35.683803
+event_111_5,case_111,Maintain Vendor Accounts,2023-11-16 16:28:51.855420
+event_111_4,case_111,Process Vendor Queries,2023-11-17 22:09:25.345150
+event_111_1,case_111,Receive Invoice,2023-12-03 17:21:06.977923
+event_112_8,case_112,Conduct Periodic Reviews,2023-03-12 00:42:28.802525
+event_112_6,case_112,Resolve Discrepancies,2023-03-20 14:03:44.518397
+event_112_1,case_112,Receive Invoice,2023-03-29 22:23:41.449714
+event_112_7,case_112,Archive Documentation,2023-04-07 17:51:34.629829
+event_112_5,case_112,Maintain Vendor Accounts,2023-04-16 05:59:12.790502
+event_112_2,case_112,Approve Payment,2023-04-29 13:52:16.038811
+event_112_4,case_112,Process Vendor Queries,2023-06-15 13:41:28.527557
+event_112_3,case_112,Execute Payment,2023-10-24 19:33:39.945435
+event_113_4,case_113,Process Vendor Queries,2023-04-21 00:11:02.736319
+event_113_1,case_113,Receive Invoice,2023-05-02 13:51:17.968355
+event_113_2,case_113,Validate Invoice,2023-05-18 15:27:32.637723
+event_113_6,case_113,Resolve Discrepancies,2023-05-28 23:01:13.721163
+event_113_7,case_113,Perform Audit Trails,2023-06-24 20:27:27.910436
+event_113_5,case_113,Update Ledger,2023-07-11 03:39:51.350422
+event_113_3,case_113,Reconcile Accounts,2023-11-26 09:56:36.181211
+event_113_8,case_113,Generate Financial Reports,2023-11-29 05:57:01.613111
+event_114_3,case_114,Execute Payment,2023-01-08 11:32:03.853542
+event_114_6,case_114,Resolve Discrepancies,2023-02-24 06:45:11.039129
+event_114_3,case_114,Reconcile Accounts,2023-03-04 19:19:22.329413
+event_114_8,case_114,Conduct Periodic Reviews,2023-03-21 21:19:27.214052
+event_114_5,case_114,Update Ledger,2023-04-05 04:48:49.142038
+event_114_4,case_114,Process Vendor Queries,2023-05-10 19:56:59.958023
+event_114_7,case_114,Perform Audit Trails,2023-07-04 07:28:31.676045
+event_114_4,case_114,Process Vendor Queries,2023-09-03 10:19:05.672178
+event_114_1,case_114,Receive Invoice,2023-09-22 02:29:51.762127
+event_114_2,case_114,Validate Invoice,2023-11-17 00:44:03.952888
+event_115_2,case_115,Validate Invoice,2023-04-09 21:39:15.901278
+event_115_3,case_115,Reconcile Accounts,2023-05-22 03:10:31.178355
+event_115_5,case_115,Update Ledger,2023-05-27 17:10:06.349787
+event_115_1,case_115,Receive Invoice,2023-07-26 21:22:26.742336
+event_115_5,case_115,Maintain Vendor Accounts,2023-07-31 06:30:14.614686
+event_115_7,case_115,Archive Documentation,2023-08-04 22:57:31.086476
+event_115_4,case_115,Verify Transaction Compliance,2023-09-03 13:50:41.948261
+event_115_6,case_115,Authorize Expenditure,2023-10-14 13:32:46.532054
+event_115_8,case_115,Conduct Periodic Reviews,2023-12-04 04:12:57.647898
+event_116_6,case_116,Authorize Expenditure,2023-02-06 11:14:33.822650
+event_116_4,case_116,Process Vendor Queries,2023-03-15 23:32:33.873738
+event_116_5,case_116,Update Ledger,2023-03-30 20:03:00.282631
+event_116_3,case_116,Reconcile Accounts,2023-04-22 03:15:29.389053
+event_116_2,case_116,Approve Payment,2023-07-31 13:28:50.302838
+event_116_8,case_116,Generate Financial Reports,2023-11-07 11:40:19.965309
+event_116_7,case_116,Perform Audit Trails,2023-11-24 08:22:03.827946
+event_116_1,case_116,Receive Invoice,2023-11-26 20:07:14.530499
+event_117_5,case_117,Maintain Vendor Accounts,2023-03-02 08:43:36.874053
+event_117_7,case_117,Perform Audit Trails,2023-03-19 08:21:45.231507
+event_117_7,case_117,Perform Audit Trails,2023-06-16 23:43:01.929448
+event_117_8,case_117,Generate Financial Reports,2023-06-26 04:53:32.325675
+event_117_2,case_117,Approve Payment,2023-07-30 04:57:29.175926
+event_117_6,case_117,Authorize Expenditure,2023-08-01 23:24:30.465407
+event_117_1,case_117,Receive Invoice,2023-08-19 17:00:20.781929
+event_117_6,case_117,Authorize Expenditure,2023-09-15 23:03:50.618832
+event_117_3,case_117,Reconcile Accounts,2023-12-03 21:22:10.354274
+event_117_4,case_117,Process Vendor Queries,2023-12-06 14:39:29.149316
+event_118_4,case_118,Verify Transaction Compliance,2023-03-01 10:52:09.464656
+event_118_2,case_118,Approve Payment,2023-03-24 16:14:25.523821
+event_118_2,case_118,Approve Payment,2023-04-14 10:17:24.689624
+event_118_1,case_118,Receive Invoice,2023-05-28 17:44:36.831464
+event_118_2,case_118,Execute Payment,2023-06-02 17:32:38.418586
+event_118_3,case_118,Reconcile Accounts,2023-07-27 03:09:41.264266
+event_118_6,case_118,Resolve Discrepancies,2023-07-28 01:48:02.630746
+event_118_8,case_118,Conduct Periodic Reviews,2023-08-20 07:57:52.173361
+event_118_7,case_118,Archive Documentation,2023-08-21 14:35:02.048142
+event_118_5,case_118,Maintain Vendor Accounts,2023-10-13 14:27:08.760715
+event_118_3,case_118,Reconcile Accounts,2023-11-30 19:44:57.798243
+event_118_3,case_118,Execute Payment,2023-12-02 22:08:56.378315
+event_119_8,case_119,Generate Financial Reports,2023-02-05 04:09:31.832554
+event_119_1,case_119,Receive Invoice,2023-02-18 02:39:10.631172
+event_119_3,case_119,Reconcile Accounts,2023-05-25 23:40:50.401008
+event_119_7,case_119,Archive Documentation,2023-08-11 15:51:38.887730
+event_119_6,case_119,Authorize Expenditure,2023-09-09 02:34:59.270485
+event_119_2,case_119,Approve Payment,2023-09-10 02:21:34.899848
+event_119_4,case_119,Process Vendor Queries,2023-09-19 17:03:35.350029
+event_119_5,case_119,Maintain Vendor Accounts,2023-11-18 17:28:28.680041
+event_12_2,case_12,Approve Payment,2023-03-01 17:29:48.755997
+event_12_4,case_12,Process Vendor Queries,2023-03-05 17:33:48.765445
+event_12_1,case_12,Receive Invoice,2023-04-05 06:09:57.575856
+event_12_3,case_12,Execute Payment,2023-06-23 20:13:05.234832
+event_12_5,case_12,Update Ledger,2023-07-13 08:36:01.353040
+event_12_6,case_12,Resolve Discrepancies,2023-07-22 15:01:55.722670
+event_12_7,case_12,Perform Audit Trails,2023-08-28 11:11:29.704964
+event_12_8,case_12,Conduct Periodic Reviews,2023-12-02 09:04:23.950866
+event_120_1,case_120,Receive Invoice,2023-01-06 12:30:37.253343
+event_120_6,case_120,Resolve Discrepancies,2023-01-23 12:41:43.485337
+event_120_5,case_120,Update Ledger,2023-03-31 05:07:50.312281
+event_120_7,case_120,Archive Documentation,2023-04-17 20:27:32.943445
+event_120_8,case_120,Generate Financial Reports,2023-04-19 10:53:20.517933
+event_120_2,case_120,Validate Invoice,2023-08-17 11:05:50.000753
+event_120_3,case_120,Execute Payment,2023-08-18 18:24:32.706894
+event_120_4,case_120,Verify Transaction Compliance,2023-11-30 23:06:04.011079
+event_121_3,case_121,Reconcile Accounts,2023-01-06 07:53:37.612147
+event_121_4,case_121,Process Vendor Queries,2023-03-22 19:12:50.900179
+event_121_8,case_121,Generate Financial Reports,2023-04-24 04:17:58.771775
+event_121_6,case_121,Resolve Discrepancies,2023-04-30 09:16:10.038788
+event_121_7,case_121,Archive Documentation,2023-07-09 13:42:38.844957
+event_121_2,case_121,Validate Invoice,2023-07-30 20:05:15.185197
+event_121_1,case_121,Receive Invoice,2023-10-03 14:16:58.201381
+event_121_5,case_121,Update Ledger,2023-11-29 05:39:23.842731
+event_122_7,case_122,Perform Audit Trails,2023-02-22 03:12:53.906184
+event_122_5,case_122,Maintain Vendor Accounts,2023-03-14 10:31:51.871739
+event_122_1,case_122,Receive Invoice,2023-04-11 03:06:45.257819
+event_122_2,case_122,Validate Invoice,2023-04-12 12:42:17.974865
+event_122_3,case_122,Reconcile Accounts,2023-05-22 02:41:03.498598
+event_122_8,case_122,Conduct Periodic Reviews,2023-07-13 08:42:02.305381
+event_122_6,case_122,Authorize Expenditure,2023-09-16 07:06:59.182330
+event_122_4,case_122,Verify Transaction Compliance,2023-10-10 05:10:08.280106
+event_123_5,case_123,Update Ledger,2023-01-04 18:21:27.602558
+event_123_8,case_123,Generate Financial Reports,2023-01-05 03:36:59.838125
+event_123_4,case_123,Process Vendor Queries,2023-02-19 08:43:01.482956
+event_123_6,case_123,Resolve Discrepancies,2023-04-14 13:30:54.592946
+event_123_2,case_123,Validate Invoice,2023-08-13 07:45:20.407891
+event_123_7,case_123,Perform Audit Trails,2023-08-19 14:57:36.118311
+event_123_7,case_123,Archive Documentation,2023-11-02 14:14:38.150677
+event_123_1,case_123,Receive Invoice,2023-11-06 04:07:16.308655
+event_123_3,case_123,Reconcile Accounts,2023-11-17 12:32:00.199672
+event_124_7,case_124,Perform Audit Trails,2023-01-11 11:36:55.312999
+event_124_8,case_124,Conduct Periodic Reviews,2023-02-05 11:45:34.430120
+event_124_4,case_124,Process Vendor Queries,2023-02-18 10:35:22.247387
+event_124_2,case_124,Validate Invoice,2023-04-09 11:12:36.757853
+event_124_6,case_124,Authorize Expenditure,2023-05-29 08:07:22.733808
+event_124_5,case_124,Maintain Vendor Accounts,2023-06-07 18:45:39.934528
+event_124_1,case_124,Receive Invoice,2023-11-21 20:42:28.963903
+event_124_3,case_124,Execute Payment,2023-11-27 05:31:40.999131
+event_125_5,case_125,Update Ledger,2023-01-04 21:44:21.469249
+event_125_1,case_125,Receive Invoice,2023-01-05 16:37:28.582550
+event_125_3,case_125,Execute Payment,2023-01-06 17:39:35.095666
+event_125_2,case_125,Approve Payment,2023-03-12 15:15:04.280593
+event_125_7,case_125,Perform Audit Trails,2023-03-22 07:55:09.373528
+event_125_4,case_125,Process Vendor Queries,2023-05-11 13:08:25.834790
+event_125_8,case_125,Conduct Periodic Reviews,2023-07-11 16:40:08.520373
+event_125_1,case_125,Validate Invoice,2023-09-04 21:11:15.609197
+event_125_2,case_125,Validate Invoice,2023-10-24 07:42:44.235045
+event_125_6,case_125,Authorize Expenditure,2023-10-29 04:56:41.343312
+event_125_6,case_125,Resolve Discrepancies,2023-11-23 19:00:53.049505
+event_126_8,case_126,Generate Financial Reports,2023-01-26 02:18:22.630901
+event_126_1,case_126,Receive Invoice,2023-02-21 22:41:44.711099
+event_126_4,case_126,Verify Transaction Compliance,2023-02-25 14:46:00.429835
+event_126_3,case_126,Reconcile Accounts,2023-03-17 05:30:03.294527
+event_126_7,case_126,Perform Audit Trails,2023-04-03 09:37:10.151092
+event_126_4,case_126,Verify Transaction Compliance,2023-04-13 08:07:21.758907
+event_126_6,case_126,Resolve Discrepancies,2023-04-14 00:44:06.196842
+event_126_2,case_126,Approve Payment,2023-05-14 14:53:22.247796
+event_126_5,case_126,Update Ledger,2023-08-27 20:57:01.618085
+event_126_3,case_126,Reconcile Accounts,2023-09-18 15:55:09.738711
+event_126_5,case_126,Update Ledger,2023-11-26 14:33:14.030127
+event_127_8,case_127,Generate Financial Reports,2023-01-13 00:55:37.170333
+event_127_7,case_127,Archive Documentation,2023-04-27 12:51:49.594719
+event_127_5,case_127,Update Ledger,2023-05-17 09:57:41.729178
+event_127_3,case_127,Reconcile Accounts,2023-05-23 17:11:45.326807
+event_127_1,case_127,Receive Invoice,2023-06-30 06:41:03.202133
+event_127_4,case_127,Process Vendor Queries,2023-09-18 16:04:22.684231
+event_127_4,case_127,Verify Transaction Compliance,2023-10-01 17:09:34.719399
+event_127_2,case_127,Validate Invoice,2023-10-14 09:56:58.375793
+event_127_6,case_127,Resolve Discrepancies,2023-10-18 08:12:37.266964
+event_128_8,case_128,Generate Financial Reports,2023-01-08 20:56:23.032849
+event_128_1,case_128,Receive Invoice,2023-01-12 18:12:46.137577
+event_128_4,case_128,Process Vendor Queries,2023-03-08 16:18:48.956897
+event_128_5,case_128,Update Ledger,2023-04-28 09:26:36.160575
+event_128_2,case_128,Validate Invoice,2023-05-30 13:00:20.901342
+event_128_3,case_128,Reconcile Accounts,2023-08-29 02:27:06.161502
+event_128_4,case_128,Verify Transaction Compliance,2023-08-31 20:05:43.161829
+event_128_6,case_128,Resolve Discrepancies,2023-10-01 11:30:11.076904
+event_128_7,case_128,Archive Documentation,2023-11-28 07:14:27.965909
+event_129_2,case_129,Approve Payment,2023-02-21 16:57:25.861714
+event_129_5,case_129,Update Ledger,2023-02-22 04:00:54.387953
+event_129_3,case_129,Execute Payment,2023-04-05 23:21:38.815042
+event_129_4,case_129,Process Vendor Queries,2023-04-26 04:02:41.086251
+event_129_6,case_129,Authorize Expenditure,2023-05-21 16:26:51.655100
+event_129_1,case_129,Receive Invoice,2023-08-23 11:18:12.628483
+event_129_7,case_129,Perform Audit Trails,2023-09-12 05:21:38.544400
+event_129_8,case_129,Generate Financial Reports,2023-09-29 13:44:55.119984
+event_13_3,case_13,Execute Payment,2023-01-22 13:41:04.270512
+event_13_4,case_13,Process Vendor Queries,2023-02-07 10:03:39.672633
+event_13_8,case_13,Generate Financial Reports,2023-06-10 06:19:20.639690
+event_13_7,case_13,Perform Audit Trails,2023-06-12 07:41:45.118223
+event_13_6,case_13,Resolve Discrepancies,2023-07-06 01:14:47.372154
+event_13_6,case_13,Authorize Expenditure,2023-07-09 04:32:26.644958
+event_13_5,case_13,Update Ledger,2023-07-12 18:05:35.111845
+event_13_2,case_13,Validate Invoice,2023-09-19 18:23:17.237776
+event_13_6,case_13,Resolve Discrepancies,2023-10-06 18:44:27.898983
+event_13_1,case_13,Receive Invoice,2023-12-03 10:58:15.079864
+event_130_2,case_130,Approve Payment,2023-01-17 21:58:20.936624
+event_130_7,case_130,Archive Documentation,2023-01-25 12:00:48.973807
+event_130_6,case_130,Authorize Expenditure,2023-02-02 04:02:25.241356
+event_130_3,case_130,Reconcile Accounts,2023-03-21 00:18:13.015735
+event_130_8,case_130,Conduct Periodic Reviews,2023-05-20 12:36:01.810361
+event_130_5,case_130,Maintain Vendor Accounts,2023-06-07 07:14:59.714353
+event_130_1,case_130,Receive Invoice,2023-06-12 17:08:12.142999
+event_130_2,case_130,Approve Payment,2023-06-25 04:07:01.657382
+event_130_4,case_130,Process Vendor Queries,2023-06-30 12:59:13.735821
+event_130_3,case_130,Reconcile Accounts,2023-08-26 03:09:01.186048
+event_130_6,case_130,Resolve Discrepancies,2023-11-22 08:00:25.095498
+event_131_2,case_131,Validate Invoice,2023-01-08 10:02:19.987660
+event_131_8,case_131,Generate Financial Reports,2023-01-30 15:26:13.650474
+event_131_7,case_131,Archive Documentation,2023-03-20 07:38:19.645764
+event_131_4,case_131,Process Vendor Queries,2023-04-01 07:02:11.364833
+event_131_6,case_131,Resolve Discrepancies,2023-04-08 08:33:12.486923
+event_131_3,case_131,Execute Payment,2023-05-31 11:35:53.396627
+event_131_1,case_131,Receive Invoice,2023-09-23 15:55:29.184102
+event_131_5,case_131,Update Ledger,2023-10-03 21:18:21.429102
+event_132_5,case_132,Maintain Vendor Accounts,2023-02-24 04:51:38.099555
+event_132_3,case_132,Reconcile Accounts,2023-03-03 10:17:41.934826
+event_132_7,case_132,Archive Documentation,2023-04-30 06:08:30.882242
+event_132_7,case_132,Perform Audit Trails,2023-05-09 01:57:01.850503
+event_132_6,case_132,Authorize Expenditure,2023-05-20 08:27:47.503721
+event_132_4,case_132,Process Vendor Queries,2023-06-14 00:44:55.072051
+event_132_6,case_132,Resolve Discrepancies,2023-06-21 11:16:23.813522
+event_132_8,case_132,Generate Financial Reports,2023-09-01 16:18:03.161867
+event_132_1,case_132,Receive Invoice,2023-09-14 03:52:26.337309
+event_132_5,case_132,Update Ledger,2023-11-18 04:03:25.968215
+event_132_2,case_132,Validate Invoice,2023-11-19 04:07:59.014116
+event_133_1,case_133,Receive Invoice,2023-01-08 10:48:37.332933
+event_133_3,case_133,Reconcile Accounts,2023-01-17 07:06:42.254722
+event_133_5,case_133,Update Ledger,2023-02-08 19:44:23.370850
+event_133_7,case_133,Perform Audit Trails,2023-06-11 23:54:01.287654
+event_133_6,case_133,Resolve Discrepancies,2023-06-18 15:11:55.690866
+event_133_2,case_133,Validate Invoice,2023-07-10 14:59:35.182223
+event_133_8,case_133,Generate Financial Reports,2023-08-16 07:49:45.752153
+event_133_4,case_133,Verify Transaction Compliance,2023-09-05 03:28:07.902551
+event_133_2,case_133,Approve Payment,2023-11-04 23:08:07.720757
+event_134_8,case_134,Conduct Periodic Reviews,2023-02-24 20:37:35.288119
+event_134_7,case_134,Archive Documentation,2023-04-24 07:14:43.190786
+event_134_3,case_134,Execute Payment,2023-04-25 19:28:44.134819
+event_134_5,case_134,Maintain Vendor Accounts,2023-08-06 00:14:47.954314
+event_134_4,case_134,Verify Transaction Compliance,2023-09-04 16:46:58.608007
+event_134_1,case_134,Receive Invoice,2023-10-12 16:32:46.326193
+event_134_6,case_134,Authorize Expenditure,2023-11-10 13:38:34.537682
+event_134_2,case_134,Approve Payment,2023-11-11 10:52:57.850579
+event_134_7,case_134,Perform Audit Trails,2023-11-14 19:57:52.463664
+event_135_7,case_135,Archive Documentation,2023-02-07 20:54:12.766391
+event_135_3,case_135,Reconcile Accounts,2023-02-28 03:35:01.808348
+event_135_8,case_135,Conduct Periodic Reviews,2023-02-28 16:11:52.345150
+event_135_4,case_135,Verify Transaction Compliance,2023-06-18 09:46:20.135361
+event_135_1,case_135,Receive Invoice,2023-06-20 06:22:15.517027
+event_135_2,case_135,Validate Invoice,2023-07-16 05:44:27.199402
+event_135_5,case_135,Update Ledger,2023-09-21 04:12:11.573671
+event_135_6,case_135,Authorize Expenditure,2023-10-06 06:22:05.246682
+event_136_4,case_136,Verify Transaction Compliance,2023-01-01 10:56:42.234525
+event_136_4,case_136,Process Vendor Queries,2023-02-28 17:41:11.731661
+event_136_3,case_136,Process Vendor Queries,2023-04-30 16:25:18.138290
+event_136_1,case_136,Receive Invoice,2023-07-31 14:38:56.932004
+event_136_6,case_136,Authorize Expenditure,2023-08-21 19:11:55.845082
+event_136_2,case_136,Approve Payment,2023-08-23 16:52:01.718032
+event_136_8,case_136,Generate Financial Reports,2023-08-28 06:27:02.012099
+event_136_7,case_136,Perform Audit Trails,2023-09-09 14:15:27.732483
+event_136_3,case_136,Execute Payment,2023-10-01 16:24:30.641841
+event_136_5,case_136,Maintain Vendor Accounts,2023-11-06 01:46:09.221773
+event_136_3,case_136,Process Vendor Queries,2023-11-25 20:38:32.417387
+event_137_1,case_137,Receive Invoice,2023-02-05 20:04:52.225943
+event_137_6,case_137,Resolve Discrepancies,2023-03-05 11:02:10.985234
+event_137_2,case_137,Approve Payment,2023-03-18 15:06:42.622651
+event_137_8,case_137,Generate Financial Reports,2023-05-13 18:59:38.870703
+event_137_3,case_137,Execute Payment,2023-06-21 17:41:41.220340
+event_137_5,case_137,Update Ledger,2023-06-24 11:43:59.390243
+event_137_7,case_137,Perform Audit Trails,2023-07-30 00:31:22.931579
+event_137_4,case_137,Process Vendor Queries,2023-10-24 23:54:46.458709
+event_137_4,case_137,Verify Transaction Compliance,2023-11-28 05:55:38.551848
+event_138_1,case_138,Receive Invoice,2023-02-18 02:25:26.655828
+event_138_7,case_138,Archive Documentation,2023-05-26 13:03:13.833588
+event_138_3,case_138,Reconcile Accounts,2023-07-18 23:11:29.585443
+event_138_4,case_138,Process Vendor Queries,2023-07-20 23:53:28.807591
+event_138_5,case_138,Update Ledger,2023-09-09 19:02:23.199108
+event_138_8,case_138,Conduct Periodic Reviews,2023-10-08 09:10:32.858204
+event_138_2,case_138,Validate Invoice,2023-10-24 11:08:04.810184
+event_138_6,case_138,Authorize Expenditure,2023-12-05 02:46:38.270575
+event_139_5,case_139,Update Ledger,2023-01-14 04:15:30.608860
+event_139_8,case_139,Conduct Periodic Reviews,2023-02-10 02:45:59.335171
+event_139_1,case_139,Receive Invoice,2023-03-24 17:37:50.909201
+event_139_3,case_139,Reconcile Accounts,2023-05-26 15:15:47.159017
+event_139_6,case_139,Resolve Discrepancies,2023-06-11 04:13:12.917722
+event_139_4,case_139,Verify Transaction Compliance,2023-07-09 13:20:17.584995
+event_139_3,case_139,Execute Payment,2023-08-13 21:09:51.956127
+event_139_7,case_139,Archive Documentation,2023-08-15 20:28:11.278795
+event_139_7,case_139,Perform Audit Trails,2023-08-15 21:42:32.752283
+event_139_2,case_139,Validate Invoice,2023-10-08 03:58:26.580732
+event_14_2,case_14,Approve Payment,2023-03-13 03:11:23.196905
+event_14_8,case_14,Conduct Periodic Reviews,2023-03-29 09:44:32.975362
+event_14_4,case_14,Verify Transaction Compliance,2023-04-02 00:54:26.269553
+event_14_6,case_14,Authorize Expenditure,2023-04-30 06:48:07.851578
+event_14_7,case_14,Archive Documentation,2023-05-20 10:08:42.766054
+event_14_3,case_14,Reconcile Accounts,2023-05-22 15:05:26.573135
+event_14_5,case_14,Update Ledger,2023-08-05 11:05:22.831784
+event_14_6,case_14,Resolve Discrepancies,2023-09-18 14:45:44.275154
+event_14_4,case_14,Maintain Vendor Accounts,2023-10-28 18:18:11.109050
+event_14_5,case_14,Maintain Vendor Accounts,2023-10-30 10:54:19.226676
+event_14_3,case_14,Execute Payment,2023-11-21 19:10:00.069048
+event_14_1,case_14,Receive Invoice,2023-11-28 07:44:39.139536
+event_140_6,case_140,Authorize Expenditure,2023-01-25 07:01:06.623487
+event_140_7,case_140,Archive Documentation,2023-02-16 13:51:52.458493
+event_140_4,case_140,Verify Transaction Compliance,2023-03-13 22:57:41.855240
+event_140_5,case_140,Maintain Vendor Accounts,2023-04-05 18:05:10.047539
+event_140_2,case_140,Validate Invoice,2023-05-01 18:47:49.683532
+event_140_3,case_140,Execute Payment,2023-05-02 04:02:25.350744
+event_140_1,case_140,Receive Invoice,2023-06-04 18:51:52.840051
+event_140_5,case_140,Update Ledger,2023-09-18 18:01:28.666338
+event_140_8,case_140,Generate Financial Reports,2023-11-30 01:07:45.471268
+event_141_4,case_141,Process Vendor Queries,2023-01-13 07:45:14.606262
+event_141_3,case_141,Execute Payment,2023-02-02 06:23:16.468793
+event_141_2,case_141,Validate Invoice,2023-02-14 11:49:01.122259
+event_141_1,case_141,Receive Invoice,2023-05-07 01:25:14.992836
+event_141_6,case_141,Authorize Expenditure,2023-06-22 17:53:39.847466
+event_141_8,case_141,Conduct Periodic Reviews,2023-06-30 14:21:59.691382
+event_141_6,case_141,Resolve Discrepancies,2023-07-28 08:37:32.795647
+event_141_5,case_141,Update Ledger,2023-08-14 19:57:20.656819
+event_141_7,case_141,Perform Audit Trails,2023-09-19 15:22:38.197700
+event_142_7,case_142,Perform Audit Trails,2023-02-02 02:58:11.197087
+event_142_6,case_142,Authorize Expenditure,2023-03-13 19:51:10.539434
+event_142_8,case_142,Conduct Periodic Reviews,2023-04-20 08:01:15.513580
+event_142_3,case_142,Execute Payment,2023-07-21 09:35:05.266770
+event_142_5,case_142,Update Ledger,2023-07-26 01:16:52.497495
+event_142_4,case_142,Process Vendor Queries,2023-07-27 18:25:00.134716
+event_142_1,case_142,Receive Invoice,2023-08-25 07:11:13.807681
+event_142_2,case_142,Approve Payment,2023-09-17 19:02:45.043091
+event_143_5,case_143,Maintain Vendor Accounts,2023-02-03 01:10:33.697411
+event_143_4,case_143,Verify Transaction Compliance,2023-02-05 15:43:14.708161
+event_143_1,case_143,Receive Invoice,2023-04-26 09:16:07.763638
+event_143_3,case_143,Execute Payment,2023-05-19 15:30:32.294546
+event_143_7,case_143,Archive Documentation,2023-06-08 21:06:47.043526
+event_143_2,case_143,Approve Payment,2023-06-22 10:54:13.387480
+event_143_8,case_143,Conduct Periodic Reviews,2023-07-10 11:46:45.987936
+event_143_6,case_143,Authorize Expenditure,2023-07-19 13:57:10.143097
+event_143_6,case_143,Resolve Discrepancies,2023-09-19 08:34:59.639910
+event_144_3,case_144,Execute Payment,2023-01-05 15:09:23.850759
+event_144_6,case_144,Resolve Discrepancies,2023-01-18 15:34:13.590154
+event_144_7,case_144,Archive Documentation,2023-02-16 23:38:32.595553
+event_144_5,case_144,Maintain Vendor Accounts,2023-03-31 03:40:19.672064
+event_144_4,case_144,Verify Transaction Compliance,2023-04-01 05:14:20.976712
+event_144_1,case_144,Receive Invoice,2023-04-08 12:45:21.307379
+event_144_6,case_144,Authorize Expenditure,2023-05-20 13:03:00.839760
+event_144_2,case_144,Validate Invoice,2023-08-09 01:43:44.848753
+event_144_8,case_144,Generate Financial Reports,2023-11-23 00:48:49.893941
+event_145_8,case_145,Conduct Periodic Reviews,2023-01-03 17:12:13.658571
+event_145_1,case_145,Receive Invoice,2023-03-20 04:48:40.685290
+event_145_5,case_145,Update Ledger,2023-04-05 21:07:58.034443
+event_145_4,case_145,Verify Transaction Compliance,2023-07-06 02:52:49.817567
+event_145_7,case_145,Perform Audit Trails,2023-07-17 07:27:09.814304
+event_145_3,case_145,Execute Payment,2023-10-05 00:13:51.824753
+event_145_2,case_145,Approve Payment,2023-10-19 02:47:36.547228
+event_145_6,case_145,Resolve Discrepancies,2023-10-29 17:03:48.506014
+event_145_6,case_145,Authorize Expenditure,2023-11-11 13:49:18.014041
+event_145_5,case_145,Resolve Discrepancies,2023-11-29 00:41:30.595765
+event_146_2,case_146,Approve Payment,2023-01-24 00:52:25.689331
+event_146_3,case_146,Reconcile Accounts,2023-04-22 13:08:44.796035
+event_146_1,case_146,Receive Invoice,2023-06-16 06:48:16.869151
+event_146_6,case_146,Authorize Expenditure,2023-06-28 14:46:26.733482
+event_146_7,case_146,Archive Documentation,2023-07-01 13:21:23.774396
+event_146_5,case_146,Maintain Vendor Accounts,2023-07-17 12:38:28.290662
+event_146_4,case_146,Process Vendor Queries,2023-09-22 16:41:48.505097
+event_146_8,case_146,Generate Financial Reports,2023-10-12 04:20:19.416191
+event_147_1,case_147,Receive Invoice,2023-01-21 23:08:38.604306
+event_147_3,case_147,Reconcile Accounts,2023-04-07 09:54:45.431569
+event_147_8,case_147,Generate Financial Reports,2023-07-10 04:30:38.048581
+event_147_5,case_147,Update Ledger,2023-07-26 02:12:05.825702
+event_147_4,case_147,Process Vendor Queries,2023-10-03 14:05:01.854801
+event_147_7,case_147,Archive Documentation,2023-10-04 05:56:38.682312
+event_147_2,case_147,Validate Invoice,2023-11-09 03:41:27.740931
+event_147_6,case_147,Resolve Discrepancies,2023-11-29 13:47:57.767151
+event_148_4,case_148,Verify Transaction Compliance,2023-02-26 15:15:55.281361
+event_148_2,case_148,Approve Payment,2023-03-16 08:47:04.887689
+event_148_3,case_148,Execute Payment,2023-04-18 02:08:04.469871
+event_148_7,case_148,Perform Audit Trails,2023-04-24 07:16:44.287011
+event_148_6,case_148,Authorize Expenditure,2023-07-28 11:40:55.316631
+event_148_5,case_148,Maintain Vendor Accounts,2023-08-04 14:56:04.550306
+event_148_1,case_148,Receive Invoice,2023-09-18 01:34:02.362958
+event_148_8,case_148,Generate Financial Reports,2023-11-29 11:02:48.307283
+event_149_3,case_149,Reconcile Accounts,2023-01-04 21:06:28.976056
+event_149_7,case_149,Archive Documentation,2023-02-16 17:09:51.458823
+event_149_5,case_149,Update Ledger,2023-03-24 14:45:54.189525
+event_149_8,case_149,Conduct Periodic Reviews,2023-04-07 23:54:11.045261
+event_149_4,case_149,Process Vendor Queries,2023-04-26 22:10:28.357720
+event_149_4,case_149,Verify Transaction Compliance,2023-05-11 20:34:59.187584
+event_149_2,case_149,Approve Payment,2023-05-13 17:36:05.846184
+event_149_1,case_149,Receive Invoice,2023-07-07 02:39:23.934158
+event_149_3,case_149,Execute Payment,2023-08-25 19:51:40.362979
+event_149_6,case_149,Authorize Expenditure,2023-10-29 04:59:41.492689
+event_15_6,case_15,Authorize Expenditure,2023-04-10 14:08:42.808928
+event_15_3,case_15,Reconcile Accounts,2023-05-05 22:44:50.032301
+event_15_1,case_15,Receive Invoice,2023-05-11 09:42:23.961854
+event_15_2,case_15,Validate Invoice,2023-06-02 23:52:12.930343
+event_15_5,case_15,Maintain Vendor Accounts,2023-06-16 16:56:04.118438
+event_15_4,case_15,Verify Transaction Compliance,2023-07-14 20:25:17.895080
+event_15_7,case_15,Archive Documentation,2023-07-24 04:25:00.504898
+event_15_8,case_15,Generate Financial Reports,2023-10-16 01:00:39.195928
+event_15_6,case_15,Resolve Discrepancies,2023-12-09 00:25:00.307918
+event_150_2,case_150,Approve Payment,2023-03-06 14:26:08.787262
+event_150_4,case_150,Process Vendor Queries,2023-03-19 18:04:17.891621
+event_150_3,case_150,Execute Payment,2023-05-27 00:19:20.534943
+event_150_7,case_150,Archive Documentation,2023-07-05 01:17:57.987889
+event_150_1,case_150,Receive Invoice,2023-07-28 22:58:32.223513
+event_150_8,case_150,Generate Financial Reports,2023-08-31 17:42:40.930843
+event_150_6,case_150,Resolve Discrepancies,2023-11-12 01:28:45.488493
+event_150_5,case_150,Maintain Vendor Accounts,2023-11-20 13:34:22.591479
+event_151_6,case_151,Resolve Discrepancies,2023-01-29 09:26:47.967858
+event_151_5,case_151,Authorize Expenditure,2023-03-16 16:36:24.350876
+event_151_6,case_151,Resolve Discrepancies,2023-04-09 03:16:25.234097
+event_151_7,case_151,Archive Documentation,2023-04-14 03:54:58.456562
+event_151_8,case_151,Generate Financial Reports,2023-04-18 15:19:07.983497
+event_151_5,case_151,Maintain Vendor Accounts,2023-06-08 02:21:10.378998
+event_151_3,case_151,Reconcile Accounts,2023-06-10 00:41:28.785339
+event_151_2,case_151,Validate Invoice,2023-06-16 17:50:15.053640
+event_151_6,case_151,Authorize Expenditure,2023-10-27 16:24:14.810101
+event_151_5,case_151,Update Ledger,2023-10-28 15:27:56.602365
+event_151_1,case_151,Receive Invoice,2023-11-02 03:15:41.173130
+event_151_4,case_151,Process Vendor Queries,2023-11-06 06:04:00.011199
+event_152_6,case_152,Resolve Discrepancies,2023-01-05 13:08:14.923135
+event_152_1,case_152,Receive Invoice,2023-02-14 14:11:32.308574
+event_152_8,case_152,Conduct Periodic Reviews,2023-03-18 09:34:34.519515
+event_152_4,case_152,Verify Transaction Compliance,2023-05-07 23:47:39.180361
+event_152_2,case_152,Validate Invoice,2023-06-05 23:58:13.701814
+event_152_6,case_152,Authorize Expenditure,2023-06-07 09:46:48.436854
+event_152_3,case_152,Execute Payment,2023-08-10 03:27:21.009725
+event_152_5,case_152,Update Ledger,2023-11-12 09:51:24.230684
+event_152_7,case_152,Archive Documentation,2023-11-13 16:54:09.064162
+event_153_5,case_153,Update Ledger,2023-01-01 19:10:20.222129
+event_153_7,case_153,Perform Audit Trails,2023-01-27 01:30:53.149390
+event_153_4,case_153,Process Vendor Queries,2023-03-11 15:51:58.071050
+event_153_3,case_153,Execute Payment,2023-04-21 02:09:09.175627
+event_153_1,case_153,Receive Invoice,2023-05-07 16:36:38.928002
+event_153_8,case_153,Conduct Periodic Reviews,2023-06-08 16:03:10.548286
+event_153_6,case_153,Authorize Expenditure,2023-09-10 08:37:54.134532
+event_153_2,case_153,Approve Payment,2023-11-02 02:22:52.854134
+event_154_8,case_154,Generate Financial Reports,2023-02-01 12:25:40.359873
+event_154_5,case_154,Maintain Vendor Accounts,2023-03-08 02:34:01.859791
+event_154_2,case_154,Approve Payment,2023-03-21 08:31:43.130116
+event_154_4,case_154,Process Vendor Queries,2023-05-09 05:17:11.407748
+event_154_3,case_154,Execute Payment,2023-06-29 00:51:35.276034
+event_154_7,case_154,Perform Audit Trails,2023-07-24 07:39:51.603051
+event_154_6,case_154,Authorize Expenditure,2023-09-02 22:00:33.890825
+event_154_1,case_154,Receive Invoice,2023-09-21 04:07:51.865532
+event_155_2,case_155,Approve Payment,2023-02-07 11:56:04.048172
+event_155_5,case_155,Maintain Vendor Accounts,2023-03-31 21:44:24.511589
+event_155_8,case_155,Conduct Periodic Reviews,2023-04-04 03:09:57.224816
+event_155_7,case_155,Perform Audit Trails,2023-07-03 16:27:51.552546
+event_155_4,case_155,Process Vendor Queries,2023-08-25 00:11:52.725045
+event_155_6,case_155,Resolve Discrepancies,2023-09-10 12:44:04.078577
+event_155_3,case_155,Execute Payment,2023-10-09 17:09:30.657084
+event_155_1,case_155,Receive Invoice,2023-11-05 23:06:08.406958
+event_156_2,case_156,Validate Invoice,2023-01-29 01:25:40.679741
+event_156_6,case_156,Resolve Discrepancies,2023-03-20 22:22:52.023337
+event_156_7,case_156,Perform Audit Trails,2023-05-24 19:42:34.372040
+event_156_3,case_156,Execute Payment,2023-07-18 20:28:38.565747
+event_156_5,case_156,Maintain Vendor Accounts,2023-08-17 10:55:10.308204
+event_156_4,case_156,Process Vendor Queries,2023-08-31 19:14:24.408788
+event_156_1,case_156,Receive Invoice,2023-09-16 01:12:13.953323
+event_156_8,case_156,Generate Financial Reports,2023-10-16 16:34:52.058673
+event_157_5,case_157,Update Ledger,2023-04-21 23:48:06.414936
+event_157_8,case_157,Conduct Periodic Reviews,2023-04-29 11:40:27.986168
+event_157_7,case_157,Perform Audit Trails,2023-05-03 23:03:27.926065
+event_157_6,case_157,Resolve Discrepancies,2023-05-15 14:17:03.359375
+event_157_2,case_157,Approve Payment,2023-05-22 05:12:54.702706
+event_157_4,case_157,Process Vendor Queries,2023-07-15 21:41:01.838173
+event_157_1,case_157,Receive Invoice,2023-09-09 06:43:05.404681
+event_157_3,case_157,Reconcile Accounts,2023-09-18 11:09:54.130693
+event_158_2,case_158,Validate Invoice,2023-01-06 17:21:11.916593
+event_158_7,case_158,Archive Documentation,2023-04-07 14:39:12.107981
+event_158_3,case_158,Execute Payment,2023-04-17 22:10:19.999752
+event_158_8,case_158,Conduct Periodic Reviews,2023-06-01 02:47:34.892145
+event_158_5,case_158,Update Ledger,2023-06-28 12:29:24.408462
+event_158_7,case_158,Perform Audit Trails,2023-08-22 01:47:06.055636
+event_158_5,case_158,Maintain Vendor Accounts,2023-10-10 00:38:15.496620
+event_158_1,case_158,Receive Invoice,2023-10-24 12:35:02.474150
+event_158_6,case_158,Resolve Discrepancies,2023-10-30 22:36:21.067698
+event_158_4,case_158,Process Vendor Queries,2023-12-07 01:18:58.847334
+event_159_4,case_159,Process Vendor Queries,2023-03-19 01:27:30.543902
+event_159_2,case_159,Validate Invoice,2023-04-11 03:24:30.211913
+event_159_6,case_159,Authorize Expenditure,2023-07-01 12:53:32.279865
+event_159_8,case_159,Conduct Periodic Reviews,2023-08-04 04:41:08.406821
+event_159_1,case_159,Receive Invoice,2023-08-29 07:09:45.977202
+event_159_5,case_159,Update Ledger,2023-10-20 13:48:00.215194
+event_159_7,case_159,Perform Audit Trails,2023-10-28 17:05:08.617513
+event_159_3,case_159,Execute Payment,2023-11-07 11:22:38.522772
+event_16_6,case_16,Authorize Expenditure,2023-02-16 02:52:06.636706
+event_16_8,case_16,Generate Financial Reports,2023-03-21 04:42:18.252812
+event_16_2,case_16,Approve Payment,2023-04-17 11:11:24.232983
+event_16_7,case_16,Perform Audit Trails,2023-04-22 09:09:33.735821
+event_16_5,case_16,Maintain Vendor Accounts,2023-05-18 19:31:33.771810
+event_16_3,case_16,Reconcile Accounts,2023-05-19 16:36:05.960367
+event_16_4,case_16,Verify Transaction Compliance,2023-06-07 06:18:42.982660
+event_16_1,case_16,Receive Invoice,2023-06-23 13:51:53.692955
+event_160_3,case_160,Reconcile Accounts,2023-01-04 17:49:18.169824
+event_160_8,case_160,Conduct Periodic Reviews,2023-01-21 21:46:30.720601
+event_160_2,case_160,Validate Invoice,2023-05-02 03:42:56.575923
+event_160_4,case_160,Process Vendor Queries,2023-05-23 09:54:58.660542
+event_160_7,case_160,Archive Documentation,2023-06-12 03:47:15.548006
+event_160_1,case_160,Receive Invoice,2023-08-05 11:35:22.900130
+event_160_6,case_160,Authorize Expenditure,2023-08-21 03:57:19.167949
+event_160_5,case_160,Maintain Vendor Accounts,2023-11-20 08:47:50.591223
+event_161_4,case_161,Process Vendor Queries,2023-01-27 23:10:17.917551
+event_161_5,case_161,Update Ledger,2023-04-08 22:13:17.843535
+event_161_3,case_161,Execute Payment,2023-04-23 13:14:07.680114
+event_161_1,case_161,Receive Invoice,2023-05-03 07:48:05.701058
+event_161_6,case_161,Perform Audit Trails,2023-08-15 12:47:18.823386
+event_161_6,case_161,Authorize Expenditure,2023-08-15 13:59:10.979739
+event_161_8,case_161,Generate Financial Reports,2023-08-22 12:41:23.857927
+event_161_2,case_161,Approve Payment,2023-10-08 18:32:59.886847
+event_161_7,case_161,Archive Documentation,2023-10-16 10:43:59.157844
+event_161_7,case_161,Perform Audit Trails,2023-10-19 03:00:10.843705
+event_162_8,case_162,Conduct Periodic Reviews,2023-01-08 13:38:13.685149
+event_162_1,case_162,Receive Invoice,2023-02-27 19:21:36.482044
+event_162_6,case_162,Authorize Expenditure,2023-03-30 07:21:37.803619
+event_162_2,case_162,Approve Payment,2023-04-01 23:05:27.978796
+event_162_5,case_162,Maintain Vendor Accounts,2023-04-13 16:16:04.552376
+event_162_7,case_162,Perform Audit Trails,2023-05-14 20:53:59.721560
+event_162_4,case_162,Verify Transaction Compliance,2023-10-25 20:19:57.706132
+event_162_3,case_162,Reconcile Accounts,2023-11-23 04:19:57.462370
+event_163_7,case_163,Archive Documentation,2023-01-24 00:38:50.503427
+event_163_2,case_163,Validate Invoice,2023-02-17 19:35:50.539958
+event_163_8,case_163,Conduct Periodic Reviews,2023-05-05 05:44:56.443350
+event_163_7,case_163,Perform Audit Trails,2023-06-03 17:02:20.225292
+event_163_6,case_163,Resolve Discrepancies,2023-07-06 13:28:24.404981
+event_163_4,case_163,Process Vendor Queries,2023-07-07 10:00:21.662453
+event_163_1,case_163,Receive Invoice,2023-07-15 18:25:43.693139
+event_163_5,case_163,Update Ledger,2023-10-15 09:38:03.580117
+event_163_3,case_163,Reconcile Accounts,2023-12-01 08:36:38.846544
+event_164_8,case_164,Conduct Periodic Reviews,2023-01-02 19:09:18.920409
+event_164_6,case_164,Resolve Discrepancies,2023-02-16 01:14:53.928401
+event_164_2,case_164,Approve Payment,2023-04-23 02:36:36.305142
+event_164_6,case_164,Authorize Expenditure,2023-05-02 11:54:17.221208
+event_164_4,case_164,Verify Transaction Compliance,2023-06-01 04:07:27.625453
+event_164_5,case_164,Maintain Vendor Accounts,2023-06-02 16:00:15.793807
+event_164_7,case_164,Archive Documentation,2023-08-04 09:56:05.569134
+event_164_3,case_164,Execute Payment,2023-08-07 05:26:28.248302
+event_164_1,case_164,Receive Invoice,2023-11-14 21:12:07.029090
+event_165_3,case_165,Execute Payment,2023-04-05 15:16:57.734861
+event_165_1,case_165,Receive Invoice,2023-04-21 22:41:09.204669
+event_165_6,case_165,Resolve Discrepancies,2023-05-26 08:36:32.279996
+event_165_4,case_165,Verify Transaction Compliance,2023-05-28 06:23:19.551882
+event_165_8,case_165,Generate Financial Reports,2023-07-08 23:03:50.490749
+event_165_2,case_165,Approve Payment,2023-08-06 21:43:27.252689
+event_165_2,case_165,Validate Invoice,2023-08-12 18:41:49.206464
+event_165_4,case_165,Process Vendor Queries,2023-10-29 08:59:00.209957
+event_165_5,case_165,Update Ledger,2023-11-21 20:22:46.848813
+event_165_7,case_165,Archive Documentation,2023-12-05 15:57:13.930050
+event_166_2,case_166,Validate Invoice,2023-02-07 06:43:06.603843
+event_166_8,case_166,Conduct Periodic Reviews,2023-03-01 07:25:28.313113
+event_166_4,case_166,Verify Transaction Compliance,2023-04-28 21:14:13.657495
+event_166_1,case_166,Receive Invoice,2023-06-10 08:08:45.708140
+event_166_7,case_166,Perform Audit Trails,2023-06-25 12:46:32.756442
+event_166_6,case_166,Authorize Expenditure,2023-07-30 18:01:48.223370
+event_166_3,case_166,Execute Payment,2023-08-21 16:52:52.614292
+event_166_5,case_166,Maintain Vendor Accounts,2023-10-27 12:11:29.628048
+event_167_3,case_167,Reconcile Accounts,2023-02-18 06:56:33.485835
+event_167_5,case_167,Update Ledger,2023-03-15 19:31:55.209657
+event_167_8,case_167,Generate Financial Reports,2023-04-30 14:05:29.983030
+event_167_2,case_167,Approve Payment,2023-05-27 07:12:10.057957
+event_167_7,case_167,Perform Audit Trails,2023-06-28 22:31:18.484941
+event_167_6,case_167,Resolve Discrepancies,2023-08-17 02:02:35.040573
+event_167_3,case_167,Execute Payment,2023-08-22 03:29:02.118940
+event_167_1,case_167,Receive Invoice,2023-08-22 23:50:01.753392
+event_167_4,case_167,Process Vendor Queries,2023-09-25 07:31:32.859281
+event_168_2,case_168,Validate Invoice,2023-01-22 22:36:06.277550
+event_168_8,case_168,Conduct Periodic Reviews,2023-04-09 16:35:36.863456
+event_168_7,case_168,Perform Audit Trails,2023-04-25 06:47:42.325705
+event_168_1,case_168,Receive Invoice,2023-07-04 15:40:00.445772
+event_168_4,case_168,Verify Transaction Compliance,2023-07-27 08:34:46.864979
+event_168_5,case_168,Update Ledger,2023-09-10 03:02:42.620350
+event_168_3,case_168,Execute Payment,2023-11-12 18:20:44.707396
+event_168_6,case_168,Authorize Expenditure,2023-11-19 15:12:25.379754
+event_169_1,case_169,Receive Invoice,2023-04-07 04:49:45.472685
+event_169_8,case_169,Generate Financial Reports,2023-04-17 19:03:41.728482
+event_169_5,case_169,Update Ledger,2023-05-01 10:29:19.728229
+event_169_5,case_169,Maintain Vendor Accounts,2023-06-29 00:04:02.859738
+event_169_5,case_169,Maintain Vendor Accounts,2023-07-18 06:55:45.302372
+event_169_7,case_169,Perform Audit Trails,2023-07-26 12:14:54.641555
+event_169_2,case_169,Approve Payment,2023-08-07 18:59:03.136095
+event_169_6,case_169,Resolve Discrepancies,2023-09-07 09:30:50.870700
+event_169_4,case_169,Process Vendor Queries,2023-09-23 17:47:51.596919
+event_169_3,case_169,Execute Payment,2023-10-12 10:09:40.245623
+event_17_1,case_17,Receive Invoice,2023-02-15 01:31:40.758988
+event_17_5,case_17,Update Ledger,2023-04-12 13:44:02.817689
+event_17_3,case_17,Execute Payment,2023-05-08 05:51:20.266944
+event_17_3,case_17,Reconcile Accounts,2023-05-25 01:37:26.200465
+event_17_8,case_17,Conduct Periodic Reviews,2023-06-03 22:33:18.325793
+event_17_2,case_17,Validate Invoice,2023-07-02 20:35:44.440479
+event_17_7,case_17,Archive Documentation,2023-10-28 16:01:35.253631
+event_17_6,case_17,Authorize Expenditure,2023-11-25 01:19:05.100993
+event_17_4,case_17,Process Vendor Queries,2023-12-01 10:24:33.012283
+event_170_6,case_170,Authorize Expenditure,2023-01-25 23:16:08.930284
+event_170_5,case_170,Update Ledger,2023-02-17 08:38:59.561771
+event_170_2,case_170,Validate Invoice,2023-05-04 06:30:38.852866
+event_170_3,case_170,Execute Payment,2023-07-01 08:33:39.439374
+event_170_7,case_170,Perform Audit Trails,2023-07-08 11:08:29.089819
+event_170_8,case_170,Generate Financial Reports,2023-07-16 11:04:31.964591
+event_170_1,case_170,Receive Invoice,2023-09-26 15:16:24.474974
+event_170_4,case_170,Process Vendor Queries,2023-11-23 20:56:07.451102
+event_171_7,case_171,Archive Documentation,2023-02-03 04:18:57.089283
+event_171_3,case_171,Reconcile Accounts,2023-02-07 05:33:21.847631
+event_171_8,case_171,Conduct Periodic Reviews,2023-03-02 00:49:37.617881
+event_171_6,case_171,Authorize Expenditure,2023-04-15 03:59:40.455022
+event_171_1,case_171,Receive Invoice,2023-04-21 13:19:24.774416
+event_171_4,case_171,Process Vendor Queries,2023-06-02 03:54:49.705376
+event_171_4,case_171,Verify Transaction Compliance,2023-08-07 07:33:35.153508
+event_171_5,case_171,Maintain Vendor Accounts,2023-08-10 10:07:51.323239
+event_171_2,case_171,Approve Payment,2023-11-18 03:50:24.175092
+event_171_5,case_171,Update Ledger,2023-11-26 08:27:09.742080
+event_172_7,case_172,Archive Documentation,2023-02-05 11:50:02.396170
+event_172_6,case_172,Perform Audit Trails,2023-02-09 22:36:00.303197
+event_172_6,case_172,Resolve Discrepancies,2023-02-11 11:03:58.795562
+event_172_3,case_172,Reconcile Accounts,2023-03-24 04:04:37.369133
+event_172_1,case_172,Receive Invoice,2023-04-03 09:04:13.377791
+event_172_4,case_172,Verify Transaction Compliance,2023-04-29 21:40:21.217183
+event_172_2,case_172,Validate Invoice,2023-09-04 01:06:40.464930
+event_172_5,case_172,Maintain Vendor Accounts,2023-10-31 14:28:01.545770
+event_172_8,case_172,Generate Financial Reports,2023-11-22 15:17:52.927750
+event_172_7,case_172,Perform Audit Trails,2023-11-27 07:25:09.668187
+event_173_4,case_173,Verify Transaction Compliance,2023-01-06 00:54:37.036621
+event_173_3,case_173,Reconcile Accounts,2023-02-15 02:36:31.620167
+event_173_7,case_173,Perform Audit Trails,2023-02-19 16:50:04.273107
+event_173_1,case_173,Receive Invoice,2023-04-12 01:11:04.010058
+event_173_5,case_173,Update Ledger,2023-06-20 23:15:48.054133
+event_173_8,case_173,Generate Financial Reports,2023-07-25 03:32:34.607538
+event_173_6,case_173,Resolve Discrepancies,2023-10-12 17:38:55.460558
+event_173_2,case_173,Validate Invoice,2023-12-05 09:45:50.186448
+event_174_4,case_174,Verify Transaction Compliance,2023-01-03 14:29:30.584706
+event_174_6,case_174,Resolve Discrepancies,2023-02-25 16:29:04.073269
+event_174_8,case_174,Generate Financial Reports,2023-04-06 21:50:28.671626
+event_174_5,case_174,Update Ledger,2023-05-20 02:07:20.297139
+event_174_3,case_174,Execute Payment,2023-06-14 09:33:39.558628
+event_174_6,case_174,Authorize Expenditure,2023-06-21 16:26:16.427224
+event_174_7,case_174,Perform Audit Trails,2023-07-06 04:30:17.193467
+event_174_2,case_174,Validate Invoice,2023-09-06 18:42:59.833966
+event_174_1,case_174,Receive Invoice,2023-10-23 15:35:03.108476
+event_175_2,case_175,Validate Invoice,2023-02-18 23:22:41.129731
+event_175_7,case_175,Archive Documentation,2023-03-11 18:08:46.474297
+event_175_5,case_175,Maintain Vendor Accounts,2023-04-04 21:53:19.644874
+event_175_4,case_175,Process Vendor Queries,2023-04-22 05:30:28.737243
+event_175_3,case_175,Execute Payment,2023-05-29 09:19:12.031606
+event_175_1,case_175,Receive Invoice,2023-06-04 09:18:56.845523
+event_175_8,case_175,Conduct Periodic Reviews,2023-08-31 16:33:38.732246
+event_175_6,case_175,Resolve Discrepancies,2023-09-28 20:36:20.848760
+event_176_1,case_176,Receive Invoice,2023-01-01 00:40:36.832179
+event_176_2,case_176,Approve Payment,2023-02-02 17:31:53.559116
+event_176_4,case_176,Process Vendor Queries,2023-03-08 08:37:52.208515
+event_176_6,case_176,Resolve Discrepancies,2023-03-11 08:06:20.526539
+event_176_3,case_176,Reconcile Accounts,2023-07-12 16:47:12.877446
+event_176_6,case_176,Authorize Expenditure,2023-07-19 06:18:13.448456
+event_176_8,case_176,Generate Financial Reports,2023-09-30 20:04:15.762755
+event_176_5,case_176,Update Ledger,2023-10-11 19:13:54.852015
+event_176_7,case_176,Perform Audit Trails,2023-11-12 21:34:25.664492
+event_177_8,case_177,Generate Financial Reports,2023-05-22 02:49:59.131027
+event_177_4,case_177,Process Vendor Queries,2023-05-30 03:10:49.801089
+event_177_3,case_177,Execute Payment,2023-07-01 13:08:25.845078
+event_177_5,case_177,Maintain Vendor Accounts,2023-08-23 05:17:40.190893
+event_177_6,case_177,Resolve Discrepancies,2023-08-28 19:39:31.352585
+event_177_1,case_177,Receive Invoice,2023-10-26 14:47:38.801567
+event_177_7,case_177,Perform Audit Trails,2023-11-03 04:00:59.633774
+event_177_2,case_177,Approve Payment,2023-11-28 10:10:54.631129
+event_178_5,case_178,Update Ledger,2023-01-03 14:20:07.882710
+event_178_1,case_178,Receive Invoice,2023-02-24 09:31:55.469102
+event_178_8,case_178,Generate Financial Reports,2023-03-04 17:22:49.440776
+event_178_4,case_178,Process Vendor Queries,2023-05-15 04:59:15.559283
+event_178_6,case_178,Resolve Discrepancies,2023-07-06 21:19:15.658048
+event_178_7,case_178,Archive Documentation,2023-08-14 06:07:15.173140
+event_178_2,case_178,Validate Invoice,2023-08-25 06:26:13.827925
+event_178_3,case_178,Reconcile Accounts,2023-09-14 11:33:00.118212
+event_178_3,case_178,Execute Payment,2023-10-30 08:34:08.041690
+event_179_5,case_179,Update Ledger,2023-01-11 21:43:06.537963
+event_179_4,case_179,Verify Transaction Compliance,2023-02-11 09:06:14.914567
+event_179_2,case_179,Approve Payment,2023-04-19 08:46:11.938700
+event_179_1,case_179,Receive Invoice,2023-06-01 21:44:48.630796
+event_179_7,case_179,Perform Audit Trails,2023-07-07 17:52:57.560073
+event_179_2,case_179,Validate Invoice,2023-09-04 03:49:48.169802
+event_179_8,case_179,Generate Financial Reports,2023-09-27 18:33:23.294760
+event_179_6,case_179,Resolve Discrepancies,2023-09-28 19:41:20.658998
+event_179_3,case_179,Execute Payment,2023-10-06 09:40:51.419935
+event_18_5,case_18,Maintain Vendor Accounts,2023-01-01 19:22:34.033992
+event_18_2,case_18,Validate Invoice,2023-02-23 04:56:33.829156
+event_18_8,case_18,Conduct Periodic Reviews,2023-05-07 01:15:59.935910
+event_18_1,case_18,Receive Invoice,2023-05-15 09:43:10.232202
+event_18_6,case_18,Resolve Discrepancies,2023-06-12 00:08:12.540329
+event_18_7,case_18,Archive Documentation,2023-08-25 08:28:34.150731
+event_18_3,case_18,Execute Payment,2023-10-21 20:52:04.587179
+event_18_3,case_18,Reconcile Accounts,2023-10-28 05:51:48.229391
+event_18_4,case_18,Verify Transaction Compliance,2023-12-05 09:30:21.449428
+event_18_3,case_18,Execute Payment,2023-12-08 06:07:42.896326
+event_180_5,case_180,Update Ledger,2023-03-09 01:41:05.713467
+event_180_4,case_180,Process Vendor Queries,2023-04-12 14:47:11.480747
+event_180_6,case_180,Authorize Expenditure,2023-04-24 20:45:42.775332
+event_180_1,case_180,Receive Invoice,2023-04-27 21:52:06.559108
+event_180_6,case_180,Resolve Discrepancies,2023-04-28 00:02:26.268423
+event_180_7,case_180,Perform Audit Trails,2023-07-12 10:23:18.666267
+event_180_2,case_180,Validate Invoice,2023-08-14 16:51:33.812913
+event_180_8,case_180,Conduct Periodic Reviews,2023-09-22 00:44:25.882597
+event_180_2,case_180,Validate Invoice,2023-10-03 05:25:34.361474
+event_180_3,case_180,Execute Payment,2023-10-15 22:06:09.041605
+event_180_2,case_180,Approve Payment,2023-10-29 07:18:17.461685
+event_181_2,case_181,Approve Payment,2023-02-20 20:02:36.180105
+event_181_5,case_181,Update Ledger,2023-02-27 05:49:03.266242
+event_181_1,case_181,Receive Invoice,2023-03-28 16:32:12.800477
+event_181_3,case_181,Reconcile Accounts,2023-04-16 15:04:20.635914
+event_181_6,case_181,Authorize Expenditure,2023-05-26 19:34:56.865935
+event_181_4,case_181,Verify Transaction Compliance,2023-06-14 19:59:26.565591
+event_181_3,case_181,Execute Payment,2023-09-20 16:20:28.484657
+event_181_8,case_181,Generate Financial Reports,2023-11-02 20:33:20.220905
+event_181_3,case_181,Execute Payment,2023-11-20 01:12:16.159062
+event_181_7,case_181,Archive Documentation,2023-11-28 19:05:24.776071
+event_182_6,case_182,Resolve Discrepancies,2023-02-07 08:24:49.313540
+event_182_3,case_182,Execute Payment,2023-05-13 08:42:04.449554
+event_182_7,case_182,Archive Documentation,2023-06-15 21:58:34.976824
+event_182_4,case_182,Process Vendor Queries,2023-09-09 20:10:22.010282
+event_182_1,case_182,Receive Invoice,2023-09-24 18:36:25.700402
+event_182_2,case_182,Approve Payment,2023-10-15 19:17:48.776639
+event_182_5,case_182,Update Ledger,2023-11-06 07:06:04.894844
+event_182_8,case_182,Generate Financial Reports,2023-11-23 16:44:42.407275
+event_183_1,case_183,Receive Invoice,2023-02-03 14:10:03.097577
+event_183_3,case_183,Execute Payment,2023-03-05 13:36:59.606031
+event_183_7,case_183,Perform Audit Trails,2023-03-09 15:45:03.622026
+event_183_4,case_183,Process Vendor Queries,2023-03-13 00:43:04.438572
+event_183_3,case_183,Reconcile Accounts,2023-04-05 23:07:59.209061
+event_183_3,case_183,Reconcile Accounts,2023-08-18 20:21:20.172696
+event_183_5,case_183,Maintain Vendor Accounts,2023-09-10 10:48:22.444024
+event_183_8,case_183,Conduct Periodic Reviews,2023-09-11 02:05:55.532623
+event_183_6,case_183,Resolve Discrepancies,2023-11-06 04:52:30.881465
+event_183_2,case_183,Validate Invoice,2023-12-07 16:10:19.708277
+event_184_3,case_184,Reconcile Accounts,2023-01-03 10:38:26.291738
+event_184_2,case_184,Approve Payment,2023-01-07 06:45:59.416306
+event_184_1,case_184,Receive Invoice,2023-01-08 15:06:41.779642
+event_184_5,case_184,Update Ledger,2023-02-27 08:49:25.644732
+event_184_4,case_184,Process Vendor Queries,2023-03-29 23:16:05.660995
+event_184_8,case_184,Generate Financial Reports,2023-04-14 17:37:09.748478
+event_184_6,case_184,Resolve Discrepancies,2023-06-29 00:53:20.861479
+event_184_6,case_184,Authorize Expenditure,2023-09-06 18:48:25.692384
+event_184_7,case_184,Perform Audit Trails,2023-12-08 21:29:56.612065
+event_185_2,case_185,Validate Invoice,2023-01-27 08:25:41.370109
+event_185_5,case_185,Maintain Vendor Accounts,2023-04-09 07:10:24.111535
+event_185_1,case_185,Receive Invoice,2023-04-25 02:18:56.143368
+event_185_4,case_185,Process Vendor Queries,2023-05-20 17:14:22.024570
+event_185_3,case_185,Reconcile Accounts,2023-05-26 14:31:22.824339
+event_185_6,case_185,Resolve Discrepancies,2023-07-08 03:41:54.498408
+event_185_7,case_185,Perform Audit Trails,2023-08-17 16:26:03.075533
+event_185_8,case_185,Generate Financial Reports,2023-10-15 18:12:04.899504
+event_186_4,case_186,Verify Transaction Compliance,2023-01-08 03:38:24.395103
+event_186_4,case_186,Process Vendor Queries,2023-02-10 09:01:56.861184
+event_186_6,case_186,Resolve Discrepancies,2023-03-11 22:37:46.129800
+event_186_4,case_186,Verify Transaction Compliance,2023-04-06 08:28:17.671187
+event_186_8,case_186,Generate Financial Reports,2023-04-07 07:53:30.010117
+event_186_6,case_186,Authorize Expenditure,2023-04-19 02:48:47.306862
+event_186_2,case_186,Validate Invoice,2023-07-02 12:34:33.678039
+event_186_7,case_186,Perform Audit Trails,2023-07-10 08:47:43.909984
+event_186_1,case_186,Receive Invoice,2023-07-24 12:43:32.024940
+event_186_3,case_186,Execute Payment,2023-08-22 11:13:31.097797
+event_186_5,case_186,Maintain Vendor Accounts,2023-09-19 23:07:07.942951
+event_187_3,case_187,Execute Payment,2023-01-01 05:26:42.496723
+event_187_2,case_187,Approve Payment,2023-01-02 19:19:27.588930
+event_187_4,case_187,Verify Transaction Compliance,2023-01-05 17:35:20.870546
+event_187_1,case_187,Receive Invoice,2023-02-22 17:13:24.623535
+event_187_7,case_187,Perform Audit Trails,2023-02-27 02:14:58.363881
+event_187_3,case_187,Reconcile Accounts,2023-06-07 05:38:02.634917
+event_187_5,case_187,Maintain Vendor Accounts,2023-06-12 20:38:13.491066
+event_187_6,case_187,Resolve Discrepancies,2023-07-08 07:04:06.476496
+event_187_2,case_187,Validate Invoice,2023-08-12 14:21:46.702429
+event_187_7,case_187,Archive Documentation,2023-08-19 05:43:54.732515
+event_187_8,case_187,Generate Financial Reports,2023-11-06 18:40:35.744557
+event_188_1,case_188,Receive Invoice,2023-03-14 05:25:23.641109
+event_188_2,case_188,Approve Payment,2023-03-24 10:25:40.193186
+event_188_8,case_188,Generate Financial Reports,2023-04-01 00:47:29.005066
+event_188_7,case_188,Archive Documentation,2023-04-06 08:23:09.562809
+event_188_5,case_188,Maintain Vendor Accounts,2023-05-03 20:36:34.859875
+event_188_3,case_188,Reconcile Accounts,2023-05-24 06:23:41.224734
+event_188_6,case_188,Resolve Discrepancies,2023-11-23 14:29:09.976753
+event_188_4,case_188,Verify Transaction Compliance,2023-11-24 14:57:42.519850
+event_189_3,case_189,Reconcile Accounts,2023-02-16 05:24:33.206373
+event_189_5,case_189,Update Ledger,2023-03-14 23:31:02.784417
+event_189_1,case_189,Receive Invoice,2023-06-12 14:46:51.211355
+event_189_6,case_189,Authorize Expenditure,2023-08-20 14:08:51.847335
+event_189_7,case_189,Perform Audit Trails,2023-09-10 10:47:51.129801
+event_189_2,case_189,Approve Payment,2023-10-04 20:02:02.604099
+event_189_4,case_189,Verify Transaction Compliance,2023-10-29 05:34:18.760516
+event_189_8,case_189,Conduct Periodic Reviews,2023-11-30 02:05:35.432610
+event_19_8,case_19,Generate Financial Reports,2023-01-20 18:31:56.646536
+event_19_5,case_19,Maintain Vendor Accounts,2023-05-14 13:44:13.801574
+event_19_1,case_19,Receive Invoice,2023-07-08 18:41:08.326437
+event_19_3,case_19,Execute Payment,2023-07-15 10:53:14.558205
+event_19_4,case_19,Verify Transaction Compliance,2023-08-05 15:49:06.333760
+event_19_2,case_19,Validate Invoice,2023-08-30 12:25:11.715313
+event_19_6,case_19,Authorize Expenditure,2023-09-24 10:59:35.085421
+event_19_7,case_19,Perform Audit Trails,2023-12-06 13:36:19.294556
+event_190_4,case_190,Verify Transaction Compliance,2023-02-04 08:21:48.174081
+event_190_3,case_190,Execute Payment,2023-03-21 14:22:46.285458
+event_190_5,case_190,Maintain Vendor Accounts,2023-04-30 04:25:17.715816
+event_190_1,case_190,Receive Invoice,2023-06-28 16:00:36.017441
+event_190_6,case_190,Resolve Discrepancies,2023-08-04 13:42:43.030670
+event_190_7,case_190,Perform Audit Trails,2023-08-07 08:05:10.589102
+event_190_8,case_190,Conduct Periodic Reviews,2023-08-10 01:10:04.132555
+event_190_2,case_190,Validate Invoice,2023-08-16 04:07:37.370461
+event_190_5,case_190,Update Ledger,2023-09-06 23:55:48.434949
+event_190_3,case_190,Reconcile Accounts,2023-10-06 17:10:36.188071
+event_190_3,case_190,Execute Payment,2023-12-03 04:53:22.951875
+event_191_7,case_191,Perform Audit Trails,2023-01-16 19:39:36.939543
+event_191_5,case_191,Update Ledger,2023-01-21 04:47:19.632852
+event_191_2,case_191,Approve Payment,2023-01-29 13:40:13.244332
+event_191_4,case_191,Verify Transaction Compliance,2023-06-01 08:03:21.905680
+event_191_6,case_191,Resolve Discrepancies,2023-07-03 17:11:45.747515
+event_191_3,case_191,Reconcile Accounts,2023-08-17 11:03:31.879708
+event_191_1,case_191,Receive Invoice,2023-10-16 05:52:18.270450
+event_191_8,case_191,Generate Financial Reports,2023-11-09 16:17:17.038279
+event_192_2,case_192,Validate Invoice,2023-01-28 19:39:22.104798
+event_192_7,case_192,Archive Documentation,2023-03-03 18:30:00.682825
+event_192_6,case_192,Resolve Discrepancies,2023-04-16 14:06:23.720023
+event_192_5,case_192,Update Ledger,2023-04-24 00:40:35.340581
+event_192_8,case_192,Conduct Periodic Reviews,2023-05-15 16:25:14.414795
+event_192_4,case_192,Verify Transaction Compliance,2023-10-27 17:10:54.816143
+event_192_3,case_192,Reconcile Accounts,2023-10-28 18:54:58.587825
+event_192_1,case_192,Receive Invoice,2023-11-04 20:54:59.197337
+event_193_1,case_193,Receive Invoice,2023-02-05 01:20:13.713207
+event_193_2,case_193,Validate Invoice,2023-04-13 01:52:27.374110
+event_193_3,case_193,Execute Payment,2023-05-20 03:37:35.559414
+event_193_4,case_193,Process Vendor Queries,2023-05-27 07:00:47.194935
+event_193_7,case_193,Archive Documentation,2023-06-30 08:28:11.474278
+event_193_8,case_193,Generate Financial Reports,2023-10-13 05:12:12.873079
+event_193_6,case_193,Authorize Expenditure,2023-10-21 21:49:18.354358
+event_193_5,case_193,Update Ledger,2023-11-20 02:47:42.429220
+event_194_6,case_194,Resolve Discrepancies,2023-05-21 01:10:32.003904
+event_194_8,case_194,Generate Financial Reports,2023-06-18 10:00:05.525131
+event_194_5,case_194,Maintain Vendor Accounts,2023-07-05 22:03:49.596833
+event_194_7,case_194,Perform Audit Trails,2023-07-17 17:46:22.464394
+event_194_3,case_194,Reconcile Accounts,2023-07-29 20:41:24.596492
+event_194_1,case_194,Receive Invoice,2023-08-17 13:05:19.643781
+event_194_2,case_194,Approve Payment,2023-10-29 21:03:29.151825
+event_194_4,case_194,Process Vendor Queries,2023-11-03 18:14:51.755567
+event_195_8,case_195,Conduct Periodic Reviews,2023-01-26 09:03:25.768172
+event_195_3,case_195,Execute Payment,2023-02-06 01:55:47.380441
+event_195_2,case_195,Validate Invoice,2023-04-02 22:43:41.795362
+event_195_6,case_195,Resolve Discrepancies,2023-04-05 12:23:11.029461
+event_195_5,case_195,Update Ledger,2023-05-23 08:56:52.889242
+event_195_4,case_195,Process Vendor Queries,2023-05-24 21:56:33.862018
+event_195_7,case_195,Perform Audit Trails,2023-09-03 08:32:46.273859
+event_195_1,case_195,Receive Invoice,2023-09-09 18:31:44.043283
+event_196_2,case_196,Validate Invoice,2023-02-02 09:30:13.955898
+event_196_6,case_196,Authorize Expenditure,2023-02-13 06:29:37.030449
+event_196_1,case_196,Receive Invoice,2023-04-06 12:56:08.145334
+event_196_3,case_196,Execute Payment,2023-05-08 18:51:24.192372
+event_196_5,case_196,Update Ledger,2023-07-05 13:09:16.228518
+event_196_7,case_196,Perform Audit Trails,2023-08-27 01:10:25.650743
+event_196_4,case_196,Verify Transaction Compliance,2023-10-07 12:03:00.147309
+event_196_8,case_196,Generate Financial Reports,2023-10-19 18:54:53.548988
+event_196_6,case_196,Resolve Discrepancies,2023-12-09 05:34:17.162845
+event_197_5,case_197,Maintain Vendor Accounts,2023-01-12 06:13:48.944790
+event_197_8,case_197,Conduct Periodic Reviews,2023-02-23 21:04:33.736517
+event_197_7,case_197,Archive Documentation,2023-03-30 16:36:02.998215
+event_197_6,case_197,Authorize Expenditure,2023-04-06 21:57:43.730246
+event_197_4,case_197,Verify Transaction Compliance,2023-04-12 16:57:01.844181
+event_197_6,case_197,Resolve Discrepancies,2023-05-03 01:55:35.643757
+event_197_3,case_197,Reconcile Accounts,2023-05-31 07:54:06.644888
+event_197_1,case_197,Receive Invoice,2023-07-25 12:45:47.260995
+event_197_2,case_197,Validate Invoice,2023-09-16 14:24:29.473419
+event_198_7,case_198,Perform Audit Trails,2023-04-06 23:12:37.923031
+event_198_7,case_198,Archive Documentation,2023-04-30 23:31:29.453536
+event_198_4,case_198,Verify Transaction Compliance,2023-06-06 03:07:13.331126
+event_198_3,case_198,Execute Payment,2023-07-06 14:40:45.650664
+event_198_2,case_198,Validate Invoice,2023-10-09 00:05:02.802949
+event_198_1,case_198,Receive Invoice,2023-10-10 22:13:56.610420
+event_198_5,case_198,Update Ledger,2023-11-05 05:16:13.818627
+event_198_6,case_198,Resolve Discrepancies,2023-11-08 20:12:40.241568
+event_198_8,case_198,Conduct Periodic Reviews,2023-12-08 16:57:32.456919
+event_199_5,case_199,Maintain Vendor Accounts,2023-01-15 03:45:37.573674
+event_199_4,case_199,Process Vendor Queries,2023-03-11 14:04:52.765977
+event_199_5,case_199,Update Ledger,2023-04-25 20:49:42.829531
+event_199_6,case_199,Authorize Expenditure,2023-05-12 07:31:38.386734
+event_199_1,case_199,Receive Invoice,2023-06-24 01:53:10.364941
+event_199_8,case_199,Conduct Periodic Reviews,2023-06-29 01:41:41.608754
+event_199_7,case_199,Perform Audit Trails,2023-07-04 02:01:48.522467
+event_199_5,case_199,Update Ledger,2023-07-06 18:13:23.881181
+event_199_3,case_199,Reconcile Accounts,2023-08-21 17:21:00.470947
+event_199_2,case_199,Approve Payment,2023-10-24 08:18:36.712230
+event_2_4,case_2,Process Vendor Queries,2023-01-19 16:38:21.228449
+event_2_3,case_2,Execute Payment,2023-02-04 09:22:13.750792
+event_2_5,case_2,Update Ledger,2023-03-05 00:12:11.192835
+event_2_5,case_2,Maintain Vendor Accounts,2023-07-04 09:08:04.816502
+event_2_4,case_2,Process Vendor Queries,2023-07-30 17:42:44.214866
+event_2_2,case_2,Validate Invoice,2023-08-02 15:33:30.111304
+event_2_7,case_2,Archive Documentation,2023-09-06 21:10:53.533216
+event_2_6,case_2,Resolve Discrepancies,2023-10-06 02:34:42.795379
+event_2_8,case_2,Generate Financial Reports,2023-11-18 01:15:42.635635
+event_2_1,case_2,Receive Invoice,2023-11-24 21:50:45.277920
+event_20_8,case_20,Generate Financial Reports,2023-01-12 05:06:39.705645
+event_20_2,case_20,Validate Invoice,2023-01-27 02:40:08.479051
+event_20_3,case_20,Execute Payment,2023-03-17 22:37:24.438394
+event_20_4,case_20,Process Vendor Queries,2023-05-01 04:19:37.375070
+event_20_1,case_20,Receive Invoice,2023-06-02 10:15:28.833927
+event_20_6,case_20,Authorize Expenditure,2023-06-15 13:48:49.182039
+event_20_7,case_20,Perform Audit Trails,2023-09-09 19:04:44.336646
+event_20_5,case_20,Update Ledger,2023-11-21 23:25:42.120631
+event_200_3,case_200,Reconcile Accounts,2023-01-21 23:05:50.628553
+event_200_2,case_200,Validate Invoice,2023-07-14 05:42:56.031225
+event_200_1,case_200,Receive Invoice,2023-07-18 16:05:25.551179
+event_200_5,case_200,Update Ledger,2023-07-19 05:17:21.778939
+event_200_6,case_200,Authorize Expenditure,2023-08-05 14:33:50.959118
+event_200_4,case_200,Process Vendor Queries,2023-08-05 21:34:59.708627
+event_200_8,case_200,Generate Financial Reports,2023-08-10 04:01:42.796644
+event_200_7,case_200,Perform Audit Trails,2023-08-11 16:34:53.376586
+event_200_2,case_200,Approve Payment,2023-11-22 01:30:31.089307
+event_201_8,case_201,Generate Financial Reports,2023-04-18 13:25:40.268460
+event_201_7,case_201,Perform Audit Trails,2023-05-18 15:02:33.721501
+event_201_3,case_201,Reconcile Accounts,2023-05-23 18:45:26.290290
+event_201_2,case_201,Approve Payment,2023-06-01 16:42:59.704906
+event_201_1,case_201,Receive Invoice,2023-07-28 01:29:08.821709
+event_201_5,case_201,Update Ledger,2023-08-27 01:07:53.288388
+event_201_4,case_201,Process Vendor Queries,2023-09-08 02:47:44.841649
+event_201_6,case_201,Authorize Expenditure,2023-11-01 06:31:04.248898
+event_202_3,case_202,Execute Payment,2023-01-26 06:19:01.143417
+event_202_6,case_202,Authorize Expenditure,2023-07-01 02:30:17.487545
+event_202_4,case_202,Verify Transaction Compliance,2023-08-19 11:18:39.292346
+event_202_2,case_202,Approve Payment,2023-10-08 07:50:59.634891
+event_202_8,case_202,Generate Financial Reports,2023-11-18 14:59:25.126908
+event_202_1,case_202,Receive Invoice,2023-11-20 17:18:48.250378
+event_202_5,case_202,Maintain Vendor Accounts,2023-11-21 15:47:50.349624
+event_202_7,case_202,Archive Documentation,2023-11-30 15:40:48.717197
+event_203_7,case_203,Perform Audit Trails,2023-02-21 12:58:19.304034
+event_203_6,case_203,Authorize Expenditure,2023-03-17 04:42:30.481297
+event_203_3,case_203,Reconcile Accounts,2023-06-18 12:53:34.566270
+event_203_5,case_203,Update Ledger,2023-08-28 23:29:22.051049
+event_203_2,case_203,Approve Payment,2023-09-23 08:30:01.325197
+event_203_8,case_203,Conduct Periodic Reviews,2023-10-30 07:19:31.608840
+event_203_4,case_203,Process Vendor Queries,2023-11-02 00:28:28.915357
+event_203_1,case_203,Receive Invoice,2023-12-09 04:57:43.029155
+event_204_1,case_204,Receive Invoice,2023-01-15 09:27:33.023866
+event_204_5,case_204,Maintain Vendor Accounts,2023-02-10 00:25:35.004775
+event_204_8,case_204,Conduct Periodic Reviews,2023-03-17 09:18:49.443323
+event_204_4,case_204,Process Vendor Queries,2023-03-27 07:35:57.772064
+event_204_7,case_204,Perform Audit Trails,2023-03-30 13:59:55.219937
+event_204_2,case_204,Approve Payment,2023-08-29 13:22:12.981165
+event_204_3,case_204,Execute Payment,2023-11-03 11:28:25.865790
+event_204_6,case_204,Resolve Discrepancies,2023-11-08 02:09:16.407212
+event_205_1,case_205,Receive Invoice,2023-03-09 20:53:45.884060
+event_205_7,case_205,Archive Documentation,2023-03-19 16:38:06.516720
+event_205_6,case_205,Resolve Discrepancies,2023-03-24 17:06:51.447045
+event_205_2,case_205,Approve Payment,2023-05-16 12:54:16.037825
+event_205_8,case_205,Conduct Periodic Reviews,2023-06-24 13:06:11.636565
+event_205_3,case_205,Execute Payment,2023-08-23 10:29:52.033566
+event_205_4,case_205,Verify Transaction Compliance,2023-08-30 15:27:38.595144
+event_205_5,case_205,Maintain Vendor Accounts,2023-09-26 07:59:04.604521
+event_205_5,case_205,Maintain Vendor Accounts,2023-11-04 21:33:26.390750
+event_205_4,case_205,Verify Transaction Compliance,2023-11-06 04:46:03.180233
+event_206_2,case_206,Validate Invoice,2023-01-10 04:17:29.576782
+event_206_6,case_206,Resolve Discrepancies,2023-04-05 12:09:57.348158
+event_206_4,case_206,Process Vendor Queries,2023-09-08 03:57:03.415034
+event_206_1,case_206,Receive Invoice,2023-09-22 04:57:39.720201
+event_206_7,case_206,Archive Documentation,2023-09-22 12:00:18.423939
+event_206_8,case_206,Conduct Periodic Reviews,2023-10-03 10:48:29.182956
+event_206_3,case_206,Execute Payment,2023-10-27 02:51:46.318063
+event_206_5,case_206,Maintain Vendor Accounts,2023-10-27 21:43:38.688912
+event_207_2,case_207,Approve Payment,2023-02-20 06:27:46.445250
+event_207_5,case_207,Update Ledger,2023-05-23 05:44:23.577156
+event_207_4,case_207,Verify Transaction Compliance,2023-05-24 03:09:40.364708
+event_207_8,case_207,Generate Financial Reports,2023-06-17 00:27:44.544400
+event_207_6,case_207,Authorize Expenditure,2023-06-18 15:13:35.034350
+event_207_1,case_207,Receive Invoice,2023-06-21 01:05:06.513649
+event_207_7,case_207,Archive Documentation,2023-09-03 03:32:27.421799
+event_207_3,case_207,Execute Payment,2023-11-19 22:48:37.407817
+event_208_2,case_208,Approve Payment,2023-05-28 23:10:31.420911
+event_208_1,case_208,Receive Invoice,2023-07-29 17:57:54.526123
+event_208_3,case_208,Execute Payment,2023-07-31 13:15:44.955606
+event_208_4,case_208,Verify Transaction Compliance,2023-08-06 14:03:48.965844
+event_208_7,case_208,Perform Audit Trails,2023-08-29 22:49:59.325964
+event_208_5,case_208,Maintain Vendor Accounts,2023-09-07 18:45:03.354337
+event_208_6,case_208,Resolve Discrepancies,2023-11-18 15:20:18.688365
+event_208_8,case_208,Generate Financial Reports,2023-12-08 16:26:24.262170
+event_209_6,case_209,Authorize Expenditure,2023-01-21 00:18:55.335673
+event_209_4,case_209,Process Vendor Queries,2023-03-10 16:09:52.544600
+event_209_5,case_209,Maintain Vendor Accounts,2023-04-29 00:29:38.758711
+event_209_6,case_209,Resolve Discrepancies,2023-05-10 11:20:57.688677
+event_209_8,case_209,Conduct Periodic Reviews,2023-05-21 17:48:07.951377
+event_209_1,case_209,Receive Invoice,2023-06-09 14:26:13.284495
+event_209_5,case_209,Update Ledger,2023-06-19 19:59:39.258477
+event_209_7,case_209,Archive Documentation,2023-07-20 14:05:06.255833
+event_209_5,case_209,Update Ledger,2023-07-24 04:28:46.358953
+event_209_3,case_209,Reconcile Accounts,2023-09-19 23:57:56.228089
+event_209_7,case_209,Perform Audit Trails,2023-10-07 10:53:27.775747
+event_209_2,case_209,Validate Invoice,2023-11-05 05:17:21.560177
+event_21_3,case_21,Verify Transaction Compliance,2023-01-10 17:45:54.411479
+event_21_7,case_21,Perform Audit Trails,2023-02-18 00:08:20.857229
+event_21_5,case_21,Maintain Vendor Accounts,2023-02-20 08:05:10.710021
+event_21_2,case_21,Approve Payment,2023-03-10 10:53:12.592564
+event_21_4,case_21,Process Vendor Queries,2023-05-16 15:11:29.447798
+event_21_4,case_21,Verify Transaction Compliance,2023-06-02 18:46:55.551021
+event_21_6,case_21,Resolve Discrepancies,2023-06-18 08:32:28.888625
+event_21_8,case_21,Generate Financial Reports,2023-07-06 01:23:22.238348
+event_21_3,case_21,Execute Payment,2023-08-19 10:58:17.120807
+event_21_1,case_21,Receive Invoice,2023-11-20 04:59:43.307508
+event_210_6,case_210,Authorize Expenditure,2023-02-04 05:18:47.016407
+event_210_6,case_210,Resolve Discrepancies,2023-03-14 21:32:28.910502
+event_210_7,case_210,Archive Documentation,2023-04-01 10:48:30.644411
+event_210_4,case_210,Verify Transaction Compliance,2023-04-06 06:02:04.188741
+event_210_5,case_210,Maintain Vendor Accounts,2023-04-19 12:31:41.122176
+event_210_2,case_210,Validate Invoice,2023-05-13 21:40:38.616585
+event_210_1,case_210,Receive Invoice,2023-05-29 23:21:46.970100
+event_210_8,case_210,Generate Financial Reports,2023-06-06 04:42:02.217986
+event_210_3,case_210,Reconcile Accounts,2023-10-07 10:18:53.313212
+event_211_2,case_211,Approve Payment,2023-02-17 18:55:39.450169
+event_211_7,case_211,Archive Documentation,2023-04-22 07:50:28.060315
+event_211_6,case_211,Resolve Discrepancies,2023-07-04 15:02:38.867265
+event_211_8,case_211,Generate Financial Reports,2023-08-24 05:49:38.013767
+event_211_1,case_211,Receive Invoice,2023-09-19 06:07:45.177063
+event_211_5,case_211,Maintain Vendor Accounts,2023-09-24 01:06:15.363233
+event_211_4,case_211,Process Vendor Queries,2023-11-18 07:28:56.567318
+event_211_3,case_211,Execute Payment,2023-12-02 05:50:22.436710
+event_212_6,case_212,Resolve Discrepancies,2023-01-15 22:28:26.925817
+event_212_6,case_212,Authorize Expenditure,2023-03-08 04:39:03.571723
+event_212_2,case_212,Approve Payment,2023-05-14 21:04:28.489217
+event_212_5,case_212,Maintain Vendor Accounts,2023-05-15 23:43:55.801374
+event_212_3,case_212,Reconcile Accounts,2023-06-09 12:30:36.727146
+event_212_4,case_212,Verify Transaction Compliance,2023-06-13 20:50:41.760045
+event_212_2,case_212,Validate Invoice,2023-06-20 12:59:36.237024
+event_212_8,case_212,Conduct Periodic Reviews,2023-06-26 21:27:57.053923
+event_212_1,case_212,Receive Invoice,2023-07-26 13:50:54.470317
+event_212_4,case_212,Process Vendor Queries,2023-08-21 04:38:55.863207
+event_212_7,case_212,Perform Audit Trails,2023-09-02 19:20:52.278239
+event_212_6,case_212,Resolve Discrepancies,2023-09-06 23:07:00.992172
+event_213_3,case_213,Reconcile Accounts,2023-01-09 00:30:23.948547
+event_213_1,case_213,Receive Invoice,2023-01-10 08:46:47.058238
+event_213_7,case_213,Perform Audit Trails,2023-03-10 05:49:39.547693
+event_213_4,case_213,Verify Transaction Compliance,2023-04-28 07:42:34.143068
+event_213_8,case_213,Generate Financial Reports,2023-06-20 10:44:58.012674
+event_213_6,case_213,Resolve Discrepancies,2023-07-17 21:22:32.797888
+event_213_2,case_213,Validate Invoice,2023-07-24 08:34:58.026377
+event_213_5,case_213,Update Ledger,2023-11-09 01:12:55.652315
+event_214_4,case_214,Verify Transaction Compliance,2023-03-24 00:27:52.272116
+event_214_8,case_214,Generate Financial Reports,2023-06-09 02:33:36.333508
+event_214_7,case_214,Archive Documentation,2023-07-16 14:07:26.797450
+event_214_2,case_214,Validate Invoice,2023-08-27 20:22:10.348583
+event_214_6,case_214,Authorize Expenditure,2023-09-14 06:52:57.215488
+event_214_1,case_214,Receive Invoice,2023-10-01 21:03:19.580081
+event_214_3,case_214,Execute Payment,2023-10-02 02:12:07.504167
+event_214_7,case_214,Perform Audit Trails,2023-10-25 15:16:23.713214
+event_214_5,case_214,Maintain Vendor Accounts,2023-11-10 07:17:54.583164
+event_215_7,case_215,Archive Documentation,2023-01-05 02:34:15.289529
+event_215_4,case_215,Verify Transaction Compliance,2023-02-21 04:50:48.605594
+event_215_6,case_215,Resolve Discrepancies,2023-03-04 10:55:11.848453
+event_215_1,case_215,Receive Invoice,2023-04-04 22:37:45.537841
+event_215_3,case_215,Reconcile Accounts,2023-04-22 00:10:11.517460
+event_215_3,case_215,Execute Payment,2023-04-30 01:33:05.867250
+event_215_5,case_215,Update Ledger,2023-05-24 00:50:31.135009
+event_215_8,case_215,Generate Financial Reports,2023-06-27 10:32:50.254032
+event_215_2,case_215,Approve Payment,2023-10-18 23:10:25.124674
+event_216_2,case_216,Validate Invoice,2023-02-02 21:51:59.244857
+event_216_8,case_216,Generate Financial Reports,2023-02-27 10:51:15.640854
+event_216_1,case_216,Receive Invoice,2023-04-05 04:16:01.775847
+event_216_3,case_216,Execute Payment,2023-07-19 06:07:33.510832
+event_216_5,case_216,Update Ledger,2023-08-22 17:52:40.568419
+event_216_4,case_216,Process Vendor Queries,2023-09-05 21:53:10.394561
+event_216_6,case_216,Resolve Discrepancies,2023-11-27 01:30:08.587524
+event_216_7,case_216,Perform Audit Trails,2023-12-04 15:11:26.219404
+event_217_2,case_217,Validate Invoice,2023-01-30 08:43:35.686134
+event_217_4,case_217,Process Vendor Queries,2023-02-18 21:41:06.213583
+event_217_8,case_217,Conduct Periodic Reviews,2023-03-13 17:18:28.898282
+event_217_3,case_217,Execute Payment,2023-03-24 13:02:45.583006
+event_217_5,case_217,Update Ledger,2023-05-29 15:05:13.475724
+event_217_6,case_217,Authorize Expenditure,2023-06-09 01:17:12.035872
+event_217_7,case_217,Archive Documentation,2023-06-17 10:27:18.666669
+event_217_1,case_217,Receive Invoice,2023-08-18 19:34:45.587535
+event_218_5,case_218,Update Ledger,2023-01-22 01:51:11.706897
+event_218_6,case_218,Authorize Expenditure,2023-02-06 15:53:15.634124
+event_218_2,case_218,Validate Invoice,2023-03-05 03:32:48.110841
+event_218_1,case_218,Receive Invoice,2023-03-25 08:24:47.840536
+event_218_3,case_218,Reconcile Accounts,2023-06-13 00:20:25.333105
+event_218_8,case_218,Conduct Periodic Reviews,2023-07-14 10:04:56.826329
+event_218_4,case_218,Process Vendor Queries,2023-09-13 15:30:27.856267
+event_218_7,case_218,Perform Audit Trails,2023-10-02 14:43:57.317962
+event_218_2,case_218,Approve Payment,2023-10-09 12:16:35.978044
+event_219_1,case_219,Validate Invoice,2023-01-06 04:40:38.611945
+event_219_2,case_219,Validate Invoice,2023-01-12 12:28:46.157897
+event_219_8,case_219,Conduct Periodic Reviews,2023-01-23 08:17:56.785188
+event_219_1,case_219,Receive Invoice,2023-01-23 18:47:28.272404
+event_219_3,case_219,Execute Payment,2023-02-15 00:16:45.992289
+event_219_6,case_219,Authorize Expenditure,2023-03-06 00:56:21.398837
+event_219_5,case_219,Update Ledger,2023-05-10 07:32:46.199397
+event_219_7,case_219,Perform Audit Trails,2023-05-23 17:29:49.960497
+event_219_4,case_219,Process Vendor Queries,2023-07-05 00:41:33.220711
+event_219_2,case_219,Approve Payment,2023-11-09 02:21:06.348795
+event_22_2,case_22,Validate Invoice,2023-04-10 10:34:14.404509
+event_22_6,case_22,Authorize Expenditure,2023-05-07 15:13:25.334917
+event_22_5,case_22,Maintain Vendor Accounts,2023-05-26 20:33:09.643197
+event_22_4,case_22,Process Vendor Queries,2023-06-02 11:28:01.864442
+event_22_1,case_22,Receive Invoice,2023-08-19 16:55:55.312423
+event_22_3,case_22,Reconcile Accounts,2023-09-24 10:47:42.929967
+event_22_8,case_22,Conduct Periodic Reviews,2023-10-19 20:57:31.569872
+event_22_7,case_22,Archive Documentation,2023-11-14 00:47:50.913942
+event_220_5,case_220,Maintain Vendor Accounts,2023-02-12 14:22:13.834464
+event_220_7,case_220,Archive Documentation,2023-04-24 11:09:39.281689
+event_220_4,case_220,Verify Transaction Compliance,2023-07-09 01:45:44.302111
+event_220_6,case_220,Authorize Expenditure,2023-07-31 00:53:37.310603
+event_220_8,case_220,Generate Financial Reports,2023-08-18 01:25:12.187330
+event_220_2,case_220,Validate Invoice,2023-10-20 00:08:54.247545
+event_220_1,case_220,Receive Invoice,2023-11-08 21:04:46.721665
+event_220_3,case_220,Execute Payment,2023-11-14 01:32:43.144607
+event_221_7,case_221,Archive Documentation,2023-03-09 10:58:42.409535
+event_221_8,case_221,Conduct Periodic Reviews,2023-03-13 01:49:22.095785
+event_221_3,case_221,Execute Payment,2023-05-05 04:41:58.352781
+event_221_6,case_221,Authorize Expenditure,2023-05-10 10:19:01.788953
+event_221_2,case_221,Approve Payment,2023-05-31 06:35:27.541992
+event_221_4,case_221,Process Vendor Queries,2023-07-31 19:46:38.578779
+event_221_1,case_221,Receive Invoice,2023-08-11 08:46:17.172397
+event_221_3,case_221,Reconcile Accounts,2023-09-10 15:06:26.059048
+event_221_5,case_221,Maintain Vendor Accounts,2023-09-15 06:22:53.379423
+event_222_6,case_222,Resolve Discrepancies,2023-06-03 04:52:52.593148
+event_222_1,case_222,Receive Invoice,2023-06-20 23:17:05.377573
+event_222_5,case_222,Update Ledger,2023-08-10 14:23:14.732259
+event_222_8,case_222,Conduct Periodic Reviews,2023-08-17 10:49:13.119240
+event_222_7,case_222,Perform Audit Trails,2023-10-01 05:59:13.789024
+event_222_3,case_222,Execute Payment,2023-10-08 12:23:49.200956
+event_222_4,case_222,Process Vendor Queries,2023-10-08 13:26:27.488304
+event_222_2,case_222,Approve Payment,2023-10-24 17:57:19.565885
+event_223_2,case_223,Approve Payment,2023-01-14 10:34:58.165390
+event_223_7,case_223,Archive Documentation,2023-03-30 18:48:38.502890
+event_223_8,case_223,Conduct Periodic Reviews,2023-05-18 17:46:13.061615
+event_223_3,case_223,Execute Payment,2023-08-08 14:10:02.779405
+event_223_4,case_223,Process Vendor Queries,2023-08-18 19:46:58.035055
+event_223_1,case_223,Receive Invoice,2023-10-01 04:07:03.939884
+event_223_6,case_223,Authorize Expenditure,2023-11-10 17:54:26.931897
+event_223_4,case_223,Verify Transaction Compliance,2023-11-17 06:44:05.218847
+event_223_5,case_223,Update Ledger,2023-12-07 08:30:19.497333
+event_224_5,case_224,Maintain Vendor Accounts,2023-02-21 04:50:09.800264
+event_224_3,case_224,Execute Payment,2023-02-22 16:52:25.726676
+event_224_6,case_224,Resolve Discrepancies,2023-02-25 02:58:14.012374
+event_224_4,case_224,Process Vendor Queries,2023-03-18 15:57:05.190003
+event_224_2,case_224,Validate Invoice,2023-06-30 17:57:10.066740
+event_224_8,case_224,Conduct Periodic Reviews,2023-10-05 15:51:29.466856
+event_224_7,case_224,Archive Documentation,2023-11-18 09:01:52.101005
+event_224_1,case_224,Receive Invoice,2023-12-03 09:11:52.623657
+event_225_1,case_225,Receive Invoice,2023-02-11 00:51:46.608786
+event_225_7,case_225,Archive Documentation,2023-02-28 23:00:26.253959
+event_225_6,case_225,Resolve Discrepancies,2023-04-26 10:04:28.593853
+event_225_5,case_225,Maintain Vendor Accounts,2023-05-27 19:53:28.235391
+event_225_4,case_225,Verify Transaction Compliance,2023-06-19 17:08:13.430648
+event_225_3,case_225,Reconcile Accounts,2023-10-24 20:48:33.841290
+event_225_8,case_225,Conduct Periodic Reviews,2023-11-20 16:58:46.535483
+event_225_2,case_225,Validate Invoice,2023-11-22 02:23:01.733837
+event_226_4,case_226,Verify Transaction Compliance,2023-02-18 23:04:23.094886
+event_226_3,case_226,Reconcile Accounts,2023-03-14 08:23:40.355329
+event_226_2,case_226,Approve Payment,2023-05-03 20:00:11.638471
+event_226_5,case_226,Maintain Vendor Accounts,2023-05-12 15:41:29.603802
+event_226_1,case_226,Receive Invoice,2023-06-11 05:58:17.401490
+event_226_7,case_226,Archive Documentation,2023-07-19 23:27:26.720641
+event_226_8,case_226,Generate Financial Reports,2023-08-15 12:06:56.855703
+event_226_6,case_226,Authorize Expenditure,2023-11-25 19:48:53.706607
+event_227_8,case_227,Generate Financial Reports,2023-03-22 20:17:22.837059
+event_227_1,case_227,Receive Invoice,2023-08-06 14:02:38.373974
+event_227_5,case_227,Maintain Vendor Accounts,2023-08-18 14:36:47.592867
+event_227_6,case_227,Authorize Expenditure,2023-09-09 03:15:57.363968
+event_227_3,case_227,Execute Payment,2023-10-23 05:08:24.824631
+event_227_2,case_227,Validate Invoice,2023-11-05 04:20:49.990539
+event_227_7,case_227,Archive Documentation,2023-11-07 15:43:29.118386
+event_227_4,case_227,Verify Transaction Compliance,2023-11-08 17:31:09.709046
+event_228_3,case_228,Reconcile Accounts,2023-01-23 09:37:00.353902
+event_228_2,case_228,Validate Invoice,2023-03-04 00:27:24.300679
+event_228_6,case_228,Authorize Expenditure,2023-03-06 01:59:24.948571
+event_228_1,case_228,Receive Invoice,2023-05-07 23:04:24.024963
+event_228_8,case_228,Conduct Periodic Reviews,2023-05-17 07:41:15.871771
+event_228_5,case_228,Maintain Vendor Accounts,2023-08-30 21:34:17.384989
+event_228_7,case_228,Perform Audit Trails,2023-11-27 12:20:48.895920
+event_228_4,case_228,Process Vendor Queries,2023-12-06 15:49:58.893237
+event_229_7,case_229,Archive Documentation,2023-02-19 13:09:39.994578
+event_229_2,case_229,Approve Payment,2023-03-12 20:35:41.512271
+event_229_4,case_229,Process Vendor Queries,2023-04-07 20:45:08.233158
+event_229_8,case_229,Generate Financial Reports,2023-04-22 23:04:20.104538
+event_229_3,case_229,Execute Payment,2023-05-22 23:19:32.771231
+event_229_1,case_229,Receive Invoice,2023-06-22 00:32:04.916766
+event_229_6,case_229,Authorize Expenditure,2023-08-30 04:18:36.684225
+event_229_5,case_229,Update Ledger,2023-09-22 02:43:30.313011
+event_23_7,case_23,Archive Documentation,2023-02-01 17:18:23.238019
+event_23_3,case_23,Execute Payment,2023-03-31 09:20:04.064411
+event_23_4,case_23,Verify Transaction Compliance,2023-05-15 22:25:01.922214
+event_23_5,case_23,Update Ledger,2023-06-17 18:08:14.621548
+event_23_8,case_23,Conduct Periodic Reviews,2023-06-18 19:27:11.071196
+event_23_6,case_23,Resolve Discrepancies,2023-09-29 08:51:15.191645
+event_23_1,case_23,Receive Invoice,2023-12-01 09:02:49.464197
+event_23_2,case_23,Approve Payment,2023-12-09 08:15:18.638822
+event_230_6,case_230,Authorize Expenditure,2023-02-04 13:39:28.323629
+event_230_4,case_230,Process Vendor Queries,2023-05-24 00:18:18.135070
+event_230_7,case_230,Perform Audit Trails,2023-07-23 15:09:55.024714
+event_230_2,case_230,Approve Payment,2023-08-23 06:22:59.269087
+event_230_8,case_230,Generate Financial Reports,2023-08-31 21:40:18.574370
+event_230_3,case_230,Reconcile Accounts,2023-11-01 18:13:24.972735
+event_230_1,case_230,Receive Invoice,2023-11-03 22:44:32.000918
+event_230_5,case_230,Update Ledger,2023-11-22 09:36:52.005464
+event_231_3,case_231,Reconcile Accounts,2023-01-18 16:50:52.733085
+event_231_7,case_231,Archive Documentation,2023-02-03 17:55:54.362073
+event_231_2,case_231,Approve Payment,2023-06-11 19:25:00.534197
+event_231_5,case_231,Update Ledger,2023-08-13 13:04:15.269365
+event_231_4,case_231,Process Vendor Queries,2023-08-21 17:07:16.670142
+event_231_6,case_231,Resolve Discrepancies,2023-10-08 12:41:46.192403
+event_231_8,case_231,Conduct Periodic Reviews,2023-11-06 00:51:29.851400
+event_231_1,case_231,Receive Invoice,2023-11-08 00:22:31.774883
+event_232_3,case_232,Execute Payment,2023-01-07 21:57:20.333588
+event_232_6,case_232,Authorize Expenditure,2023-03-12 00:50:48.679487
+event_232_5,case_232,Update Ledger,2023-05-27 05:14:42.768890
+event_232_1,case_232,Receive Invoice,2023-06-18 11:05:57.648525
+event_232_4,case_232,Process Vendor Queries,2023-08-11 21:55:41.193862
+event_232_2,case_232,Validate Invoice,2023-08-28 07:36:31.011836
+event_232_5,case_232,Maintain Vendor Accounts,2023-09-04 10:36:37.106778
+event_232_4,case_232,Verify Transaction Compliance,2023-09-05 08:41:07.293782
+event_232_3,case_232,Reconcile Accounts,2023-10-03 04:20:27.006216
+event_232_7,case_232,Perform Audit Trails,2023-10-16 09:12:22.632856
+event_232_8,case_232,Conduct Periodic Reviews,2023-10-16 17:10:32.769241
+event_232_5,case_232,Maintain Vendor Accounts,2023-10-18 00:35:18.837693
+event_233_4,case_233,Verify Transaction Compliance,2023-02-07 22:41:52.676517
+event_233_8,case_233,Conduct Periodic Reviews,2023-05-18 15:45:25.114662
+event_233_2,case_233,Approve Payment,2023-05-27 01:03:25.319762
+event_233_7,case_233,Perform Audit Trails,2023-06-13 18:53:56.357283
+event_233_5,case_233,Maintain Vendor Accounts,2023-08-15 18:48:45.146457
+event_233_6,case_233,Resolve Discrepancies,2023-09-17 02:17:43.547982
+event_233_1,case_233,Receive Invoice,2023-10-13 08:07:25.707339
+event_233_3,case_233,Reconcile Accounts,2023-11-01 23:00:41.917978
+event_234_4,case_234,Process Vendor Queries,2023-01-13 19:53:22.015166
+event_234_8,case_234,Generate Financial Reports,2023-02-04 04:39:55.589317
+event_234_5,case_234,Update Ledger,2023-03-26 13:54:52.711127
+event_234_7,case_234,Archive Documentation,2023-04-07 20:36:44.001255
+event_234_6,case_234,Authorize Expenditure,2023-07-09 02:07:56.078869
+event_234_2,case_234,Approve Payment,2023-10-01 22:27:42.887906
+event_234_3,case_234,Execute Payment,2023-10-12 08:04:50.827840
+event_234_1,case_234,Receive Invoice,2023-12-02 16:20:04.266550
+event_235_8,case_235,Conduct Periodic Reviews,2023-01-15 10:42:36.812466
+event_235_3,case_235,Execute Payment,2023-01-23 14:52:09.449686
+event_235_3,case_235,Execute Payment,2023-03-03 23:44:55.153025
+event_235_5,case_235,Update Ledger,2023-04-13 16:13:56.167845
+event_235_7,case_235,Perform Audit Trails,2023-07-03 23:31:11.613824
+event_235_2,case_235,Validate Invoice,2023-07-25 21:52:30.268472
+event_235_1,case_235,Receive Invoice,2023-08-18 12:49:54.069939
+event_235_4,case_235,Process Vendor Queries,2023-09-02 04:29:48.887853
+event_235_6,case_235,Authorize Expenditure,2023-09-22 10:40:16.666992
+event_235_4,case_235,Process Vendor Queries,2023-10-04 06:39:05.389971
+event_236_1,case_236,Receive Invoice,2023-02-20 23:39:59.809249
+event_236_3,case_236,Reconcile Accounts,2023-03-26 00:27:19.342224
+event_236_5,case_236,Update Ledger,2023-04-20 03:08:45.846222
+event_236_4,case_236,Process Vendor Queries,2023-08-19 10:58:45.286391
+event_236_2,case_236,Validate Invoice,2023-08-21 12:40:15.004485
+event_236_8,case_236,Generate Financial Reports,2023-08-27 13:50:28.433220
+event_236_6,case_236,Authorize Expenditure,2023-10-22 01:14:08.791260
+event_236_7,case_236,Perform Audit Trails,2023-11-07 12:44:25.644772
+event_236_4,case_236,Verify Transaction Compliance,2023-11-24 02:46:32.849015
+event_237_7,case_237,Archive Documentation,2023-04-10 13:44:50.464947
+event_237_4,case_237,Process Vendor Queries,2023-04-16 11:40:01.401908
+event_237_8,case_237,Conduct Periodic Reviews,2023-05-14 02:55:06.082690
+event_237_2,case_237,Approve Payment,2023-05-15 04:09:07.321581
+event_237_1,case_237,Receive Invoice,2023-05-18 04:14:28.740536
+event_237_5,case_237,Update Ledger,2023-07-11 17:57:08.208667
+event_237_3,case_237,Reconcile Accounts,2023-09-17 06:47:37.642784
+event_237_6,case_237,Resolve Discrepancies,2023-10-29 05:15:35.755236
+event_238_6,case_238,Authorize Expenditure,2023-01-06 16:06:59.109985
+event_238_3,case_238,Execute Payment,2023-01-10 01:46:39.901855
+event_238_7,case_238,Perform Audit Trails,2023-01-18 04:33:30.858919
+event_238_2,case_238,Validate Invoice,2023-03-13 13:14:51.950252
+event_238_1,case_238,Receive Invoice,2023-03-22 02:58:41.101149
+event_238_8,case_238,Generate Financial Reports,2023-05-02 18:35:41.293016
+event_238_5,case_238,Maintain Vendor Accounts,2023-05-17 11:14:48.324241
+event_238_4,case_238,Process Vendor Queries,2023-08-26 15:57:49.376786
+event_239_4,case_239,Process Vendor Queries,2023-01-16 08:04:55.451608
+event_239_1,case_239,Receive Invoice,2023-03-12 23:37:10.819964
+event_239_3,case_239,Reconcile Accounts,2023-05-04 20:58:53.557964
+event_239_7,case_239,Perform Audit Trails,2023-06-05 01:40:12.824202
+event_239_8,case_239,Generate Financial Reports,2023-06-16 10:12:59.584639
+event_239_5,case_239,Update Ledger,2023-07-06 13:28:28.054301
+event_239_2,case_239,Validate Invoice,2023-08-14 00:50:27.708285
+event_239_6,case_239,Authorize Expenditure,2023-09-01 14:35:21.972908
+event_24_6,case_24,Resolve Discrepancies,2023-01-14 22:18:37.402838
+event_24_3,case_24,Reconcile Accounts,2023-02-12 15:51:21.503155
+event_24_7,case_24,Perform Audit Trails,2023-04-17 16:25:00.637100
+event_24_2,case_24,Approve Payment,2023-05-28 17:20:14.968413
+event_24_1,case_24,Receive Invoice,2023-06-09 06:16:03.178130
+event_24_5,case_24,Update Ledger,2023-08-16 02:55:56.391597
+event_24_4,case_24,Process Vendor Queries,2023-09-04 23:43:58.332378
+event_24_8,case_24,Conduct Periodic Reviews,2023-10-14 03:15:16.594680
+event_24_6,case_24,Authorize Expenditure,2023-11-13 23:58:32.276138
+event_240_3,case_240,Reconcile Accounts,2023-02-09 07:30:20.994713
+event_240_1,case_240,Receive Invoice,2023-02-25 20:50:16.616878
+event_240_7,case_240,Archive Documentation,2023-05-06 07:04:11.939899
+event_240_6,case_240,Resolve Discrepancies,2023-05-24 15:55:00.304363
+event_240_4,case_240,Verify Transaction Compliance,2023-05-31 20:43:27.721026
+event_240_8,case_240,Generate Financial Reports,2023-06-22 16:12:59.497658
+event_240_5,case_240,Maintain Vendor Accounts,2023-09-08 21:44:54.903423
+event_240_2,case_240,Validate Invoice,2023-11-28 08:35:34.830631
+event_241_8,case_241,Generate Financial Reports,2023-01-05 18:59:26.643989
+event_241_2,case_241,Approve Payment,2023-01-30 23:29:16.450545
+event_241_6,case_241,Authorize Expenditure,2023-04-12 05:24:30.198682
+event_241_5,case_241,Update Ledger,2023-04-21 07:57:45.960594
+event_241_7,case_241,Perform Audit Trails,2023-04-25 15:52:19.956165
+event_241_3,case_241,Execute Payment,2023-05-06 05:32:34.907087
+event_241_4,case_241,Verify Transaction Compliance,2023-05-27 05:14:15.880898
+event_241_1,case_241,Receive Invoice,2023-06-02 12:35:34.453037
+event_242_8,case_242,Generate Financial Reports,2023-01-25 11:34:04.826206
+event_242_1,case_242,Receive Invoice,2023-01-26 10:41:35.701353
+event_242_3,case_242,Reconcile Accounts,2023-02-24 05:22:57.460999
+event_242_2,case_242,Validate Invoice,2023-04-01 22:03:25.912432
+event_242_6,case_242,Authorize Expenditure,2023-07-12 01:59:59.522190
+event_242_4,case_242,Process Vendor Queries,2023-08-13 21:14:41.114597
+event_242_5,case_242,Maintain Vendor Accounts,2023-10-17 18:42:45.926849
+event_242_7,case_242,Archive Documentation,2023-12-08 20:19:19.804857
+event_243_2,case_243,Approve Payment,2023-02-13 17:25:49.822899
+event_243_3,case_243,Execute Payment,2023-04-08 15:57:48.458315
+event_243_8,case_243,Generate Financial Reports,2023-04-25 12:00:13.507592
+event_243_4,case_243,Verify Transaction Compliance,2023-05-25 02:14:39.436087
+event_243_7,case_243,Archive Documentation,2023-05-29 06:04:20.153553
+event_243_3,case_243,Execute Payment,2023-06-27 13:52:38.187251
+event_243_5,case_243,Maintain Vendor Accounts,2023-08-04 16:54:39.405858
+event_243_6,case_243,Resolve Discrepancies,2023-08-12 12:04:21.052872
+event_243_4,case_243,Process Vendor Queries,2023-11-03 01:03:12.499949
+event_243_1,case_243,Receive Invoice,2023-11-29 22:55:42.533624
+event_243_6,case_243,Authorize Expenditure,2023-12-08 02:12:31.778739
+event_244_4,case_244,Verify Transaction Compliance,2023-03-17 02:42:45.751588
+event_244_6,case_244,Authorize Expenditure,2023-04-24 18:34:27.632741
+event_244_4,case_244,Process Vendor Queries,2023-06-10 11:13:35.225090
+event_244_7,case_244,Archive Documentation,2023-07-13 05:08:22.986138
+event_244_2,case_244,Validate Invoice,2023-08-04 14:20:39.359800
+event_244_3,case_244,Execute Payment,2023-09-01 00:00:09.019186
+event_244_5,case_244,Update Ledger,2023-09-16 08:57:41.749357
+event_244_1,case_244,Receive Invoice,2023-09-19 08:32:35.617745
+event_244_8,case_244,Conduct Periodic Reviews,2023-11-28 15:42:30.236961
+event_245_8,case_245,Conduct Periodic Reviews,2023-01-08 13:46:46.744426
+event_245_3,case_245,Reconcile Accounts,2023-03-14 16:15:05.239470
+event_245_6,case_245,Authorize Expenditure,2023-04-21 21:33:24.984215
+event_245_4,case_245,Verify Transaction Compliance,2023-04-26 13:43:47.194980
+event_245_7,case_245,Perform Audit Trails,2023-05-23 17:42:58.194317
+event_245_2,case_245,Validate Invoice,2023-06-22 21:40:06.784995
+event_245_1,case_245,Receive Invoice,2023-07-07 21:20:26.047346
+event_245_5,case_245,Maintain Vendor Accounts,2023-08-22 05:42:18.850487
+event_246_3,case_246,Execute Payment,2023-02-23 11:02:55.478971
+event_246_7,case_246,Archive Documentation,2023-03-04 06:27:21.734604
+event_246_4,case_246,Verify Transaction Compliance,2023-03-15 23:38:54.712985
+event_246_5,case_246,Update Ledger,2023-05-07 08:47:04.600023
+event_246_6,case_246,Resolve Discrepancies,2023-05-07 19:33:57.148222
+event_246_5,case_246,Update Ledger,2023-07-01 19:09:40.846933
+event_246_2,case_246,Validate Invoice,2023-07-14 22:39:25.287881
+event_246_1,case_246,Receive Invoice,2023-09-23 23:18:13.420170
+event_246_4,case_246,Verify Transaction Compliance,2023-10-17 10:56:31.304682
+event_246_8,case_246,Conduct Periodic Reviews,2023-11-09 03:24:09.345710
+event_247_4,case_247,Verify Transaction Compliance,2023-01-30 19:14:41.200245
+event_247_6,case_247,Authorize Expenditure,2023-01-30 19:36:12.111324
+event_247_1,case_247,Receive Invoice,2023-02-08 18:19:07.360704
+event_247_5,case_247,Update Ledger,2023-03-20 02:22:07.403841
+event_247_8,case_247,Conduct Periodic Reviews,2023-04-30 23:42:49.612314
+event_247_3,case_247,Reconcile Accounts,2023-08-29 01:25:47.988517
+event_247_2,case_247,Approve Payment,2023-10-04 15:49:53.392293
+event_247_7,case_247,Archive Documentation,2023-10-21 15:32:31.425674
+event_248_5,case_248,Update Ledger,2023-05-23 18:55:50.794375
+event_248_1,case_248,Receive Invoice,2023-06-03 03:23:29.769345
+event_248_3,case_248,Reconcile Accounts,2023-07-09 06:27:04.616127
+event_248_4,case_248,Process Vendor Queries,2023-07-26 12:19:26.047984
+event_248_8,case_248,Generate Financial Reports,2023-08-10 13:36:39.518115
+event_248_7,case_248,Perform Audit Trails,2023-09-16 14:50:26.608517
+event_248_6,case_248,Authorize Expenditure,2023-09-23 10:03:11.598694
+event_248_6,case_248,Authorize Expenditure,2023-10-12 09:26:09.477266
+event_248_6,case_248,Resolve Discrepancies,2023-10-19 15:34:19.411918
+event_248_6,case_248,Resolve Discrepancies,2023-11-26 00:33:40.775404
+event_248_5,case_248,Resolve Discrepancies,2023-12-06 20:25:10.215823
+event_248_2,case_248,Validate Invoice,2023-12-07 06:14:48.906776
+event_249_2,case_249,Validate Invoice,2023-01-06 21:53:10.985695
+event_249_7,case_249,Perform Audit Trails,2023-01-12 12:09:30.486964
+event_249_6,case_249,Resolve Discrepancies,2023-01-19 01:35:50.051427
+event_249_5,case_249,Maintain Vendor Accounts,2023-02-10 02:09:30.408280
+event_249_1,case_249,Receive Invoice,2023-05-08 06:13:02.701287
+event_249_3,case_249,Execute Payment,2023-06-06 18:15:28.984702
+event_249_4,case_249,Verify Transaction Compliance,2023-08-19 10:45:31.896699
+event_249_8,case_249,Generate Financial Reports,2023-09-07 05:52:17.972100
+event_249_3,case_249,Reconcile Accounts,2023-11-25 21:08:06.057729
+event_25_1,case_25,Receive Invoice,2023-01-04 09:54:35.011407
+event_25_6,case_25,Resolve Discrepancies,2023-01-15 06:38:13.045334
+event_25_4,case_25,Verify Transaction Compliance,2023-04-26 00:42:50.082781
+event_25_4,case_25,Verify Transaction Compliance,2023-04-26 05:57:32.326551
+event_25_3,case_25,Reconcile Accounts,2023-05-22 10:48:42.290579
+event_25_2,case_25,Approve Payment,2023-05-31 15:00:11.110420
+event_25_5,case_25,Maintain Vendor Accounts,2023-07-25 15:11:37.808669
+event_25_8,case_25,Conduct Periodic Reviews,2023-11-10 11:02:10.060653
+event_25_7,case_25,Archive Documentation,2023-11-24 19:53:56.759234
+event_25_4,case_25,Process Vendor Queries,2023-11-25 22:46:34.133489
+event_250_7,case_250,Archive Documentation,2023-03-03 05:01:08.620602
+event_250_5,case_250,Maintain Vendor Accounts,2023-03-23 01:24:32.379187
+event_250_6,case_250,Authorize Expenditure,2023-03-24 01:30:02.769186
+event_250_2,case_250,Approve Payment,2023-03-27 14:50:50.099709
+event_250_1,case_250,Receive Invoice,2023-03-28 05:30:25.639096
+event_250_8,case_250,Generate Financial Reports,2023-04-16 05:20:53.757751
+event_250_4,case_250,Verify Transaction Compliance,2023-04-25 00:39:48.716127
+event_250_3,case_250,Reconcile Accounts,2023-11-24 17:06:59.544971
+event_251_2,case_251,Approve Payment,2023-01-09 03:56:43.014738
+event_251_7,case_251,Archive Documentation,2023-02-15 04:51:59.475739
+event_251_1,case_251,Receive Invoice,2023-04-24 14:31:58.787475
+event_251_4,case_251,Process Vendor Queries,2023-04-26 14:32:24.716674
+event_251_6,case_251,Authorize Expenditure,2023-07-13 17:07:08.916858
+event_251_5,case_251,Maintain Vendor Accounts,2023-07-27 15:53:00.815721
+event_251_8,case_251,Conduct Periodic Reviews,2023-09-16 11:59:25.029335
+event_251_3,case_251,Reconcile Accounts,2023-12-02 22:20:12.529781
+event_252_6,case_252,Authorize Expenditure,2023-02-02 21:14:52.397347
+event_252_7,case_252,Archive Documentation,2023-03-12 16:44:44.237200
+event_252_2,case_252,Approve Payment,2023-05-01 16:16:29.389243
+event_252_7,case_252,Perform Audit Trails,2023-08-09 10:50:21.932848
+event_252_5,case_252,Maintain Vendor Accounts,2023-08-26 08:55:14.396263
+event_252_2,case_252,Validate Invoice,2023-09-25 05:55:19.099710
+event_252_4,case_252,Process Vendor Queries,2023-10-13 07:16:55.424731
+event_252_3,case_252,Reconcile Accounts,2023-10-27 12:20:01.480424
+event_252_8,case_252,Generate Financial Reports,2023-11-10 18:54:33.048733
+event_252_1,case_252,Receive Invoice,2023-11-25 03:12:29.402554
+event_253_6,case_253,Resolve Discrepancies,2023-01-28 20:30:56.381225
+event_253_2,case_253,Approve Payment,2023-01-31 01:42:30.115894
+event_253_5,case_253,Update Ledger,2023-05-06 13:27:30.120105
+event_253_4,case_253,Process Vendor Queries,2023-05-13 20:04:21.174369
+event_253_3,case_253,Execute Payment,2023-06-13 03:26:36.011345
+event_253_4,case_253,Verify Transaction Compliance,2023-08-02 10:47:20.256773
+event_253_1,case_253,Receive Invoice,2023-10-16 19:20:00.018825
+event_253_7,case_253,Perform Audit Trails,2023-10-26 18:50:21.471831
+event_253_8,case_253,Conduct Periodic Reviews,2023-11-03 05:27:44.134593
+event_254_2,case_254,Approve Payment,2023-02-24 04:27:11.640843
+event_254_6,case_254,Authorize Expenditure,2023-04-25 10:56:04.564355
+event_254_8,case_254,Conduct Periodic Reviews,2023-05-26 01:28:23.481989
+event_254_7,case_254,Archive Documentation,2023-07-07 12:23:51.509716
+event_254_3,case_254,Execute Payment,2023-07-09 23:26:48.982847
+event_254_1,case_254,Receive Invoice,2023-07-18 19:13:54.286573
+event_254_5,case_254,Update Ledger,2023-09-17 16:01:14.883883
+event_254_4,case_254,Process Vendor Queries,2023-10-15 15:41:30.062148
+event_255_6,case_255,Authorize Expenditure,2023-02-20 19:01:36.554439
+event_255_3,case_255,Reconcile Accounts,2023-03-10 03:21:09.249485
+event_255_8,case_255,Conduct Periodic Reviews,2023-03-22 06:18:35.700025
+event_255_2,case_255,Approve Payment,2023-05-27 15:07:42.971340
+event_255_4,case_255,Process Vendor Queries,2023-08-02 20:53:27.943813
+event_255_7,case_255,Perform Audit Trails,2023-08-10 08:59:29.702194
+event_255_7,case_255,Archive Documentation,2023-08-15 19:11:26.161302
+event_255_5,case_255,Update Ledger,2023-09-14 13:06:28.898731
+event_255_1,case_255,Receive Invoice,2023-10-15 17:19:42.977473
+event_256_7,case_256,Archive Documentation,2023-02-22 07:03:09.894659
+event_256_2,case_256,Validate Invoice,2023-03-12 22:55:05.857799
+event_256_3,case_256,Reconcile Accounts,2023-03-23 23:11:32.016798
+event_256_4,case_256,Process Vendor Queries,2023-05-12 20:49:35.187975
+event_256_8,case_256,Generate Financial Reports,2023-07-28 19:44:55.138942
+event_256_6,case_256,Authorize Expenditure,2023-09-23 15:20:57.198365
+event_256_1,case_256,Receive Invoice,2023-10-07 09:01:32.269808
+event_256_5,case_256,Maintain Vendor Accounts,2023-11-05 05:40:56.694553
+event_257_5,case_257,Maintain Vendor Accounts,2023-01-15 00:56:10.565772
+event_257_2,case_257,Validate Invoice,2023-01-18 12:32:21.909020
+event_257_7,case_257,Archive Documentation,2023-02-07 00:50:01.435013
+event_257_7,case_257,Perform Audit Trails,2023-02-16 06:12:51.327167
+event_257_8,case_257,Conduct Periodic Reviews,2023-03-09 14:18:08.238529
+event_257_4,case_257,Verify Transaction Compliance,2023-04-17 14:11:24.315228
+event_257_5,case_257,Update Ledger,2023-04-21 05:37:20.244442
+event_257_6,case_257,Authorize Expenditure,2023-05-21 10:21:07.408998
+event_257_3,case_257,Reconcile Accounts,2023-09-12 05:44:07.968251
+event_257_1,case_257,Receive Invoice,2023-11-05 17:05:14.526073
+event_258_1,case_258,Receive Invoice,2023-01-06 23:13:41.603386
+event_258_5,case_258,Maintain Vendor Accounts,2023-01-19 17:00:13.258477
+event_258_2,case_258,Validate Invoice,2023-02-12 15:44:46.929954
+event_258_6,case_258,Resolve Discrepancies,2023-03-29 14:04:48.694444
+event_258_5,case_258,Update Ledger,2023-04-30 17:09:26.437189
+event_258_8,case_258,Conduct Periodic Reviews,2023-08-16 12:29:20.466937
+event_258_4,case_258,Process Vendor Queries,2023-08-22 07:00:42.055764
+event_258_3,case_258,Reconcile Accounts,2023-10-20 21:23:20.764935
+event_258_7,case_258,Perform Audit Trails,2023-11-21 05:48:09.899729
+event_259_5,case_259,Maintain Vendor Accounts,2023-01-07 15:58:55.643295
+event_259_1,case_259,Receive Invoice,2023-01-08 05:59:30.822669
+event_259_4,case_259,Verify Transaction Compliance,2023-02-25 19:02:34.539658
+event_259_7,case_259,Archive Documentation,2023-02-27 21:47:18.406699
+event_259_6,case_259,Resolve Discrepancies,2023-03-13 07:28:04.325293
+event_259_3,case_259,Reconcile Accounts,2023-04-23 22:23:16.228175
+event_259_8,case_259,Conduct Periodic Reviews,2023-06-24 04:45:30.071264
+event_259_2,case_259,Validate Invoice,2023-11-27 08:25:34.945359
+event_26_3,case_26,Execute Payment,2023-01-26 11:55:15.178970
+event_26_6,case_26,Authorize Expenditure,2023-05-22 18:00:12.897670
+event_26_2,case_26,Approve Payment,2023-06-07 00:20:44.338116
+event_26_8,case_26,Generate Financial Reports,2023-06-10 17:28:44.809091
+event_26_5,case_26,Maintain Vendor Accounts,2023-09-25 08:29:00.886125
+event_26_1,case_26,Receive Invoice,2023-10-22 21:47:04.937040
+event_26_7,case_26,Perform Audit Trails,2023-11-01 14:34:08.303296
+event_26_4,case_26,Verify Transaction Compliance,2023-11-06 00:24:27.632751
+event_260_2,case_260,Validate Invoice,2023-01-19 11:25:49.996142
+event_260_1,case_260,Receive Invoice,2023-03-02 20:16:01.882806
+event_260_5,case_260,Update Ledger,2023-03-11 05:01:45.118090
+event_260_6,case_260,Resolve Discrepancies,2023-03-15 07:46:31.288358
+event_260_7,case_260,Perform Audit Trails,2023-07-04 14:47:40.035633
+event_260_3,case_260,Reconcile Accounts,2023-10-12 15:07:26.463352
+event_260_4,case_260,Verify Transaction Compliance,2023-10-14 20:40:12.226305
+event_260_8,case_260,Generate Financial Reports,2023-10-21 23:55:56.666735
+event_261_5,case_261,Maintain Vendor Accounts,2023-01-02 13:51:14.142981
+event_261_1,case_261,Receive Invoice,2023-03-20 02:30:11.110852
+event_261_3,case_261,Execute Payment,2023-04-16 13:25:20.880568
+event_261_4,case_261,Verify Transaction Compliance,2023-05-13 08:05:53.790187
+event_261_7,case_261,Archive Documentation,2023-06-16 05:26:56.002066
+event_261_8,case_261,Conduct Periodic Reviews,2023-07-12 20:24:26.441601
+event_261_6,case_261,Authorize Expenditure,2023-10-30 20:01:19.289821
+event_261_2,case_261,Approve Payment,2023-11-07 04:39:26.060700
+event_262_6,case_262,Authorize Expenditure,2023-02-15 07:50:59.341036
+event_262_8,case_262,Conduct Periodic Reviews,2023-02-27 10:21:48.848872
+event_262_7,case_262,Perform Audit Trails,2023-05-08 10:38:17.441612
+event_262_1,case_262,Receive Invoice,2023-08-15 02:45:38.517334
+event_262_2,case_262,Validate Invoice,2023-10-10 01:52:58.494144
+event_262_2,case_262,Approve Payment,2023-10-20 10:27:03.329242
+event_262_3,case_262,Execute Payment,2023-11-07 14:20:45.837437
+event_262_4,case_262,Verify Transaction Compliance,2023-12-03 00:44:55.891313
+event_262_5,case_262,Maintain Vendor Accounts,2023-12-04 00:55:22.023889
+event_263_7,case_263,Archive Documentation,2023-01-08 17:07:20.006238
+event_263_3,case_263,Reconcile Accounts,2023-01-13 01:08:50.469695
+event_263_1,case_263,Receive Invoice,2023-03-07 07:18:29.975532
+event_263_8,case_263,Generate Financial Reports,2023-03-16 23:19:42.165901
+event_263_4,case_263,Verify Transaction Compliance,2023-03-24 09:37:25.623255
+event_263_6,case_263,Resolve Discrepancies,2023-05-17 11:17:43.383738
+event_263_2,case_263,Validate Invoice,2023-10-23 19:07:55.767879
+event_263_5,case_263,Maintain Vendor Accounts,2023-11-04 05:34:14.880988
+event_264_7,case_264,Perform Audit Trails,2023-01-05 00:07:38.119963
+event_264_2,case_264,Approve Payment,2023-01-11 08:08:35.977245
+event_264_6,case_264,Resolve Discrepancies,2023-01-12 23:33:19.884389
+event_264_4,case_264,Verify Transaction Compliance,2023-01-24 12:23:20.884004
+event_264_5,case_264,Maintain Vendor Accounts,2023-03-12 02:48:15.674489
+event_264_8,case_264,Conduct Periodic Reviews,2023-04-04 19:18:30.296590
+event_264_1,case_264,Receive Invoice,2023-07-05 08:54:47.757215
+event_264_3,case_264,Reconcile Accounts,2023-07-20 12:39:28.574766
+event_264_3,case_264,Execute Payment,2023-09-24 19:10:18.657911
+event_264_2,case_264,Approve Payment,2023-09-25 05:48:46.786413
+event_264_5,case_264,Update Ledger,2023-10-09 10:26:02.156269
+event_265_6,case_265,Authorize Expenditure,2023-01-10 13:32:24.080778
+event_265_1,case_265,Receive Invoice,2023-02-16 03:29:59.546002
+event_265_8,case_265,Generate Financial Reports,2023-03-06 09:27:13.983769
+event_265_5,case_265,Maintain Vendor Accounts,2023-03-28 01:42:14.628683
+event_265_7,case_265,Perform Audit Trails,2023-05-09 06:08:25.616834
+event_265_4,case_265,Verify Transaction Compliance,2023-07-22 14:31:42.424983
+event_265_2,case_265,Approve Payment,2023-07-26 23:34:39.752770
+event_265_3,case_265,Execute Payment,2023-09-19 06:35:31.822026
+event_266_5,case_266,Update Ledger,2023-02-10 00:28:10.090709
+event_266_8,case_266,Conduct Periodic Reviews,2023-05-25 23:14:50.556043
+event_266_6,case_266,Resolve Discrepancies,2023-06-01 02:19:04.451426
+event_266_3,case_266,Execute Payment,2023-06-23 21:56:32.206667
+event_266_2,case_266,Validate Invoice,2023-07-03 15:00:45.251201
+event_266_4,case_266,Verify Transaction Compliance,2023-08-15 01:07:46.158578
+event_266_7,case_266,Perform Audit Trails,2023-10-17 06:08:33.530090
+event_266_1,case_266,Receive Invoice,2023-12-09 01:49:31.259565
+event_267_7,case_267,Archive Documentation,2023-01-19 06:34:22.762698
+event_267_1,case_267,Receive Invoice,2023-01-23 09:12:03.765840
+event_267_6,case_267,Authorize Expenditure,2023-02-08 10:02:35.212648
+event_267_4,case_267,Process Vendor Queries,2023-03-10 11:11:28.069367
+event_267_2,case_267,Approve Payment,2023-05-20 20:08:12.497115
+event_267_8,case_267,Conduct Periodic Reviews,2023-06-07 20:19:28.507094
+event_267_3,case_267,Execute Payment,2023-08-09 04:17:41.939184
+event_267_5,case_267,Update Ledger,2023-11-24 23:07:19.218112
+event_268_7,case_268,Archive Documentation,2023-01-21 02:02:59.948116
+event_268_8,case_268,Generate Financial Reports,2023-02-20 11:22:25.111592
+event_268_2,case_268,Approve Payment,2023-02-26 23:25:58.442986
+event_268_6,case_268,Resolve Discrepancies,2023-03-03 03:20:50.785429
+event_268_3,case_268,Execute Payment,2023-05-27 03:00:18.227957
+event_268_4,case_268,Verify Transaction Compliance,2023-06-10 01:33:37.859537
+event_268_1,case_268,Receive Invoice,2023-10-20 00:53:37.245168
+event_268_5,case_268,Update Ledger,2023-10-26 10:13:31.943226
+event_269_1,case_269,Receive Invoice,2023-03-19 12:55:09.422864
+event_269_4,case_269,Verify Transaction Compliance,2023-06-14 13:12:49.940597
+event_269_6,case_269,Resolve Discrepancies,2023-07-05 15:23:52.194257
+event_269_2,case_269,Approve Payment,2023-08-03 09:00:32.223581
+event_269_3,case_269,Execute Payment,2023-09-17 05:26:49.529977
+event_269_5,case_269,Update Ledger,2023-09-25 10:24:55.789848
+event_269_7,case_269,Perform Audit Trails,2023-10-07 10:39:50.007240
+event_269_8,case_269,Generate Financial Reports,2023-11-02 08:02:30.232007
+event_27_1,case_27,Receive Invoice,2023-01-07 15:23:30.423681
+event_27_3,case_27,Execute Payment,2023-03-01 08:18:27.487704
+event_27_7,case_27,Perform Audit Trails,2023-03-30 10:57:09.156049
+event_27_6,case_27,Authorize Expenditure,2023-06-06 00:51:44.747986
+event_27_4,case_27,Verify Transaction Compliance,2023-08-09 22:10:59.646099
+event_27_8,case_27,Conduct Periodic Reviews,2023-08-14 16:52:25.672299
+event_27_2,case_27,Validate Invoice,2023-09-13 11:38:19.200325
+event_27_5,case_27,Maintain Vendor Accounts,2023-10-14 10:21:25.433936
+event_270_8,case_270,Generate Financial Reports,2023-03-19 09:09:57.664304
+event_270_3,case_270,Reconcile Accounts,2023-04-04 20:46:23.153744
+event_270_5,case_270,Maintain Vendor Accounts,2023-08-27 19:58:35.376013
+event_270_7,case_270,Archive Documentation,2023-09-07 13:25:24.207078
+event_270_4,case_270,Verify Transaction Compliance,2023-09-08 14:08:17.038580
+event_270_4,case_270,Process Vendor Queries,2023-10-10 12:37:37.482606
+event_270_3,case_270,Execute Payment,2023-10-16 11:13:45.025578
+event_270_6,case_270,Authorize Expenditure,2023-10-18 21:04:22.820031
+event_270_2,case_270,Validate Invoice,2023-11-08 01:33:18.460862
+event_270_1,case_270,Receive Invoice,2023-11-13 08:56:31.243718
+event_271_7,case_271,Perform Audit Trails,2023-01-18 02:43:52.133835
+event_271_3,case_271,Execute Payment,2023-05-05 06:08:17.719760
+event_271_4,case_271,Process Vendor Queries,2023-06-15 06:00:47.451469
+event_271_2,case_271,Validate Invoice,2023-06-25 05:07:34.385031
+event_271_5,case_271,Maintain Vendor Accounts,2023-09-10 02:18:36.775411
+event_271_1,case_271,Receive Invoice,2023-09-19 13:29:49.563447
+event_271_6,case_271,Authorize Expenditure,2023-10-05 19:24:44.612281
+event_271_8,case_271,Conduct Periodic Reviews,2023-11-11 00:43:06.404099
+event_272_8,case_272,Generate Financial Reports,2023-02-16 23:01:03.922146
+event_272_7,case_272,Perform Audit Trails,2023-02-28 14:56:34.569520
+event_272_2,case_272,Approve Payment,2023-03-09 21:41:28.779838
+event_272_6,case_272,Authorize Expenditure,2023-03-18 11:04:51.744717
+event_272_1,case_272,Receive Invoice,2023-03-20 14:43:22.756921
+event_272_4,case_272,Verify Transaction Compliance,2023-04-07 05:37:36.301066
+event_272_5,case_272,Maintain Vendor Accounts,2023-04-11 14:46:42.831399
+event_272_3,case_272,Execute Payment,2023-08-18 01:33:08.935862
+event_272_6,case_272,Resolve Discrepancies,2023-10-17 19:07:28.500020
+event_273_6,case_273,Resolve Discrepancies,2023-04-15 16:28:06.623510
+event_273_3,case_273,Execute Payment,2023-04-22 04:51:28.985111
+event_273_5,case_273,Maintain Vendor Accounts,2023-05-20 11:35:53.730405
+event_273_3,case_273,Reconcile Accounts,2023-07-09 23:00:28.743052
+event_273_2,case_273,Approve Payment,2023-08-16 02:23:55.828518
+event_273_4,case_273,Process Vendor Queries,2023-09-28 22:20:42.114508
+event_273_7,case_273,Perform Audit Trails,2023-10-28 02:53:53.259565
+event_273_8,case_273,Conduct Periodic Reviews,2023-11-12 18:07:36.037294
+event_273_1,case_273,Receive Invoice,2023-12-08 14:16:14.412192
+event_274_4,case_274,Verify Transaction Compliance,2023-01-14 06:17:35.707616
+event_274_1,case_274,Receive Invoice,2023-02-21 09:22:18.276039
+event_274_5,case_274,Update Ledger,2023-03-13 16:38:35.887177
+event_274_3,case_274,Execute Payment,2023-04-07 21:30:34.156406
+event_274_3,case_274,Process Vendor Queries,2023-05-04 03:18:30.326116
+event_274_4,case_274,Process Vendor Queries,2023-06-13 03:52:03.232726
+event_274_6,case_274,Authorize Expenditure,2023-07-13 03:04:05.540745
+event_274_8,case_274,Generate Financial Reports,2023-09-17 08:16:36.797830
+event_274_2,case_274,Validate Invoice,2023-10-12 15:54:45.513849
+event_274_7,case_274,Archive Documentation,2023-12-06 17:04:30.213797
+event_275_3,case_275,Execute Payment,2023-04-08 01:56:44.988798
+event_275_1,case_275,Receive Invoice,2023-04-19 06:42:07.309968
+event_275_6,case_275,Authorize Expenditure,2023-05-07 08:56:16.874152
+event_275_5,case_275,Maintain Vendor Accounts,2023-06-21 22:12:33.827197
+event_275_4,case_275,Process Vendor Queries,2023-07-29 20:52:34.216360
+event_275_8,case_275,Conduct Periodic Reviews,2023-10-12 02:06:33.519066
+event_275_2,case_275,Validate Invoice,2023-10-20 05:20:30.348208
+event_275_7,case_275,Archive Documentation,2023-11-10 07:36:17.063926
+event_276_4,case_276,Verify Transaction Compliance,2023-04-06 22:48:46.475596
+event_276_1,case_276,Receive Invoice,2023-04-25 18:18:11.916106
+event_276_6,case_276,Resolve Discrepancies,2023-06-20 18:24:50.695604
+event_276_8,case_276,Conduct Periodic Reviews,2023-07-17 14:52:21.487996
+event_276_2,case_276,Validate Invoice,2023-07-30 01:10:35.043179
+event_276_7,case_276,Archive Documentation,2023-09-25 03:20:00.546178
+event_276_5,case_276,Maintain Vendor Accounts,2023-10-11 08:05:54.084627
+event_276_3,case_276,Reconcile Accounts,2023-10-15 02:35:59.346972
+event_277_8,case_277,Generate Financial Reports,2023-01-02 20:20:26.576327
+event_277_7,case_277,Perform Audit Trails,2023-01-04 14:32:31.709681
+event_277_5,case_277,Update Ledger,2023-01-09 03:31:20.752740
+event_277_2,case_277,Validate Invoice,2023-01-26 18:36:23.075741
+event_277_3,case_277,Reconcile Accounts,2023-04-15 16:47:50.725682
+event_277_6,case_277,Authorize Expenditure,2023-05-27 10:43:27.775425
+event_277_1,case_277,Receive Invoice,2023-05-28 09:03:04.564146
+event_277_4,case_277,Process Vendor Queries,2023-07-01 00:14:32.280581
+event_278_8,case_278,Conduct Periodic Reviews,2023-03-13 16:03:48.962264
+event_278_1,case_278,Receive Invoice,2023-05-01 05:36:04.964661
+event_278_7,case_278,Perform Audit Trails,2023-05-13 06:55:46.306651
+event_278_4,case_278,Verify Transaction Compliance,2023-05-29 23:28:03.724554
+event_278_6,case_278,Resolve Discrepancies,2023-07-03 10:46:27.533847
+event_278_5,case_278,Maintain Vendor Accounts,2023-08-24 10:07:07.742887
+event_278_2,case_278,Approve Payment,2023-09-15 16:09:00.676512
+event_278_3,case_278,Execute Payment,2023-10-13 15:44:38.157002
+event_278_4,case_278,Process Vendor Queries,2023-11-28 05:46:51.362782
+event_279_7,case_279,Archive Documentation,2023-01-30 20:43:23.327769
+event_279_3,case_279,Execute Payment,2023-04-11 03:44:27.946348
+event_279_6,case_279,Authorize Expenditure,2023-04-17 22:56:28.224550
+event_279_5,case_279,Update Ledger,2023-04-20 22:16:48.297334
+event_279_2,case_279,Approve Payment,2023-10-15 14:28:14.013403
+event_279_4,case_279,Verify Transaction Compliance,2023-11-05 07:39:59.335923
+event_279_8,case_279,Generate Financial Reports,2023-11-21 01:29:56.561505
+event_279_1,case_279,Receive Invoice,2023-11-28 01:56:14.668379
+event_28_6,case_28,Resolve Discrepancies,2023-01-11 02:31:29.330513
+event_28_2,case_28,Approve Payment,2023-01-25 03:24:04.224261
+event_28_6,case_28,Authorize Expenditure,2023-01-26 22:35:09.353647
+event_28_7,case_28,Perform Audit Trails,2023-03-16 05:14:45.098727
+event_28_5,case_28,Update Ledger,2023-03-30 21:52:37.392649
+event_28_3,case_28,Execute Payment,2023-05-15 23:45:17.360296
+event_28_1,case_28,Receive Invoice,2023-08-19 22:02:09.434577
+event_28_8,case_28,Conduct Periodic Reviews,2023-11-27 08:29:05.980908
+event_28_4,case_28,Verify Transaction Compliance,2023-11-28 08:54:13.736539
+event_280_5,case_280,Maintain Vendor Accounts,2023-01-30 05:48:46.609603
+event_280_7,case_280,Archive Documentation,2023-04-17 07:55:00.521005
+event_280_6,case_280,Resolve Discrepancies,2023-04-18 19:47:42.698754
+event_280_1,case_280,Receive Invoice,2023-04-21 15:52:08.971813
+event_280_3,case_280,Execute Payment,2023-05-25 13:06:51.182475
+event_280_4,case_280,Process Vendor Queries,2023-06-04 12:23:27.386419
+event_280_8,case_280,Conduct Periodic Reviews,2023-10-02 13:06:19.551870
+event_280_2,case_280,Validate Invoice,2023-10-22 02:02:49.717589
+event_281_3,case_281,Reconcile Accounts,2023-01-11 10:38:12.198196
+event_281_3,case_281,Execute Payment,2023-03-25 04:04:02.414202
+event_281_8,case_281,Generate Financial Reports,2023-05-28 03:02:21.372485
+event_281_2,case_281,Approve Payment,2023-08-18 18:36:20.107464
+event_281_7,case_281,Perform Audit Trails,2023-08-28 19:36:39.615022
+event_281_6,case_281,Resolve Discrepancies,2023-09-26 19:02:14.110781
+event_281_1,case_281,Receive Invoice,2023-10-20 20:26:24.351520
+event_281_5,case_281,Maintain Vendor Accounts,2023-11-03 05:57:26.519601
+event_281_4,case_281,Process Vendor Queries,2023-12-06 18:39:51.302424
+event_282_6,case_282,Authorize Expenditure,2023-05-09 18:05:31.020437
+event_282_3,case_282,Execute Payment,2023-06-08 17:33:48.217734
+event_282_4,case_282,Verify Transaction Compliance,2023-06-19 07:27:28.223819
+event_282_7,case_282,Archive Documentation,2023-07-19 03:23:08.082114
+event_282_3,case_282,Execute Payment,2023-08-06 13:26:12.910656
+event_282_8,case_282,Conduct Periodic Reviews,2023-08-11 09:38:48.269918
+event_282_1,case_282,Receive Invoice,2023-09-21 23:00:55.918663
+event_282_3,case_282,Reconcile Accounts,2023-10-04 05:44:32.564418
+event_282_3,case_282,Reconcile Accounts,2023-10-23 13:06:42.814172
+event_282_5,case_282,Update Ledger,2023-11-14 17:09:54.667178
+event_282_2,case_282,Validate Invoice,2023-11-28 19:13:45.884608
+event_283_2,case_283,Validate Invoice,2023-01-11 19:54:50.256437
+event_283_4,case_283,Process Vendor Queries,2023-03-28 22:24:09.126398
+event_283_3,case_283,Verify Transaction Compliance,2023-04-02 12:35:12.874734
+event_283_5,case_283,Maintain Vendor Accounts,2023-05-06 21:37:27.162304
+event_283_6,case_283,Resolve Discrepancies,2023-05-10 10:12:44.928434
+event_283_4,case_283,Verify Transaction Compliance,2023-05-26 08:25:53.432438
+event_283_7,case_283,Archive Documentation,2023-06-12 09:50:39.668421
+event_283_1,case_283,Receive Invoice,2023-09-09 22:10:01.061930
+event_283_3,case_283,Reconcile Accounts,2023-09-28 02:31:58.754748
+event_283_5,case_283,Maintain Vendor Accounts,2023-10-24 04:02:12.216719
+event_283_8,case_283,Generate Financial Reports,2023-11-03 01:25:56.032833
+event_283_5,case_283,Update Ledger,2023-11-17 17:18:55.499675
+event_284_2,case_284,Validate Invoice,2023-01-10 00:19:43.368716
+event_284_4,case_284,Process Vendor Queries,2023-03-30 05:42:07.408183
+event_284_8,case_284,Conduct Periodic Reviews,2023-04-24 21:28:12.300992
+event_284_5,case_284,Update Ledger,2023-10-24 21:34:30.968545
+event_284_1,case_284,Receive Invoice,2023-11-03 00:56:43.124219
+event_284_3,case_284,Execute Payment,2023-11-18 18:15:51.315907
+event_284_7,case_284,Perform Audit Trails,2023-11-25 09:22:02.541994
+event_284_6,case_284,Authorize Expenditure,2023-11-30 06:37:35.024707
+event_285_2,case_285,Approve Payment,2023-01-06 11:30:12.811081
+event_285_5,case_285,Update Ledger,2023-02-01 06:19:07.752120
+event_285_7,case_285,Archive Documentation,2023-04-08 20:20:50.706394
+event_285_3,case_285,Execute Payment,2023-05-19 13:00:33.420557
+event_285_8,case_285,Conduct Periodic Reviews,2023-06-25 18:45:00.334903
+event_285_4,case_285,Process Vendor Queries,2023-07-01 11:43:03.286895
+event_285_6,case_285,Resolve Discrepancies,2023-07-27 14:51:27.637999
+event_285_1,case_285,Receive Invoice,2023-09-09 15:56:36.851439
+event_286_4,case_286,Verify Transaction Compliance,2023-01-03 07:27:50.993891
+event_286_5,case_286,Update Ledger,2023-01-18 11:52:07.332679
+event_286_2,case_286,Validate Invoice,2023-04-29 05:07:38.881214
+event_286_3,case_286,Reconcile Accounts,2023-05-26 01:43:27.749302
+event_286_7,case_286,Perform Audit Trails,2023-06-19 13:21:11.398841
+event_286_1,case_286,Receive Invoice,2023-08-27 17:59:24.893436
+event_286_8,case_286,Generate Financial Reports,2023-10-14 20:56:12.858796
+event_286_6,case_286,Authorize Expenditure,2023-11-29 05:09:46.657131
+event_287_7,case_287,Perform Audit Trails,2023-03-23 23:07:39.228228
+event_287_5,case_287,Update Ledger,2023-05-20 05:21:00.232934
+event_287_1,case_287,Receive Invoice,2023-07-21 05:39:58.987871
+event_287_3,case_287,Execute Payment,2023-07-25 17:50:30.755185
+event_287_6,case_287,Resolve Discrepancies,2023-07-26 18:27:01.097465
+event_287_8,case_287,Conduct Periodic Reviews,2023-08-27 15:44:16.952001
+event_287_4,case_287,Verify Transaction Compliance,2023-09-10 15:00:00.864801
+event_287_2,case_287,Validate Invoice,2023-10-05 06:54:31.865654
+event_288_2,case_288,Approve Payment,2023-01-07 07:09:31.230145
+event_288_7,case_288,Archive Documentation,2023-01-15 22:51:03.211402
+event_288_4,case_288,Process Vendor Queries,2023-04-03 02:18:33.739835
+event_288_3,case_288,Execute Payment,2023-04-18 13:15:08.022700
+event_288_1,case_288,Receive Invoice,2023-04-20 15:35:04.531733
+event_288_5,case_288,Maintain Vendor Accounts,2023-06-17 20:45:01.226659
+event_288_6,case_288,Resolve Discrepancies,2023-07-19 05:59:22.291778
+event_288_8,case_288,Conduct Periodic Reviews,2023-09-11 00:47:48.592295
+event_289_2,case_289,Approve Payment,2023-02-12 20:31:50.058735
+event_289_5,case_289,Update Ledger,2023-08-04 10:31:35.955365
+event_289_8,case_289,Conduct Periodic Reviews,2023-08-27 04:04:27.474225
+event_289_6,case_289,Authorize Expenditure,2023-10-03 16:22:48.950617
+event_289_1,case_289,Receive Invoice,2023-10-11 13:23:40.142382
+event_289_3,case_289,Execute Payment,2023-10-29 00:36:37.732656
+event_289_7,case_289,Perform Audit Trails,2023-12-01 05:59:25.211827
+event_289_4,case_289,Process Vendor Queries,2023-12-01 09:10:30.700868
+event_29_2,case_29,Approve Payment,2023-02-07 10:17:34.777359
+event_29_1,case_29,Receive Invoice,2023-03-02 12:20:56.683104
+event_29_7,case_29,Archive Documentation,2023-03-15 18:04:10.850643
+event_29_4,case_29,Verify Transaction Compliance,2023-04-11 14:54:15.138598
+event_29_6,case_29,Resolve Discrepancies,2023-07-06 03:15:53.728623
+event_29_8,case_29,Conduct Periodic Reviews,2023-07-06 11:50:18.873582
+event_29_3,case_29,Execute Payment,2023-08-01 07:20:08.800837
+event_29_5,case_29,Maintain Vendor Accounts,2023-08-23 23:54:16.895030
+event_290_3,case_290,Reconcile Accounts,2023-01-18 08:15:17.097708
+event_290_6,case_290,Perform Audit Trails,2023-01-29 10:36:17.627338
+event_290_7,case_290,Perform Audit Trails,2023-03-14 19:37:04.762473
+event_290_8,case_290,Conduct Periodic Reviews,2023-03-27 14:14:37.981320
+event_290_1,case_290,Receive Invoice,2023-07-02 03:07:07.341795
+event_290_2,case_290,Validate Invoice,2023-07-06 06:16:18.177799
+event_290_7,case_290,Archive Documentation,2023-08-26 13:59:31.510380
+event_290_6,case_290,Authorize Expenditure,2023-10-04 21:38:59.579161
+event_290_4,case_290,Process Vendor Queries,2023-11-14 14:17:22.294151
+event_290_5,case_290,Update Ledger,2023-11-26 22:50:45.780526
+event_291_5,case_291,Update Ledger,2023-02-13 21:05:54.600823
+event_291_8,case_291,Conduct Periodic Reviews,2023-03-29 08:42:26.895293
+event_291_1,case_291,Receive Invoice,2023-06-29 17:43:15.641868
+event_291_4,case_291,Process Vendor Queries,2023-07-23 19:28:18.932845
+event_291_3,case_291,Reconcile Accounts,2023-09-06 10:07:09.503495
+event_291_6,case_291,Resolve Discrepancies,2023-11-04 11:23:00.963000
+event_291_7,case_291,Archive Documentation,2023-11-13 08:07:47.345109
+event_291_2,case_291,Validate Invoice,2023-12-02 18:10:16.289600
+event_292_7,case_292,Archive Documentation,2023-01-20 13:19:12.475147
+event_292_2,case_292,Validate Invoice,2023-03-21 06:10:51.771263
+event_292_8,case_292,Conduct Periodic Reviews,2023-04-18 02:00:35.461776
+event_292_6,case_292,Authorize Expenditure,2023-05-18 09:25:49.502146
+event_292_3,case_292,Execute Payment,2023-09-26 02:48:52.619779
+event_292_4,case_292,Process Vendor Queries,2023-09-28 01:29:49.312326
+event_292_1,case_292,Receive Invoice,2023-10-04 09:54:51.464797
+event_292_5,case_292,Update Ledger,2023-11-08 22:24:36.292946
+event_293_5,case_293,Maintain Vendor Accounts,2023-01-19 10:26:18.963211
+event_293_4,case_293,Process Vendor Queries,2023-03-14 15:42:55.716375
+event_293_2,case_293,Approve Payment,2023-03-29 07:26:27.894644
+event_293_7,case_293,Archive Documentation,2023-04-24 05:44:31.615149
+event_293_1,case_293,Receive Invoice,2023-05-03 07:59:53.116633
+event_293_3,case_293,Execute Payment,2023-05-22 03:33:37.423091
+event_293_6,case_293,Resolve Discrepancies,2023-07-19 01:50:44.079629
+event_293_5,case_293,Authorize Expenditure,2023-08-24 22:49:46.074018
+event_293_8,case_293,Conduct Periodic Reviews,2023-10-14 03:12:50.542849
+event_293_6,case_293,Authorize Expenditure,2023-10-14 11:26:04.559185
+event_294_4,case_294,Verify Transaction Compliance,2023-02-05 03:39:46.502719
+event_294_3,case_294,Execute Payment,2023-03-05 06:34:57.224573
+event_294_4,case_294,Process Vendor Queries,2023-03-06 14:35:42.000320
+event_294_5,case_294,Maintain Vendor Accounts,2023-03-27 21:48:49.588658
+event_294_8,case_294,Conduct Periodic Reviews,2023-04-09 13:53:05.084555
+event_294_4,case_294,Process Vendor Queries,2023-07-21 18:06:02.805224
+event_294_2,case_294,Validate Invoice,2023-07-30 10:28:12.873734
+event_294_6,case_294,Resolve Discrepancies,2023-08-19 05:37:35.140780
+event_294_7,case_294,Archive Documentation,2023-10-07 12:40:06.882643
+event_294_6,case_294,Authorize Expenditure,2023-10-08 07:15:21.633229
+event_294_2,case_294,Approve Payment,2023-10-24 02:41:33.639021
+event_294_1,case_294,Receive Invoice,2023-11-28 01:08:57.977255
+event_295_3,case_295,Execute Payment,2023-01-26 09:35:33.615593
+event_295_8,case_295,Generate Financial Reports,2023-05-11 12:26:11.375809
+event_295_5,case_295,Update Ledger,2023-05-15 05:10:21.470190
+event_295_1,case_295,Receive Invoice,2023-05-28 02:32:24.725965
+event_295_2,case_295,Validate Invoice,2023-06-09 03:59:11.034371
+event_295_6,case_295,Authorize Expenditure,2023-06-21 22:42:04.168506
+event_295_4,case_295,Verify Transaction Compliance,2023-08-30 17:12:24.244328
+event_295_5,case_295,Maintain Vendor Accounts,2023-09-27 08:42:08.690344
+event_295_3,case_295,Reconcile Accounts,2023-10-05 01:50:55.494550
+event_295_7,case_295,Perform Audit Trails,2023-10-05 18:12:07.377692
+event_296_4,case_296,Process Vendor Queries,2023-02-20 02:03:00.785722
+event_296_2,case_296,Validate Invoice,2023-03-03 04:27:11.271963
+event_296_1,case_296,Receive Invoice,2023-03-05 07:54:50.923931
+event_296_7,case_296,Archive Documentation,2023-03-13 09:41:39.588388
+event_296_8,case_296,Conduct Periodic Reviews,2023-08-01 17:27:31.121123
+event_296_5,case_296,Maintain Vendor Accounts,2023-08-31 19:45:40.865023
+event_296_4,case_296,Verify Transaction Compliance,2023-09-01 23:16:13.686200
+event_296_3,case_296,Reconcile Accounts,2023-11-15 21:55:42.910353
+event_296_6,case_296,Resolve Discrepancies,2023-11-29 22:02:14.694009
+event_297_6,case_297,Resolve Discrepancies,2023-03-07 17:33:26.210415
+event_297_4,case_297,Verify Transaction Compliance,2023-03-29 12:31:02.191948
+event_297_8,case_297,Generate Financial Reports,2023-05-13 12:13:17.385674
+event_297_7,case_297,Perform Audit Trails,2023-06-21 23:07:48.175627
+event_297_2,case_297,Validate Invoice,2023-07-01 01:38:55.675894
+event_297_3,case_297,Reconcile Accounts,2023-08-07 18:29:07.714433
+event_297_5,case_297,Maintain Vendor Accounts,2023-08-22 23:04:41.305816
+event_297_1,case_297,Receive Invoice,2023-09-23 10:20:57.444896
+event_298_3,case_298,Execute Payment,2023-01-05 21:26:52.137534
+event_298_2,case_298,Approve Payment,2023-02-26 22:33:01.584831
+event_298_5,case_298,Maintain Vendor Accounts,2023-03-27 12:21:03.080549
+event_298_1,case_298,Receive Invoice,2023-04-02 07:30:10.438369
+event_298_1,case_298,Approve Payment,2023-04-04 19:19:34.450336
+event_298_7,case_298,Archive Documentation,2023-04-22 19:58:10.102214
+event_298_3,case_298,Reconcile Accounts,2023-09-15 07:19:35.455307
+event_298_2,case_298,Validate Invoice,2023-09-18 00:30:20.490967
+event_298_6,case_298,Authorize Expenditure,2023-09-27 02:53:43.617488
+event_298_4,case_298,Verify Transaction Compliance,2023-10-04 00:27:25.782239
+event_298_2,case_298,Validate Invoice,2023-10-23 17:32:49.203968
+event_298_8,case_298,Conduct Periodic Reviews,2023-11-01 22:30:58.893837
+event_299_6,case_299,Authorize Expenditure,2023-02-12 23:07:04.145365
+event_299_7,case_299,Archive Documentation,2023-03-10 17:52:33.686138
+event_299_2,case_299,Validate Invoice,2023-04-06 21:30:52.543641
+event_299_5,case_299,Update Ledger,2023-04-25 16:51:51.676716
+event_299_4,case_299,Process Vendor Queries,2023-07-08 18:58:30.378692
+event_299_8,case_299,Conduct Periodic Reviews,2023-07-15 13:16:11.052990
+event_299_3,case_299,Execute Payment,2023-10-11 14:31:13.582479
+event_299_1,case_299,Receive Invoice,2023-11-18 23:41:39.463371
+event_3_2,case_3,Approve Payment,2023-02-04 16:33:37.745863
+event_3_3,case_3,Execute Payment,2023-02-06 01:46:53.692808
+event_3_7,case_3,Archive Documentation,2023-02-07 14:23:56.102554
+event_3_4,case_3,Verify Transaction Compliance,2023-06-12 17:46:39.562357
+event_3_5,case_3,Update Ledger,2023-09-07 01:00:55.699829
+event_3_8,case_3,Generate Financial Reports,2023-09-09 21:03:55.212143
+event_3_1,case_3,Receive Invoice,2023-09-27 23:31:22.172421
+event_3_6,case_3,Authorize Expenditure,2023-12-02 21:22:58.259346
+event_30_7,case_30,Perform Audit Trails,2023-01-08 11:31:43.636472
+event_30_6,case_30,Resolve Discrepancies,2023-01-10 19:45:38.717792
+event_30_4,case_30,Process Vendor Queries,2023-04-23 13:59:28.751209
+event_30_3,case_30,Execute Payment,2023-07-01 22:02:45.607502
+event_30_8,case_30,Conduct Periodic Reviews,2023-08-28 16:17:40.344139
+event_30_5,case_30,Update Ledger,2023-09-03 14:50:57.010737
+event_30_2,case_30,Validate Invoice,2023-10-11 11:19:35.633256
+event_30_1,case_30,Receive Invoice,2023-12-03 09:11:08.447969
+event_31_1,case_31,Validate Invoice,2023-01-15 07:10:59.663807
+event_31_5,case_31,Update Ledger,2023-03-14 14:21:07.600408
+event_31_3,case_31,Reconcile Accounts,2023-04-08 22:51:45.445140
+event_31_6,case_31,Resolve Discrepancies,2023-04-20 03:53:29.704034
+event_31_1,case_31,Receive Invoice,2023-05-21 20:08:41.144216
+event_31_7,case_31,Archive Documentation,2023-08-14 14:11:04.523125
+event_31_4,case_31,Verify Transaction Compliance,2023-09-09 03:24:54.569927
+event_31_8,case_31,Generate Financial Reports,2023-09-26 03:03:59.459166
+event_31_2,case_31,Approve Payment,2023-10-24 14:29:43.528411
+event_31_2,case_31,Validate Invoice,2023-10-30 00:48:56.819175
+event_32_2,case_32,Validate Invoice,2023-01-15 11:03:35.688074
+event_32_6,case_32,Authorize Expenditure,2023-01-22 21:32:30.014635
+event_32_5,case_32,Maintain Vendor Accounts,2023-03-01 05:36:46.507032
+event_32_4,case_32,Verify Transaction Compliance,2023-05-01 02:58:29.887130
+event_32_7,case_32,Archive Documentation,2023-05-19 09:13:27.184813
+event_32_3,case_32,Execute Payment,2023-05-30 05:10:07.396838
+event_32_8,case_32,Generate Financial Reports,2023-10-25 11:36:34.937332
+event_32_1,case_32,Receive Invoice,2023-11-11 17:50:52.891416
+event_33_1,case_33,Receive Invoice,2023-01-04 09:45:23.856096
+event_33_5,case_33,Update Ledger,2023-01-24 09:31:53.595570
+event_33_6,case_33,Authorize Expenditure,2023-02-15 06:13:48.186559
+event_33_8,case_33,Conduct Periodic Reviews,2023-02-17 01:51:00.172602
+event_33_3,case_33,Execute Payment,2023-03-01 06:31:42.781328
+event_33_4,case_33,Verify Transaction Compliance,2023-05-10 16:44:01.589653
+event_33_2,case_33,Approve Payment,2023-05-29 10:29:43.411479
+event_33_5,case_33,Maintain Vendor Accounts,2023-11-03 13:18:41.985730
+event_33_7,case_33,Archive Documentation,2023-11-25 05:09:43.354281
+event_33_4,case_33,Process Vendor Queries,2023-12-09 02:24:01.824488
+event_34_3,case_34,Verify Transaction Compliance,2023-01-29 17:08:40.103321
+event_34_8,case_34,Conduct Periodic Reviews,2023-03-03 11:14:23.903141
+event_34_6,case_34,Resolve Discrepancies,2023-03-16 23:46:31.434580
+event_34_5,case_34,Maintain Vendor Accounts,2023-04-09 16:31:44.484812
+event_34_7,case_34,Archive Documentation,2023-04-23 13:32:18.382262
+event_34_1,case_34,Receive Invoice,2023-04-24 06:02:06.725697
+event_34_3,case_34,Execute Payment,2023-05-23 23:34:13.282714
+event_34_4,case_34,Verify Transaction Compliance,2023-07-05 14:51:43.732563
+event_34_3,case_34,Reconcile Accounts,2023-07-26 19:58:23.262458
+event_34_4,case_34,Verify Transaction Compliance,2023-08-09 05:53:35.764354
+event_34_2,case_34,Validate Invoice,2023-08-14 10:30:27.079246
+event_34_3,case_34,Execute Payment,2023-09-06 06:13:26.431279
+event_35_1,case_35,Receive Invoice,2023-03-02 19:11:18.904087
+event_35_6,case_35,Resolve Discrepancies,2023-04-26 23:09:17.091157
+event_35_7,case_35,Perform Audit Trails,2023-04-29 00:20:19.693638
+event_35_2,case_35,Validate Invoice,2023-05-17 05:07:43.363818
+event_35_5,case_35,Maintain Vendor Accounts,2023-05-20 17:23:20.218113
+event_35_4,case_35,Process Vendor Queries,2023-07-28 02:24:32.936230
+event_35_7,case_35,Archive Documentation,2023-09-12 04:19:50.109763
+event_35_3,case_35,Execute Payment,2023-10-06 20:14:39.518064
+event_35_8,case_35,Generate Financial Reports,2023-10-25 14:42:40.792590
+event_36_3,case_36,Reconcile Accounts,2023-01-18 03:06:04.074287
+event_36_1,case_36,Receive Invoice,2023-03-09 16:28:00.574108
+event_36_2,case_36,Validate Invoice,2023-04-03 16:23:10.255069
+event_36_6,case_36,Authorize Expenditure,2023-04-25 04:12:39.477100
+event_36_4,case_36,Process Vendor Queries,2023-05-08 22:15:43.052947
+event_36_8,case_36,Generate Financial Reports,2023-05-15 17:18:57.292670
+event_36_5,case_36,Update Ledger,2023-06-23 06:34:09.921078
+event_36_7,case_36,Perform Audit Trails,2023-09-20 09:21:09.439342
+event_36_4,case_36,Verify Transaction Compliance,2023-10-13 01:10:02.452910
+event_37_6,case_37,Authorize Expenditure,2023-02-19 11:17:08.412220
+event_37_5,case_37,Resolve Discrepancies,2023-03-10 05:02:39.960226
+event_37_5,case_37,Maintain Vendor Accounts,2023-03-11 22:10:42.210159
+event_37_6,case_37,Resolve Discrepancies,2023-03-12 23:07:15.804938
+event_37_3,case_37,Reconcile Accounts,2023-03-21 22:40:17.550143
+event_37_2,case_37,Approve Payment,2023-07-01 03:27:44.589570
+event_37_1,case_37,Receive Invoice,2023-08-03 02:49:24.672416
+event_37_7,case_37,Perform Audit Trails,2023-08-06 14:11:02.573755
+event_37_4,case_37,Verify Transaction Compliance,2023-08-12 05:32:12.270420
+event_37_8,case_37,Generate Financial Reports,2023-10-08 11:42:59.182505
+event_38_2,case_38,Approve Payment,2023-02-11 12:24:28.494098
+event_38_5,case_38,Update Ledger,2023-02-13 07:55:05.026824
+event_38_8,case_38,Conduct Periodic Reviews,2023-02-23 02:36:18.033568
+event_38_6,case_38,Resolve Discrepancies,2023-03-19 04:09:16.360799
+event_38_1,case_38,Receive Invoice,2023-05-20 14:42:39.304024
+event_38_7,case_38,Archive Documentation,2023-07-21 08:07:00.442933
+event_38_3,case_38,Execute Payment,2023-08-15 07:17:11.441843
+event_38_4,case_38,Process Vendor Queries,2023-10-18 16:42:14.565828
+event_38_2,case_38,Validate Invoice,2023-12-03 03:13:05.579299
+event_39_3,case_39,Reconcile Accounts,2023-02-18 11:40:26.694896
+event_39_7,case_39,Perform Audit Trails,2023-04-02 15:07:49.739103
+event_39_5,case_39,Maintain Vendor Accounts,2023-08-15 15:42:43.334053
+event_39_8,case_39,Conduct Periodic Reviews,2023-08-29 01:03:30.131919
+event_39_4,case_39,Process Vendor Queries,2023-10-21 06:53:01.499417
+event_39_6,case_39,Authorize Expenditure,2023-10-27 09:38:15.094660
+event_39_1,case_39,Receive Invoice,2023-10-30 08:27:01.231434
+event_39_2,case_39,Approve Payment,2023-11-03 02:26:59.283423
+event_4_7,case_4,Perform Audit Trails,2023-01-26 04:23:33.563833
+event_4_5,case_4,Maintain Vendor Accounts,2023-02-18 11:17:46.264019
+event_4_4,case_4,Verify Transaction Compliance,2023-03-03 18:49:06.312766
+event_4_2,case_4,Validate Invoice,2023-03-22 17:30:51.552908
+event_4_2,case_4,Approve Payment,2023-03-24 04:42:53.693508
+event_4_6,case_4,Authorize Expenditure,2023-04-22 01:14:44.895145
+event_4_1,case_4,Receive Invoice,2023-06-06 13:21:39.317095
+event_4_8,case_4,Conduct Periodic Reviews,2023-09-08 03:56:02.292741
+event_4_3,case_4,Reconcile Accounts,2023-10-30 07:23:40.232213
+event_40_6,case_40,Authorize Expenditure,2023-02-07 21:19:34.787611
+event_40_7,case_40,Perform Audit Trails,2023-02-12 10:20:06.567531
+event_40_1,case_40,Receive Invoice,2023-03-05 18:28:54.173089
+event_40_8,case_40,Generate Financial Reports,2023-04-15 22:27:22.637133
+event_40_2,case_40,Validate Invoice,2023-04-26 19:58:03.537208
+event_40_3,case_40,Reconcile Accounts,2023-05-02 06:05:13.471095
+event_40_5,case_40,Update Ledger,2023-09-23 04:37:01.732897
+event_40_4,case_40,Verify Transaction Compliance,2023-10-01 14:05:57.890575
+event_41_4,case_41,Verify Transaction Compliance,2023-01-01 10:25:24.587986
+event_41_8,case_41,Generate Financial Reports,2023-03-18 21:31:43.654366
+event_41_3,case_41,Execute Payment,2023-04-06 08:34:12.583270
+event_41_6,case_41,Resolve Discrepancies,2023-06-14 13:24:43.008751
+event_41_7,case_41,Perform Audit Trails,2023-09-26 15:53:58.148728
+event_41_1,case_41,Receive Invoice,2023-10-06 21:00:00.896059
+event_41_2,case_41,Approve Payment,2023-10-27 02:38:01.840097
+event_41_5,case_41,Update Ledger,2023-11-03 12:10:37.351866
+event_42_3,case_42,Execute Payment,2023-01-29 13:10:49.446506
+event_42_5,case_42,Update Ledger,2023-03-26 19:36:18.897355
+event_42_4,case_42,Verify Transaction Compliance,2023-03-26 23:27:19.864726
+event_42_6,case_42,Resolve Discrepancies,2023-04-12 11:54:27.683869
+event_42_7,case_42,Archive Documentation,2023-05-01 18:43:59.585222
+event_42_8,case_42,Conduct Periodic Reviews,2023-05-25 22:39:55.593266
+event_42_1,case_42,Receive Invoice,2023-08-24 03:01:23.051177
+event_42_2,case_42,Validate Invoice,2023-11-27 03:01:50.057353
+event_43_6,case_43,Authorize Expenditure,2023-01-26 21:52:16.153939
+event_43_1,case_43,Receive Invoice,2023-02-11 07:45:52.121814
+event_43_2,case_43,Validate Invoice,2023-02-15 05:34:44.845697
+event_43_4,case_43,Process Vendor Queries,2023-05-28 23:11:24.366724
+event_43_5,case_43,Update Ledger,2023-06-14 08:19:46.976368
+event_43_3,case_43,Execute Payment,2023-06-15 07:30:12.920605
+event_43_8,case_43,Conduct Periodic Reviews,2023-08-20 08:03:04.179522
+event_43_7,case_43,Perform Audit Trails,2023-09-14 16:42:23.253956
+event_43_4,case_43,Verify Transaction Compliance,2023-10-26 13:01:19.095390
+event_44_2,case_44,Validate Invoice,2023-02-15 17:50:04.379842
+event_44_5,case_44,Maintain Vendor Accounts,2023-04-02 22:19:10.716406
+event_44_1,case_44,Receive Invoice,2023-05-24 08:27:48.304918
+event_44_6,case_44,Authorize Expenditure,2023-06-09 16:36:16.777592
+event_44_8,case_44,Conduct Periodic Reviews,2023-06-15 05:48:56.414379
+event_44_7,case_44,Archive Documentation,2023-06-20 09:31:39.901631
+event_44_4,case_44,Verify Transaction Compliance,2023-09-13 10:08:01.755110
+event_44_3,case_44,Execute Payment,2023-11-10 21:22:21.349230
+event_45_1,case_45,Receive Invoice,2023-01-01 18:17:44.782104
+event_45_2,case_45,Validate Invoice,2023-03-04 08:01:46.292199
+event_45_4,case_45,Verify Transaction Compliance,2023-03-05 11:44:26.949831
+event_45_7,case_45,Perform Audit Trails,2023-05-23 13:23:18.850810
+event_45_3,case_45,Reconcile Accounts,2023-06-30 14:55:02.876913
+event_45_5,case_45,Update Ledger,2023-07-05 02:41:33.603791
+event_45_7,case_45,Archive Documentation,2023-07-06 17:44:09.453301
+event_45_6,case_45,Authorize Expenditure,2023-08-17 11:39:04.393807
+event_45_8,case_45,Conduct Periodic Reviews,2023-08-25 08:53:56.321010
+event_46_7,case_46,Archive Documentation,2023-01-04 03:09:29.729476
+event_46_4,case_46,Verify Transaction Compliance,2023-04-22 05:54:20.949878
+event_46_6,case_46,Resolve Discrepancies,2023-04-22 13:23:53.993280
+event_46_1,case_46,Receive Invoice,2023-06-01 04:15:13.055616
+event_46_5,case_46,Update Ledger,2023-07-26 03:09:13.346110
+event_46_8,case_46,Generate Financial Reports,2023-08-29 17:26:53.070361
+event_46_2,case_46,Validate Invoice,2023-09-12 09:25:21.772801
+event_46_3,case_46,Execute Payment,2023-09-29 22:23:16.691495
+event_46_2,case_46,Approve Payment,2023-11-27 08:10:20.964752
+event_47_6,case_47,Resolve Discrepancies,2023-02-02 03:55:35.604357
+event_47_3,case_47,Execute Payment,2023-04-06 04:06:48.216595
+event_47_4,case_47,Verify Transaction Compliance,2023-04-06 20:47:28.146800
+event_47_1,case_47,Receive Invoice,2023-04-16 17:43:54.295736
+event_47_8,case_47,Generate Financial Reports,2023-05-03 21:39:07.977926
+event_47_2,case_47,Validate Invoice,2023-05-27 04:47:59.304914
+event_47_7,case_47,Archive Documentation,2023-08-28 18:28:50.193201
+event_47_2,case_47,Approve Payment,2023-09-23 02:04:00.803304
+event_47_5,case_47,Maintain Vendor Accounts,2023-10-31 01:46:55.927015
+event_48_3,case_48,Reconcile Accounts,2023-02-25 22:36:41.517212
+event_48_8,case_48,Conduct Periodic Reviews,2023-04-26 16:02:09.579986
+event_48_2,case_48,Approve Payment,2023-05-11 11:05:34.790440
+event_48_5,case_48,Maintain Vendor Accounts,2023-06-28 00:28:56.318624
+event_48_1,case_48,Receive Invoice,2023-08-03 04:51:38.639104
+event_48_7,case_48,Perform Audit Trails,2023-09-14 07:14:07.126123
+event_48_4,case_48,Verify Transaction Compliance,2023-09-29 10:51:57.953159
+event_48_6,case_48,Resolve Discrepancies,2023-10-11 10:33:57.828185
+event_49_5,case_49,Maintain Vendor Accounts,2023-01-23 17:55:55.932485
+event_49_8,case_49,Conduct Periodic Reviews,2023-03-11 20:08:55.474352
+event_49_4,case_49,Process Vendor Queries,2023-04-17 07:47:49.228628
+event_49_5,case_49,Update Ledger,2023-05-17 00:18:28.718162
+event_49_1,case_49,Receive Invoice,2023-06-10 11:43:15.876823
+event_49_6,case_49,Authorize Expenditure,2023-09-16 04:24:09.105234
+event_49_3,case_49,Execute Payment,2023-09-29 12:16:02.243460
+event_49_7,case_49,Perform Audit Trails,2023-10-03 23:54:59.663608
+event_49_2,case_49,Validate Invoice,2023-11-07 17:40:51.089454
+event_5_3,case_5,Execute Payment,2023-02-12 12:58:48.884108
+event_5_2,case_5,Approve Payment,2023-03-16 06:57:34.882823
+event_5_5,case_5,Update Ledger,2023-07-28 21:29:30.520160
+event_5_6,case_5,Authorize Expenditure,2023-08-08 19:24:11.627184
+event_5_8,case_5,Generate Financial Reports,2023-08-15 05:18:30.757262
+event_5_7,case_5,Perform Audit Trails,2023-09-26 13:58:13.272683
+event_5_1,case_5,Receive Invoice,2023-10-19 18:17:58.686936
+event_5_4,case_5,Process Vendor Queries,2023-10-24 15:07:29.016840
+event_5_2,case_5,Validate Invoice,2023-11-30 07:25:01.961882
+event_50_4,case_50,Verify Transaction Compliance,2023-03-11 01:02:32.067389
+event_50_5,case_50,Maintain Vendor Accounts,2023-04-15 05:25:18.788992
+event_50_1,case_50,Receive Invoice,2023-06-12 04:01:57.729114
+event_50_2,case_50,Validate Invoice,2023-07-01 09:14:28.740144
+event_50_3,case_50,Execute Payment,2023-07-05 04:07:40.185416
+event_50_4,case_50,Process Vendor Queries,2023-07-18 13:34:51.431129
+event_50_7,case_50,Archive Documentation,2023-09-05 14:44:14.196352
+event_50_7,case_50,Perform Audit Trails,2023-09-13 17:45:35.063756
+event_50_8,case_50,Generate Financial Reports,2023-11-05 20:37:50.527904
+event_50_6,case_50,Resolve Discrepancies,2023-12-05 11:34:03.075803
+event_51_8,case_51,Conduct Periodic Reviews,2023-01-09 20:52:22.757485
+event_51_3,case_51,Reconcile Accounts,2023-04-28 23:57:23.724256
+event_51_7,case_51,Archive Documentation,2023-05-22 18:02:22.424404
+event_51_7,case_51,Perform Audit Trails,2023-07-21 21:37:57.294987
+event_51_1,case_51,Receive Invoice,2023-07-31 11:19:25.876262
+event_51_5,case_51,Maintain Vendor Accounts,2023-10-12 15:13:15.581301
+event_51_4,case_51,Process Vendor Queries,2023-10-19 22:36:24.136788
+event_51_6,case_51,Resolve Discrepancies,2023-10-20 17:47:18.626421
+event_51_2,case_51,Approve Payment,2023-11-04 05:40:41.386569
+event_52_7,case_52,Perform Audit Trails,2023-01-31 22:41:33.250284
+event_52_7,case_52,Archive Documentation,2023-03-16 18:12:07.634128
+event_52_3,case_52,Execute Payment,2023-04-04 05:57:02.456009
+event_52_2,case_52,Validate Invoice,2023-06-15 12:47:26.954076
+event_52_7,case_52,Perform Audit Trails,2023-07-03 15:05:09.052424
+event_52_6,case_52,Authorize Expenditure,2023-07-08 07:08:34.395066
+event_52_8,case_52,Generate Financial Reports,2023-07-16 19:42:29.570783
+event_52_3,case_52,Reconcile Accounts,2023-07-22 14:19:48.155322
+event_52_5,case_52,Maintain Vendor Accounts,2023-08-09 20:53:43.912551
+event_52_1,case_52,Receive Invoice,2023-08-12 01:20:01.958587
+event_52_4,case_52,Process Vendor Queries,2023-09-10 01:23:17.085164
+event_53_4,case_53,Process Vendor Queries,2023-03-12 20:06:34.884145
+event_53_3,case_53,Execute Payment,2023-05-12 10:21:27.563319
+event_53_1,case_53,Receive Invoice,2023-06-08 01:37:53.499041
+event_53_8,case_53,Conduct Periodic Reviews,2023-06-20 04:08:00.048078
+event_53_7,case_53,Perform Audit Trails,2023-06-22 14:40:31.613006
+event_53_5,case_53,Maintain Vendor Accounts,2023-09-29 01:31:21.021783
+event_53_6,case_53,Authorize Expenditure,2023-10-13 06:44:28.385787
+event_53_2,case_53,Approve Payment,2023-11-30 05:32:44.601687
+event_54_6,case_54,Authorize Expenditure,2023-01-03 18:47:15.277985
+event_54_8,case_54,Generate Financial Reports,2023-01-03 21:31:56.651652
+event_54_1,case_54,Receive Invoice,2023-01-09 02:23:57.698989
+event_54_5,case_54,Maintain Vendor Accounts,2023-01-16 06:41:21.753881
+event_54_4,case_54,Process Vendor Queries,2023-01-25 19:49:12.222468
+event_54_2,case_54,Validate Invoice,2023-03-13 06:24:08.932214
+event_54_3,case_54,Execute Payment,2023-04-15 01:07:53.541708
+event_54_7,case_54,Archive Documentation,2023-11-14 16:06:50.186491
+event_55_2,case_55,Approve Payment,2023-01-27 00:01:01.990438
+event_55_4,case_55,Verify Transaction Compliance,2023-05-11 21:14:35.569301
+event_55_1,case_55,Receive Invoice,2023-06-28 18:02:40.110536
+event_55_3,case_55,Reconcile Accounts,2023-08-08 06:47:48.766719
+event_55_7,case_55,Perform Audit Trails,2023-08-28 08:10:36.751265
+event_55_6,case_55,Resolve Discrepancies,2023-11-04 06:26:23.543929
+event_55_8,case_55,Generate Financial Reports,2023-11-14 08:58:59.990042
+event_55_5,case_55,Update Ledger,2023-12-05 22:22:26.193197
+event_56_7,case_56,Archive Documentation,2023-02-03 23:05:50.676476
+event_56_1,case_56,Receive Invoice,2023-03-17 04:08:17.310129
+event_56_2,case_56,Approve Payment,2023-03-18 07:10:28.474557
+event_56_6,case_56,Authorize Expenditure,2023-06-07 09:28:51.127886
+event_56_5,case_56,Update Ledger,2023-07-09 09:57:49.201912
+event_56_8,case_56,Conduct Periodic Reviews,2023-07-13 17:19:47.665836
+event_56_4,case_56,Verify Transaction Compliance,2023-08-25 02:52:20.264312
+event_56_3,case_56,Execute Payment,2023-11-25 08:52:31.384070
+event_57_6,case_57,Authorize Expenditure,2023-02-13 17:44:16.126627
+event_57_5,case_57,Maintain Vendor Accounts,2023-02-20 12:05:09.965111
+event_57_4,case_57,Process Vendor Queries,2023-03-17 00:33:32.760636
+event_57_2,case_57,Approve Payment,2023-05-25 17:15:32.605132
+event_57_7,case_57,Perform Audit Trails,2023-07-29 09:59:20.980977
+event_57_8,case_57,Conduct Periodic Reviews,2023-11-27 01:08:32.313968
+event_57_3,case_57,Reconcile Accounts,2023-12-02 08:24:22.731920
+event_57_1,case_57,Receive Invoice,2023-12-05 00:29:21.826793
+event_58_2,case_58,Approve Payment,2023-01-20 07:52:18.424929
+event_58_3,case_58,Execute Payment,2023-03-12 02:36:53.382824
+event_58_5,case_58,Update Ledger,2023-05-16 09:26:43.723345
+event_58_4,case_58,Verify Transaction Compliance,2023-05-26 04:59:01.462376
+event_58_1,case_58,Receive Invoice,2023-06-24 02:04:42.010766
+event_58_8,case_58,Conduct Periodic Reviews,2023-08-15 01:44:23.086706
+event_58_6,case_58,Resolve Discrepancies,2023-10-23 03:20:47.572800
+event_58_7,case_58,Archive Documentation,2023-10-29 20:00:21.595003
+event_59_2,case_59,Approve Payment,2023-01-23 18:46:37.201150
+event_59_3,case_59,Reconcile Accounts,2023-01-28 08:46:38.221011
+event_59_1,case_59,Receive Invoice,2023-03-27 21:44:16.264352
+event_59_8,case_59,Conduct Periodic Reviews,2023-04-15 18:35:22.814006
+event_59_7,case_59,Perform Audit Trails,2023-04-19 13:48:51.787259
+event_59_4,case_59,Process Vendor Queries,2023-05-03 18:53:15.452271
+event_59_3,case_59,Execute Payment,2023-05-30 15:19:59.767973
+event_59_6,case_59,Resolve Discrepancies,2023-07-17 12:59:50.150541
+event_59_6,case_59,Resolve Discrepancies,2023-09-25 13:47:46.623039
+event_59_5,case_59,Maintain Vendor Accounts,2023-10-31 09:21:30.714445
+event_59_6,case_59,Authorize Expenditure,2023-11-15 04:31:38.712870
+event_6_5,case_6,Maintain Vendor Accounts,2023-01-15 02:50:08.646890
+event_6_7,case_6,Archive Documentation,2023-01-22 04:37:20.847237
+event_6_8,case_6,Generate Financial Reports,2023-02-03 02:25:07.001381
+event_6_3,case_6,Reconcile Accounts,2023-03-11 12:02:02.248441
+event_6_2,case_6,Approve Payment,2023-04-24 04:32:16.524392
+event_6_6,case_6,Authorize Expenditure,2023-05-18 21:17:48.485891
+event_6_1,case_6,Receive Invoice,2023-05-25 01:30:34.340862
+event_6_4,case_6,Process Vendor Queries,2023-06-16 23:36:44.466047
+event_60_5,case_60,Update Ledger,2023-04-02 10:53:33.157488
+event_60_7,case_60,Perform Audit Trails,2023-05-10 21:10:38.288652
+event_60_8,case_60,Generate Financial Reports,2023-05-26 08:49:54.153243
+event_60_4,case_60,Verify Transaction Compliance,2023-08-19 13:11:53.005951
+event_60_1,case_60,Receive Invoice,2023-09-14 20:36:38.564609
+event_60_2,case_60,Validate Invoice,2023-10-12 07:37:56.022706
+event_60_6,case_60,Authorize Expenditure,2023-10-20 20:52:35.476973
+event_60_3,case_60,Reconcile Accounts,2023-11-30 16:57:58.587062
+event_61_8,case_61,Conduct Periodic Reviews,2023-02-08 06:55:03.295847
+event_61_3,case_61,Reconcile Accounts,2023-02-13 18:13:03.811646
+event_61_5,case_61,Update Ledger,2023-02-25 22:27:01.450106
+event_61_7,case_61,Archive Documentation,2023-03-14 18:29:04.363108
+event_61_1,case_61,Receive Invoice,2023-06-16 07:49:11.158893
+event_61_6,case_61,Resolve Discrepancies,2023-06-27 02:46:16.925480
+event_61_2,case_61,Validate Invoice,2023-07-07 12:06:55.311435
+event_61_4,case_61,Verify Transaction Compliance,2023-08-30 08:26:00.021118
+event_62_3,case_62,Execute Payment,2023-01-07 22:09:23.733977
+event_62_4,case_62,Verify Transaction Compliance,2023-02-07 23:35:36.415804
+event_62_5,case_62,Update Ledger,2023-02-10 13:28:39.743392
+event_62_7,case_62,Perform Audit Trails,2023-05-23 17:19:09.232533
+event_62_8,case_62,Conduct Periodic Reviews,2023-07-08 03:28:33.175559
+event_62_1,case_62,Receive Invoice,2023-07-12 08:41:46.904765
+event_62_6,case_62,Resolve Discrepancies,2023-09-16 19:15:28.832656
+event_62_3,case_62,Reconcile Accounts,2023-09-30 21:50:06.189673
+event_62_2,case_62,Validate Invoice,2023-11-20 12:47:47.151736
+event_63_5,case_63,Update Ledger,2023-01-02 10:43:17.850426
+event_63_4,case_63,Verify Transaction Compliance,2023-02-12 22:52:58.982132
+event_63_1,case_63,Receive Invoice,2023-02-16 04:05:30.725379
+event_63_6,case_63,Resolve Discrepancies,2023-04-07 02:26:11.731235
+event_63_8,case_63,Conduct Periodic Reviews,2023-05-13 09:19:55.958675
+event_63_2,case_63,Validate Invoice,2023-06-22 21:52:11.258344
+event_63_7,case_63,Perform Audit Trails,2023-06-29 23:12:41.646649
+event_63_3,case_63,Reconcile Accounts,2023-08-05 02:08:35.085455
+event_63_4,case_63,Process Vendor Queries,2023-11-11 09:02:34.081782
+event_64_5,case_64,Update Ledger,2023-01-07 03:27:44.814794
+event_64_7,case_64,Perform Audit Trails,2023-05-22 04:32:15.474338
+event_64_4,case_64,Process Vendor Queries,2023-06-04 14:30:37.751160
+event_64_2,case_64,Validate Invoice,2023-06-11 20:35:50.608426
+event_64_5,case_64,Maintain Vendor Accounts,2023-06-16 12:17:32.828515
+event_64_1,case_64,Receive Invoice,2023-06-19 19:15:05.826563
+event_64_6,case_64,Resolve Discrepancies,2023-07-09 23:30:48.820747
+event_64_6,case_64,Resolve Discrepancies,2023-07-24 05:37:55.152473
+event_64_7,case_64,Archive Documentation,2023-08-16 14:15:04.782714
+event_64_4,case_64,Verify Transaction Compliance,2023-10-03 16:43:15.904032
+event_64_3,case_64,Execute Payment,2023-11-20 15:04:04.179221
+event_64_8,case_64,Conduct Periodic Reviews,2023-12-03 01:44:00.809880
+event_65_5,case_65,Maintain Vendor Accounts,2023-04-13 08:03:38.212393
+event_65_4,case_65,Verify Transaction Compliance,2023-06-15 02:09:46.141925
+event_65_8,case_65,Generate Financial Reports,2023-06-24 14:41:52.807637
+event_65_6,case_65,Authorize Expenditure,2023-07-29 09:40:51.093368
+event_65_3,case_65,Reconcile Accounts,2023-08-27 02:34:21.893183
+event_65_1,case_65,Receive Invoice,2023-08-29 15:36:45.945834
+event_65_2,case_65,Validate Invoice,2023-10-22 21:39:53.355240
+event_65_7,case_65,Archive Documentation,2023-11-01 18:19:06.302742
+event_65_2,case_65,Approve Payment,2023-11-16 15:02:26.950441
+event_66_7,case_66,Archive Documentation,2023-01-04 04:40:28.145362
+event_66_5,case_66,Update Ledger,2023-01-10 03:05:45.669044
+event_66_3,case_66,Execute Payment,2023-02-06 21:05:08.041358
+event_66_4,case_66,Verify Transaction Compliance,2023-05-22 04:24:08.769920
+event_66_3,case_66,Reconcile Accounts,2023-05-23 19:26:43.857548
+event_66_2,case_66,Validate Invoice,2023-07-16 06:49:25.460101
+event_66_6,case_66,Resolve Discrepancies,2023-08-16 18:47:32.570901
+event_66_1,case_66,Receive Invoice,2023-09-10 02:24:33.479713
+event_66_8,case_66,Conduct Periodic Reviews,2023-09-15 03:20:30.022312
+event_67_8,case_67,Generate Financial Reports,2023-02-20 04:13:19.716439
+event_67_3,case_67,Reconcile Accounts,2023-03-09 07:16:18.531284
+event_67_2,case_67,Validate Invoice,2023-03-17 15:09:51.979319
+event_67_5,case_67,Maintain Vendor Accounts,2023-03-28 18:06:03.959030
+event_67_2,case_67,Approve Payment,2023-04-22 00:42:09.644652
+event_67_1,case_67,Receive Invoice,2023-05-26 02:34:20.654356
+event_67_6,case_67,Authorize Expenditure,2023-06-02 15:56:31.923330
+event_67_4,case_67,Verify Transaction Compliance,2023-07-21 09:01:13.851240
+event_67_7,case_67,Archive Documentation,2023-11-27 06:02:50.714504
+event_68_3,case_68,Reconcile Accounts,2023-02-07 05:53:54.391551
+event_68_2,case_68,Approve Payment,2023-04-29 20:55:28.888428
+event_68_7,case_68,Archive Documentation,2023-05-26 03:31:54.298111
+event_68_8,case_68,Conduct Periodic Reviews,2023-06-29 17:09:07.764790
+event_68_5,case_68,Maintain Vendor Accounts,2023-07-03 22:22:29.159510
+event_68_1,case_68,Receive Invoice,2023-07-06 14:06:16.640491
+event_68_6,case_68,Authorize Expenditure,2023-07-08 21:10:09.929792
+event_68_4,case_68,Process Vendor Queries,2023-09-30 18:19:16.742359
+event_68_7,case_68,Perform Audit Trails,2023-11-06 10:40:00.889294
+event_69_5,case_69,Update Ledger,2023-01-01 18:24:44.017524
+event_69_7,case_69,Perform Audit Trails,2023-02-16 06:41:19.533405
+event_69_2,case_69,Validate Invoice,2023-05-02 03:43:56.756303
+event_69_4,case_69,Process Vendor Queries,2023-05-20 14:42:43.970183
+event_69_3,case_69,Execute Payment,2023-07-15 13:24:21.805330
+event_69_1,case_69,Receive Invoice,2023-07-31 23:57:31.201108
+event_69_8,case_69,Generate Financial Reports,2023-09-04 20:51:12.583825
+event_69_6,case_69,Resolve Discrepancies,2023-09-26 13:11:29.920595
+event_7_5,case_7,Maintain Vendor Accounts,2023-04-06 09:43:46.537620
+event_7_8,case_7,Conduct Periodic Reviews,2023-05-25 14:35:41.363971
+event_7_7,case_7,Perform Audit Trails,2023-06-12 09:21:04.265856
+event_7_6,case_7,Authorize Expenditure,2023-08-11 23:30:12.180458
+event_7_4,case_7,Verify Transaction Compliance,2023-10-18 03:28:03.021364
+event_7_1,case_7,Receive Invoice,2023-10-30 04:15:22.896046
+event_7_3,case_7,Reconcile Accounts,2023-10-30 15:20:19.059209
+event_7_2,case_7,Validate Invoice,2023-12-08 17:11:09.537997
+event_70_2,case_70,Approve Payment,2023-02-02 04:35:55.242445
+event_70_3,case_70,Reconcile Accounts,2023-02-11 17:04:16.474782
+event_70_6,case_70,Authorize Expenditure,2023-05-28 15:04:16.084376
+event_70_5,case_70,Update Ledger,2023-06-27 01:28:27.156182
+event_70_7,case_70,Archive Documentation,2023-08-19 01:25:25.961869
+event_70_8,case_70,Conduct Periodic Reviews,2023-10-25 18:49:03.588234
+event_70_1,case_70,Receive Invoice,2023-10-31 15:31:16.032435
+event_70_4,case_70,Process Vendor Queries,2023-12-05 17:53:31.183134
+event_71_1,case_71,Receive Invoice,2023-01-24 09:35:24.682700
+event_71_7,case_71,Archive Documentation,2023-01-26 14:07:42.869781
+event_71_2,case_71,Validate Invoice,2023-02-15 10:01:52.066821
+event_71_3,case_71,Execute Payment,2023-06-25 20:29:00.776314
+event_71_5,case_71,Update Ledger,2023-07-15 06:21:22.668616
+event_71_8,case_71,Conduct Periodic Reviews,2023-08-03 09:03:18.796488
+event_71_6,case_71,Resolve Discrepancies,2023-08-26 17:17:32.045501
+event_71_4,case_71,Verify Transaction Compliance,2023-10-29 15:24:53.483785
+event_72_6,case_72,Authorize Expenditure,2023-02-26 16:43:45.861697
+event_72_4,case_72,Verify Transaction Compliance,2023-03-28 07:18:27.104642
+event_72_7,case_72,Archive Documentation,2023-06-08 20:47:50.478417
+event_72_1,case_72,Receive Invoice,2023-06-11 12:45:16.742985
+event_72_2,case_72,Approve Payment,2023-07-10 03:31:04.402962
+event_72_3,case_72,Execute Payment,2023-08-26 09:34:07.522699
+event_72_5,case_72,Update Ledger,2023-10-06 15:44:01.517376
+event_72_5,case_72,Maintain Vendor Accounts,2023-11-01 05:11:12.497566
+event_72_8,case_72,Generate Financial Reports,2023-11-26 22:19:32.097697
+event_72_6,case_72,Resolve Discrepancies,2023-11-27 12:23:48.852856
+event_73_3,case_73,Execute Payment,2023-04-25 22:12:17.110703
+event_73_5,case_73,Maintain Vendor Accounts,2023-05-04 05:29:20.140906
+event_73_1,case_73,Receive Invoice,2023-06-05 02:42:12.225081
+event_73_7,case_73,Perform Audit Trails,2023-07-01 16:33:32.607718
+event_73_4,case_73,Process Vendor Queries,2023-08-10 04:00:18.265610
+event_73_2,case_73,Validate Invoice,2023-08-14 09:46:46.288445
+event_73_8,case_73,Conduct Periodic Reviews,2023-09-06 06:27:07.641274
+event_73_2,case_73,Approve Payment,2023-11-01 11:40:14.895648
+event_73_6,case_73,Authorize Expenditure,2023-11-18 02:58:25.668206
+event_74_2,case_74,Approve Payment,2023-01-23 21:18:01.231821
+event_74_3,case_74,Reconcile Accounts,2023-03-23 23:17:59.673322
+event_74_5,case_74,Update Ledger,2023-04-22 04:39:08.484173
+event_74_1,case_74,Receive Invoice,2023-06-08 04:15:25.120971
+event_74_8,case_74,Conduct Periodic Reviews,2023-06-28 02:55:59.623572
+event_74_6,case_74,Authorize Expenditure,2023-09-27 17:10:25.622418
+event_74_7,case_74,Archive Documentation,2023-11-02 18:41:46.943156
+event_74_4,case_74,Verify Transaction Compliance,2023-11-10 22:13:34.514916
+event_75_6,case_75,Authorize Expenditure,2023-04-29 07:47:21.974980
+event_75_4,case_75,Verify Transaction Compliance,2023-05-28 15:42:03.526132
+event_75_5,case_75,Update Ledger,2023-06-19 16:06:32.181632
+event_75_8,case_75,Conduct Periodic Reviews,2023-07-31 07:43:54.306885
+event_75_1,case_75,Receive Invoice,2023-10-05 00:37:55.252419
+event_75_7,case_75,Archive Documentation,2023-10-24 19:11:16.201369
+event_75_2,case_75,Approve Payment,2023-10-27 09:10:30.758955
+event_75_3,case_75,Reconcile Accounts,2023-11-22 05:37:35.391831
+event_76_7,case_76,Archive Documentation,2023-01-19 18:29:49.383637
+event_76_1,case_76,Receive Invoice,2023-01-29 14:34:54.314178
+event_76_5,case_76,Maintain Vendor Accounts,2023-04-22 04:56:33.755564
+event_76_4,case_76,Verify Transaction Compliance,2023-04-30 08:01:21.182919
+event_76_6,case_76,Resolve Discrepancies,2023-05-14 14:35:42.037991
+event_76_8,case_76,Generate Financial Reports,2023-05-31 20:49:55.806892
+event_76_2,case_76,Validate Invoice,2023-06-09 06:25:06.958879
+event_76_3,case_76,Execute Payment,2023-09-09 22:42:57.837764
+event_77_7,case_77,Perform Audit Trails,2023-02-21 19:44:51.310848
+event_77_6,case_77,Resolve Discrepancies,2023-02-27 11:37:48.951051
+event_77_4,case_77,Process Vendor Queries,2023-03-10 12:44:01.619046
+event_77_3,case_77,Reconcile Accounts,2023-03-13 20:20:21.972375
+event_77_5,case_77,Update Ledger,2023-03-23 16:20:07.814159
+event_77_1,case_77,Receive Invoice,2023-04-05 16:05:38.081391
+event_77_8,case_77,Generate Financial Reports,2023-06-20 16:13:45.788194
+event_77_2,case_77,Validate Invoice,2023-09-08 14:01:01.752499
+event_77_7,case_77,Archive Documentation,2023-10-04 04:44:37.526658
+event_77_5,case_77,Maintain Vendor Accounts,2023-10-06 09:38:02.425416
+event_77_3,case_77,Execute Payment,2023-10-31 13:55:27.639513
+event_78_2,case_78,Validate Invoice,2023-01-07 01:07:54.672952
+event_78_8,case_78,Generate Financial Reports,2023-01-23 12:29:30.042092
+event_78_6,case_78,Authorize Expenditure,2023-02-02 09:12:13.868504
+event_78_3,case_78,Reconcile Accounts,2023-05-01 03:42:34.620560
+event_78_5,case_78,Update Ledger,2023-07-23 07:48:36.325033
+event_78_1,case_78,Receive Invoice,2023-09-06 17:13:49.764923
+event_78_4,case_78,Process Vendor Queries,2023-10-16 10:35:38.781883
+event_78_7,case_78,Perform Audit Trails,2023-11-16 05:53:51.700499
+event_79_7,case_79,Perform Audit Trails,2023-02-04 18:34:27.606369
+event_79_8,case_79,Conduct Periodic Reviews,2023-02-14 23:30:56.445358
+event_79_1,case_79,Receive Invoice,2023-03-22 06:21:49.649640
+event_79_6,case_79,Resolve Discrepancies,2023-06-09 04:29:49.267474
+event_79_5,case_79,Update Ledger,2023-06-28 14:45:23.921816
+event_79_3,case_79,Reconcile Accounts,2023-08-12 11:01:02.296033
+event_79_4,case_79,Process Vendor Queries,2023-09-03 12:01:05.092568
+event_79_2,case_79,Approve Payment,2023-12-03 10:56:52.420090
+event_8_3,case_8,Reconcile Accounts,2023-01-05 18:38:38.414603
+event_8_4,case_8,Process Vendor Queries,2023-02-24 03:16:50.853194
+event_8_8,case_8,Generate Financial Reports,2023-02-28 01:29:08.235781
+event_8_7,case_8,Archive Documentation,2023-03-01 02:16:29.409963
+event_8_5,case_8,Update Ledger,2023-04-25 13:52:06.124838
+event_8_1,case_8,Receive Invoice,2023-05-20 14:15:30.256438
+event_8_6,case_8,Resolve Discrepancies,2023-05-31 10:30:04.487763
+event_8_6,case_8,Authorize Expenditure,2023-07-14 09:17:42.157004
+event_8_2,case_8,Validate Invoice,2023-09-23 08:25:36.959557
+event_80_5,case_80,Maintain Vendor Accounts,2023-02-18 00:12:34.281272
+event_80_6,case_80,Authorize Expenditure,2023-02-21 06:10:37.798684
+event_80_7,case_80,Perform Audit Trails,2023-03-10 03:16:30.530143
+event_80_4,case_80,Verify Transaction Compliance,2023-03-23 03:33:15.654241
+event_80_1,case_80,Receive Invoice,2023-04-09 20:20:31.304058
+event_80_3,case_80,Reconcile Accounts,2023-05-17 10:22:17.883429
+event_80_8,case_80,Generate Financial Reports,2023-10-18 21:09:13.166427
+event_80_2,case_80,Validate Invoice,2023-11-16 00:02:34.667630
+event_81_6,case_81,Resolve Discrepancies,2023-01-16 23:48:23.368777
+event_81_7,case_81,Archive Documentation,2023-05-03 18:53:50.732171
+event_81_2,case_81,Validate Invoice,2023-06-05 21:00:03.010124
+event_81_4,case_81,Verify Transaction Compliance,2023-06-06 12:46:43.747282
+event_81_8,case_81,Generate Financial Reports,2023-09-02 08:28:45.983328
+event_81_5,case_81,Maintain Vendor Accounts,2023-10-25 13:33:38.839855
+event_81_1,case_81,Receive Invoice,2023-10-26 17:29:29.355371
+event_81_3,case_81,Execute Payment,2023-10-28 17:24:40.992068
+event_82_5,case_82,Update Ledger,2023-03-04 06:18:27.449389
+event_82_4,case_82,Verify Transaction Compliance,2023-03-14 06:23:05.603161
+event_82_7,case_82,Archive Documentation,2023-03-21 12:15:27.652204
+event_82_2,case_82,Validate Invoice,2023-06-29 15:24:13.849849
+event_82_6,case_82,Resolve Discrepancies,2023-07-21 01:24:33.311021
+event_82_3,case_82,Execute Payment,2023-08-12 10:57:11.007047
+event_82_1,case_82,Receive Invoice,2023-08-31 20:15:19.950779
+event_82_5,case_82,Maintain Vendor Accounts,2023-09-11 14:21:59.650254
+event_82_8,case_82,Conduct Periodic Reviews,2023-12-08 00:07:01.622064
+event_83_8,case_83,Generate Financial Reports,2023-02-14 20:15:48.127132
+event_83_1,case_83,Receive Invoice,2023-03-14 10:52:12.289392
+event_83_7,case_83,Perform Audit Trails,2023-05-30 19:52:27.425321
+event_83_2,case_83,Approve Payment,2023-06-12 05:02:16.337028
+event_83_4,case_83,Process Vendor Queries,2023-09-20 01:51:52.676477
+event_83_5,case_83,Maintain Vendor Accounts,2023-10-03 06:02:07.822004
+event_83_3,case_83,Reconcile Accounts,2023-10-24 00:12:02.192507
+event_83_6,case_83,Resolve Discrepancies,2023-11-25 01:51:42.104385
+event_84_3,case_84,Reconcile Accounts,2023-03-28 11:57:35.106017
+event_84_4,case_84,Process Vendor Queries,2023-04-15 20:54:56.807061
+event_84_2,case_84,Approve Payment,2023-06-11 07:18:14.986533
+event_84_8,case_84,Conduct Periodic Reviews,2023-06-14 06:08:37.087355
+event_84_6,case_84,Authorize Expenditure,2023-08-19 08:29:52.435513
+event_84_1,case_84,Receive Invoice,2023-09-19 13:43:24.565794
+event_84_5,case_84,Update Ledger,2023-10-07 05:24:04.614649
+event_84_3,case_84,Reconcile Accounts,2023-11-02 16:47:33.705034
+event_84_7,case_84,Archive Documentation,2023-11-24 23:52:54.685697
+event_84_2,case_84,Approve Payment,2023-12-03 17:23:07.780201
+event_85_6,case_85,Resolve Discrepancies,2023-01-03 23:25:15.307622
+event_85_3,case_85,Execute Payment,2023-03-11 14:20:02.936691
+event_85_2,case_85,Approve Payment,2023-04-05 08:26:58.312094
+event_85_1,case_85,Receive Invoice,2023-04-07 22:18:41.683096
+event_85_8,case_85,Generate Financial Reports,2023-06-08 23:53:43.968405
+event_85_7,case_85,Perform Audit Trails,2023-08-19 23:09:15.900666
+event_85_5,case_85,Update Ledger,2023-09-08 06:17:01.668978
+event_85_4,case_85,Process Vendor Queries,2023-09-15 17:16:18.066542
+event_85_4,case_85,Verify Transaction Compliance,2023-10-08 04:50:09.947850
+event_85_4,case_85,Process Vendor Queries,2023-11-05 01:43:55.688540
+event_86_1,case_86,Receive Invoice,2023-01-15 16:16:11.835909
+event_86_2,case_86,Approve Payment,2023-01-18 18:25:46.961114
+event_86_5,case_86,Maintain Vendor Accounts,2023-04-16 00:39:41.637812
+event_86_4,case_86,Verify Transaction Compliance,2023-04-25 20:54:25.972665
+event_86_3,case_86,Execute Payment,2023-05-30 02:05:39.118189
+event_86_6,case_86,Resolve Discrepancies,2023-06-24 23:41:06.834080
+event_86_7,case_86,Perform Audit Trails,2023-07-28 15:55:41.791134
+event_86_8,case_86,Conduct Periodic Reviews,2023-08-06 13:17:15.932744
+event_86_7,case_86,Archive Documentation,2023-09-05 21:58:21.448846
+event_87_1,case_87,Receive Invoice,2023-02-05 10:26:47.901810
+event_87_8,case_87,Generate Financial Reports,2023-02-20 01:01:41.171345
+event_87_6,case_87,Resolve Discrepancies,2023-04-17 13:46:41.791061
+event_87_7,case_87,Archive Documentation,2023-05-15 23:24:29.142135
+event_87_5,case_87,Maintain Vendor Accounts,2023-09-17 01:18:40.430332
+event_87_2,case_87,Validate Invoice,2023-11-07 08:38:03.467529
+event_87_4,case_87,Process Vendor Queries,2023-11-25 06:00:50.674579
+event_87_3,case_87,Execute Payment,2023-12-01 22:29:13.311928
+event_88_3,case_88,Execute Payment,2023-02-07 02:18:48.092928
+event_88_6,case_88,Resolve Discrepancies,2023-05-04 01:32:31.647658
+event_88_4,case_88,Process Vendor Queries,2023-05-16 17:09:48.985574
+event_88_5,case_88,Update Ledger,2023-06-16 19:31:51.913849
+event_88_8,case_88,Conduct Periodic Reviews,2023-06-19 18:52:48.156614
+event_88_2,case_88,Validate Invoice,2023-08-08 09:33:57.737960
+event_88_3,case_88,Reconcile Accounts,2023-08-23 08:51:24.718708
+event_88_7,case_88,Archive Documentation,2023-09-20 14:32:44.406231
+event_88_1,case_88,Receive Invoice,2023-11-10 11:26:27.822338
+event_89_8,case_89,Conduct Periodic Reviews,2023-02-02 18:07:26.511803
+event_89_3,case_89,Execute Payment,2023-03-11 16:52:16.091170
+event_89_6,case_89,Resolve Discrepancies,2023-03-18 05:50:21.356034
+event_89_2,case_89,Approve Payment,2023-06-14 14:31:04.052068
+event_89_1,case_89,Receive Invoice,2023-07-03 00:39:16.540988
+event_89_5,case_89,Update Ledger,2023-07-04 09:10:21.547112
+event_89_5,case_89,Maintain Vendor Accounts,2023-08-06 20:59:12.375199
+event_89_3,case_89,Reconcile Accounts,2023-09-13 10:38:03.320937
+event_89_7,case_89,Perform Audit Trails,2023-10-09 15:12:09.997353
+event_89_4,case_89,Process Vendor Queries,2023-11-08 09:12:24.906398
+event_9_6,case_9,Authorize Expenditure,2023-01-29 13:57:57.567591
+event_9_2,case_9,Approve Payment,2023-02-13 10:43:03.855716
+event_9_8,case_9,Conduct Periodic Reviews,2023-05-15 06:50:53.072454
+event_9_5,case_9,Maintain Vendor Accounts,2023-06-26 19:16:55.925961
+event_9_4,case_9,Verify Transaction Compliance,2023-07-12 03:08:08.418223
+event_9_1,case_9,Receive Invoice,2023-07-30 09:18:00.254642
+event_9_4,case_9,Process Vendor Queries,2023-09-30 17:21:09.793322
+event_9_6,case_9,Resolve Discrepancies,2023-11-06 11:29:47.025745
+event_9_7,case_9,Perform Audit Trails,2023-11-16 01:19:34.662682
+event_9_3,case_9,Execute Payment,2023-11-21 15:24:51.818781
+event_9_2,case_9,Validate Invoice,2023-11-29 09:20:45.096929
+event_90_8,case_90,Generate Financial Reports,2023-03-05 17:01:53.769898
+event_90_1,case_90,Receive Invoice,2023-03-21 09:55:00.687702
+event_90_5,case_90,Maintain Vendor Accounts,2023-04-03 22:18:57.403233
+event_90_4,case_90,Process Vendor Queries,2023-05-13 22:20:09.492226
+event_90_7,case_90,Archive Documentation,2023-06-04 21:19:32.001502
+event_90_3,case_90,Reconcile Accounts,2023-06-19 11:06:58.914385
+event_90_2,case_90,Validate Invoice,2023-07-22 04:17:04.962966
+event_90_6,case_90,Authorize Expenditure,2023-07-23 22:45:55.962931
+event_90_4,case_90,Verify Transaction Compliance,2023-08-02 08:26:11.766937
+event_90_5,case_90,Update Ledger,2023-10-17 11:41:40.368866
+event_91_8,case_91,Generate Financial Reports,2023-04-28 14:30:26.412676
+event_91_2,case_91,Approve Payment,2023-05-22 03:59:15.171335
+event_91_1,case_91,Receive Invoice,2023-05-26 03:51:20.739372
+event_91_6,case_91,Authorize Expenditure,2023-06-04 08:29:28.395627
+event_91_5,case_91,Update Ledger,2023-06-11 19:50:32.142057
+event_91_4,case_91,Verify Transaction Compliance,2023-07-14 20:16:28.910787
+event_91_3,case_91,Reconcile Accounts,2023-09-04 02:36:49.588369
+event_91_7,case_91,Perform Audit Trails,2023-09-05 10:58:26.992908
+event_91_7,case_91,Archive Documentation,2023-09-30 19:04:07.454886
+event_92_4,case_92,Process Vendor Queries,2023-01-04 07:01:50.847424
+event_92_7,case_92,Perform Audit Trails,2023-01-17 03:38:11.399429
+event_92_2,case_92,Validate Invoice,2023-01-24 04:33:09.881958
+event_92_8,case_92,Generate Financial Reports,2023-02-05 10:07:23.074319
+event_92_1,case_92,Receive Invoice,2023-02-13 09:52:03.425157
+event_92_2,case_92,Validate Invoice,2023-02-23 04:11:29.315162
+event_92_6,case_92,Resolve Discrepancies,2023-03-05 10:53:16.061538
+event_92_2,case_92,Approve Payment,2023-07-25 10:12:43.449246
+event_92_3,case_92,Reconcile Accounts,2023-09-27 06:26:24.728283
+event_92_3,case_92,Reconcile Accounts,2023-09-28 22:02:19.788429
+event_92_2,case_92,Approve Payment,2023-10-27 23:11:24.144065
+event_92_5,case_92,Maintain Vendor Accounts,2023-11-05 03:51:33.742910
+event_93_7,case_93,Archive Documentation,2023-04-18 22:07:35.180564
+event_93_5,case_93,Update Ledger,2023-04-27 05:21:52.985413
+event_93_6,case_93,Resolve Discrepancies,2023-05-26 17:49:09.507215
+event_93_4,case_93,Process Vendor Queries,2023-05-28 14:15:19.697006
+event_93_6,case_93,Authorize Expenditure,2023-09-04 13:24:59.215620
+event_93_3,case_93,Execute Payment,2023-09-09 12:00:56.677366
+event_93_1,case_93,Receive Invoice,2023-09-22 13:25:38.590204
+event_93_3,case_93,Reconcile Accounts,2023-09-26 04:15:12.014707
+event_93_2,case_93,Validate Invoice,2023-09-26 09:35:10.412157
+event_93_8,case_93,Conduct Periodic Reviews,2023-10-24 07:19:08.386867
+event_94_3,case_94,Reconcile Accounts,2023-01-02 16:26:22.480507
+event_94_8,case_94,Generate Financial Reports,2023-03-12 01:45:18.654045
+event_94_6,case_94,Authorize Expenditure,2023-03-27 18:21:35.655200
+event_94_3,case_94,Execute Payment,2023-04-18 09:28:29.471743
+event_94_2,case_94,Validate Invoice,2023-04-28 20:20:58.273494
+event_94_7,case_94,Perform Audit Trails,2023-05-21 12:33:58.239792
+event_94_5,case_94,Update Ledger,2023-05-26 16:16:03.784081
+event_94_1,case_94,Receive Invoice,2023-07-29 01:41:59.714473
+event_94_4,case_94,Process Vendor Queries,2023-10-23 00:04:48.235582
+event_95_3,case_95,Reconcile Accounts,2023-01-04 19:00:33.724424
+event_95_6,case_95,Authorize Expenditure,2023-01-24 19:54:52.218868
+event_95_7,case_95,Archive Documentation,2023-02-02 02:43:37.510987
+event_95_8,case_95,Generate Financial Reports,2023-02-09 16:08:20.099588
+event_95_4,case_95,Process Vendor Queries,2023-07-16 22:15:04.558024
+event_95_1,case_95,Receive Invoice,2023-07-23 23:06:47.470129
+event_95_3,case_95,Execute Payment,2023-07-29 02:54:41.578439
+event_95_5,case_95,Maintain Vendor Accounts,2023-08-08 20:26:50.164973
+event_95_2,case_95,Validate Invoice,2023-09-10 22:34:31.831752
+event_96_6,case_96,Resolve Discrepancies,2023-05-05 11:27:29.238375
+event_96_7,case_96,Perform Audit Trails,2023-05-24 13:04:42.632256
+event_96_3,case_96,Execute Payment,2023-06-01 06:19:10.518030
+event_96_5,case_96,Update Ledger,2023-07-01 15:23:25.894105
+event_96_4,case_96,Verify Transaction Compliance,2023-07-26 15:46:14.829901
+event_96_8,case_96,Generate Financial Reports,2023-07-28 09:24:13.447653
+event_96_2,case_96,Approve Payment,2023-08-07 06:46:49.154829
+event_96_3,case_96,Reconcile Accounts,2023-08-30 11:05:19.063581
+event_96_1,case_96,Receive Invoice,2023-10-31 12:17:39.734676
+event_97_2,case_97,Validate Invoice,2023-03-22 17:12:47.802202
+event_97_4,case_97,Verify Transaction Compliance,2023-05-07 14:10:32.065460
+event_97_6,case_97,Authorize Expenditure,2023-05-09 14:56:00.738403
+event_97_1,case_97,Receive Invoice,2023-06-11 15:05:47.243739
+event_97_5,case_97,Update Ledger,2023-06-30 20:33:57.501193
+event_97_8,case_97,Conduct Periodic Reviews,2023-07-04 19:11:49.606042
+event_97_3,case_97,Reconcile Accounts,2023-08-06 10:49:06.978269
+event_97_6,case_97,Resolve Discrepancies,2023-08-29 22:59:32.996181
+event_97_7,case_97,Archive Documentation,2023-11-24 16:24:45.057815
+event_98_5,case_98,Update Ledger,2023-03-22 08:35:46.337630
+event_98_3,case_98,Execute Payment,2023-05-27 12:54:15.344684
+event_98_6,case_98,Resolve Discrepancies,2023-06-21 10:33:10.452221
+event_98_4,case_98,Process Vendor Queries,2023-06-24 23:49:01.962835
+event_98_3,case_98,Reconcile Accounts,2023-08-02 19:48:38.872434
+event_98_8,case_98,Conduct Periodic Reviews,2023-08-18 03:08:50.086417
+event_98_2,case_98,Validate Invoice,2023-09-18 01:46:45.797090
+event_98_1,case_98,Receive Invoice,2023-09-26 17:03:35.035716
+event_98_7,case_98,Archive Documentation,2023-10-25 15:48:53.021031
+event_99_8,case_99,Generate Financial Reports,2023-03-30 16:43:54.222576
+event_99_4,case_99,Process Vendor Queries,2023-04-04 11:07:13.973515
+event_99_7,case_99,Perform Audit Trails,2023-07-27 11:57:20.297241
+event_99_3,case_99,Reconcile Accounts,2023-08-14 13:29:35.324710
+event_99_6,case_99,Resolve Discrepancies,2023-08-14 19:00:54.087000
+event_99_5,case_99,Maintain Vendor Accounts,2023-09-09 01:38:22.450275
+event_99_1,case_99,Receive Invoice,2023-10-24 09:18:14.127700
+event_99_2,case_99,Validate Invoice,2023-10-25 03:42:43.325651

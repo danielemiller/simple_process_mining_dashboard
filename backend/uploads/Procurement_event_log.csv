@@ -1,0 +1,2573 @@
+Event ID,Case ID,Activity,Timestamp
+event_0_3,case_0,Approve Purchase Order,2023-04-09 12:27:02.313253
+event_0_5,case_0,Complete Payment,2023-04-19 18:23:05.886163
+event_0_4,case_0,Monitor Order Status,2023-05-27 14:13:56.230391
+event_0_1,case_0,Create Purchase Order,2023-06-27 19:01:19.331232
+event_0_0,case_0,Close Purchase Order,2023-08-05 02:53:54.932253
+event_0_7,case_0,Renew Contract,2023-08-13 22:48:47.221300
+event_0_2,case_0,Select Supplier,2023-10-22 04:53:13.736875
+event_0_6,case_0,Finalize Purchase Details,2023-11-22 02:34:03.487859
+event_1_6,case_1,Finalize Purchase Details,2023-04-08 05:12:16.888271
+event_1_0,case_1,Close Purchase Order,2023-04-22 19:39:14.181113
+event_1_4,case_1,Monitor Order Status,2023-04-25 13:33:05.137586
+event_1_5,case_1,Complete Payment,2023-04-30 02:41:05.367919
+event_1_4,case_1,Receive Goods,2023-05-28 16:51:22.656385
+event_1_2,case_1,Request Quotations,2023-07-29 16:17:12.936089
+event_1_7,case_1,Renew Contract,2023-07-29 23:01:35.577614
+event_1_1,case_1,Create Purchase Order,2023-08-16 22:00:25.870315
+event_1_3,case_1,Approve Purchase Order,2023-10-03 22:13:20.510272
+event_10_1,case_10,Create Purchase Order,2023-04-27 05:14:44.207254
+event_10_2,case_10,Negotiate Contract,2023-04-29 09:07:27.587445
+event_10_4,case_10,Monitor Order Status,2023-05-10 18:02:29.361132
+event_10_0,case_10,Close Purchase Order,2023-07-03 10:11:46.617537
+event_10_3,case_10,Approve Purchase Order,2023-08-12 03:07:28.127178
+event_10_7,case_10,Renew Contract,2023-08-14 08:54:25.661709
+event_10_6,case_10,Finalize Purchase Details,2023-08-18 03:24:12.102937
+event_10_5,case_10,Process Invoice,2023-11-26 00:03:27.104156
+event_100_0,case_100,Close Purchase Order,2023-03-03 19:49:39.540701
+event_100_1,case_100,Create Purchase Order,2023-03-08 18:27:58.698357
+event_100_2,case_100,Request Quotations,2023-04-10 06:29:24.246226
+event_100_3,case_100,Dispatch Order,2023-05-06 10:32:25.622228
+event_100_7,case_100,Renew Contract,2023-06-07 03:25:18.970160
+event_100_4,case_100,Monitor Order Status,2023-06-30 07:25:45.386813
+event_100_6,case_100,Finalize Purchase Details,2023-07-23 00:56:53.418823
+event_100_5,case_100,Process Invoice,2023-10-19 21:13:21.515897
+event_101_3,case_101,Approve Purchase Order,2023-01-22 03:12:30.722047
+event_101_4,case_101,Monitor Order Status,2023-02-21 07:30:16.817426
+event_101_2,case_101,Request Quotations,2023-03-05 12:02:04.916362
+event_101_6,case_101,Evaluate Supplier Performance,2023-04-07 10:25:06.158880
+event_101_7,case_101,Conduct Market Analysis,2023-06-03 17:15:40.621090
+event_101_3,case_101,Dispatch Order,2023-06-27 19:14:28.612795
+event_101_5,case_101,Process Invoice,2023-07-01 02:10:01.442073
+event_101_1,case_101,Create Purchase Order,2023-07-03 01:13:47.731971
+event_101_0,case_101,Close Purchase Order,2023-07-11 10:56:03.287563
+event_102_4,case_102,Receive Goods,2023-01-19 08:18:30.459146
+event_102_7,case_102,Renew Contract,2023-01-24 08:33:58.928569
+event_102_2,case_102,Select Supplier,2023-03-06 10:53:55.574550
+event_102_1,case_102,Create Purchase Order,2023-04-08 05:40:14.035168
+event_102_3,case_102,Approve Purchase Order,2023-04-29 02:04:31.913628
+event_102_0,case_102,Close Purchase Order,2023-05-28 18:48:20.271969
+event_102_6,case_102,Evaluate Supplier Performance,2023-06-25 01:15:15.443907
+event_102_5,case_102,Complete Payment,2023-11-22 19:40:19.432997
+event_103_5,case_103,Process Invoice,2023-01-11 08:32:49.391097
+event_103_4,case_103,Receive Goods,2023-02-04 16:31:25.851008
+event_103_7,case_103,Conduct Market Analysis,2023-02-20 03:47:25.990775
+event_103_0,case_103,Close Purchase Order,2023-03-15 05:42:21.984858
+event_103_2,case_103,Select Supplier,2023-04-20 17:57:03.722200
+event_103_6,case_103,Finalize Purchase Details,2023-06-09 23:29:28.408914
+event_103_1,case_103,Create Purchase Order,2023-07-09 00:11:01.580776
+event_103_3,case_103,Approve Purchase Order,2023-09-27 03:35:25.829118
+event_104_5,case_104,Process Invoice,2023-01-22 22:33:02.839860
+event_104_0,case_104,Close Purchase Order,2023-03-02 14:28:04.722858
+event_104_7,case_104,Conduct Market Analysis,2023-05-11 10:06:09.671814
+event_104_6,case_104,Evaluate Supplier Performance,2023-08-17 10:48:25.582008
+event_104_1,case_104,Create Purchase Order,2023-09-12 03:56:30.081176
+event_104_3,case_104,Approve Purchase Order,2023-10-04 11:41:21.914693
+event_104_2,case_104,Select Supplier,2023-10-07 04:04:08.652372
+event_104_4,case_104,Receive Goods,2023-11-04 15:23:24.267489
+event_105_5,case_105,Complete Payment,2023-03-01 18:14:57.663386
+event_105_7,case_105,Conduct Market Analysis,2023-03-12 15:37:55.410331
+event_105_1,case_105,Create Purchase Order,2023-04-01 20:38:31.196809
+event_105_6,case_105,Evaluate Supplier Performance,2023-06-23 16:24:28.222686
+event_105_3,case_105,Approve Purchase Order,2023-07-09 17:58:17.339158
+event_105_2,case_105,Request Quotations,2023-07-13 08:46:31.810581
+event_105_4,case_105,Receive Goods,2023-11-04 17:05:43.630720
+event_105_0,case_105,Close Purchase Order,2023-12-04 08:28:50.984981
+event_106_3,case_106,Approve Purchase Order,2023-01-05 15:07:44.953987
+event_106_4,case_106,Receive Goods,2023-03-02 05:32:50.698308
+event_106_6,case_106,Finalize Purchase Details,2023-06-28 19:31:39.797843
+event_106_5,case_106,Complete Payment,2023-07-04 10:12:20.668882
+event_106_0,case_106,Close Purchase Order,2023-07-20 12:43:18.980976
+event_106_7,case_106,Conduct Market Analysis,2023-08-02 23:01:04.890181
+event_106_1,case_106,Create Purchase Order,2023-08-25 04:09:21.645101
+event_106_2,case_106,Select Supplier,2023-10-22 00:52:54.832993
+event_107_2,case_107,Request Quotations,2023-03-22 14:36:36.392632
+event_107_6,case_107,Evaluate Supplier Performance,2023-05-05 04:09:01.973404
+event_107_7,case_107,Conduct Market Analysis,2023-07-17 16:16:26.751601
+event_107_4,case_107,Monitor Order Status,2023-07-30 07:12:50.814759
+event_107_1,case_107,Create Purchase Order,2023-09-13 07:35:08.692795
+event_107_3,case_107,Approve Purchase Order,2023-10-10 19:53:33.143214
+event_107_5,case_107,Complete Payment,2023-10-13 03:03:42.399755
+event_107_0,case_107,Close Purchase Order,2023-11-29 02:25:05.757387
+event_108_5,case_108,Process Invoice,2023-01-22 02:24:26.742151
+event_108_0,case_108,Close Purchase Order,2023-03-15 13:28:18.632352
+event_108_2,case_108,Request Quotations,2023-03-19 16:02:25.744030
+event_108_3,case_108,Dispatch Order,2023-03-19 21:51:31.703790
+event_108_3,case_108,Approve Purchase Order,2023-03-31 10:28:11.712513
+event_108_7,case_108,Renew Contract,2023-04-11 06:18:19.574507
+event_108_6,case_108,Evaluate Supplier Performance,2023-05-18 07:00:28.738543
+event_108_1,case_108,Create Purchase Order,2023-06-11 11:17:48.619634
+event_108_4,case_108,Monitor Order Status,2023-10-29 13:56:02.023390
+event_109_3,case_109,Dispatch Order,2023-01-25 13:13:31.916162
+event_109_5,case_109,Complete Payment,2023-02-08 10:51:27.419174
+event_109_5,case_109,Process Invoice,2023-02-23 06:03:16.709972
+event_109_0,case_109,Close Purchase Order,2023-03-18 15:31:19.254617
+event_109_1,case_109,Create Purchase Order,2023-07-06 02:51:52.459010
+event_109_3,case_109,Approve Purchase Order,2023-07-25 20:05:44.243190
+event_109_7,case_109,Renew Contract,2023-09-11 08:31:37.628440
+event_109_4,case_109,Monitor Order Status,2023-10-02 22:24:33.929134
+event_109_2,case_109,Request Quotations,2023-10-05 11:01:34.511320
+event_109_6,case_109,Evaluate Supplier Performance,2023-12-02 02:53:08.986004
+event_11_3,case_11,Approve Purchase Order,2023-03-02 11:27:33.962880
+event_11_1,case_11,Create Purchase Order,2023-05-11 09:17:38.461248
+event_11_7,case_11,Conduct Market Analysis,2023-07-01 07:30:47.487294
+event_11_3,case_11,Approve Purchase Order,2023-08-31 03:32:38.297936
+event_11_3,case_11,Dispatch Order,2023-09-01 07:35:08.251722
+event_11_0,case_11,Close Purchase Order,2023-09-02 03:09:07.293389
+event_11_5,case_11,Process Invoice,2023-09-07 14:42:06.616316
+event_11_4,case_11,Monitor Order Status,2023-10-13 21:51:15.675626
+event_11_2,case_11,Request Quotations,2023-10-18 22:30:08.295416
+event_11_4,case_11,Receive Goods,2023-11-09 21:13:53.606278
+event_11_6,case_11,Finalize Purchase Details,2023-11-29 09:28:27.222034
+event_11_3,case_11,Dispatch Order,2023-11-30 09:41:49.728591
+event_110_4,case_110,Monitor Order Status,2023-01-05 21:19:40.765281
+event_110_4,case_110,Receive Goods,2023-01-07 19:17:37.959469
+event_110_2,case_110,Negotiate Contract,2023-01-24 20:35:16.980052
+event_110_6,case_110,Finalize Purchase Details,2023-02-08 03:28:33.479241
+event_110_7,case_110,Conduct Market Analysis,2023-03-09 17:59:38.820246
+event_110_6,case_110,Finalize Purchase Details,2023-03-29 09:16:27.832577
+event_110_5,case_110,Process Invoice,2023-07-30 06:17:34.314494
+event_110_1,case_110,Create Purchase Order,2023-08-07 17:23:59.554606
+event_110_3,case_110,Dispatch Order,2023-09-08 16:14:36.834348
+event_110_0,case_110,Close Purchase Order,2023-10-17 19:51:25.902327
+event_110_6,case_110,Evaluate Supplier Performance,2023-11-28 01:01:54.453228
+event_111_6,case_111,Finalize Purchase Details,2023-02-23 01:53:09.655627
+event_111_1,case_111,Create Purchase Order,2023-03-11 13:41:14.754280
+event_111_7,case_111,Renew Contract,2023-04-25 09:45:06.532720
+event_111_2,case_111,Negotiate Contract,2023-07-20 22:40:48.883112
+event_111_0,case_111,Close Purchase Order,2023-08-21 08:09:40.302004
+event_111_3,case_111,Approve Purchase Order,2023-09-12 18:19:06.100584
+event_111_5,case_111,Process Invoice,2023-10-11 09:17:35.568784
+event_111_4,case_111,Monitor Order Status,2023-11-03 08:07:24.155077
+event_112_7,case_112,Renew Contract,2023-01-12 04:06:17.794479
+event_112_5,case_112,Complete Payment,2023-02-17 23:48:33.597201
+event_112_2,case_112,Request Quotations,2023-02-22 17:47:27.869725
+event_112_0,case_112,Close Purchase Order,2023-02-28 11:59:28.345601
+event_112_6,case_112,Finalize Purchase Details,2023-03-03 05:38:59.466292
+event_112_1,case_112,Create Purchase Order,2023-04-16 11:15:02.320231
+event_112_3,case_112,Dispatch Order,2023-10-01 08:12:15.132990
+event_112_4,case_112,Receive Goods,2023-12-08 11:06:41.746062
+event_113_5,case_113,Complete Payment,2023-02-09 13:15:07.020901
+event_113_4,case_113,Receive Goods,2023-03-02 10:29:36.463282
+event_113_3,case_113,Dispatch Order,2023-03-24 14:25:24.802064
+event_113_7,case_113,Conduct Market Analysis,2023-04-09 06:13:21.507255
+event_113_2,case_113,Request Quotations,2023-05-13 17:26:32.691996
+event_113_4,case_113,Monitor Order Status,2023-07-12 03:58:48.341701
+event_113_1,case_113,Create Purchase Order,2023-07-21 06:52:17.628239
+event_113_6,case_113,Evaluate Supplier Performance,2023-09-16 01:22:06.778639
+event_113_3,case_113,Approve Purchase Order,2023-09-30 03:13:07.641305
+event_113_0,case_113,Close Purchase Order,2023-11-14 15:28:00.216970
+event_114_2,case_114,Request Quotations,2023-01-29 13:39:23.252959
+event_114_1,case_114,Create Purchase Order,2023-02-24 07:33:20.991327
+event_114_6,case_114,Evaluate Supplier Performance,2023-05-18 11:08:51.906581
+event_114_3,case_114,Approve Purchase Order,2023-07-28 14:11:47.734608
+event_114_0,case_114,Close Purchase Order,2023-09-11 09:00:38.875135
+event_114_4,case_114,Monitor Order Status,2023-11-13 03:08:49.491916
+event_114_7,case_114,Renew Contract,2023-11-20 20:08:49.329223
+event_114_5,case_114,Complete Payment,2023-11-22 01:59:59.998957
+event_114_2,case_114,Select Supplier,2023-11-24 03:09:03.729711
+event_115_2,case_115,Select Supplier,2023-01-20 17:16:43.393789
+event_115_1,case_115,Create Purchase Order,2023-02-27 14:38:37.638379
+event_115_7,case_115,Conduct Market Analysis,2023-03-13 00:57:32.612610
+event_115_6,case_115,Evaluate Supplier Performance,2023-03-13 10:55:21.200918
+event_115_6,case_115,Finalize Purchase Details,2023-04-13 10:36:15.722840
+event_115_5,case_115,Process Invoice,2023-04-14 06:11:29.589875
+event_115_5,case_115,Evaluate Supplier Performance,2023-05-07 14:25:18.607651
+event_115_6,case_115,Evaluate Supplier Performance,2023-06-29 07:34:38.285454
+event_115_4,case_115,Receive Goods,2023-07-04 21:02:51.483644
+event_115_3,case_115,Dispatch Order,2023-08-20 08:52:53.701786
+event_115_0,case_115,Close Purchase Order,2023-10-23 10:18:32.803246
+event_115_6,case_115,Finalize Purchase Details,2023-12-02 08:22:00.929894
+event_116_7,case_116,Conduct Market Analysis,2023-03-04 19:58:29.742901
+event_116_1,case_116,Create Purchase Order,2023-03-18 18:08:46.071926
+event_116_0,case_116,Close Purchase Order,2023-05-09 04:48:12.816617
+event_116_5,case_116,Process Invoice,2023-05-17 04:37:06.358091
+event_116_2,case_116,Request Quotations,2023-07-08 11:06:34.504915
+event_116_6,case_116,Evaluate Supplier Performance,2023-07-24 15:23:32.028448
+event_116_3,case_116,Dispatch Order,2023-11-06 08:18:51.212764
+event_116_4,case_116,Receive Goods,2023-12-02 06:46:24.197198
+event_117_2,case_117,Request Quotations,2023-02-11 02:18:07.326751
+event_117_5,case_117,Complete Payment,2023-03-24 16:06:27.096468
+event_117_4,case_117,Receive Goods,2023-04-17 09:15:12.043138
+event_117_1,case_117,Create Purchase Order,2023-04-18 11:38:35.571223
+event_117_7,case_117,Renew Contract,2023-05-08 17:35:41.669449
+event_117_6,case_117,Finalize Purchase Details,2023-07-02 15:53:35.067483
+event_117_3,case_117,Approve Purchase Order,2023-07-11 20:10:01.139729
+event_117_0,case_117,Close Purchase Order,2023-08-04 05:26:07.962699
+event_118_3,case_118,Approve Purchase Order,2023-01-14 04:39:52.158148
+event_118_0,case_118,Close Purchase Order,2023-02-21 15:30:03.354229
+event_118_6,case_118,Evaluate Supplier Performance,2023-06-06 00:46:47.459992
+event_118_7,case_118,Conduct Market Analysis,2023-06-11 00:45:41.862707
+event_118_5,case_118,Complete Payment,2023-08-03 18:20:40.972699
+event_118_4,case_118,Receive Goods,2023-08-26 18:20:53.902997
+event_118_5,case_118,Process Invoice,2023-10-09 04:36:17.450534
+event_118_1,case_118,Create Purchase Order,2023-10-19 12:40:54.756545
+event_118_2,case_118,Negotiate Contract,2023-12-02 03:32:07.831996
+event_119_1,case_119,Create Purchase Order,2023-01-20 07:45:37.424833
+event_119_0,case_119,Close Purchase Order,2023-02-11 18:53:52.452224
+event_119_6,case_119,Finalize Purchase Details,2023-03-06 18:17:40.227674
+event_119_7,case_119,Renew Contract,2023-07-05 14:44:48.683461
+event_119_5,case_119,Process Invoice,2023-09-10 22:16:56.029324
+event_119_2,case_119,Request Quotations,2023-09-11 12:06:44.664326
+event_119_4,case_119,Monitor Order Status,2023-09-11 13:21:55.468455
+event_119_3,case_119,Dispatch Order,2023-10-10 23:39:00.462258
+event_12_3,case_12,Dispatch Order,2023-03-15 02:21:17.544986
+event_12_2,case_12,Negotiate Contract,2023-04-02 11:44:43.441073
+event_12_5,case_12,Process Invoice,2023-04-03 05:49:29.122133
+event_12_0,case_12,Close Purchase Order,2023-04-30 22:59:27.296799
+event_12_6,case_12,Finalize Purchase Details,2023-07-04 16:04:34.837801
+event_12_7,case_12,Renew Contract,2023-07-13 07:14:54.135525
+event_12_3,case_12,Approve Purchase Order,2023-07-21 09:32:37.607399
+event_12_4,case_12,Receive Goods,2023-09-11 07:18:52.102135
+event_12_2,case_12,Select Supplier,2023-10-17 03:21:11.756042
+event_12_1,case_12,Create Purchase Order,2023-11-11 04:28:10.247903
+event_120_5,case_120,Process Invoice,2023-02-20 04:08:05.151153
+event_120_0,case_120,Close Purchase Order,2023-03-17 02:02:19.485615
+event_120_7,case_120,Conduct Market Analysis,2023-04-20 22:13:18.728249
+event_120_1,case_120,Create Purchase Order,2023-06-07 13:36:21.085450
+event_120_2,case_120,Request Quotations,2023-08-22 06:18:33.814034
+event_120_6,case_120,Evaluate Supplier Performance,2023-11-12 17:56:32.524231
+event_120_4,case_120,Monitor Order Status,2023-11-28 18:18:19.523869
+event_120_3,case_120,Dispatch Order,2023-12-02 21:51:56.649956
+event_121_2,case_121,Select Supplier,2023-01-18 08:57:37.525097
+event_121_6,case_121,Finalize Purchase Details,2023-01-28 12:49:35.080249
+event_121_1,case_121,Create Purchase Order,2023-01-31 11:13:20.834114
+event_121_0,case_121,Close Purchase Order,2023-03-17 18:58:41.646112
+event_121_3,case_121,Approve Purchase Order,2023-05-26 14:01:28.549298
+event_121_4,case_121,Monitor Order Status,2023-06-15 12:01:08.721601
+event_121_7,case_121,Renew Contract,2023-08-24 01:48:16.897784
+event_121_5,case_121,Complete Payment,2023-11-23 11:47:59.049221
+event_122_4,case_122,Receive Goods,2023-02-06 12:45:22.596089
+event_122_0,case_122,Close Purchase Order,2023-03-04 05:50:20.146432
+event_122_2,case_122,Negotiate Contract,2023-03-31 08:50:16.821389
+event_122_6,case_122,Evaluate Supplier Performance,2023-04-23 19:18:19.675557
+event_122_3,case_122,Approve Purchase Order,2023-04-25 22:47:29.818436
+event_122_7,case_122,Renew Contract,2023-04-26 18:41:05.703128
+event_122_1,case_122,Create Purchase Order,2023-08-22 07:16:21.073657
+event_122_5,case_122,Complete Payment,2023-10-23 19:13:26.119543
+event_123_4,case_123,Receive Goods,2023-02-06 07:38:39.135458
+event_123_2,case_123,Negotiate Contract,2023-02-13 22:29:32.676575
+event_123_7,case_123,Conduct Market Analysis,2023-02-23 00:58:16.996340
+event_123_1,case_123,Create Purchase Order,2023-03-18 00:34:31.085155
+event_123_3,case_123,Dispatch Order,2023-04-21 02:39:19.301356
+event_123_0,case_123,Close Purchase Order,2023-06-12 09:00:08.265211
+event_123_5,case_123,Complete Payment,2023-07-07 07:19:38.086890
+event_123_6,case_123,Evaluate Supplier Performance,2023-11-16 21:17:33.834339
+event_124_0,case_124,Close Purchase Order,2023-01-05 15:58:31.846951
+event_124_1,case_124,Create Purchase Order,2023-01-31 05:08:37.595362
+event_124_5,case_124,Process Invoice,2023-02-22 22:12:43.343930
+event_124_2,case_124,Request Quotations,2023-02-25 18:55:24.034056
+event_124_6,case_124,Evaluate Supplier Performance,2023-03-16 10:26:56.182488
+event_124_7,case_124,Conduct Market Analysis,2023-03-28 23:00:50.493720
+event_124_4,case_124,Receive Goods,2023-06-06 19:45:31.873747
+event_124_3,case_124,Approve Purchase Order,2023-09-01 04:07:03.131663
+event_124_3,case_124,Dispatch Order,2023-11-19 12:01:27.257932
+event_125_5,case_125,Process Invoice,2023-02-10 00:11:07.440351
+event_125_3,case_125,Approve Purchase Order,2023-03-12 13:14:17.739569
+event_125_4,case_125,Monitor Order Status,2023-03-17 02:31:32.617629
+event_125_0,case_125,Close Purchase Order,2023-04-02 19:36:22.530517
+event_125_1,case_125,Create Purchase Order,2023-07-11 14:00:03.256682
+event_125_7,case_125,Conduct Market Analysis,2023-08-07 13:07:45.417123
+event_125_6,case_125,Finalize Purchase Details,2023-10-04 12:33:12.226041
+event_125_2,case_125,Select Supplier,2023-10-31 22:37:42.456730
+event_125_6,case_125,Evaluate Supplier Performance,2023-11-08 07:58:19.519896
+event_126_4,case_126,Monitor Order Status,2023-02-23 03:34:41.257657
+event_126_3,case_126,Dispatch Order,2023-02-25 00:08:48.843808
+event_126_6,case_126,Finalize Purchase Details,2023-04-26 05:12:12.874042
+event_126_7,case_126,Conduct Market Analysis,2023-05-07 21:50:00.595457
+event_126_5,case_126,Process Invoice,2023-05-28 18:53:09.608850
+event_126_0,case_126,Close Purchase Order,2023-07-04 09:38:33.021572
+event_126_1,case_126,Create Purchase Order,2023-07-19 00:52:06.753896
+event_126_2,case_126,Negotiate Contract,2023-12-03 16:26:25.560538
+event_127_6,case_127,Finalize Purchase Details,2023-02-14 14:17:53.337775
+event_127_2,case_127,Select Supplier,2023-03-12 01:38:53.107963
+event_127_3,case_127,Approve Purchase Order,2023-04-25 15:05:26.692737
+event_127_4,case_127,Receive Goods,2023-07-31 23:03:10.918778
+event_127_7,case_127,Conduct Market Analysis,2023-08-21 22:08:13.021498
+event_127_5,case_127,Complete Payment,2023-09-08 21:13:23.652330
+event_127_1,case_127,Create Purchase Order,2023-09-16 11:40:28.541075
+event_127_0,case_127,Close Purchase Order,2023-10-29 11:52:05.196137
+event_128_1,case_128,Create Purchase Order,2023-01-05 17:42:12.128207
+event_128_7,case_128,Conduct Market Analysis,2023-01-23 05:58:55.877160
+event_128_2,case_128,Request Quotations,2023-04-12 16:59:21.174131
+event_128_0,case_128,Close Purchase Order,2023-05-08 06:36:33.674619
+event_128_5,case_128,Complete Payment,2023-05-09 14:02:52.305977
+event_128_3,case_128,Approve Purchase Order,2023-06-28 04:32:18.998908
+event_128_5,case_128,Process Invoice,2023-07-14 05:00:14.612457
+event_128_6,case_128,Finalize Purchase Details,2023-07-15 09:00:23.963659
+event_128_4,case_128,Receive Goods,2023-08-06 13:48:52.820243
+event_128_6,case_128,Evaluate Supplier Performance,2023-08-29 02:41:37.383061
+event_129_7,case_129,Conduct Market Analysis,2023-01-12 05:01:33.880523
+event_129_2,case_129,Request Quotations,2023-02-10 06:36:18.602933
+event_129_5,case_129,Process Invoice,2023-02-16 16:45:26.160639
+event_129_4,case_129,Receive Goods,2023-04-08 21:05:15.009494
+event_129_3,case_129,Dispatch Order,2023-04-20 05:27:06.835536
+event_129_0,case_129,Close Purchase Order,2023-05-30 04:38:37.732324
+event_129_2,case_129,Negotiate Contract,2023-10-23 02:00:23.896862
+event_129_1,case_129,Create Purchase Order,2023-10-27 03:55:08.479357
+event_129_6,case_129,Evaluate Supplier Performance,2023-12-06 14:09:09.009802
+event_13_6,case_13,Finalize Purchase Details,2023-01-17 23:39:18.950096
+event_13_5,case_13,Process Invoice,2023-02-22 06:22:06.575210
+event_13_1,case_13,Create Purchase Order,2023-03-03 09:55:39.300891
+event_13_0,case_13,Close Purchase Order,2023-05-15 04:42:26.717805
+event_13_7,case_13,Conduct Market Analysis,2023-05-25 05:28:22.886698
+event_13_4,case_13,Monitor Order Status,2023-06-02 07:44:24.652453
+event_13_2,case_13,Negotiate Contract,2023-07-09 19:04:58.591042
+event_13_3,case_13,Approve Purchase Order,2023-11-12 12:33:41.766231
+event_130_4,case_130,Monitor Order Status,2023-01-10 20:36:12.741460
+event_130_2,case_130,Select Supplier,2023-02-23 01:29:04.873058
+event_130_1,case_130,Create Purchase Order,2023-03-06 17:18:22.433158
+event_130_7,case_130,Renew Contract,2023-05-22 16:31:40.900648
+event_130_3,case_130,Approve Purchase Order,2023-06-25 02:54:43.445120
+event_130_5,case_130,Process Invoice,2023-07-05 10:54:22.820205
+event_130_0,case_130,Close Purchase Order,2023-08-05 01:36:39.152793
+event_130_6,case_130,Finalize Purchase Details,2023-08-09 22:25:22.122080
+event_131_7,case_131,Conduct Market Analysis,2023-01-09 03:42:57.669251
+event_131_3,case_131,Dispatch Order,2023-02-01 14:07:40.895360
+event_131_5,case_131,Process Invoice,2023-05-13 02:23:26.455583
+event_131_1,case_131,Create Purchase Order,2023-06-04 01:26:03.083039
+event_131_2,case_131,Request Quotations,2023-07-04 10:01:07.144320
+event_131_6,case_131,Evaluate Supplier Performance,2023-10-04 23:05:37.481670
+event_131_6,case_131,Finalize Purchase Details,2023-10-07 12:40:55.422214
+event_131_2,case_131,Negotiate Contract,2023-11-22 01:31:54.286640
+event_131_0,case_131,Close Purchase Order,2023-12-02 18:14:05.650932
+event_131_4,case_131,Receive Goods,2023-12-03 13:38:21.068393
+event_132_5,case_132,Process Invoice,2023-01-16 10:42:59.030933
+event_132_2,case_132,Request Quotations,2023-04-11 23:50:58.140760
+event_132_1,case_132,Create Purchase Order,2023-06-11 08:47:59.218065
+event_132_6,case_132,Evaluate Supplier Performance,2023-08-10 17:31:50.521986
+event_132_4,case_132,Receive Goods,2023-08-24 09:34:49.228487
+event_132_0,case_132,Close Purchase Order,2023-08-27 13:00:12.842529
+event_132_7,case_132,Conduct Market Analysis,2023-09-07 12:01:27.735903
+event_132_3,case_132,Approve Purchase Order,2023-09-12 05:55:55.362491
+event_133_3,case_133,Approve Purchase Order,2023-01-01 01:49:45.351997
+event_133_4,case_133,Monitor Order Status,2023-01-05 20:22:41.599671
+event_133_6,case_133,Finalize Purchase Details,2023-01-31 22:16:52.706524
+event_133_0,case_133,Close Purchase Order,2023-04-21 02:02:43.056318
+event_133_5,case_133,Process Invoice,2023-05-01 12:29:23.239238
+event_133_2,case_133,Negotiate Contract,2023-09-26 04:20:58.241213
+event_133_7,case_133,Conduct Market Analysis,2023-10-05 07:19:24.626800
+event_133_1,case_133,Create Purchase Order,2023-10-12 15:49:46.812411
+event_133_6,case_133,Evaluate Supplier Performance,2023-10-24 10:14:46.516474
+event_134_6,case_134,Evaluate Supplier Performance,2023-01-11 21:11:33.556966
+event_134_7,case_134,Renew Contract,2023-02-08 12:07:48.967436
+event_134_3,case_134,Approve Purchase Order,2023-04-17 01:45:34.894672
+event_134_2,case_134,Select Supplier,2023-05-09 08:05:35.109850
+event_134_1,case_134,Create Purchase Order,2023-07-07 03:59:24.468313
+event_134_0,case_134,Close Purchase Order,2023-08-18 03:54:16.890085
+event_134_4,case_134,Monitor Order Status,2023-09-30 11:11:58.066020
+event_134_5,case_134,Complete Payment,2023-10-12 06:13:42.201876
+event_135_7,case_135,Renew Contract,2023-01-10 05:27:16.333723
+event_135_4,case_135,Monitor Order Status,2023-01-31 06:57:19.958374
+event_135_1,case_135,Create Purchase Order,2023-02-10 22:59:04.209366
+event_135_6,case_135,Finalize Purchase Details,2023-02-26 07:32:21.275120
+event_135_3,case_135,Approve Purchase Order,2023-03-11 03:17:37.851687
+event_135_2,case_135,Select Supplier,2023-05-30 10:40:04.860704
+event_135_0,case_135,Close Purchase Order,2023-07-29 11:42:33.466641
+event_135_5,case_135,Process Invoice,2023-09-25 02:07:46.303399
+event_136_1,case_136,Create Purchase Order,2023-02-09 01:17:21.770716
+event_136_6,case_136,Evaluate Supplier Performance,2023-05-30 16:22:56.578750
+event_136_3,case_136,Dispatch Order,2023-08-11 21:32:09.870370
+event_136_0,case_136,Close Purchase Order,2023-08-31 03:43:03.878745
+event_136_3,case_136,Approve Purchase Order,2023-10-04 01:18:12.681769
+event_136_7,case_136,Renew Contract,2023-10-08 15:47:36.167871
+event_136_2,case_136,Request Quotations,2023-10-18 03:38:04.178286
+event_136_5,case_136,Complete Payment,2023-11-14 14:48:33.930193
+event_136_4,case_136,Monitor Order Status,2023-11-22 19:35:57.042302
+event_137_7,case_137,Renew Contract,2023-01-09 21:33:30.117540
+event_137_5,case_137,Process Invoice,2023-02-25 04:05:16.259801
+event_137_4,case_137,Monitor Order Status,2023-02-28 14:26:36.012509
+event_137_2,case_137,Select Supplier,2023-03-11 23:53:50.011307
+event_137_3,case_137,Approve Purchase Order,2023-04-16 21:19:02.002836
+event_137_0,case_137,Close Purchase Order,2023-04-23 05:20:24.801096
+event_137_6,case_137,Evaluate Supplier Performance,2023-05-18 11:44:16.691031
+event_137_5,case_137,Complete Payment,2023-06-08 10:30:38.900042
+event_137_1,case_137,Create Purchase Order,2023-09-10 15:02:09.212293
+event_138_7,case_138,Renew Contract,2023-01-14 11:02:03.896235
+event_138_2,case_138,Select Supplier,2023-04-15 03:12:01.592929
+event_138_4,case_138,Receive Goods,2023-05-22 07:22:17.783598
+event_138_3,case_138,Approve Purchase Order,2023-06-30 05:42:54.030691
+event_138_5,case_138,Process Invoice,2023-07-09 08:39:40.632157
+event_138_6,case_138,Evaluate Supplier Performance,2023-08-06 05:21:37.246439
+event_138_0,case_138,Close Purchase Order,2023-08-28 16:30:54.094543
+event_138_1,case_138,Create Purchase Order,2023-09-21 04:21:59.887908
+event_139_2,case_139,Select Supplier,2023-01-29 05:09:25.758123
+event_139_6,case_139,Evaluate Supplier Performance,2023-02-10 10:18:07.920398
+event_139_3,case_139,Approve Purchase Order,2023-03-31 10:20:10.406711
+event_139_1,case_139,Create Purchase Order,2023-04-04 17:43:06.136168
+event_139_0,case_139,Close Purchase Order,2023-04-18 15:33:01.331754
+event_139_4,case_139,Receive Goods,2023-05-30 08:51:04.524825
+event_139_5,case_139,Complete Payment,2023-08-03 22:12:57.316831
+event_139_7,case_139,Renew Contract,2023-11-12 04:47:46.907480
+event_14_2,case_14,Negotiate Contract,2023-01-10 20:20:54.824628
+event_14_6,case_14,Finalize Purchase Details,2023-01-19 21:32:15.042974
+event_14_5,case_14,Process Invoice,2023-02-09 10:36:04.826993
+event_14_6,case_14,Evaluate Supplier Performance,2023-03-31 07:44:21.208755
+event_14_1,case_14,Create Purchase Order,2023-04-11 14:47:20.272103
+event_14_5,case_14,Finalize Purchase Details,2023-05-08 16:46:15.005460
+event_14_4,case_14,Receive Goods,2023-06-28 11:46:54.415594
+event_14_0,case_14,Close Purchase Order,2023-06-30 11:11:21.030195
+event_14_3,case_14,Approve Purchase Order,2023-08-30 00:41:47.767764
+event_14_7,case_14,Conduct Market Analysis,2023-10-30 13:27:32.830371
+event_140_1,case_140,Create Purchase Order,2023-04-12 13:43:06.665139
+event_140_6,case_140,Evaluate Supplier Performance,2023-04-20 11:37:31.992407
+event_140_2,case_140,Negotiate Contract,2023-05-09 20:38:13.484365
+event_140_4,case_140,Receive Goods,2023-07-30 15:33:05.719086
+event_140_3,case_140,Approve Purchase Order,2023-08-29 16:10:42.312902
+event_140_7,case_140,Renew Contract,2023-10-14 23:35:59.617103
+event_140_5,case_140,Complete Payment,2023-11-02 15:32:18.560369
+event_140_0,case_140,Close Purchase Order,2023-11-05 01:12:53.129293
+event_141_0,case_141,Close Purchase Order,2023-02-27 01:33:54.001011
+event_141_4,case_141,Monitor Order Status,2023-06-02 12:59:50.814840
+event_141_2,case_141,Negotiate Contract,2023-06-25 23:30:56.018587
+event_141_6,case_141,Evaluate Supplier Performance,2023-08-27 04:27:56.227906
+event_141_5,case_141,Complete Payment,2023-09-16 05:49:48.770377
+event_141_3,case_141,Approve Purchase Order,2023-09-17 11:49:53.584704
+event_141_7,case_141,Renew Contract,2023-09-19 00:03:24.023319
+event_141_1,case_141,Create Purchase Order,2023-10-31 10:29:11.418979
+event_142_3,case_142,Dispatch Order,2023-03-08 05:54:22.347244
+event_142_0,case_142,Close Purchase Order,2023-07-02 16:36:34.272033
+event_142_4,case_142,Monitor Order Status,2023-07-16 11:04:20.653151
+event_142_7,case_142,Conduct Market Analysis,2023-08-01 09:20:23.853026
+event_142_1,case_142,Create Purchase Order,2023-08-09 05:15:29.817728
+event_142_6,case_142,Finalize Purchase Details,2023-08-23 09:34:44.124594
+event_142_5,case_142,Complete Payment,2023-09-25 04:36:43.649297
+event_142_2,case_142,Select Supplier,2023-10-21 06:54:51.910581
+event_143_6,case_143,Evaluate Supplier Performance,2023-01-07 19:35:12.711616
+event_143_2,case_143,Select Supplier,2023-01-19 13:10:37.433778
+event_143_7,case_143,Renew Contract,2023-01-27 03:21:40.211967
+event_143_1,case_143,Create Purchase Order,2023-05-18 14:55:39.590670
+event_143_3,case_143,Approve Purchase Order,2023-06-16 11:41:46.442097
+event_143_4,case_143,Receive Goods,2023-07-25 21:13:13.908586
+event_143_5,case_143,Complete Payment,2023-09-01 17:19:11.443533
+event_143_0,case_143,Close Purchase Order,2023-09-13 04:08:58.180065
+event_144_6,case_144,Evaluate Supplier Performance,2023-01-01 17:21:18.222313
+event_144_4,case_144,Receive Goods,2023-01-22 15:12:19.895340
+event_144_0,case_144,Close Purchase Order,2023-01-29 19:06:23.720682
+event_144_1,case_144,Create Purchase Order,2023-05-27 04:41:35.419751
+event_144_7,case_144,Conduct Market Analysis,2023-07-18 21:00:03.084086
+event_144_3,case_144,Dispatch Order,2023-11-11 10:26:51.237866
+event_144_5,case_144,Process Invoice,2023-11-17 16:57:09.733413
+event_144_2,case_144,Negotiate Contract,2023-11-22 07:41:35.714356
+event_145_1,case_145,Create Purchase Order,2023-02-26 14:01:26.436466
+event_145_7,case_145,Conduct Market Analysis,2023-04-17 19:44:19.915995
+event_145_0,case_145,Close Purchase Order,2023-05-21 00:26:33.344960
+event_145_3,case_145,Approve Purchase Order,2023-08-15 11:43:30.032856
+event_145_6,case_145,Finalize Purchase Details,2023-09-05 04:12:03.392042
+event_145_4,case_145,Monitor Order Status,2023-09-06 05:56:03.493864
+event_145_2,case_145,Select Supplier,2023-11-15 07:08:13.252614
+event_145_5,case_145,Complete Payment,2023-11-16 19:37:30.806125
+event_146_3,case_146,Dispatch Order,2023-02-16 02:01:36.339341
+event_146_5,case_146,Complete Payment,2023-03-05 18:43:27.452611
+event_146_4,case_146,Monitor Order Status,2023-03-23 06:02:32.748730
+event_146_2,case_146,Select Supplier,2023-03-29 06:13:51.472328
+event_146_7,case_146,Conduct Market Analysis,2023-08-10 12:09:29.682538
+event_146_6,case_146,Finalize Purchase Details,2023-09-17 16:24:54.028859
+event_146_0,case_146,Close Purchase Order,2023-10-17 16:13:03.196848
+event_146_1,case_146,Create Purchase Order,2023-11-13 08:12:38.540742
+event_147_4,case_147,Receive Goods,2023-02-02 16:18:12.909192
+event_147_7,case_147,Conduct Market Analysis,2023-03-02 00:55:00.240701
+event_147_0,case_147,Close Purchase Order,2023-03-31 01:03:15.230176
+event_147_3,case_147,Dispatch Order,2023-04-07 12:41:15.474567
+event_147_5,case_147,Complete Payment,2023-09-08 08:52:37.344923
+event_147_1,case_147,Create Purchase Order,2023-11-10 09:01:27.254045
+event_147_2,case_147,Request Quotations,2023-11-15 04:29:42.851001
+event_147_6,case_147,Finalize Purchase Details,2023-11-15 08:05:41.945785
+event_148_6,case_148,Evaluate Supplier Performance,2023-03-02 18:49:38.811415
+event_148_1,case_148,Create Purchase Order,2023-03-24 20:46:36.883650
+event_148_3,case_148,Dispatch Order,2023-05-10 00:59:18.452600
+event_148_2,case_148,Negotiate Contract,2023-05-17 12:07:25.713025
+event_148_5,case_148,Complete Payment,2023-06-18 09:44:15.320589
+event_148_4,case_148,Receive Goods,2023-06-24 08:36:02.569742
+event_148_0,case_148,Close Purchase Order,2023-09-25 19:01:02.708666
+event_148_7,case_148,Renew Contract,2023-10-19 09:13:53.203232
+event_149_0,case_149,Close Purchase Order,2023-02-17 06:37:12.014423
+event_149_7,case_149,Conduct Market Analysis,2023-03-07 19:58:38.716329
+event_149_4,case_149,Receive Goods,2023-03-22 15:31:19.660918
+event_149_2,case_149,Request Quotations,2023-04-11 09:16:16.190034
+event_149_3,case_149,Approve Purchase Order,2023-04-23 11:37:56.174853
+event_149_6,case_149,Evaluate Supplier Performance,2023-04-30 19:43:45.465598
+event_149_5,case_149,Complete Payment,2023-05-06 07:00:31.323936
+event_149_2,case_149,Select Supplier,2023-05-06 07:53:19.225532
+event_149_5,case_149,Finalize Purchase Details,2023-08-19 07:40:38.143619
+event_149_1,case_149,Create Purchase Order,2023-10-01 03:25:03.905126
+event_149_6,case_149,Finalize Purchase Details,2023-10-09 12:23:19.419498
+event_15_6,case_15,Finalize Purchase Details,2023-02-15 19:38:54.443822
+event_15_4,case_15,Receive Goods,2023-04-02 16:19:40.458251
+event_15_3,case_15,Approve Purchase Order,2023-04-14 13:07:56.371979
+event_15_0,case_15,Close Purchase Order,2023-05-15 07:05:24.947594
+event_15_7,case_15,Renew Contract,2023-07-03 17:58:14.186124
+event_15_2,case_15,Request Quotations,2023-08-08 10:27:43.307885
+event_15_1,case_15,Create Purchase Order,2023-11-04 12:31:24.935856
+event_15_5,case_15,Process Invoice,2023-11-22 10:53:45.265661
+event_150_5,case_150,Complete Payment,2023-01-12 16:57:24.053501
+event_150_7,case_150,Renew Contract,2023-01-21 10:53:16.027504
+event_150_3,case_150,Approve Purchase Order,2023-03-12 09:22:22.880254
+event_150_4,case_150,Receive Goods,2023-04-29 18:05:21.588283
+event_150_6,case_150,Finalize Purchase Details,2023-06-19 23:23:28.238746
+event_150_0,case_150,Close Purchase Order,2023-10-06 16:49:29.652526
+event_150_2,case_150,Request Quotations,2023-10-12 09:49:36.511622
+event_150_1,case_150,Create Purchase Order,2023-10-17 14:36:39.047127
+event_151_0,case_151,Close Purchase Order,2023-02-19 03:50:48.962123
+event_151_4,case_151,Monitor Order Status,2023-03-13 16:13:38.227697
+event_151_5,case_151,Process Invoice,2023-03-15 10:44:17.475947
+event_151_1,case_151,Create Purchase Order,2023-06-03 20:29:49.769393
+event_151_3,case_151,Dispatch Order,2023-06-15 20:31:11.958598
+event_151_6,case_151,Evaluate Supplier Performance,2023-10-09 23:56:33.319685
+event_151_2,case_151,Negotiate Contract,2023-10-27 04:31:15.261496
+event_151_7,case_151,Conduct Market Analysis,2023-11-29 06:10:05.494143
+event_152_4,case_152,Monitor Order Status,2023-03-26 05:27:10.685764
+event_152_7,case_152,Conduct Market Analysis,2023-04-07 15:06:55.089312
+event_152_2,case_152,Negotiate Contract,2023-04-25 18:08:26.044784
+event_152_3,case_152,Dispatch Order,2023-07-05 23:04:23.342896
+event_152_6,case_152,Finalize Purchase Details,2023-08-29 01:39:41.691017
+event_152_5,case_152,Complete Payment,2023-09-18 07:17:04.732458
+event_152_0,case_152,Close Purchase Order,2023-09-27 21:05:39.396475
+event_152_1,case_152,Create Purchase Order,2023-11-17 11:54:17.059110
+event_153_4,case_153,Receive Goods,2023-01-04 06:37:41.175323
+event_153_1,case_153,Create Purchase Order,2023-01-31 07:59:21.031203
+event_153_5,case_153,Process Invoice,2023-05-26 23:33:47.980080
+event_153_7,case_153,Conduct Market Analysis,2023-06-08 17:08:59.179355
+event_153_2,case_153,Request Quotations,2023-07-18 04:53:25.844397
+event_153_0,case_153,Close Purchase Order,2023-08-11 21:24:51.602797
+event_153_6,case_153,Finalize Purchase Details,2023-11-18 16:29:52.987404
+event_153_3,case_153,Dispatch Order,2023-12-01 14:05:44.852837
+event_154_2,case_154,Select Supplier,2023-01-02 18:36:45.860607
+event_154_2,case_154,Negotiate Contract,2023-01-15 06:38:41.652836
+event_154_6,case_154,Evaluate Supplier Performance,2023-04-19 10:10:19.853959
+event_154_7,case_154,Conduct Market Analysis,2023-05-12 05:27:32.228965
+event_154_4,case_154,Monitor Order Status,2023-05-22 10:28:10.787218
+event_154_1,case_154,Create Purchase Order,2023-07-22 15:30:40.425671
+event_154_5,case_154,Process Invoice,2023-10-07 17:53:34.884835
+event_154_0,case_154,Close Purchase Order,2023-10-14 09:01:53.858292
+event_154_3,case_154,Dispatch Order,2023-11-29 15:15:56.689260
+event_155_4,case_155,Monitor Order Status,2023-04-09 09:41:43.896961
+event_155_5,case_155,Process Invoice,2023-05-19 01:10:34.164819
+event_155_2,case_155,Request Quotations,2023-07-20 12:30:47.920518
+event_155_6,case_155,Evaluate Supplier Performance,2023-09-25 17:02:27.836359
+event_155_0,case_155,Close Purchase Order,2023-10-15 09:54:56.596703
+event_155_7,case_155,Renew Contract,2023-10-19 01:33:31.960633
+event_155_1,case_155,Create Purchase Order,2023-11-17 14:15:27.898532
+event_155_3,case_155,Approve Purchase Order,2023-11-20 09:22:28.430369
+event_156_6,case_156,Evaluate Supplier Performance,2023-01-04 07:21:23.918195
+event_156_1,case_156,Create Purchase Order,2023-03-06 21:39:01.694851
+event_156_5,case_156,Complete Payment,2023-04-04 22:01:06.067997
+event_156_5,case_156,Process Invoice,2023-05-31 12:09:51.504341
+event_156_7,case_156,Conduct Market Analysis,2023-06-01 12:18:30.656808
+event_156_2,case_156,Select Supplier,2023-06-05 17:30:17.735598
+event_156_4,case_156,Receive Goods,2023-07-29 13:53:00.608074
+event_156_3,case_156,Approve Purchase Order,2023-08-18 01:43:43.960770
+event_156_0,case_156,Close Purchase Order,2023-10-09 02:05:22.717045
+event_157_2,case_157,Request Quotations,2023-01-18 02:01:32.484935
+event_157_1,case_157,Create Purchase Order,2023-02-18 20:22:35.756198
+event_157_3,case_157,Approve Purchase Order,2023-04-02 19:15:16.569727
+event_157_0,case_157,Close Purchase Order,2023-05-09 01:54:27.309978
+event_157_4,case_157,Receive Goods,2023-07-29 18:54:44.025545
+event_157_5,case_157,Process Invoice,2023-08-18 19:59:19.394364
+event_157_7,case_157,Conduct Market Analysis,2023-08-23 05:08:54.828731
+event_157_4,case_157,Monitor Order Status,2023-10-07 12:01:35.321297
+event_157_6,case_157,Finalize Purchase Details,2023-11-03 15:21:07.167850
+event_158_3,case_158,Approve Purchase Order,2023-03-26 16:31:10.663227
+event_158_5,case_158,Process Invoice,2023-06-16 08:20:41.264435
+event_158_2,case_158,Select Supplier,2023-06-30 18:36:21.477451
+event_158_6,case_158,Evaluate Supplier Performance,2023-07-08 10:04:09.639782
+event_158_1,case_158,Create Purchase Order,2023-08-27 08:47:41.097129
+event_158_4,case_158,Receive Goods,2023-09-26 02:39:23.146929
+event_158_7,case_158,Conduct Market Analysis,2023-10-30 00:26:55.429241
+event_158_0,case_158,Close Purchase Order,2023-11-03 16:24:31.753472
+event_159_5,case_159,Process Invoice,2023-01-05 02:31:07.411876
+event_159_0,case_159,Close Purchase Order,2023-01-17 12:47:36.224591
+event_159_1,case_159,Create Purchase Order,2023-03-13 14:06:23.724596
+event_159_6,case_159,Evaluate Supplier Performance,2023-03-27 17:59:35.728078
+event_159_2,case_159,Negotiate Contract,2023-05-08 00:59:04.165684
+event_159_3,case_159,Dispatch Order,2023-05-09 02:23:19.656648
+event_159_7,case_159,Conduct Market Analysis,2023-07-21 04:09:52.177207
+event_159_4,case_159,Monitor Order Status,2023-09-17 12:43:41.750330
+event_16_4,case_16,Receive Goods,2023-04-02 16:26:54.937861
+event_16_6,case_16,Evaluate Supplier Performance,2023-04-10 05:12:21.459486
+event_16_6,case_16,Finalize Purchase Details,2023-06-14 04:26:04.970342
+event_16_5,case_16,Process Invoice,2023-08-30 06:39:41.662420
+event_16_1,case_16,Create Purchase Order,2023-08-30 11:36:56.024229
+event_16_2,case_16,Select Supplier,2023-09-16 11:32:52.509845
+event_16_3,case_16,Dispatch Order,2023-09-30 04:41:16.126263
+event_16_7,case_16,Renew Contract,2023-10-12 17:04:27.892843
+event_16_0,case_16,Close Purchase Order,2023-10-16 06:49:54.294530
+event_160_6,case_160,Evaluate Supplier Performance,2023-01-31 14:48:20.926367
+event_160_0,case_160,Close Purchase Order,2023-02-10 00:21:50.271942
+event_160_7,case_160,Renew Contract,2023-02-17 13:10:04.146683
+event_160_2,case_160,Select Supplier,2023-04-23 00:19:28.497271
+event_160_3,case_160,Dispatch Order,2023-07-14 05:41:41.257178
+event_160_1,case_160,Create Purchase Order,2023-10-13 08:07:01.730053
+event_160_4,case_160,Receive Goods,2023-11-10 17:05:52.431497
+event_160_5,case_160,Complete Payment,2023-11-24 03:57:27.408472
+event_161_6,case_161,Evaluate Supplier Performance,2023-02-25 09:08:30.502341
+event_161_1,case_161,Create Purchase Order,2023-05-26 04:58:30.708479
+event_161_2,case_161,Negotiate Contract,2023-07-06 20:25:01.901090
+event_161_4,case_161,Monitor Order Status,2023-09-16 13:54:55.633049
+event_161_0,case_161,Close Purchase Order,2023-09-30 20:45:08.599870
+event_161_3,case_161,Approve Purchase Order,2023-10-17 10:19:24.951406
+event_161_7,case_161,Renew Contract,2023-10-31 23:17:34.165596
+event_161_5,case_161,Complete Payment,2023-11-13 15:58:37.407687
+event_162_1,case_162,Create Purchase Order,2023-03-10 22:14:08.990917
+event_162_2,case_162,Negotiate Contract,2023-05-07 20:40:56.607582
+event_162_3,case_162,Approve Purchase Order,2023-07-01 03:52:14.442941
+event_162_0,case_162,Close Purchase Order,2023-07-11 16:46:00.741716
+event_162_6,case_162,Evaluate Supplier Performance,2023-07-12 09:20:13.189331
+event_162_7,case_162,Renew Contract,2023-07-20 09:08:27.476124
+event_162_2,case_162,Request Quotations,2023-08-24 16:42:36.429032
+event_162_5,case_162,Complete Payment,2023-08-26 05:48:42.757356
+event_162_3,case_162,Dispatch Order,2023-09-26 15:50:23.646054
+event_162_4,case_162,Monitor Order Status,2023-11-01 19:03:23.579952
+event_163_7,case_163,Renew Contract,2023-02-11 10:02:44.621651
+event_163_4,case_163,Monitor Order Status,2023-03-31 23:58:36.302865
+event_163_5,case_163,Process Invoice,2023-05-07 17:20:05.871320
+event_163_1,case_163,Create Purchase Order,2023-06-11 21:40:17.029763
+event_163_6,case_163,Finalize Purchase Details,2023-07-20 06:32:38.873492
+event_163_3,case_163,Approve Purchase Order,2023-08-04 02:35:08.524508
+event_163_2,case_163,Select Supplier,2023-08-15 13:17:43.670785
+event_163_3,case_163,Dispatch Order,2023-09-07 23:37:02.200364
+event_163_0,case_163,Close Purchase Order,2023-10-09 03:13:07.173452
+event_164_5,case_164,Process Invoice,2023-01-17 18:28:49.432171
+event_164_7,case_164,Renew Contract,2023-03-05 03:21:38.057735
+event_164_6,case_164,Evaluate Supplier Performance,2023-03-12 16:18:52.007748
+event_164_4,case_164,Monitor Order Status,2023-04-04 14:49:57.724832
+event_164_2,case_164,Select Supplier,2023-07-25 12:00:48.719451
+event_164_0,case_164,Close Purchase Order,2023-08-29 17:31:04.427802
+event_164_3,case_164,Dispatch Order,2023-10-10 20:06:21.985345
+event_164_1,case_164,Create Purchase Order,2023-10-30 00:59:27.541902
+event_165_3,case_165,Approve Purchase Order,2023-01-07 13:44:00.782693
+event_165_0,case_165,Close Purchase Order,2023-01-15 03:43:45.977808
+event_165_7,case_165,Renew Contract,2023-01-31 23:41:24.297031
+event_165_4,case_165,Monitor Order Status,2023-03-19 10:23:56.293740
+event_165_2,case_165,Negotiate Contract,2023-04-11 12:39:49.468959
+event_165_5,case_165,Process Invoice,2023-06-07 10:05:25.650920
+event_165_6,case_165,Finalize Purchase Details,2023-08-05 22:08:58.220004
+event_165_1,case_165,Create Purchase Order,2023-10-05 16:28:54.958032
+event_166_0,case_166,Close Purchase Order,2023-01-07 20:00:03.100141
+event_166_6,case_166,Finalize Purchase Details,2023-01-09 21:41:12.311656
+event_166_2,case_166,Negotiate Contract,2023-01-18 00:17:17.257679
+event_166_5,case_166,Process Invoice,2023-03-29 23:30:57.737038
+event_166_4,case_166,Receive Goods,2023-05-15 03:20:39.061500
+event_166_3,case_166,Approve Purchase Order,2023-06-14 18:37:37.732180
+event_166_7,case_166,Conduct Market Analysis,2023-07-04 15:02:16.703411
+event_166_1,case_166,Create Purchase Order,2023-09-09 21:51:26.927146
+event_167_3,case_167,Approve Purchase Order,2023-02-19 14:56:25.931314
+event_167_7,case_167,Renew Contract,2023-04-25 20:06:35.760271
+event_167_5,case_167,Process Invoice,2023-05-27 14:49:23.946833
+event_167_1,case_167,Create Purchase Order,2023-07-03 09:57:43.191944
+event_167_2,case_167,Select Supplier,2023-07-05 08:28:13.522020
+event_167_6,case_167,Finalize Purchase Details,2023-07-13 13:55:20.144834
+event_167_0,case_167,Close Purchase Order,2023-08-22 14:38:34.203327
+event_167_4,case_167,Receive Goods,2023-08-31 02:18:37.629421
+event_167_5,case_167,Complete Payment,2023-12-07 02:35:31.788339
+event_168_3,case_168,Dispatch Order,2023-03-01 02:11:54.432001
+event_168_2,case_168,Select Supplier,2023-03-22 05:37:25.179489
+event_168_5,case_168,Complete Payment,2023-04-01 21:49:25.113556
+event_168_4,case_168,Monitor Order Status,2023-04-20 09:35:16.409655
+event_168_0,case_168,Close Purchase Order,2023-06-10 02:13:40.146950
+event_168_6,case_168,Finalize Purchase Details,2023-08-05 22:50:53.632638
+event_168_7,case_168,Conduct Market Analysis,2023-08-09 13:06:11.380138
+event_168_4,case_168,Receive Goods,2023-08-14 18:54:15.094136
+event_168_1,case_168,Create Purchase Order,2023-08-24 15:37:26.719479
+event_169_1,case_169,Create Purchase Order,2023-01-13 02:06:13.349137
+event_169_4,case_169,Monitor Order Status,2023-01-27 05:11:19.675443
+event_169_0,case_169,Close Purchase Order,2023-02-19 17:05:36.334035
+event_169_2,case_169,Request Quotations,2023-05-03 17:37:25.992374
+event_169_5,case_169,Complete Payment,2023-06-15 00:27:41.207242
+event_169_7,case_169,Conduct Market Analysis,2023-07-21 07:27:28.811544
+event_169_3,case_169,Approve Purchase Order,2023-09-17 15:31:49.678526
+event_169_6,case_169,Evaluate Supplier Performance,2023-11-09 02:27:29.909899
+event_17_2,case_17,Request Quotations,2023-01-09 02:56:22.298131
+event_17_7,case_17,Conduct Market Analysis,2023-03-20 13:38:39.222154
+event_17_5,case_17,Complete Payment,2023-03-31 00:36:35.061615
+event_17_5,case_17,Process Invoice,2023-07-01 21:16:42.804835
+event_17_6,case_17,Evaluate Supplier Performance,2023-08-06 00:38:00.397564
+event_17_3,case_17,Approve Purchase Order,2023-08-23 13:23:37.843896
+event_17_4,case_17,Monitor Order Status,2023-09-05 11:03:09.150058
+event_17_0,case_17,Close Purchase Order,2023-09-10 03:26:04.375884
+event_17_1,case_17,Create Purchase Order,2023-10-11 11:21:51.093668
+event_170_6,case_170,Finalize Purchase Details,2023-02-12 02:21:51.430321
+event_170_7,case_170,Renew Contract,2023-03-02 15:42:29.121706
+event_170_5,case_170,Process Invoice,2023-03-11 07:18:34.643423
+event_170_1,case_170,Create Purchase Order,2023-05-23 06:25:27.592530
+event_170_4,case_170,Receive Goods,2023-07-31 19:27:18.675537
+event_170_0,case_170,Close Purchase Order,2023-09-04 23:25:45.216096
+event_170_3,case_170,Dispatch Order,2023-09-09 06:29:29.150725
+event_170_2,case_170,Select Supplier,2023-09-15 14:31:36.744635
+event_171_1,case_171,Create Purchase Order,2023-01-22 03:01:07.470658
+event_171_6,case_171,Evaluate Supplier Performance,2023-04-17 01:26:15.939647
+event_171_7,case_171,Conduct Market Analysis,2023-04-17 15:08:37.264190
+event_171_4,case_171,Monitor Order Status,2023-05-18 17:14:35.588570
+event_171_5,case_171,Complete Payment,2023-05-23 01:36:14.349073
+event_171_2,case_171,Select Supplier,2023-05-23 05:33:11.445752
+event_171_0,case_171,Close Purchase Order,2023-08-11 21:07:40.724883
+event_171_3,case_171,Dispatch Order,2023-08-24 16:12:21.014148
+event_172_6,case_172,Evaluate Supplier Performance,2023-04-01 07:17:05.373026
+event_172_1,case_172,Create Purchase Order,2023-05-01 09:59:43.815199
+event_172_2,case_172,Request Quotations,2023-05-12 08:02:21.938622
+event_172_3,case_172,Dispatch Order,2023-07-11 16:10:29.078689
+event_172_7,case_172,Renew Contract,2023-08-18 13:08:53.078131
+event_172_4,case_172,Monitor Order Status,2023-08-28 07:04:03.467847
+event_172_5,case_172,Process Invoice,2023-09-21 08:44:33.410320
+event_172_0,case_172,Close Purchase Order,2023-09-21 11:28:51.846202
+event_173_0,case_173,Close Purchase Order,2023-01-02 08:31:45.332156
+event_173_1,case_173,Create Purchase Order,2023-04-23 04:09:51.186383
+event_173_7,case_173,Renew Contract,2023-05-05 13:27:29.984072
+event_173_6,case_173,Evaluate Supplier Performance,2023-06-03 13:52:40.128172
+event_173_2,case_173,Negotiate Contract,2023-07-02 21:40:56.240713
+event_173_5,case_173,Process Invoice,2023-07-04 19:45:44.560651
+event_173_4,case_173,Monitor Order Status,2023-09-07 19:34:49.938913
+event_173_3,case_173,Dispatch Order,2023-10-16 05:31:07.803814
+event_174_6,case_174,Finalize Purchase Details,2023-02-15 00:54:41.458207
+event_174_0,case_174,Close Purchase Order,2023-03-24 19:35:32.054012
+event_174_5,case_174,Process Invoice,2023-04-29 12:41:18.982995
+event_174_4,case_174,Monitor Order Status,2023-05-11 20:25:36.343997
+event_174_6,case_174,Evaluate Supplier Performance,2023-05-27 02:09:20.308584
+event_174_5,case_174,Complete Payment,2023-06-15 13:25:47.965481
+event_174_3,case_174,Approve Purchase Order,2023-06-25 02:48:26.672766
+event_174_1,case_174,Create Purchase Order,2023-09-15 20:59:31.135693
+event_174_7,case_174,Renew Contract,2023-11-04 15:38:11.089227
+event_174_2,case_174,Negotiate Contract,2023-12-04 22:51:06.093592
+event_175_6,case_175,Finalize Purchase Details,2023-04-18 16:19:37.345791
+event_175_7,case_175,Conduct Market Analysis,2023-06-19 06:57:54.330107
+event_175_3,case_175,Dispatch Order,2023-07-03 03:07:21.860400
+event_175_4,case_175,Monitor Order Status,2023-07-14 19:28:28.764980
+event_175_5,case_175,Process Invoice,2023-08-19 20:28:17.754107
+event_175_0,case_175,Close Purchase Order,2023-08-31 11:27:37.819287
+event_175_1,case_175,Create Purchase Order,2023-09-04 20:24:16.447587
+event_175_1,case_175,Request Quotations,2023-09-19 10:25:14.859836
+event_175_2,case_175,Request Quotations,2023-10-09 13:56:43.884842
+event_175_2,case_175,Negotiate Contract,2023-12-02 08:51:17.050361
+event_176_2,case_176,Select Supplier,2023-01-06 10:51:47.216984
+event_176_0,case_176,Close Purchase Order,2023-02-07 01:30:37.692554
+event_176_5,case_176,Complete Payment,2023-03-21 00:01:43.212258
+event_176_3,case_176,Dispatch Order,2023-04-05 07:22:43.410729
+event_176_6,case_176,Evaluate Supplier Performance,2023-07-02 05:08:30.309611
+event_176_2,case_176,Negotiate Contract,2023-08-31 20:00:07.349629
+event_176_4,case_176,Monitor Order Status,2023-10-15 13:20:01.712136
+event_176_1,case_176,Create Purchase Order,2023-11-07 20:00:25.498952
+event_176_7,case_176,Renew Contract,2023-11-17 10:40:26.570705
+event_177_2,case_177,Select Supplier,2023-04-20 03:34:11.143137
+event_177_4,case_177,Monitor Order Status,2023-05-18 02:31:09.311989
+event_177_0,case_177,Close Purchase Order,2023-06-01 05:46:08.825588
+event_177_6,case_177,Evaluate Supplier Performance,2023-06-13 22:13:02.761085
+event_177_5,case_177,Complete Payment,2023-08-01 09:47:22.305022
+event_177_1,case_177,Create Purchase Order,2023-08-03 20:24:18.380405
+event_177_7,case_177,Conduct Market Analysis,2023-09-08 09:00:22.441386
+event_177_3,case_177,Dispatch Order,2023-11-17 04:56:40.329196
+event_178_2,case_178,Negotiate Contract,2023-03-30 16:24:58.212950
+event_178_6,case_178,Finalize Purchase Details,2023-05-27 05:00:43.012019
+event_178_5,case_178,Process Invoice,2023-07-12 04:35:44.044500
+event_178_4,case_178,Receive Goods,2023-07-15 01:12:44.121406
+event_178_3,case_178,Dispatch Order,2023-10-09 07:31:43.939700
+event_178_7,case_178,Conduct Market Analysis,2023-10-23 14:55:47.328173
+event_178_0,case_178,Close Purchase Order,2023-10-24 05:06:54.385626
+event_178_1,case_178,Create Purchase Order,2023-11-26 16:42:44.668001
+event_179_2,case_179,Select Supplier,2023-04-15 21:17:56.197551
+event_179_0,case_179,Close Purchase Order,2023-05-14 10:27:57.401875
+event_179_6,case_179,Evaluate Supplier Performance,2023-05-22 02:29:37.769282
+event_179_5,case_179,Process Invoice,2023-06-30 14:49:46.536613
+event_179_4,case_179,Monitor Order Status,2023-08-26 20:29:10.580136
+event_179_3,case_179,Approve Purchase Order,2023-09-17 09:12:01.030369
+event_179_1,case_179,Create Purchase Order,2023-11-15 13:29:31.953563
+event_179_7,case_179,Conduct Market Analysis,2023-11-24 17:45:09.909389
+event_18_5,case_18,Complete Payment,2023-03-06 21:34:57.324816
+event_18_6,case_18,Evaluate Supplier Performance,2023-03-07 20:59:32.578432
+event_18_0,case_18,Close Purchase Order,2023-04-09 03:18:54.461088
+event_18_2,case_18,Request Quotations,2023-05-16 04:12:46.370256
+event_18_7,case_18,Conduct Market Analysis,2023-08-27 20:12:27.554986
+event_18_1,case_18,Create Purchase Order,2023-09-05 06:24:10.757203
+event_18_4,case_18,Receive Goods,2023-09-12 17:09:42.305156
+event_18_3,case_18,Approve Purchase Order,2023-10-07 12:08:14.401930
+event_180_1,case_180,Create Purchase Order,2023-01-08 02:08:48.806118
+event_180_6,case_180,Evaluate Supplier Performance,2023-03-17 23:53:42.325995
+event_180_7,case_180,Conduct Market Analysis,2023-05-15 00:19:48.895102
+event_180_3,case_180,Dispatch Order,2023-07-20 06:16:33.649200
+event_180_4,case_180,Receive Goods,2023-07-23 04:08:05.135520
+event_180_0,case_180,Close Purchase Order,2023-09-20 21:03:44.347839
+event_180_2,case_180,Negotiate Contract,2023-10-06 07:49:46.227673
+event_180_5,case_180,Complete Payment,2023-10-25 21:59:51.879466
+event_181_5,case_181,Complete Payment,2023-02-18 18:50:00.720491
+event_181_3,case_181,Dispatch Order,2023-03-05 03:02:37.151742
+event_181_1,case_181,Create Purchase Order,2023-05-03 20:08:21.029218
+event_181_6,case_181,Finalize Purchase Details,2023-05-05 16:28:51.968827
+event_181_0,case_181,Close Purchase Order,2023-06-22 02:51:25.639686
+event_181_4,case_181,Monitor Order Status,2023-06-27 02:28:20.704952
+event_181_7,case_181,Conduct Market Analysis,2023-08-15 08:50:36.312974
+event_181_2,case_181,Negotiate Contract,2023-08-23 06:08:34.607585
+event_182_3,case_182,Dispatch Order,2023-02-21 23:04:00.119071
+event_182_6,case_182,Evaluate Supplier Performance,2023-03-04 17:41:03.994916
+event_182_3,case_182,Approve Purchase Order,2023-04-11 05:20:25.079427
+event_182_2,case_182,Select Supplier,2023-05-04 10:35:31.201309
+event_182_4,case_182,Receive Goods,2023-05-05 04:11:19.751590
+event_182_5,case_182,Process Invoice,2023-06-21 13:22:38.985638
+event_182_7,case_182,Conduct Market Analysis,2023-08-08 03:17:49.487785
+event_182_0,case_182,Close Purchase Order,2023-09-19 06:03:47.520567
+event_182_1,case_182,Create Purchase Order,2023-10-29 03:08:58.878096
+event_183_0,case_183,Close Purchase Order,2023-01-31 15:56:23.114229
+event_183_7,case_183,Conduct Market Analysis,2023-04-08 21:43:11.035502
+event_183_2,case_183,Select Supplier,2023-07-07 15:11:21.039500
+event_183_1,case_183,Create Purchase Order,2023-07-17 16:13:18.276838
+event_183_3,case_183,Approve Purchase Order,2023-08-24 04:48:20.915204
+event_183_4,case_183,Receive Goods,2023-09-06 16:45:40.649908
+event_183_6,case_183,Finalize Purchase Details,2023-09-22 04:57:30.893025
+event_183_5,case_183,Complete Payment,2023-11-27 04:25:00.501722
+event_184_1,case_184,Create Purchase Order,2023-01-18 04:10:11.906636
+event_184_6,case_184,Evaluate Supplier Performance,2023-02-02 12:15:06.214740
+event_184_4,case_184,Monitor Order Status,2023-02-16 06:49:43.529644
+event_184_5,case_184,Process Invoice,2023-02-28 02:39:20.715763
+event_184_7,case_184,Renew Contract,2023-03-07 01:34:50.591792
+event_184_3,case_184,Approve Purchase Order,2023-03-24 08:01:08.177192
+event_184_0,case_184,Close Purchase Order,2023-05-27 08:18:00.993021
+event_184_2,case_184,Negotiate Contract,2023-06-16 10:20:34.579840
+event_185_0,case_185,Close Purchase Order,2023-01-08 15:46:12.882124
+event_185_6,case_185,Finalize Purchase Details,2023-01-19 03:57:29.270961
+event_185_4,case_185,Monitor Order Status,2023-03-13 21:31:56.524404
+event_185_2,case_185,Negotiate Contract,2023-03-23 00:03:38.167411
+event_185_7,case_185,Renew Contract,2023-06-14 15:37:19.411106
+event_185_1,case_185,Create Purchase Order,2023-08-12 09:10:43.508585
+event_185_5,case_185,Process Invoice,2023-09-29 23:05:48.105260
+event_185_3,case_185,Approve Purchase Order,2023-10-07 06:34:11.065947
+event_185_5,case_185,Evaluate Supplier Performance,2023-10-28 12:02:46.550366
+event_185_6,case_185,Evaluate Supplier Performance,2023-11-28 14:56:33.410628
+event_186_4,case_186,Monitor Order Status,2023-03-14 21:33:19.390386
+event_186_3,case_186,Approve Purchase Order,2023-03-22 11:01:02.181735
+event_186_2,case_186,Request Quotations,2023-04-02 13:27:54.220679
+event_186_4,case_186,Monitor Order Status,2023-04-13 15:44:42.409449
+event_186_2,case_186,Negotiate Contract,2023-05-05 08:29:22.957060
+event_186_0,case_186,Close Purchase Order,2023-05-24 02:31:56.689010
+event_186_6,case_186,Evaluate Supplier Performance,2023-06-23 15:18:35.070591
+event_186_3,case_186,Dispatch Order,2023-08-01 08:24:22.120194
+event_186_5,case_186,Process Invoice,2023-08-04 06:33:07.023044
+event_186_7,case_186,Conduct Market Analysis,2023-10-04 03:39:50.326605
+event_186_1,case_186,Create Purchase Order,2023-10-12 10:39:50.132706
+event_186_5,case_186,Complete Payment,2023-11-10 21:54:35.945157
+event_187_7,case_187,Renew Contract,2023-05-16 17:12:57.525351
+event_187_0,case_187,Close Purchase Order,2023-07-05 18:50:15.789706
+event_187_3,case_187,Dispatch Order,2023-07-13 02:10:36.626377
+event_187_2,case_187,Select Supplier,2023-08-22 20:17:28.402104
+event_187_4,case_187,Monitor Order Status,2023-08-31 06:49:51.960711
+event_187_6,case_187,Evaluate Supplier Performance,2023-10-11 19:59:13.433997
+event_187_1,case_187,Create Purchase Order,2023-11-09 02:31:34.866953
+event_187_5,case_187,Process Invoice,2023-11-28 12:40:26.074367
+event_188_0,case_188,Close Purchase Order,2023-02-09 08:39:23.373373
+event_188_7,case_188,Conduct Market Analysis,2023-03-09 17:11:39.546284
+event_188_5,case_188,Process Invoice,2023-05-03 12:39:12.615876
+event_188_2,case_188,Request Quotations,2023-05-11 12:34:41.888427
+event_188_1,case_188,Create Purchase Order,2023-05-17 02:18:26.442213
+event_188_5,case_188,Complete Payment,2023-06-05 20:21:38.419451
+event_188_6,case_188,Finalize Purchase Details,2023-06-21 03:26:54.626950
+event_188_3,case_188,Dispatch Order,2023-10-17 12:22:02.780872
+event_188_4,case_188,Monitor Order Status,2023-11-22 20:10:50.712553
+event_189_3,case_189,Approve Purchase Order,2023-01-13 11:00:45.016149
+event_189_4,case_189,Receive Goods,2023-04-06 18:22:13.923578
+event_189_1,case_189,Create Purchase Order,2023-05-26 03:34:12.260743
+event_189_2,case_189,Request Quotations,2023-06-20 14:08:41.892749
+event_189_0,case_189,Close Purchase Order,2023-07-17 05:29:33.013853
+event_189_6,case_189,Evaluate Supplier Performance,2023-08-26 02:33:00.286323
+event_189_7,case_189,Renew Contract,2023-11-20 00:25:24.567757
+event_189_5,case_189,Process Invoice,2023-11-20 11:31:33.548661
+event_19_6,case_19,Finalize Purchase Details,2023-01-11 09:02:21.648067
+event_19_1,case_19,Create Purchase Order,2023-01-16 14:46:22.789499
+event_19_2,case_19,Request Quotations,2023-04-06 12:22:43.730486
+event_19_5,case_19,Complete Payment,2023-06-19 23:33:26.431270
+event_19_4,case_19,Receive Goods,2023-07-18 23:02:39.877148
+event_19_3,case_19,Approve Purchase Order,2023-10-25 12:23:10.162697
+event_19_7,case_19,Conduct Market Analysis,2023-11-19 19:53:13.203080
+event_19_0,case_19,Close Purchase Order,2023-12-02 04:35:32.112132
+event_190_0,case_190,Close Purchase Order,2023-01-04 11:11:24.721403
+event_190_7,case_190,Renew Contract,2023-01-07 05:35:55.859788
+event_190_3,case_190,Dispatch Order,2023-06-27 22:35:49.096548
+event_190_1,case_190,Create Purchase Order,2023-08-20 00:36:11.359541
+event_190_5,case_190,Complete Payment,2023-09-03 11:01:18.262675
+event_190_4,case_190,Receive Goods,2023-09-23 08:48:14.471845
+event_190_6,case_190,Finalize Purchase Details,2023-09-28 13:57:56.573220
+event_190_2,case_190,Select Supplier,2023-09-30 17:27:44.592484
+event_190_2,case_190,Request Quotations,2023-10-15 02:27:43.562437
+event_191_6,case_191,Evaluate Supplier Performance,2023-01-10 00:18:08.547874
+event_191_0,case_191,Close Purchase Order,2023-02-08 18:18:48.523820
+event_191_2,case_191,Request Quotations,2023-03-07 07:26:28.692330
+event_191_3,case_191,Approve Purchase Order,2023-06-16 03:40:36.151020
+event_191_1,case_191,Create Purchase Order,2023-07-19 06:40:34.310726
+event_191_7,case_191,Conduct Market Analysis,2023-07-22 01:25:49.781196
+event_191_4,case_191,Monitor Order Status,2023-08-20 10:20:32.647058
+event_191_5,case_191,Complete Payment,2023-10-22 00:57:59.910784
+event_191_2,case_191,Select Supplier,2023-11-13 09:15:56.115473
+event_192_4,case_192,Receive Goods,2023-01-13 13:39:46.969600
+event_192_5,case_192,Complete Payment,2023-04-12 00:00:43.597291
+event_192_3,case_192,Approve Purchase Order,2023-05-24 21:54:10.320429
+event_192_7,case_192,Conduct Market Analysis,2023-07-12 10:27:43.321386
+event_192_0,case_192,Close Purchase Order,2023-07-23 19:52:56.783673
+event_192_2,case_192,Select Supplier,2023-07-31 08:27:45.511734
+event_192_6,case_192,Finalize Purchase Details,2023-08-01 16:58:38.702214
+event_192_1,case_192,Create Purchase Order,2023-08-02 07:23:18.364373
+event_192_2,case_192,Request Quotations,2023-10-12 22:53:07.738285
+event_193_3,case_193,Approve Purchase Order,2023-02-08 23:51:36.712543
+event_193_4,case_193,Complete Payment,2023-04-18 07:43:01.525527
+event_193_2,case_193,Negotiate Contract,2023-05-06 12:56:34.621209
+event_193_5,case_193,Complete Payment,2023-05-16 01:32:16.603160
+event_193_0,case_193,Close Purchase Order,2023-06-14 16:21:27.110218
+event_193_6,case_193,Finalize Purchase Details,2023-06-22 01:10:25.892099
+event_193_4,case_193,Receive Goods,2023-09-09 04:12:16.979093
+event_193_1,case_193,Create Purchase Order,2023-09-26 06:17:14.220577
+event_193_7,case_193,Renew Contract,2023-09-29 06:28:48.900292
+event_193_4,case_193,Receive Goods,2023-11-16 16:50:50.515831
+event_193_5,case_193,Complete Payment,2023-12-01 18:08:09.342562
+event_194_0,case_194,Close Purchase Order,2023-01-19 22:44:42.627611
+event_194_2,case_194,Select Supplier,2023-01-21 06:33:10.190891
+event_194_5,case_194,Process Invoice,2023-02-12 19:16:30.669209
+event_194_4,case_194,Monitor Order Status,2023-03-10 09:23:09.993965
+event_194_1,case_194,Create Purchase Order,2023-03-21 11:17:55.011026
+event_194_3,case_194,Dispatch Order,2023-05-07 08:54:08.008254
+event_194_6,case_194,Evaluate Supplier Performance,2023-05-11 19:07:17.753308
+event_194_7,case_194,Renew Contract,2023-09-01 08:18:04.155708
+event_194_4,case_194,Receive Goods,2023-11-10 03:29:04.807600
+event_194_3,case_194,Dispatch Order,2023-11-21 06:26:42.784748
+event_195_4,case_195,Receive Goods,2023-01-17 16:27:33.409535
+event_195_5,case_195,Process Invoice,2023-03-08 02:56:18.909610
+event_195_3,case_195,Approve Purchase Order,2023-03-20 06:02:04.219656
+event_195_6,case_195,Finalize Purchase Details,2023-03-30 04:04:00.581341
+event_195_1,case_195,Create Purchase Order,2023-06-16 12:07:43.398809
+event_195_0,case_195,Close Purchase Order,2023-07-31 19:40:07.482107
+event_195_6,case_195,Evaluate Supplier Performance,2023-09-17 01:00:44.250252
+event_195_7,case_195,Renew Contract,2023-09-17 15:21:01.015368
+event_195_5,case_195,Complete Payment,2023-11-18 12:25:42.302005
+event_195_2,case_195,Select Supplier,2023-12-06 04:49:36.992072
+event_196_1,case_196,Create Purchase Order,2023-02-05 03:07:44.763201
+event_196_6,case_196,Finalize Purchase Details,2023-04-12 15:24:55.222142
+event_196_4,case_196,Receive Goods,2023-04-19 06:41:25.121914
+event_196_0,case_196,Close Purchase Order,2023-05-15 07:02:35.844204
+event_196_3,case_196,Approve Purchase Order,2023-07-17 06:07:08.240368
+event_196_5,case_196,Process Invoice,2023-08-25 15:49:37.816998
+event_196_7,case_196,Conduct Market Analysis,2023-09-09 00:39:51.730358
+event_196_2,case_196,Request Quotations,2023-10-20 19:52:37.864636
+event_197_6,case_197,Evaluate Supplier Performance,2023-04-15 10:07:47.933263
+event_197_1,case_197,Create Purchase Order,2023-05-08 18:55:41.831857
+event_197_5,case_197,Process Invoice,2023-06-14 02:10:06.011624
+event_197_0,case_197,Close Purchase Order,2023-06-20 01:12:11.330334
+event_197_2,case_197,Negotiate Contract,2023-08-16 16:46:02.959030
+event_197_7,case_197,Conduct Market Analysis,2023-09-19 14:21:35.158652
+event_197_3,case_197,Approve Purchase Order,2023-11-12 03:38:07.452671
+event_197_4,case_197,Monitor Order Status,2023-11-12 04:55:06.570547
+event_198_6,case_198,Evaluate Supplier Performance,2023-05-27 13:38:53.953162
+event_198_5,case_198,Complete Payment,2023-06-27 22:19:03.949419
+event_198_2,case_198,Negotiate Contract,2023-06-28 11:37:08.574875
+event_198_1,case_198,Create Purchase Order,2023-07-03 16:59:53.707434
+event_198_4,case_198,Monitor Order Status,2023-08-04 17:05:23.851044
+event_198_3,case_198,Approve Purchase Order,2023-08-04 21:00:53.282706
+event_198_7,case_198,Renew Contract,2023-10-19 12:19:02.738466
+event_198_0,case_198,Close Purchase Order,2023-11-19 01:43:58.082157
+event_199_4,case_199,Monitor Order Status,2023-01-01 05:51:49.880368
+event_199_0,case_199,Close Purchase Order,2023-01-07 13:51:09.791246
+event_199_2,case_199,Request Quotations,2023-03-07 10:57:37.365309
+event_199_5,case_199,Process Invoice,2023-03-14 23:54:42.190586
+event_199_1,case_199,Create Purchase Order,2023-05-15 06:42:43.616669
+event_199_7,case_199,Conduct Market Analysis,2023-05-24 14:22:48.703650
+event_199_3,case_199,Approve Purchase Order,2023-07-27 18:33:56.639130
+event_199_2,case_199,Negotiate Contract,2023-11-12 17:44:25.511030
+event_199_6,case_199,Evaluate Supplier Performance,2023-12-01 17:28:16.318761
+event_2_3,case_2,Approve Purchase Order,2023-01-04 23:16:08.450147
+event_2_5,case_2,Process Invoice,2023-02-15 22:04:08.025032
+event_2_1,case_2,Create Purchase Order,2023-02-16 20:06:37.815613
+event_2_7,case_2,Renew Contract,2023-05-22 14:18:11.679275
+event_2_2,case_2,Request Quotations,2023-06-24 00:44:01.613156
+event_2_4,case_2,Receive Goods,2023-08-01 10:39:15.567686
+event_2_0,case_2,Close Purchase Order,2023-11-21 14:57:45.660942
+event_2_6,case_2,Evaluate Supplier Performance,2023-11-26 14:20:05.872787
+event_20_3,case_20,Approve Purchase Order,2023-01-10 14:26:15.859095
+event_20_0,case_20,Close Purchase Order,2023-01-16 08:19:33.078953
+event_20_1,case_20,Create Purchase Order,2023-01-16 20:26:11.732546
+event_20_7,case_20,Renew Contract,2023-01-30 15:53:13.747579
+event_20_5,case_20,Process Invoice,2023-03-16 05:45:14.977952
+event_20_2,case_20,Negotiate Contract,2023-07-23 10:49:21.163090
+event_20_4,case_20,Monitor Order Status,2023-08-06 06:36:26.363388
+event_20_6,case_20,Finalize Purchase Details,2023-10-14 23:32:52.934051
+event_20_2,case_20,Request Quotations,2023-10-28 12:56:21.328779
+event_200_0,case_200,Close Purchase Order,2023-02-13 12:10:00.249751
+event_200_4,case_200,Receive Goods,2023-02-23 00:05:14.118114
+event_200_3,case_200,Dispatch Order,2023-03-12 03:30:50.783102
+event_200_5,case_200,Complete Payment,2023-03-14 18:42:05.125031
+event_200_7,case_200,Conduct Market Analysis,2023-04-24 07:19:27.347985
+event_200_6,case_200,Evaluate Supplier Performance,2023-06-24 19:24:23.449526
+event_200_1,case_200,Create Purchase Order,2023-09-01 10:58:02.458200
+event_200_2,case_200,Select Supplier,2023-11-23 05:28:02.613374
+event_201_3,case_201,Dispatch Order,2023-03-06 20:13:02.472861
+event_201_0,case_201,Close Purchase Order,2023-03-07 21:17:06.448980
+event_201_7,case_201,Renew Contract,2023-04-04 23:30:02.357576
+event_201_6,case_201,Evaluate Supplier Performance,2023-05-09 02:42:58.414571
+event_201_2,case_201,Select Supplier,2023-05-11 16:59:18.076152
+event_201_1,case_201,Create Purchase Order,2023-06-09 11:40:33.837545
+event_201_4,case_201,Monitor Order Status,2023-07-11 10:59:11.782266
+event_201_5,case_201,Process Invoice,2023-10-12 08:38:28.908307
+event_202_2,case_202,Negotiate Contract,2023-01-06 02:44:30.734215
+event_202_4,case_202,Receive Goods,2023-04-07 05:42:37.410168
+event_202_6,case_202,Finalize Purchase Details,2023-04-26 17:52:09.886862
+event_202_3,case_202,Dispatch Order,2023-04-29 09:32:34.781010
+event_202_7,case_202,Conduct Market Analysis,2023-07-19 00:25:33.634259
+event_202_1,case_202,Create Purchase Order,2023-08-19 13:52:13.741942
+event_202_5,case_202,Complete Payment,2023-09-13 06:42:58.836861
+event_202_0,case_202,Close Purchase Order,2023-09-26 14:16:24.796684
+event_202_4,case_202,Monitor Order Status,2023-12-04 10:31:02.943871
+event_203_1,case_203,Create Purchase Order,2023-02-04 07:00:57.594572
+event_203_6,case_203,Evaluate Supplier Performance,2023-02-11 10:58:26.125580
+event_203_4,case_203,Receive Goods,2023-04-03 06:57:14.726128
+event_203_2,case_203,Select Supplier,2023-07-14 05:35:57.479731
+event_203_0,case_203,Close Purchase Order,2023-10-08 20:06:26.541123
+event_203_5,case_203,Complete Payment,2023-10-17 03:15:32.528971
+event_203_7,case_203,Conduct Market Analysis,2023-11-09 20:21:17.608587
+event_203_3,case_203,Approve Purchase Order,2023-12-03 03:57:03.987475
+event_204_7,case_204,Renew Contract,2023-01-08 03:50:15.458587
+event_204_2,case_204,Request Quotations,2023-02-12 20:10:55.195736
+event_204_0,case_204,Close Purchase Order,2023-03-10 04:03:24.405055
+event_204_3,case_204,Approve Purchase Order,2023-07-13 01:55:29.920706
+event_204_5,case_204,Process Invoice,2023-09-05 13:39:00.474167
+event_204_6,case_204,Evaluate Supplier Performance,2023-09-17 17:11:47.240584
+event_204_4,case_204,Monitor Order Status,2023-10-05 07:19:59.013057
+event_204_1,case_204,Create Purchase Order,2023-10-20 15:48:13.920591
+event_204_3,case_204,Dispatch Order,2023-11-11 14:30:46.235236
+event_205_5,case_205,Process Invoice,2023-03-21 15:45:23.752599
+event_205_6,case_205,Finalize Purchase Details,2023-05-08 04:50:12.743157
+event_205_0,case_205,Close Purchase Order,2023-05-16 13:39:14.873715
+event_205_7,case_205,Renew Contract,2023-06-15 00:37:48.390860
+event_205_4,case_205,Receive Goods,2023-07-15 05:20:47.144672
+event_205_3,case_205,Dispatch Order,2023-08-02 10:04:08.163561
+event_205_2,case_205,Request Quotations,2023-10-16 03:59:14.882953
+event_205_5,case_205,Complete Payment,2023-10-26 20:26:54.281254
+event_205_1,case_205,Create Purchase Order,2023-11-03 21:45:33.495908
+event_206_0,case_206,Close Purchase Order,2023-01-19 04:31:17.913185
+event_206_7,case_206,Renew Contract,2023-04-08 06:00:22.979877
+event_206_3,case_206,Approve Purchase Order,2023-07-07 21:52:19.407084
+event_206_4,case_206,Monitor Order Status,2023-07-30 11:02:45.649060
+event_206_1,case_206,Create Purchase Order,2023-09-10 10:32:57.777014
+event_206_5,case_206,Process Invoice,2023-09-29 04:07:15.839997
+event_206_6,case_206,Finalize Purchase Details,2023-09-30 15:04:14.557091
+event_206_2,case_206,Request Quotations,2023-10-18 14:29:58.870029
+event_207_5,case_207,Process Invoice,2023-03-16 15:46:47.883168
+event_207_6,case_207,Evaluate Supplier Performance,2023-04-03 07:33:35.939693
+event_207_0,case_207,Close Purchase Order,2023-04-13 16:16:56.020670
+event_207_2,case_207,Request Quotations,2023-04-16 20:05:36.007713
+event_207_1,case_207,Create Purchase Order,2023-04-29 12:19:57.724372
+event_207_4,case_207,Monitor Order Status,2023-09-19 11:02:24.790932
+event_207_7,case_207,Renew Contract,2023-10-19 07:33:34.375891
+event_207_3,case_207,Approve Purchase Order,2023-10-24 01:05:03.249757
+event_208_3,case_208,Dispatch Order,2023-02-17 03:00:15.404772
+event_208_7,case_208,Renew Contract,2023-02-20 13:39:25.184541
+event_208_1,case_208,Create Purchase Order,2023-05-03 21:56:33.034395
+event_208_2,case_208,Request Quotations,2023-06-29 11:50:20.270263
+event_208_5,case_208,Complete Payment,2023-07-19 16:09:54.954528
+event_208_4,case_208,Monitor Order Status,2023-10-26 14:01:14.533555
+event_208_6,case_208,Finalize Purchase Details,2023-10-30 18:13:02.914359
+event_208_0,case_208,Close Purchase Order,2023-11-09 19:59:54.508680
+event_209_5,case_209,Process Invoice,2023-08-21 09:50:20.159455
+event_209_4,case_209,Monitor Order Status,2023-10-03 09:54:48.912349
+event_209_6,case_209,Evaluate Supplier Performance,2023-10-09 17:43:19.001125
+event_209_0,case_209,Close Purchase Order,2023-10-13 16:30:48.408508
+event_209_7,case_209,Conduct Market Analysis,2023-10-14 17:29:36.061501
+event_209_1,case_209,Create Purchase Order,2023-10-16 20:54:00.159406
+event_209_2,case_209,Select Supplier,2023-10-17 20:12:48.460793
+event_209_3,case_209,Dispatch Order,2023-11-24 14:06:37.440224
+event_21_3,case_21,Approve Purchase Order,2023-04-28 02:20:29.061052
+event_21_1,case_21,Create Purchase Order,2023-06-22 18:30:57.849036
+event_21_2,case_21,Negotiate Contract,2023-07-10 21:35:24.581854
+event_21_0,case_21,Close Purchase Order,2023-08-24 19:48:39.843379
+event_21_6,case_21,Finalize Purchase Details,2023-09-20 00:43:27.669899
+event_21_5,case_21,Process Invoice,2023-10-25 21:27:38.949215
+event_21_4,case_21,Receive Goods,2023-10-31 15:00:43.775969
+event_21_7,case_21,Conduct Market Analysis,2023-11-28 10:18:01.309749
+event_210_1,case_210,Create Purchase Order,2023-01-02 15:33:50.124030
+event_210_3,case_210,Approve Purchase Order,2023-02-06 01:12:27.325731
+event_210_6,case_210,Evaluate Supplier Performance,2023-03-10 13:10:18.685980
+event_210_4,case_210,Receive Goods,2023-04-15 14:48:28.899348
+event_210_5,case_210,Complete Payment,2023-04-21 16:56:39.150989
+event_210_2,case_210,Select Supplier,2023-07-18 19:30:02.372257
+event_210_0,case_210,Close Purchase Order,2023-07-27 22:00:31.346042
+event_210_5,case_210,Process Invoice,2023-08-21 20:05:32.123088
+event_210_7,case_210,Conduct Market Analysis,2023-11-20 10:07:52.008805
+event_211_5,case_211,Complete Payment,2023-01-01 08:49:26.045310
+event_211_1,case_211,Create Purchase Order,2023-01-30 14:13:54.855841
+event_211_7,case_211,Conduct Market Analysis,2023-03-11 20:54:13.271553
+event_211_6,case_211,Finalize Purchase Details,2023-03-31 12:47:04.658029
+event_211_0,case_211,Close Purchase Order,2023-05-29 13:21:12.978766
+event_211_2,case_211,Request Quotations,2023-07-05 09:08:41.502033
+event_211_3,case_211,Approve Purchase Order,2023-08-26 18:26:48.360821
+event_211_3,case_211,Dispatch Order,2023-09-18 19:45:50.129312
+event_211_4,case_211,Monitor Order Status,2023-12-06 13:44:14.550124
+event_212_5,case_212,Process Invoice,2023-01-28 04:24:26.788691
+event_212_0,case_212,Close Purchase Order,2023-04-20 01:49:57.264107
+event_212_5,case_212,Complete Payment,2023-05-06 23:00:06.566902
+event_212_2,case_212,Request Quotations,2023-05-09 16:37:09.592374
+event_212_6,case_212,Evaluate Supplier Performance,2023-07-13 02:17:51.181231
+event_212_3,case_212,Approve Purchase Order,2023-08-06 09:40:21.322637
+event_212_4,case_212,Receive Goods,2023-10-12 21:55:27.164835
+event_212_7,case_212,Renew Contract,2023-10-20 12:30:25.220620
+event_212_1,case_212,Create Purchase Order,2023-11-08 10:32:29.389309
+event_213_0,case_213,Close Purchase Order,2023-01-06 22:05:20.843832
+event_213_4,case_213,Monitor Order Status,2023-02-10 02:06:22.708606
+event_213_2,case_213,Select Supplier,2023-04-18 00:32:49.594824
+event_213_7,case_213,Renew Contract,2023-04-27 22:49:48.766244
+event_213_6,case_213,Evaluate Supplier Performance,2023-07-15 07:06:31.481011
+event_213_1,case_213,Create Purchase Order,2023-07-28 00:14:17.417620
+event_213_3,case_213,Approve Purchase Order,2023-08-15 14:03:54.742684
+event_213_5,case_213,Process Invoice,2023-08-30 07:11:21.284739
+event_213_6,case_213,Finalize Purchase Details,2023-09-08 06:42:01.053413
+event_213_3,case_213,Dispatch Order,2023-11-28 11:20:22.170460
+event_214_4,case_214,Receive Goods,2023-01-16 16:35:38.054010
+event_214_7,case_214,Conduct Market Analysis,2023-03-11 14:22:18.379940
+event_214_3,case_214,Approve Purchase Order,2023-04-10 18:14:30.824333
+event_214_6,case_214,Finalize Purchase Details,2023-04-13 21:50:06.560491
+event_214_4,case_214,Monitor Order Status,2023-04-15 11:53:43.285550
+event_214_2,case_214,Request Quotations,2023-06-20 16:28:17.554955
+event_214_0,case_214,Close Purchase Order,2023-07-01 11:11:52.519941
+event_214_5,case_214,Process Invoice,2023-09-26 04:22:28.617412
+event_214_1,case_214,Create Purchase Order,2023-10-15 04:27:25.470736
+event_215_2,case_215,Select Supplier,2023-02-18 14:04:07.610255
+event_215_5,case_215,Process Invoice,2023-03-01 21:17:09.835155
+event_215_7,case_215,Conduct Market Analysis,2023-03-12 17:31:42.331584
+event_215_3,case_215,Approve Purchase Order,2023-03-16 06:14:32.327149
+event_215_0,case_215,Close Purchase Order,2023-08-11 01:55:58.150730
+event_215_4,case_215,Receive Goods,2023-09-28 05:53:57.138527
+event_215_6,case_215,Finalize Purchase Details,2023-10-10 17:47:15.880973
+event_215_1,case_215,Create Purchase Order,2023-11-12 19:09:48.821443
+event_216_5,case_216,Process Invoice,2023-01-03 05:51:33.685324
+event_216_7,case_216,Renew Contract,2023-01-06 13:44:11.084713
+event_216_2,case_216,Negotiate Contract,2023-01-14 06:56:47.906004
+event_216_0,case_216,Close Purchase Order,2023-03-16 06:12:56.589814
+event_216_4,case_216,Receive Goods,2023-04-30 04:30:05.006476
+event_216_3,case_216,Dispatch Order,2023-07-04 07:02:49.328116
+event_216_1,case_216,Create Purchase Order,2023-11-13 02:17:51.548909
+event_216_6,case_216,Finalize Purchase Details,2023-11-27 19:59:57.856454
+event_217_7,case_217,Renew Contract,2023-03-24 23:31:53.478436
+event_217_6,case_217,Evaluate Supplier Performance,2023-04-09 06:32:48.899100
+event_217_4,case_217,Monitor Order Status,2023-06-12 06:01:32.980036
+event_217_2,case_217,Negotiate Contract,2023-07-12 03:32:06.809797
+event_217_5,case_217,Complete Payment,2023-07-24 11:59:34.041803
+event_217_0,case_217,Close Purchase Order,2023-09-12 00:17:05.690572
+event_217_3,case_217,Approve Purchase Order,2023-09-22 04:02:23.997026
+event_217_3,case_217,Dispatch Order,2023-10-13 06:45:11.263574
+event_217_1,case_217,Create Purchase Order,2023-10-20 07:01:39.620079
+event_218_5,case_218,Process Invoice,2023-01-02 17:05:28.493051
+event_218_3,case_218,Approve Purchase Order,2023-01-06 11:26:36.938658
+event_218_2,case_218,Select Supplier,2023-02-21 21:44:30.672604
+event_218_1,case_218,Create Purchase Order,2023-03-18 12:17:35.203549
+event_218_0,case_218,Close Purchase Order,2023-05-05 00:04:09.871107
+event_218_7,case_218,Renew Contract,2023-06-01 02:58:05.054559
+event_218_4,case_218,Monitor Order Status,2023-07-03 01:26:49.661888
+event_218_6,case_218,Evaluate Supplier Performance,2023-11-27 22:02:10.744745
+event_219_2,case_219,Select Supplier,2023-01-20 17:59:40.130794
+event_219_4,case_219,Monitor Order Status,2023-02-17 00:29:58.154288
+event_219_3,case_219,Approve Purchase Order,2023-03-29 00:01:50.070899
+event_219_7,case_219,Renew Contract,2023-04-30 01:56:43.642403
+event_219_6,case_219,Finalize Purchase Details,2023-05-15 04:36:19.471563
+event_219_4,case_219,Monitor Order Status,2023-06-09 22:38:04.381626
+event_219_0,case_219,Close Purchase Order,2023-07-05 21:40:32.568442
+event_219_1,case_219,Create Purchase Order,2023-08-06 16:16:13.496593
+event_219_3,case_219,Approve Purchase Order,2023-08-28 16:13:20.236660
+event_219_5,case_219,Complete Payment,2023-10-07 07:49:13.938142
+event_219_4,case_219,Receive Goods,2023-10-13 22:13:38.158329
+event_22_7,case_22,Renew Contract,2023-04-12 02:55:20.975933
+event_22_0,case_22,Close Purchase Order,2023-06-05 23:07:15.053691
+event_22_4,case_22,Receive Goods,2023-07-08 21:47:36.210020
+event_22_3,case_22,Approve Purchase Order,2023-07-27 11:03:51.975437
+event_22_1,case_22,Create Purchase Order,2023-09-03 23:01:21.778320
+event_22_2,case_22,Negotiate Contract,2023-09-19 07:35:20.540288
+event_22_5,case_22,Complete Payment,2023-11-25 13:49:05.348487
+event_22_6,case_22,Evaluate Supplier Performance,2023-11-26 09:53:43.200651
+event_220_6,case_220,Finalize Purchase Details,2023-01-09 21:55:00.448990
+event_220_3,case_220,Approve Purchase Order,2023-02-25 08:33:11.552387
+event_220_2,case_220,Select Supplier,2023-02-26 08:54:54.717852
+event_220_0,case_220,Close Purchase Order,2023-03-09 06:27:04.686399
+event_220_1,case_220,Create Purchase Order,2023-03-18 00:38:40.410138
+event_220_4,case_220,Monitor Order Status,2023-05-04 15:13:31.686775
+event_220_5,case_220,Complete Payment,2023-09-01 00:55:00.022346
+event_220_7,case_220,Conduct Market Analysis,2023-11-15 18:35:33.928172
+event_220_6,case_220,Evaluate Supplier Performance,2023-11-20 23:31:55.003294
+event_221_5,case_221,Process Invoice,2023-03-20 05:29:30.684096
+event_221_3,case_221,Approve Purchase Order,2023-04-23 03:55:13.051776
+event_221_2,case_221,Request Quotations,2023-07-27 11:06:27.310617
+event_221_7,case_221,Conduct Market Analysis,2023-07-29 06:11:24.920879
+event_221_1,case_221,Create Purchase Order,2023-08-04 10:31:54.076329
+event_221_6,case_221,Evaluate Supplier Performance,2023-08-09 01:58:19.086252
+event_221_4,case_221,Receive Goods,2023-09-01 22:13:07.487683
+event_221_0,case_221,Close Purchase Order,2023-12-02 20:33:38.514097
+event_222_3,case_222,Approve Purchase Order,2023-01-02 03:18:13.268101
+event_222_1,case_222,Create Purchase Order,2023-01-27 05:51:33.057660
+event_222_0,case_222,Close Purchase Order,2023-02-11 03:44:29.645936
+event_222_6,case_222,Finalize Purchase Details,2023-05-01 05:00:23.350347
+event_222_5,case_222,Complete Payment,2023-07-07 14:57:57.750232
+event_222_7,case_222,Renew Contract,2023-10-25 23:46:23.550292
+event_222_2,case_222,Request Quotations,2023-11-04 23:01:41.047950
+event_222_4,case_222,Monitor Order Status,2023-11-21 08:39:38.385283
+event_223_0,case_223,Close Purchase Order,2023-02-22 07:03:48.515472
+event_223_5,case_223,Complete Payment,2023-05-04 05:10:29.897619
+event_223_3,case_223,Approve Purchase Order,2023-07-05 15:56:43.420688
+event_223_4,case_223,Receive Goods,2023-07-13 11:15:54.224978
+event_223_2,case_223,Select Supplier,2023-08-23 06:23:48.867311
+event_223_1,case_223,Create Purchase Order,2023-08-30 04:27:43.641272
+event_223_7,case_223,Conduct Market Analysis,2023-11-21 17:31:54.858499
+event_223_6,case_223,Evaluate Supplier Performance,2023-12-02 00:47:17.582884
+event_224_3,case_224,Approve Purchase Order,2023-01-03 04:07:23.433698
+event_224_2,case_224,Select Supplier,2023-02-28 11:58:49.430156
+event_224_1,case_224,Create Purchase Order,2023-03-02 18:39:24.587747
+event_224_5,case_224,Process Invoice,2023-03-07 06:06:18.378551
+event_224_6,case_224,Finalize Purchase Details,2023-04-10 02:27:16.740193
+event_224_2,case_224,Request Quotations,2023-04-14 21:06:48.501253
+event_224_4,case_224,Receive Goods,2023-10-28 23:14:51.493810
+event_224_0,case_224,Close Purchase Order,2023-10-30 05:06:55.264483
+event_224_7,case_224,Conduct Market Analysis,2023-11-20 15:28:58.852099
+event_225_0,case_225,Close Purchase Order,2023-02-14 18:53:47.199473
+event_225_6,case_225,Finalize Purchase Details,2023-02-23 09:33:54.289793
+event_225_3,case_225,Dispatch Order,2023-07-11 06:00:45.954088
+event_225_7,case_225,Renew Contract,2023-07-18 23:22:23.400241
+event_225_1,case_225,Create Purchase Order,2023-07-29 11:54:30.969913
+event_225_5,case_225,Process Invoice,2023-08-18 16:32:16.990273
+event_225_4,case_225,Receive Goods,2023-08-27 04:49:00.707825
+event_225_2,case_225,Request Quotations,2023-12-03 00:39:28.486476
+event_226_3,case_226,Dispatch Order,2023-01-19 06:55:43.932428
+event_226_0,case_226,Close Purchase Order,2023-02-12 22:02:22.543767
+event_226_4,case_226,Monitor Order Status,2023-03-19 10:55:22.461879
+event_226_5,case_226,Process Invoice,2023-06-25 04:14:12.933504
+event_226_7,case_226,Renew Contract,2023-08-18 09:36:58.845541
+event_226_2,case_226,Negotiate Contract,2023-09-01 20:41:27.514342
+event_226_1,case_226,Create Purchase Order,2023-09-25 01:36:51.746143
+event_226_6,case_226,Finalize Purchase Details,2023-11-27 21:03:27.477665
+event_227_0,case_227,Close Purchase Order,2023-02-11 20:22:20.096020
+event_227_1,case_227,Create Purchase Order,2023-04-04 07:18:19.153489
+event_227_6,case_227,Finalize Purchase Details,2023-07-11 11:19:33.157830
+event_227_5,case_227,Complete Payment,2023-07-17 12:00:51.448954
+event_227_4,case_227,Monitor Order Status,2023-07-22 09:22:51.333456
+event_227_7,case_227,Renew Contract,2023-08-31 02:43:13.489479
+event_227_2,case_227,Negotiate Contract,2023-09-28 22:16:12.691355
+event_227_3,case_227,Dispatch Order,2023-11-26 22:42:26.533400
+event_228_3,case_228,Approve Purchase Order,2023-02-23 00:11:46.024480
+event_228_0,case_228,Close Purchase Order,2023-03-21 19:34:57.398304
+event_228_1,case_228,Create Purchase Order,2023-06-09 01:22:05.211508
+event_228_2,case_228,Select Supplier,2023-06-14 08:02:44.301007
+event_228_4,case_228,Monitor Order Status,2023-07-01 11:30:18.922435
+event_228_6,case_228,Evaluate Supplier Performance,2023-09-23 23:44:42.047717
+event_228_7,case_228,Renew Contract,2023-09-26 06:46:06.870608
+event_228_5,case_228,Complete Payment,2023-11-28 03:42:18.928272
+event_229_4,case_229,Monitor Order Status,2023-04-19 00:00:18.608197
+event_229_7,case_229,Renew Contract,2023-04-27 14:28:07.879023
+event_229_0,case_229,Close Purchase Order,2023-08-05 09:02:46.703531
+event_229_3,case_229,Approve Purchase Order,2023-08-24 05:55:45.222800
+event_229_1,case_229,Create Purchase Order,2023-10-01 15:08:12.712440
+event_229_2,case_229,Negotiate Contract,2023-10-05 01:48:18.490210
+event_229_6,case_229,Evaluate Supplier Performance,2023-10-12 19:07:34.858131
+event_229_5,case_229,Complete Payment,2023-10-25 03:18:25.034061
+event_23_3,case_23,Dispatch Order,2023-02-22 19:03:45.692635
+event_23_4,case_23,Monitor Order Status,2023-02-25 12:50:25.339188
+event_23_1,case_23,Create Purchase Order,2023-03-29 08:01:54.678850
+event_23_4,case_23,Receive Goods,2023-06-21 21:34:08.005032
+event_23_7,case_23,Conduct Market Analysis,2023-07-24 20:51:25.278432
+event_23_6,case_23,Evaluate Supplier Performance,2023-09-19 07:14:22.417938
+event_23_2,case_23,Select Supplier,2023-10-16 18:08:31.365590
+event_23_5,case_23,Complete Payment,2023-11-02 09:05:11.758109
+event_23_0,case_23,Close Purchase Order,2023-12-02 13:30:28.965774
+event_230_6,case_230,Evaluate Supplier Performance,2023-01-31 19:14:18.482383
+event_230_3,case_230,Dispatch Order,2023-02-28 17:02:21.993107
+event_230_2,case_230,Select Supplier,2023-04-11 07:55:40.606359
+event_230_4,case_230,Receive Goods,2023-07-24 20:43:00.156093
+event_230_5,case_230,Process Invoice,2023-08-13 17:52:59.926875
+event_230_7,case_230,Conduct Market Analysis,2023-08-16 05:37:39.598449
+event_230_0,case_230,Close Purchase Order,2023-08-16 12:12:08.536744
+event_230_1,case_230,Create Purchase Order,2023-09-15 08:31:06.007046
+event_231_5,case_231,Complete Payment,2023-01-04 23:27:27.583381
+event_231_1,case_231,Create Purchase Order,2023-04-20 21:25:03.158214
+event_231_7,case_231,Conduct Market Analysis,2023-05-07 03:25:26.620083
+event_231_0,case_231,Close Purchase Order,2023-06-01 19:22:13.527243
+event_231_3,case_231,Approve Purchase Order,2023-06-14 07:21:06.928479
+event_231_3,case_231,Dispatch Order,2023-07-29 03:18:35.335655
+event_231_2,case_231,Negotiate Contract,2023-10-09 15:19:04.899497
+event_231_4,case_231,Receive Goods,2023-10-28 04:03:56.087941
+event_231_6,case_231,Finalize Purchase Details,2023-11-15 21:02:13.588680
+event_232_4,case_232,Monitor Order Status,2023-02-16 21:03:11.090488
+event_232_3,case_232,Approve Purchase Order,2023-02-22 14:55:35.793670
+event_232_5,case_232,Process Invoice,2023-03-28 01:39:16.352310
+event_232_7,case_232,Conduct Market Analysis,2023-03-31 17:41:53.596512
+event_232_2,case_232,Request Quotations,2023-06-19 18:33:11.146572
+event_232_0,case_232,Close Purchase Order,2023-07-07 00:41:51.884364
+event_232_4,case_232,Receive Goods,2023-07-14 16:49:28.515967
+event_232_1,case_232,Create Purchase Order,2023-07-30 07:00:02.251261
+event_232_5,case_232,Complete Payment,2023-09-30 14:51:44.235245
+event_232_6,case_232,Finalize Purchase Details,2023-10-31 12:38:11.761967
+event_232_4,case_232,Monitor Order Status,2023-11-22 05:39:48.085590
+event_233_3,case_233,Approve Purchase Order,2023-03-26 22:00:09.569263
+event_233_1,case_233,Create Purchase Order,2023-06-04 22:06:23.719181
+event_233_7,case_233,Renew Contract,2023-07-05 08:08:29.583319
+event_233_0,case_233,Close Purchase Order,2023-07-08 02:41:39.081832
+event_233_4,case_233,Receive Goods,2023-07-20 15:07:36.872153
+event_233_6,case_233,Evaluate Supplier Performance,2023-10-16 14:01:20.826199
+event_233_5,case_233,Complete Payment,2023-10-19 21:32:35.644981
+event_233_2,case_233,Select Supplier,2023-11-25 22:02:52.975268
+event_234_6,case_234,Evaluate Supplier Performance,2023-03-05 11:00:39.422824
+event_234_0,case_234,Close Purchase Order,2023-03-31 02:58:40.035064
+event_234_4,case_234,Receive Goods,2023-04-11 05:38:06.119410
+event_234_7,case_234,Conduct Market Analysis,2023-04-23 11:28:18.196767
+event_234_1,case_234,Create Purchase Order,2023-04-26 23:05:12.192249
+event_234_3,case_234,Dispatch Order,2023-05-29 13:09:21.007039
+event_234_5,case_234,Process Invoice,2023-06-07 22:52:26.910702
+event_234_5,case_234,Complete Payment,2023-07-03 09:40:37.021252
+event_234_2,case_234,Negotiate Contract,2023-07-29 21:29:50.648484
+event_235_3,case_235,Approve Purchase Order,2023-03-31 11:58:07.419702
+event_235_3,case_235,Dispatch Order,2023-05-09 09:33:51.219677
+event_235_6,case_235,Finalize Purchase Details,2023-06-07 21:19:51.516073
+event_235_5,case_235,Complete Payment,2023-07-17 06:16:28.010987
+event_235_0,case_235,Close Purchase Order,2023-08-01 23:54:54.370855
+event_235_1,case_235,Create Purchase Order,2023-08-07 08:01:01.949122
+event_235_4,case_235,Monitor Order Status,2023-10-25 18:17:57.292970
+event_235_2,case_235,Negotiate Contract,2023-11-04 20:51:01.399661
+event_235_7,case_235,Conduct Market Analysis,2023-11-10 13:20:28.286403
+event_236_5,case_236,Complete Payment,2023-01-23 18:36:13.582335
+event_236_2,case_236,Negotiate Contract,2023-01-28 20:01:37.445731
+event_236_7,case_236,Conduct Market Analysis,2023-06-07 03:44:38.287398
+event_236_4,case_236,Monitor Order Status,2023-08-01 04:45:40.112244
+event_236_1,case_236,Create Purchase Order,2023-08-04 05:46:03.785382
+event_236_3,case_236,Dispatch Order,2023-08-06 18:29:10.711731
+event_236_0,case_236,Close Purchase Order,2023-08-27 01:38:11.400515
+event_236_6,case_236,Evaluate Supplier Performance,2023-09-25 20:27:16.361580
+event_236_3,case_236,Approve Purchase Order,2023-10-10 16:45:52.335174
+event_236_5,case_236,Process Invoice,2023-12-03 08:57:18.634449
+event_237_2,case_237,Select Supplier,2023-01-11 22:56:01.764023
+event_237_7,case_237,Renew Contract,2023-04-21 06:58:58.449493
+event_237_6,case_237,Finalize Purchase Details,2023-04-25 06:10:09.440331
+event_237_4,case_237,Receive Goods,2023-05-10 22:06:59.125319
+event_237_0,case_237,Close Purchase Order,2023-05-14 16:53:51.159935
+event_237_1,case_237,Create Purchase Order,2023-06-04 15:52:44.226916
+event_237_3,case_237,Dispatch Order,2023-08-02 10:22:31.515555
+event_237_5,case_237,Process Invoice,2023-09-28 12:12:59.788764
+event_238_6,case_238,Finalize Purchase Details,2023-01-14 04:36:54.246382
+event_238_1,case_238,Create Purchase Order,2023-01-14 21:40:21.050271
+event_238_0,case_238,Close Purchase Order,2023-04-13 23:03:00.771917
+event_238_2,case_238,Negotiate Contract,2023-06-16 06:15:21.597754
+event_238_5,case_238,Process Invoice,2023-06-23 03:17:56.102292
+event_238_3,case_238,Approve Purchase Order,2023-07-25 13:15:19.453025
+event_238_4,case_238,Monitor Order Status,2023-11-24 03:58:41.079546
+event_238_7,case_238,Conduct Market Analysis,2023-11-26 09:26:40.363954
+event_239_3,case_239,Dispatch Order,2023-01-26 09:50:18.320207
+event_239_1,case_239,Create Purchase Order,2023-04-15 02:50:01.728478
+event_239_6,case_239,Evaluate Supplier Performance,2023-04-21 20:46:57.018000
+event_239_7,case_239,Renew Contract,2023-05-12 15:52:47.981357
+event_239_0,case_239,Close Purchase Order,2023-06-24 04:58:51.747729
+event_239_4,case_239,Monitor Order Status,2023-07-24 10:13:12.926875
+event_239_2,case_239,Request Quotations,2023-08-11 21:35:09.284756
+event_239_5,case_239,Complete Payment,2023-11-18 20:03:26.387424
+event_24_5,case_24,Complete Payment,2023-03-10 17:32:41.376016
+event_24_1,case_24,Create Purchase Order,2023-04-25 07:57:50.470422
+event_24_2,case_24,Negotiate Contract,2023-07-08 01:17:31.668027
+event_24_3,case_24,Approve Purchase Order,2023-08-08 14:08:02.529610
+event_24_0,case_24,Close Purchase Order,2023-08-14 08:11:34.165838
+event_24_4,case_24,Monitor Order Status,2023-09-11 17:48:17.973295
+event_24_6,case_24,Finalize Purchase Details,2023-10-02 19:28:25.395483
+event_24_7,case_24,Renew Contract,2023-11-28 03:22:52.053213
+event_240_5,case_240,Complete Payment,2023-01-25 14:59:40.151137
+event_240_4,case_240,Receive Goods,2023-02-01 22:56:49.797840
+event_240_3,case_240,Dispatch Order,2023-05-15 07:05:24.685013
+event_240_7,case_240,Conduct Market Analysis,2023-05-23 17:25:30.055593
+event_240_5,case_240,Complete Payment,2023-06-26 00:59:03.136712
+event_240_6,case_240,Evaluate Supplier Performance,2023-07-04 04:31:39.853531
+event_240_0,case_240,Close Purchase Order,2023-07-26 03:20:43.999168
+event_240_2,case_240,Negotiate Contract,2023-08-04 00:33:43.012058
+event_240_1,case_240,Create Purchase Order,2023-10-08 16:04:30.157934
+event_240_5,case_240,Process Invoice,2023-10-25 09:21:08.039245
+event_240_4,case_240,Monitor Order Status,2023-12-05 01:38:19.069481
+event_241_7,case_241,Conduct Market Analysis,2023-02-03 02:20:06.924088
+event_241_6,case_241,Finalize Purchase Details,2023-05-16 07:02:18.420059
+event_241_0,case_241,Close Purchase Order,2023-05-21 21:13:34.590790
+event_241_4,case_241,Receive Goods,2023-05-25 18:41:39.540112
+event_241_2,case_241,Negotiate Contract,2023-06-28 07:59:33.954934
+event_241_6,case_241,Evaluate Supplier Performance,2023-08-03 10:39:39.517669
+event_241_3,case_241,Approve Purchase Order,2023-11-01 21:54:52.128392
+event_241_5,case_241,Complete Payment,2023-11-16 18:03:14.817977
+event_241_1,case_241,Create Purchase Order,2023-11-19 23:37:37.645262
+event_242_5,case_242,Complete Payment,2023-02-25 14:28:52.226100
+event_242_0,case_242,Close Purchase Order,2023-03-12 20:08:16.518592
+event_242_7,case_242,Conduct Market Analysis,2023-06-02 17:52:52.202590
+event_242_4,case_242,Receive Goods,2023-07-16 20:17:24.155905
+event_242_3,case_242,Dispatch Order,2023-08-19 22:17:37.701788
+event_242_2,case_242,Select Supplier,2023-11-04 05:11:06.723143
+event_242_1,case_242,Create Purchase Order,2023-11-10 07:03:02.457688
+event_242_2,case_242,Request Quotations,2023-11-21 12:54:33.214307
+event_242_6,case_242,Finalize Purchase Details,2023-11-26 12:44:49.634486
+event_243_1,case_243,Create Purchase Order,2023-03-05 22:29:20.772497
+event_243_2,case_243,Request Quotations,2023-06-17 18:54:02.344986
+event_243_6,case_243,Evaluate Supplier Performance,2023-08-09 22:50:33.909068
+event_243_7,case_243,Renew Contract,2023-08-28 12:54:42.710047
+event_243_0,case_243,Close Purchase Order,2023-09-12 13:42:25.243046
+event_243_5,case_243,Process Invoice,2023-09-20 19:19:01.599173
+event_243_4,case_243,Monitor Order Status,2023-09-29 03:53:00.860016
+event_243_3,case_243,Dispatch Order,2023-10-27 02:40:57.229243
+event_244_1,case_244,Create Purchase Order,2023-01-30 01:05:48.873130
+event_244_3,case_244,Dispatch Order,2023-02-22 10:53:08.617389
+event_244_4,case_244,Monitor Order Status,2023-02-25 18:38:20.123784
+event_244_6,case_244,Evaluate Supplier Performance,2023-04-08 21:09:31.420527
+event_244_7,case_244,Conduct Market Analysis,2023-07-07 17:56:10.937260
+event_244_0,case_244,Close Purchase Order,2023-08-17 19:28:08.568171
+event_244_2,case_244,Negotiate Contract,2023-09-22 16:11:08.608335
+event_244_5,case_244,Process Invoice,2023-11-21 14:24:20.557779
+event_245_4,case_245,Monitor Order Status,2023-02-10 01:10:35.131398
+event_245_6,case_245,Evaluate Supplier Performance,2023-05-16 00:28:33.913859
+event_245_0,case_245,Close Purchase Order,2023-06-05 18:50:37.317330
+event_245_7,case_245,Renew Contract,2023-07-09 13:38:16.771744
+event_245_5,case_245,Complete Payment,2023-08-16 19:59:27.442973
+event_245_3,case_245,Approve Purchase Order,2023-08-27 19:08:48.848300
+event_245_2,case_245,Negotiate Contract,2023-10-22 03:42:54.432083
+event_245_1,case_245,Create Purchase Order,2023-11-04 02:58:07.639573
+event_246_0,case_246,Close Purchase Order,2023-01-09 15:39:14.547572
+event_246_7,case_246,Renew Contract,2023-02-08 15:17:51.362557
+event_246_5,case_246,Process Invoice,2023-02-23 13:09:14.532722
+event_246_1,case_246,Create Purchase Order,2023-07-18 19:53:42.925764
+event_246_3,case_246,Dispatch Order,2023-07-27 12:21:18.460150
+event_246_4,case_246,Receive Goods,2023-08-27 02:45:11.887031
+event_246_2,case_246,Select Supplier,2023-10-26 03:37:37.864259
+event_246_6,case_246,Finalize Purchase Details,2023-12-05 15:25:59.192643
+event_247_2,case_247,Select Supplier,2023-02-07 15:29:13.057476
+event_247_5,case_247,Complete Payment,2023-06-14 06:48:18.178136
+event_247_1,case_247,Create Purchase Order,2023-08-20 16:34:00.381686
+event_247_3,case_247,Dispatch Order,2023-09-22 10:02:52.579644
+event_247_6,case_247,Finalize Purchase Details,2023-10-22 12:19:28.689983
+event_247_7,case_247,Conduct Market Analysis,2023-11-16 14:55:18.142218
+event_247_4,case_247,Monitor Order Status,2023-11-27 14:19:39.042093
+event_247_0,case_247,Close Purchase Order,2023-11-29 19:38:12.087628
+event_248_1,case_248,Create Purchase Order,2023-01-08 21:24:08.103326
+event_248_2,case_248,Select Supplier,2023-01-21 07:32:35.617572
+event_248_5,case_248,Complete Payment,2023-03-14 08:30:33.985023
+event_248_2,case_248,Request Quotations,2023-03-17 01:12:52.614356
+event_248_2,case_248,Negotiate Contract,2023-04-24 02:08:02.211488
+event_248_7,case_248,Renew Contract,2023-06-14 18:08:39.019722
+event_248_4,case_248,Monitor Order Status,2023-07-09 15:42:01.410203
+event_248_6,case_248,Evaluate Supplier Performance,2023-09-24 06:53:40.704586
+event_248_3,case_248,Approve Purchase Order,2023-10-01 22:04:48.478133
+event_248_4,case_248,Receive Goods,2023-11-22 03:14:37.717508
+event_248_0,case_248,Close Purchase Order,2023-11-28 10:33:18.861267
+event_249_1,case_249,Create Purchase Order,2023-01-09 06:55:49.018520
+event_249_5,case_249,Process Invoice,2023-01-31 05:52:10.826837
+event_249_2,case_249,Negotiate Contract,2023-03-31 01:46:29.977586
+event_249_3,case_249,Dispatch Order,2023-04-22 15:34:00.284051
+event_249_4,case_249,Monitor Order Status,2023-04-28 15:24:53.453005
+event_249_0,case_249,Close Purchase Order,2023-07-07 16:42:39.747742
+event_249_7,case_249,Conduct Market Analysis,2023-08-17 06:21:56.325141
+event_249_4,case_249,Receive Goods,2023-08-21 10:34:17.675298
+event_249_6,case_249,Evaluate Supplier Performance,2023-11-24 06:11:14.665784
+event_25_2,case_25,Select Supplier,2023-01-06 02:59:34.113054
+event_25_3,case_25,Dispatch Order,2023-02-03 03:49:12.489978
+event_25_6,case_25,Evaluate Supplier Performance,2023-03-20 14:00:34.202921
+event_25_7,case_25,Conduct Market Analysis,2023-07-19 10:29:32.707433
+event_25_5,case_25,Process Invoice,2023-07-27 22:55:10.377243
+event_25_1,case_25,Create Purchase Order,2023-10-21 19:02:45.517230
+event_25_0,case_25,Close Purchase Order,2023-11-05 10:16:14.678965
+event_25_4,case_25,Receive Goods,2023-11-28 04:29:25.405927
+event_250_0,case_250,Close Purchase Order,2023-01-26 04:59:17.415212
+event_250_3,case_250,Dispatch Order,2023-04-08 08:23:22.539004
+event_250_5,case_250,Process Invoice,2023-04-21 22:51:37.853192
+event_250_6,case_250,Finalize Purchase Details,2023-04-25 11:11:19.433661
+event_250_6,case_250,Finalize Purchase Details,2023-05-13 11:33:20.839907
+event_250_2,case_250,Select Supplier,2023-05-16 23:12:25.656509
+event_250_4,case_250,Monitor Order Status,2023-07-15 09:05:24.169741
+event_250_7,case_250,Renew Contract,2023-08-13 15:06:27.033841
+event_250_5,case_250,Complete Payment,2023-09-20 00:48:00.185796
+event_250_1,case_250,Create Purchase Order,2023-09-24 08:29:46.033273
+event_251_7,case_251,Renew Contract,2023-02-26 17:48:37.022963
+event_251_1,case_251,Create Purchase Order,2023-03-02 01:37:56.525664
+event_251_4,case_251,Receive Goods,2023-03-19 12:50:22.233086
+event_251_2,case_251,Request Quotations,2023-09-07 02:34:03.652844
+event_251_5,case_251,Process Invoice,2023-09-14 16:18:01.318651
+event_251_6,case_251,Finalize Purchase Details,2023-10-07 13:05:30.200979
+event_251_3,case_251,Dispatch Order,2023-11-10 16:30:23.389006
+event_251_0,case_251,Close Purchase Order,2023-11-20 20:02:34.635520
+event_252_6,case_252,Evaluate Supplier Performance,2023-01-04 17:34:36.713616
+event_252_3,case_252,Approve Purchase Order,2023-02-05 04:04:07.963972
+event_252_2,case_252,Select Supplier,2023-02-19 17:30:20.995237
+event_252_1,case_252,Create Purchase Order,2023-06-27 00:01:38.039679
+event_252_0,case_252,Close Purchase Order,2023-07-01 10:49:57.303528
+event_252_4,case_252,Monitor Order Status,2023-08-02 22:59:02.868348
+event_252_2,case_252,Approve Purchase Order,2023-08-24 09:36:41.755647
+event_252_5,case_252,Complete Payment,2023-09-11 04:38:31.376646
+event_252_7,case_252,Conduct Market Analysis,2023-10-09 20:13:09.762263
+event_252_3,case_252,Dispatch Order,2023-11-04 19:50:08.407653
+event_253_5,case_253,Complete Payment,2023-01-04 14:07:15.530827
+event_253_4,case_253,Monitor Order Status,2023-03-09 04:17:49.089323
+event_253_6,case_253,Evaluate Supplier Performance,2023-04-14 08:50:52.786858
+event_253_1,case_253,Create Purchase Order,2023-05-22 08:32:42.475734
+event_253_7,case_253,Conduct Market Analysis,2023-06-02 19:23:20.327343
+event_253_0,case_253,Close Purchase Order,2023-08-18 17:38:48.065092
+event_253_3,case_253,Approve Purchase Order,2023-08-26 21:48:36.937382
+event_253_2,case_253,Request Quotations,2023-09-13 19:36:42.456377
+event_253_5,case_253,Process Invoice,2023-10-12 01:46:53.626518
+event_254_7,case_254,Conduct Market Analysis,2023-01-09 22:26:27.009127
+event_254_1,case_254,Create Purchase Order,2023-01-25 19:06:54.732512
+event_254_6,case_254,Finalize Purchase Details,2023-04-17 18:24:04.241903
+event_254_3,case_254,Dispatch Order,2023-08-15 08:02:00.868358
+event_254_0,case_254,Close Purchase Order,2023-09-06 03:51:53.494412
+event_254_2,case_254,Request Quotations,2023-10-21 18:43:00.759101
+event_254_5,case_254,Complete Payment,2023-10-29 12:43:14.469137
+event_254_4,case_254,Monitor Order Status,2023-12-03 21:17:23.167161
+event_255_5,case_255,Complete Payment,2023-02-07 14:15:33.630086
+event_255_3,case_255,Dispatch Order,2023-02-10 17:42:48.173506
+event_255_2,case_255,Select Supplier,2023-02-24 12:35:18.231994
+event_255_6,case_255,Evaluate Supplier Performance,2023-05-11 21:21:16.379220
+event_255_7,case_255,Conduct Market Analysis,2023-05-18 06:10:16.910160
+event_255_4,case_255,Receive Goods,2023-07-31 20:37:52.667430
+event_255_0,case_255,Close Purchase Order,2023-09-15 02:27:52.982520
+event_255_1,case_255,Create Purchase Order,2023-10-09 21:19:38.940835
+event_255_5,case_255,Process Invoice,2023-11-14 01:57:05.013468
+event_256_3,case_256,Dispatch Order,2023-01-03 05:49:53.163056
+event_256_7,case_256,Renew Contract,2023-01-31 18:12:19.112799
+event_256_2,case_256,Select Supplier,2023-05-06 06:57:55.722695
+event_256_4,case_256,Receive Goods,2023-05-12 19:00:04.333645
+event_256_6,case_256,Evaluate Supplier Performance,2023-06-05 20:43:58.795369
+event_256_5,case_256,Complete Payment,2023-08-25 22:21:26.265367
+event_256_1,case_256,Create Purchase Order,2023-11-09 16:33:22.991862
+event_256_0,case_256,Close Purchase Order,2023-12-02 21:18:20.339335
+event_257_5,case_257,Process Invoice,2023-02-07 15:54:44.248076
+event_257_6,case_257,Finalize Purchase Details,2023-02-23 10:23:56.535343
+event_257_3,case_257,Dispatch Order,2023-03-03 05:01:31.537945
+event_257_7,case_257,Conduct Market Analysis,2023-03-24 18:39:04.832896
+event_257_4,case_257,Monitor Order Status,2023-05-15 12:52:10.081299
+event_257_2,case_257,Select Supplier,2023-05-27 07:36:39.888339
+event_257_0,case_257,Close Purchase Order,2023-07-03 19:42:51.412711
+event_257_6,case_257,Evaluate Supplier Performance,2023-09-21 10:19:34.449913
+event_257_1,case_257,Create Purchase Order,2023-11-13 19:22:02.379669
+event_258_7,case_258,Conduct Market Analysis,2023-02-03 06:43:18.137502
+event_258_1,case_258,Create Purchase Order,2023-03-24 15:33:44.072411
+event_258_6,case_258,Finalize Purchase Details,2023-04-14 20:22:03.193232
+event_258_4,case_258,Receive Goods,2023-04-17 04:23:00.672608
+event_258_4,case_258,Monitor Order Status,2023-05-11 12:22:27.234575
+event_258_4,case_258,Monitor Order Status,2023-08-05 15:41:14.270466
+event_258_2,case_258,Select Supplier,2023-08-07 01:01:10.622572
+event_258_3,case_258,Approve Purchase Order,2023-08-25 18:20:35.212098
+event_258_5,case_258,Process Invoice,2023-09-28 13:05:22.802038
+event_258_0,case_258,Close Purchase Order,2023-11-04 07:48:50.532515
+event_259_1,case_259,Create Purchase Order,2023-01-12 19:15:25.624833
+event_259_6,case_259,Finalize Purchase Details,2023-01-20 08:25:29.041827
+event_259_3,case_259,Approve Purchase Order,2023-05-10 10:29:28.248242
+event_259_4,case_259,Monitor Order Status,2023-06-02 16:37:51.975206
+event_259_2,case_259,Request Quotations,2023-06-15 07:51:48.099615
+event_259_0,case_259,Close Purchase Order,2023-07-18 07:41:28.074221
+event_259_5,case_259,Process Invoice,2023-09-05 10:56:05.302128
+event_259_7,case_259,Renew Contract,2023-12-03 23:06:48.805871
+event_26_0,case_26,Close Purchase Order,2023-01-30 12:29:29.776812
+event_26_1,case_26,Create Purchase Order,2023-02-02 20:25:24.738025
+event_26_6,case_26,Finalize Purchase Details,2023-02-27 16:55:53.696543
+event_26_5,case_26,Complete Payment,2023-05-07 20:50:29.444364
+event_26_7,case_26,Renew Contract,2023-05-17 05:36:18.394696
+event_26_3,case_26,Dispatch Order,2023-06-02 00:16:45.736103
+event_26_4,case_26,Monitor Order Status,2023-08-25 13:38:45.627274
+event_26_2,case_26,Request Quotations,2023-10-04 23:13:21.137995
+event_260_1,case_260,Create Purchase Order,2023-06-11 01:16:11.755709
+event_260_0,case_260,Close Purchase Order,2023-06-20 18:29:48.784398
+event_260_4,case_260,Receive Goods,2023-06-29 12:08:02.588572
+event_260_5,case_260,Complete Payment,2023-08-17 00:29:20.660108
+event_260_6,case_260,Evaluate Supplier Performance,2023-09-03 16:35:21.668902
+event_260_2,case_260,Select Supplier,2023-10-17 04:55:22.467751
+event_260_3,case_260,Approve Purchase Order,2023-11-08 04:10:41.633797
+event_260_7,case_260,Conduct Market Analysis,2023-12-03 19:24:08.306692
+event_261_3,case_261,Approve Purchase Order,2023-04-06 08:14:10.460617
+event_261_4,case_261,Monitor Order Status,2023-05-10 08:06:17.094572
+event_261_2,case_261,Negotiate Contract,2023-07-11 10:35:33.461960
+event_261_7,case_261,Renew Contract,2023-08-01 07:16:41.553618
+event_261_0,case_261,Close Purchase Order,2023-09-10 15:32:41.723186
+event_261_5,case_261,Process Invoice,2023-09-28 13:13:40.650210
+event_261_1,case_261,Create Purchase Order,2023-11-11 20:11:15.273049
+event_261_6,case_261,Evaluate Supplier Performance,2023-12-02 00:51:11.317378
+event_262_6,case_262,Finalize Purchase Details,2023-01-07 17:43:42.817244
+event_262_2,case_262,Negotiate Contract,2023-01-17 20:26:58.837821
+event_262_5,case_262,Complete Payment,2023-02-16 17:49:03.006564
+event_262_4,case_262,Receive Goods,2023-03-24 23:02:23.619867
+event_262_7,case_262,Conduct Market Analysis,2023-04-11 03:13:47.763510
+event_262_1,case_262,Create Purchase Order,2023-05-22 14:19:08.451226
+event_262_3,case_262,Approve Purchase Order,2023-08-21 13:48:56.853881
+event_262_0,case_262,Close Purchase Order,2023-10-17 10:08:43.631962
+event_262_6,case_262,Evaluate Supplier Performance,2023-11-22 00:13:49.621246
+event_263_3,case_263,Approve Purchase Order,2023-01-27 16:45:44.838049
+event_263_1,case_263,Create Purchase Order,2023-02-10 16:36:18.819904
+event_263_0,case_263,Close Purchase Order,2023-03-19 09:07:54.146740
+event_263_7,case_263,Renew Contract,2023-04-01 14:05:06.386803
+event_263_5,case_263,Complete Payment,2023-05-20 21:29:41.667027
+event_263_4,case_263,Monitor Order Status,2023-10-18 05:38:58.567563
+event_263_6,case_263,Finalize Purchase Details,2023-11-03 19:34:10.424311
+event_263_2,case_263,Negotiate Contract,2023-12-01 05:38:02.031809
+event_264_2,case_264,Negotiate Contract,2023-01-23 04:52:29.155854
+event_264_3,case_264,Approve Purchase Order,2023-02-01 08:19:36.349066
+event_264_4,case_264,Monitor Order Status,2023-03-12 14:31:55.107867
+event_264_1,case_264,Create Purchase Order,2023-04-22 16:49:07.776484
+event_264_6,case_264,Finalize Purchase Details,2023-07-15 10:50:08.970607
+event_264_5,case_264,Process Invoice,2023-08-07 05:43:03.307587
+event_264_7,case_264,Renew Contract,2023-10-07 16:33:24.253656
+event_264_0,case_264,Close Purchase Order,2023-10-15 15:50:08.183864
+event_265_4,case_265,Receive Goods,2023-03-05 22:18:14.142048
+event_265_7,case_265,Renew Contract,2023-05-31 19:23:53.463715
+event_265_0,case_265,Close Purchase Order,2023-06-03 18:14:26.043355
+event_265_6,case_265,Evaluate Supplier Performance,2023-07-30 12:01:01.668152
+event_265_2,case_265,Select Supplier,2023-09-06 09:27:52.833708
+event_265_3,case_265,Approve Purchase Order,2023-09-13 08:11:44.252211
+event_265_1,case_265,Create Purchase Order,2023-09-17 02:31:11.108687
+event_265_5,case_265,Complete Payment,2023-11-05 02:02:16.991628
+event_266_4,case_266,Receive Goods,2023-01-04 04:14:16.844774
+event_266_3,case_266,Approve Purchase Order,2023-05-18 13:19:21.510005
+event_266_0,case_266,Close Purchase Order,2023-09-01 18:56:42.112561
+event_266_6,case_266,Evaluate Supplier Performance,2023-09-06 13:11:05.573706
+event_266_7,case_266,Conduct Market Analysis,2023-09-25 17:58:28.834656
+event_266_1,case_266,Create Purchase Order,2023-10-05 11:43:24.037728
+event_266_2,case_266,Request Quotations,2023-11-12 05:07:13.040910
+event_266_5,case_266,Complete Payment,2023-12-06 22:56:05.063453
+event_267_4,case_267,Monitor Order Status,2023-02-11 01:40:45.408966
+event_267_6,case_267,Finalize Purchase Details,2023-04-27 12:05:00.098956
+event_267_1,case_267,Create Purchase Order,2023-07-03 09:52:33.832111
+event_267_2,case_267,Request Quotations,2023-07-05 19:00:06.136438
+event_267_3,case_267,Approve Purchase Order,2023-08-02 18:25:45.987461
+event_267_0,case_267,Close Purchase Order,2023-08-07 20:44:57.290709
+event_267_5,case_267,Process Invoice,2023-10-08 20:30:13.596957
+event_267_7,case_267,Renew Contract,2023-11-15 19:50:24.774877
+event_268_6,case_268,Finalize Purchase Details,2023-01-30 04:28:35.798186
+event_268_2,case_268,Request Quotations,2023-02-05 13:29:48.464559
+event_268_7,case_268,Renew Contract,2023-02-08 18:00:57.388134
+event_268_6,case_268,Evaluate Supplier Performance,2023-04-06 04:37:02.587295
+event_268_3,case_268,Approve Purchase Order,2023-04-22 20:09:51.431005
+event_268_0,case_268,Close Purchase Order,2023-06-10 07:48:54.086282
+event_268_4,case_268,Receive Goods,2023-06-19 22:45:37.090778
+event_268_5,case_268,Process Invoice,2023-06-20 16:29:17.427161
+event_268_1,case_268,Create Purchase Order,2023-06-28 09:10:27.910683
+event_269_5,case_269,Complete Payment,2023-01-07 02:13:56.269107
+event_269_7,case_269,Conduct Market Analysis,2023-01-26 08:27:29.173561
+event_269_1,case_269,Create Purchase Order,2023-03-06 04:35:20.741039
+event_269_3,case_269,Dispatch Order,2023-06-10 11:28:28.068183
+event_269_4,case_269,Receive Goods,2023-06-20 10:28:01.764987
+event_269_2,case_269,Select Supplier,2023-07-06 05:31:28.620958
+event_269_6,case_269,Evaluate Supplier Performance,2023-09-18 15:36:44.635002
+event_269_0,case_269,Close Purchase Order,2023-09-26 21:10:44.177319
+event_269_3,case_269,Approve Purchase Order,2023-11-20 15:24:34.607258
+event_27_0,case_27,Close Purchase Order,2023-01-30 10:59:31.544548
+event_27_3,case_27,Approve Purchase Order,2023-02-20 16:57:43.462255
+event_27_4,case_27,Monitor Order Status,2023-04-26 12:24:41.371212
+event_27_1,case_27,Create Purchase Order,2023-05-27 10:11:20.442013
+event_27_5,case_27,Process Invoice,2023-08-05 20:37:36.430369
+event_27_7,case_27,Conduct Market Analysis,2023-09-04 22:41:05.858662
+event_27_6,case_27,Finalize Purchase Details,2023-10-20 09:25:24.695168
+event_27_2,case_27,Request Quotations,2023-11-07 12:45:20.111607
+event_270_6,case_270,Finalize Purchase Details,2023-05-08 15:34:41.920673
+event_270_5,case_270,Complete Payment,2023-05-15 19:11:10.000516
+event_270_2,case_270,Select Supplier,2023-06-03 09:23:47.518569
+event_270_0,case_270,Close Purchase Order,2023-06-06 10:07:10.448976
+event_270_1,case_270,Create Purchase Order,2023-06-18 23:56:03.050551
+event_270_4,case_270,Receive Goods,2023-07-30 06:19:29.373362
+event_270_3,case_270,Dispatch Order,2023-08-29 04:09:33.206648
+event_270_7,case_270,Conduct Market Analysis,2023-11-18 17:35:05.123977
+event_271_2,case_271,Select Supplier,2023-01-01 15:30:39.299258
+event_271_0,case_271,Close Purchase Order,2023-01-16 13:50:36.190804
+event_271_4,case_271,Monitor Order Status,2023-02-26 06:31:48.421547
+event_271_5,case_271,Complete Payment,2023-06-08 21:17:33.029920
+event_271_2,case_271,Negotiate Contract,2023-08-03 22:48:05.052062
+event_271_6,case_271,Finalize Purchase Details,2023-08-19 20:49:32.875545
+event_271_3,case_271,Dispatch Order,2023-10-11 16:48:03.232373
+event_271_7,case_271,Renew Contract,2023-11-10 18:47:16.815652
+event_271_1,case_271,Create Purchase Order,2023-12-06 00:58:00.213071
+event_272_2,case_272,Select Supplier,2023-01-14 08:57:58.340079
+event_272_0,case_272,Close Purchase Order,2023-01-28 10:59:17.363414
+event_272_7,case_272,Conduct Market Analysis,2023-02-24 07:10:35.847791
+event_272_3,case_272,Dispatch Order,2023-07-22 20:14:40.737725
+event_272_6,case_272,Finalize Purchase Details,2023-08-11 20:53:54.253365
+event_272_4,case_272,Monitor Order Status,2023-08-31 08:25:18.548541
+event_272_1,case_272,Create Purchase Order,2023-10-01 09:47:01.345953
+event_272_5,case_272,Complete Payment,2023-11-09 08:30:05.998422
+event_273_6,case_273,Finalize Purchase Details,2023-01-22 08:04:07.446108
+event_273_2,case_273,Select Supplier,2023-03-24 13:23:55.067425
+event_273_5,case_273,Process Invoice,2023-04-21 20:58:05.074970
+event_273_4,case_273,Monitor Order Status,2023-06-04 17:27:21.811055
+event_273_0,case_273,Close Purchase Order,2023-07-10 19:47:45.305133
+event_273_3,case_273,Approve Purchase Order,2023-09-27 12:09:04.369525
+event_273_7,case_273,Renew Contract,2023-11-13 05:47:57.254968
+event_273_1,case_273,Create Purchase Order,2023-11-20 14:38:07.796404
+event_274_2,case_274,Request Quotations,2023-03-09 04:18:14.389273
+event_274_2,case_274,Negotiate Contract,2023-04-04 07:43:34.852448
+event_274_6,case_274,Finalize Purchase Details,2023-04-05 02:17:31.844558
+event_274_4,case_274,Monitor Order Status,2023-08-18 10:43:41.549755
+event_274_0,case_274,Close Purchase Order,2023-09-12 14:19:20.362472
+event_274_7,case_274,Conduct Market Analysis,2023-10-10 12:43:48.757974
+event_274_3,case_274,Dispatch Order,2023-10-12 01:31:01.754408
+event_274_1,case_274,Create Purchase Order,2023-10-23 07:20:07.821383
+event_274_5,case_274,Complete Payment,2023-10-29 09:42:51.203716
+event_275_0,case_275,Close Purchase Order,2023-01-02 10:33:04.704535
+event_275_1,case_275,Create Purchase Order,2023-04-24 02:01:56.136780
+event_275_3,case_275,Approve Purchase Order,2023-04-27 11:25:11.070334
+event_275_7,case_275,Conduct Market Analysis,2023-05-11 09:20:04.843093
+event_275_2,case_275,Request Quotations,2023-05-23 01:07:35.955186
+event_275_4,case_275,Monitor Order Status,2023-08-09 09:07:11.422903
+event_275_4,case_275,Receive Goods,2023-08-17 04:56:56.966516
+event_275_6,case_275,Finalize Purchase Details,2023-09-01 09:40:17.649026
+event_275_5,case_275,Process Invoice,2023-09-24 01:22:14.345873
+event_276_1,case_276,Create Purchase Order,2023-02-08 16:32:33.724135
+event_276_7,case_276,Renew Contract,2023-03-17 22:46:10.062092
+event_276_6,case_276,Evaluate Supplier Performance,2023-04-01 03:25:59.458350
+event_276_4,case_276,Receive Goods,2023-04-19 18:30:39.130989
+event_276_2,case_276,Negotiate Contract,2023-05-26 06:27:52.845912
+event_276_3,case_276,Approve Purchase Order,2023-06-18 03:34:12.355840
+event_276_5,case_276,Complete Payment,2023-07-03 20:15:36.542939
+event_276_0,case_276,Close Purchase Order,2023-10-27 10:27:51.606827
+event_277_0,case_277,Close Purchase Order,2023-03-12 02:48:22.019714
+event_277_4,case_277,Receive Goods,2023-06-01 16:12:35.231965
+event_277_6,case_277,Finalize Purchase Details,2023-06-11 18:31:03.679996
+event_277_1,case_277,Create Purchase Order,2023-08-31 08:30:34.373464
+event_277_7,case_277,Renew Contract,2023-09-01 07:14:12.034232
+event_277_6,case_277,Evaluate Supplier Performance,2023-09-11 23:24:26.166316
+event_277_3,case_277,Dispatch Order,2023-09-25 21:09:18.374357
+event_277_2,case_277,Negotiate Contract,2023-10-25 06:49:34.226704
+event_277_5,case_277,Complete Payment,2023-11-09 01:02:42.058969
+event_278_7,case_278,Renew Contract,2023-04-09 20:08:00.458408
+event_278_2,case_278,Negotiate Contract,2023-04-26 15:38:31.014492
+event_278_4,case_278,Monitor Order Status,2023-05-23 17:21:13.758280
+event_278_4,case_278,Receive Goods,2023-07-17 07:29:25.065045
+event_278_5,case_278,Complete Payment,2023-07-22 16:28:11.149518
+event_278_6,case_278,Finalize Purchase Details,2023-09-24 06:32:44.362549
+event_278_3,case_278,Dispatch Order,2023-11-02 03:00:40.011490
+event_278_0,case_278,Close Purchase Order,2023-11-06 01:50:39.707807
+event_278_1,case_278,Create Purchase Order,2023-12-04 03:17:22.884463
+event_279_7,case_279,Conduct Market Analysis,2023-02-20 13:30:06.830292
+event_279_4,case_279,Receive Goods,2023-03-08 11:53:05.007014
+event_279_2,case_279,Negotiate Contract,2023-04-12 02:48:25.231527
+event_279_5,case_279,Complete Payment,2023-05-21 16:51:51.566831
+event_279_3,case_279,Dispatch Order,2023-06-05 22:55:44.715473
+event_279_1,case_279,Create Purchase Order,2023-07-12 11:04:40.774127
+event_279_6,case_279,Finalize Purchase Details,2023-08-20 18:14:56.826317
+event_279_0,case_279,Close Purchase Order,2023-09-24 18:57:50.967319
+event_279_2,case_279,Select Supplier,2023-11-18 22:20:07.539841
+event_28_5,case_28,Complete Payment,2023-01-29 08:08:17.464144
+event_28_3,case_28,Dispatch Order,2023-03-17 16:04:46.193424
+event_28_2,case_28,Negotiate Contract,2023-03-28 08:29:11.232075
+event_28_0,case_28,Close Purchase Order,2023-04-08 02:45:49.391745
+event_28_6,case_28,Evaluate Supplier Performance,2023-04-17 03:54:07.358891
+event_28_7,case_28,Renew Contract,2023-04-23 19:30:50.446544
+event_28_1,case_28,Create Purchase Order,2023-07-22 11:01:50.192576
+event_28_4,case_28,Receive Goods,2023-10-30 12:52:31.572692
+event_280_0,case_280,Close Purchase Order,2023-01-06 09:19:56.678786
+event_280_1,case_280,Create Purchase Order,2023-01-11 17:50:08.955913
+event_280_5,case_280,Complete Payment,2023-06-19 01:55:03.877871
+event_280_2,case_280,Select Supplier,2023-09-22 15:48:36.082045
+event_280_4,case_280,Receive Goods,2023-09-29 08:27:18.082484
+event_280_6,case_280,Finalize Purchase Details,2023-10-17 08:04:54.313281
+event_280_3,case_280,Dispatch Order,2023-11-20 00:53:48.546336
+event_280_7,case_280,Conduct Market Analysis,2023-12-05 08:54:09.165342
+event_281_4,case_281,Monitor Order Status,2023-01-10 12:18:44.297600
+event_281_4,case_281,Monitor Order Status,2023-01-17 02:54:26.602237
+event_281_3,case_281,Approve Purchase Order,2023-02-06 19:15:58.277818
+event_281_7,case_281,Renew Contract,2023-05-15 05:33:02.278045
+event_281_2,case_281,Request Quotations,2023-05-26 21:16:09.430523
+event_281_5,case_281,Complete Payment,2023-08-08 16:10:26.249392
+event_281_6,case_281,Evaluate Supplier Performance,2023-08-12 22:03:48.062762
+event_281_0,case_281,Close Purchase Order,2023-10-17 18:48:26.498262
+event_281_1,case_281,Create Purchase Order,2023-11-04 02:28:25.568047
+event_281_3,case_281,Dispatch Order,2023-11-13 13:22:56.976454
+event_282_3,case_282,Dispatch Order,2023-02-07 01:19:57.473033
+event_282_4,case_282,Receive Goods,2023-03-22 16:11:12.676095
+event_282_0,case_282,Close Purchase Order,2023-03-26 20:49:25.971695
+event_282_5,case_282,Complete Payment,2023-04-26 09:19:12.742618
+event_282_7,case_282,Conduct Market Analysis,2023-06-07 08:45:48.521718
+event_282_1,case_282,Create Purchase Order,2023-07-13 02:52:51.889596
+event_282_5,case_282,Process Invoice,2023-08-26 18:51:53.606210
+event_282_4,case_282,Monitor Order Status,2023-11-01 20:15:59.012774
+event_282_2,case_282,Negotiate Contract,2023-11-02 15:56:25.147143
+event_282_6,case_282,Evaluate Supplier Performance,2023-12-06 20:35:34.349884
+event_283_6,case_283,Finalize Purchase Details,2023-01-05 12:00:24.285102
+event_283_5,case_283,Process Invoice,2023-05-09 14:46:05.323036
+event_283_2,case_283,Request Quotations,2023-08-14 02:12:03.660072
+event_283_0,case_283,Close Purchase Order,2023-08-18 20:54:02.241641
+event_283_1,case_283,Create Purchase Order,2023-08-29 19:47:29.099011
+event_283_3,case_283,Approve Purchase Order,2023-10-15 22:14:13.540312
+event_283_7,case_283,Renew Contract,2023-10-20 13:28:23.201938
+event_283_4,case_283,Monitor Order Status,2023-11-04 01:02:51.478459
+event_284_7,case_284,Conduct Market Analysis,2023-01-17 06:21:17.546212
+event_284_6,case_284,Finalize Purchase Details,2023-02-14 17:46:39.452306
+event_284_1,case_284,Create Purchase Order,2023-03-10 12:14:14.921973
+event_284_3,case_284,Dispatch Order,2023-04-23 15:40:53.102003
+event_284_5,case_284,Complete Payment,2023-07-30 07:33:28.262604
+event_284_0,case_284,Close Purchase Order,2023-08-01 03:29:05.647413
+event_284_4,case_284,Monitor Order Status,2023-08-16 21:03:36.129592
+event_284_4,case_284,Monitor Order Status,2023-10-26 21:36:17.863366
+event_284_2,case_284,Select Supplier,2023-10-29 19:50:19.013211
+event_284_3,case_284,Approve Purchase Order,2023-11-24 22:00:47.794554
+event_285_2,case_285,Negotiate Contract,2023-05-06 19:27:38.414192
+event_285_1,case_285,Create Purchase Order,2023-05-13 15:24:18.403529
+event_285_4,case_285,Monitor Order Status,2023-06-06 12:08:44.520772
+event_285_2,case_285,Select Supplier,2023-06-09 16:07:05.192772
+event_285_7,case_285,Renew Contract,2023-06-11 13:47:33.829613
+event_285_6,case_285,Evaluate Supplier Performance,2023-06-20 18:29:13.715623
+event_285_3,case_285,Dispatch Order,2023-07-04 10:43:53.560403
+event_285_5,case_285,Complete Payment,2023-08-03 11:06:47.677886
+event_285_0,case_285,Close Purchase Order,2023-09-16 03:05:56.248635
+event_286_1,case_286,Create Purchase Order,2023-01-13 04:29:36.033595
+event_286_3,case_286,Approve Purchase Order,2023-03-02 02:21:44.484302
+event_286_4,case_286,Monitor Order Status,2023-04-14 05:47:37.507968
+event_286_5,case_286,Process Invoice,2023-08-14 16:41:16.723654
+event_286_0,case_286,Close Purchase Order,2023-08-23 01:12:57.181051
+event_286_6,case_286,Finalize Purchase Details,2023-08-25 01:41:10.502410
+event_286_2,case_286,Negotiate Contract,2023-09-04 18:15:45.164989
+event_286_7,case_286,Renew Contract,2023-10-21 04:04:05.683120
+event_286_3,case_286,Dispatch Order,2023-11-21 06:13:55.306831
+event_287_6,case_287,Evaluate Supplier Performance,2023-03-24 22:36:25.160945
+event_287_7,case_287,Renew Contract,2023-04-11 00:58:37.479558
+event_287_6,case_287,Finalize Purchase Details,2023-04-23 23:06:23.957422
+event_287_3,case_287,Approve Purchase Order,2023-05-21 16:33:28.631346
+event_287_2,case_287,Request Quotations,2023-06-16 21:12:43.395498
+event_287_0,case_287,Close Purchase Order,2023-08-05 01:26:50.644799
+event_287_5,case_287,Complete Payment,2023-09-26 08:26:38.154509
+event_287_4,case_287,Monitor Order Status,2023-09-27 20:35:14.854200
+event_287_1,case_287,Create Purchase Order,2023-11-06 20:23:05.223433
+event_288_4,case_288,Monitor Order Status,2023-01-30 10:19:39.195863
+event_288_1,case_288,Create Purchase Order,2023-02-11 07:33:41.450428
+event_288_7,case_288,Conduct Market Analysis,2023-03-25 06:47:17.383131
+event_288_3,case_288,Dispatch Order,2023-04-11 13:52:03.236303
+event_288_0,case_288,Close Purchase Order,2023-05-11 10:23:39.040739
+event_288_3,case_288,Approve Purchase Order,2023-06-23 02:06:14.334397
+event_288_6,case_288,Evaluate Supplier Performance,2023-08-11 02:05:32.956426
+event_288_5,case_288,Process Invoice,2023-10-14 17:41:19.379719
+event_288_2,case_288,Negotiate Contract,2023-11-20 22:50:10.713218
+event_289_7,case_289,Conduct Market Analysis,2023-04-09 10:00:20.901825
+event_289_5,case_289,Process Invoice,2023-04-11 00:41:41.737730
+event_289_2,case_289,Negotiate Contract,2023-05-26 13:28:43.710871
+event_289_4,case_289,Monitor Order Status,2023-06-30 13:42:50.087474
+event_289_0,case_289,Close Purchase Order,2023-09-23 22:13:10.034797
+event_289_1,case_289,Create Purchase Order,2023-09-30 03:55:33.090046
+event_289_6,case_289,Evaluate Supplier Performance,2023-11-01 07:50:01.367357
+event_289_3,case_289,Approve Purchase Order,2023-12-05 01:37:40.911737
+event_29_6,case_29,Evaluate Supplier Performance,2023-02-01 08:23:25.369806
+event_29_2,case_29,Negotiate Contract,2023-02-01 16:42:12.937706
+event_29_5,case_29,Process Invoice,2023-04-23 06:17:06.362590
+event_29_7,case_29,Conduct Market Analysis,2023-05-01 19:41:30.269483
+event_29_0,case_29,Close Purchase Order,2023-06-09 02:24:15.336904
+event_29_3,case_29,Approve Purchase Order,2023-06-30 17:31:25.902288
+event_29_4,case_29,Monitor Order Status,2023-07-26 06:27:47.130025
+event_29_1,case_29,Create Purchase Order,2023-08-24 16:59:53.068231
+event_29_4,case_29,Receive Goods,2023-10-25 02:52:23.206014
+event_290_0,case_290,Close Purchase Order,2023-01-19 00:03:05.874966
+event_290_2,case_290,Request Quotations,2023-03-08 11:30:37.651513
+event_290_5,case_290,Process Invoice,2023-03-16 09:28:01.027777
+event_290_7,case_290,Conduct Market Analysis,2023-03-23 22:34:44.584001
+event_290_3,case_290,Dispatch Order,2023-04-14 23:49:35.773573
+event_290_1,case_290,Create Purchase Order,2023-04-29 10:00:03.435671
+event_290_4,case_290,Monitor Order Status,2023-07-12 20:07:53.810454
+event_290_6,case_290,Evaluate Supplier Performance,2023-10-18 10:39:20.407785
+event_291_2,case_291,Request Quotations,2023-02-13 14:07:52.990626
+event_291_0,case_291,Close Purchase Order,2023-02-14 01:04:52.942705
+event_291_1,case_291,Create Purchase Order,2023-04-03 03:09:52.365503
+event_291_5,case_291,Process Invoice,2023-05-19 06:14:46.278127
+event_291_7,case_291,Renew Contract,2023-06-21 10:09:06.781728
+event_291_3,case_291,Dispatch Order,2023-09-22 23:16:39.088177
+event_291_6,case_291,Finalize Purchase Details,2023-11-01 12:47:42.858611
+event_291_4,case_291,Receive Goods,2023-11-19 20:37:45.878758
+event_292_4,case_292,Receive Goods,2023-01-16 10:05:41.400058
+event_292_1,case_292,Create Purchase Order,2023-01-25 08:59:06.434990
+event_292_0,case_292,Close Purchase Order,2023-02-26 16:58:53.667712
+event_292_6,case_292,Evaluate Supplier Performance,2023-03-24 05:11:54.014590
+event_292_7,case_292,Renew Contract,2023-05-22 04:16:08.679574
+event_292_5,case_292,Process Invoice,2023-05-27 15:59:11.692653
+event_292_3,case_292,Dispatch Order,2023-06-01 02:07:50.904747
+event_292_2,case_292,Request Quotations,2023-12-03 19:17:59.426952
+event_293_6,case_293,Evaluate Supplier Performance,2023-01-07 07:06:11.947728
+event_293_3,case_293,Dispatch Order,2023-01-28 18:22:26.949216
+event_293_7,case_293,Renew Contract,2023-02-01 22:57:08.300369
+event_293_2,case_293,Negotiate Contract,2023-04-23 09:48:59.260452
+event_293_0,case_293,Close Purchase Order,2023-05-04 16:51:41.140475
+event_293_6,case_293,Finalize Purchase Details,2023-06-11 11:19:19.413914
+event_293_1,case_293,Create Purchase Order,2023-06-19 13:38:56.324670
+event_293_5,case_293,Complete Payment,2023-08-21 04:12:40.084974
+event_293_5,case_293,Process Invoice,2023-08-23 11:44:16.134455
+event_293_4,case_293,Monitor Order Status,2023-11-10 02:06:36.197752
+event_294_4,case_294,Monitor Order Status,2023-02-23 09:31:49.829080
+event_294_3,case_294,Dispatch Order,2023-03-10 05:12:15.601619
+event_294_1,case_294,Create Purchase Order,2023-04-21 14:42:50.977886
+event_294_6,case_294,Finalize Purchase Details,2023-04-27 17:20:20.013448
+event_294_5,case_294,Complete Payment,2023-06-25 05:23:01.215967
+event_294_0,case_294,Close Purchase Order,2023-07-28 14:02:51.157623
+event_294_2,case_294,Request Quotations,2023-08-27 08:19:57.530883
+event_294_7,case_294,Conduct Market Analysis,2023-09-09 20:57:22.797272
+event_295_5,case_295,Complete Payment,2023-02-14 21:40:02.554383
+event_295_4,case_295,Monitor Order Status,2023-03-10 08:23:00.654311
+event_295_7,case_295,Conduct Market Analysis,2023-04-08 12:23:44.347571
+event_295_1,case_295,Create Purchase Order,2023-06-02 12:20:04.459388
+event_295_2,case_295,Request Quotations,2023-06-17 09:26:24.866046
+event_295_3,case_295,Dispatch Order,2023-07-18 09:25:41.997320
+event_295_0,case_295,Close Purchase Order,2023-09-01 20:45:50.833461
+event_295_6,case_295,Evaluate Supplier Performance,2023-10-28 02:01:26.223429
+event_295_4,case_295,Receive Goods,2023-11-15 03:28:40.226129
+event_296_6,case_296,Finalize Purchase Details,2023-01-28 20:57:17.193993
+event_296_1,case_296,Create Purchase Order,2023-02-21 11:49:30.128403
+event_296_4,case_296,Receive Goods,2023-03-17 10:26:39.918318
+event_296_7,case_296,Conduct Market Analysis,2023-07-24 10:34:06.084119
+event_296_0,case_296,Close Purchase Order,2023-08-17 09:08:51.304908
+event_296_5,case_296,Complete Payment,2023-09-09 23:46:12.073567
+event_296_3,case_296,Dispatch Order,2023-10-03 13:06:56.855923
+event_296_2,case_296,Request Quotations,2023-10-28 04:48:29.906538
+event_297_7,case_297,Conduct Market Analysis,2023-02-10 04:01:01.241461
+event_297_4,case_297,Receive Goods,2023-04-14 08:24:39.482577
+event_297_1,case_297,Create Purchase Order,2023-04-21 05:26:45.308540
+event_297_0,case_297,Close Purchase Order,2023-04-26 16:54:52.797208
+event_297_2,case_297,Select Supplier,2023-08-24 11:18:49.505093
+event_297_6,case_297,Finalize Purchase Details,2023-08-31 10:46:08.483594
+event_297_5,case_297,Complete Payment,2023-10-20 20:28:37.370019
+event_297_3,case_297,Dispatch Order,2023-11-26 11:59:28.790161
+event_298_3,case_298,Dispatch Order,2023-03-16 02:23:57.652914
+event_298_6,case_298,Evaluate Supplier Performance,2023-05-12 00:41:45.902426
+event_298_4,case_298,Monitor Order Status,2023-06-21 03:00:44.108478
+event_298_0,case_298,Close Purchase Order,2023-09-15 11:30:16.580535
+event_298_2,case_298,Select Supplier,2023-10-10 07:46:02.197927
+event_298_6,case_298,Finalize Purchase Details,2023-10-10 23:40:06.204871
+event_298_5,case_298,Process Invoice,2023-10-22 13:20:51.796699
+event_298_1,case_298,Create Purchase Order,2023-10-31 13:50:14.955938
+event_298_7,case_298,Conduct Market Analysis,2023-11-02 18:49:38.707941
+event_299_2,case_299,Negotiate Contract,2023-02-08 15:52:01.499940
+event_299_7,case_299,Renew Contract,2023-02-11 10:45:24.296877
+event_299_3,case_299,Dispatch Order,2023-02-24 00:00:16.148663
+event_299_4,case_299,Receive Goods,2023-05-06 15:24:15.016942
+event_299_5,case_299,Complete Payment,2023-09-02 09:31:23.425049
+event_299_1,case_299,Create Purchase Order,2023-09-20 20:21:10.730288
+event_299_0,case_299,Close Purchase Order,2023-10-06 02:02:45.164696
+event_299_6,case_299,Evaluate Supplier Performance,2023-10-13 05:31:07.252208
+event_3_2,case_3,Request Quotations,2023-01-06 17:48:34.311998
+event_3_3,case_3,Dispatch Order,2023-01-19 03:44:41.945967
+event_3_4,case_3,Receive Goods,2023-02-13 20:46:41.206456
+event_3_5,case_3,Complete Payment,2023-02-26 16:58:29.101841
+event_3_0,case_3,Close Purchase Order,2023-03-17 08:03:36.259151
+event_3_6,case_3,Evaluate Supplier Performance,2023-04-08 22:43:31.518161
+event_3_7,case_3,Conduct Market Analysis,2023-06-19 09:20:23.219347
+event_3_1,case_3,Create Purchase Order,2023-10-15 19:32:19.404308
+event_30_2,case_30,Negotiate Contract,2023-01-16 13:52:46.697039
+event_30_3,case_30,Approve Purchase Order,2023-01-28 01:08:59.794813
+event_30_4,case_30,Monitor Order Status,2023-03-09 06:57:28.415417
+event_30_5,case_30,Process Invoice,2023-05-01 21:23:59.944065
+event_30_1,case_30,Create Purchase Order,2023-07-11 13:10:43.043785
+event_30_6,case_30,Finalize Purchase Details,2023-09-25 11:26:12.717079
+event_30_0,case_30,Close Purchase Order,2023-10-06 04:58:43.506144
+event_30_7,case_30,Conduct Market Analysis,2023-11-21 11:25:49.708494
+event_30_6,case_30,Evaluate Supplier Performance,2023-11-28 15:43:52.748324
+event_31_6,case_31,Evaluate Supplier Performance,2023-01-18 08:00:55.527693
+event_31_5,case_31,Process Invoice,2023-02-28 15:53:42.108071
+event_31_2,case_31,Select Supplier,2023-04-18 23:22:19.323160
+event_31_1,case_31,Create Purchase Order,2023-05-26 15:42:30.667773
+event_31_0,case_31,Close Purchase Order,2023-07-27 00:36:47.000118
+event_31_7,case_31,Conduct Market Analysis,2023-09-02 14:20:44.680277
+event_31_4,case_31,Receive Goods,2023-10-21 07:39:35.883008
+event_31_3,case_31,Approve Purchase Order,2023-11-29 18:53:32.465150
+event_32_0,case_32,Close Purchase Order,2023-01-23 19:05:48.742171
+event_32_4,case_32,Receive Goods,2023-03-14 10:41:18.440746
+event_32_1,case_32,Create Purchase Order,2023-03-24 09:13:41.631972
+event_32_7,case_32,Conduct Market Analysis,2023-05-29 07:55:23.088425
+event_32_2,case_32,Select Supplier,2023-06-30 01:15:04.613291
+event_32_5,case_32,Complete Payment,2023-07-13 16:21:43.227045
+event_32_6,case_32,Evaluate Supplier Performance,2023-08-02 16:45:41.314447
+event_32_3,case_32,Approve Purchase Order,2023-10-01 07:40:13.296452
+event_33_0,case_33,Close Purchase Order,2023-01-30 08:48:42.927266
+event_33_5,case_33,Process Invoice,2023-05-03 13:01:10.552038
+event_33_2,case_33,Request Quotations,2023-07-26 12:47:05.933836
+event_33_3,case_33,Approve Purchase Order,2023-08-07 14:28:41.946406
+event_33_1,case_33,Create Purchase Order,2023-08-25 04:42:11.136133
+event_33_4,case_33,Monitor Order Status,2023-10-12 19:22:03.988331
+event_33_6,case_33,Finalize Purchase Details,2023-10-19 01:43:56.797509
+event_33_7,case_33,Conduct Market Analysis,2023-11-03 20:59:33.501364
+event_34_5,case_34,Complete Payment,2023-02-18 15:27:21.609136
+event_34_0,case_34,Close Purchase Order,2023-02-28 02:25:56.432020
+event_34_1,case_34,Create Purchase Order,2023-04-01 07:38:07.373339
+event_34_2,case_34,Select Supplier,2023-04-22 22:58:46.378074
+event_34_4,case_34,Receive Goods,2023-07-12 03:42:41.607229
+event_34_3,case_34,Approve Purchase Order,2023-08-03 17:10:38.351355
+event_34_7,case_34,Renew Contract,2023-08-08 05:58:57.008827
+event_34_6,case_34,Evaluate Supplier Performance,2023-10-09 23:45:29.822559
+event_35_1,case_35,Create Purchase Order,2023-02-21 09:40:17.576274
+event_35_0,case_35,Close Purchase Order,2023-03-17 09:39:01.873996
+event_35_3,case_35,Approve Purchase Order,2023-03-19 08:14:51.060701
+event_35_4,case_35,Monitor Order Status,2023-05-04 22:04:21.229021
+event_35_2,case_35,Request Quotations,2023-06-20 05:00:45.953477
+event_35_5,case_35,Process Invoice,2023-07-10 19:30:32.864015
+event_35_7,case_35,Conduct Market Analysis,2023-08-23 17:16:16.588895
+event_35_6,case_35,Finalize Purchase Details,2023-10-31 11:44:11.733999
+event_36_6,case_36,Finalize Purchase Details,2023-01-22 10:51:40.717179
+event_36_7,case_36,Renew Contract,2023-01-25 03:28:41.501980
+event_36_5,case_36,Complete Payment,2023-02-18 04:19:54.131126
+event_36_2,case_36,Request Quotations,2023-08-14 15:17:00.921527
+event_36_0,case_36,Close Purchase Order,2023-09-23 02:34:49.297555
+event_36_1,case_36,Create Purchase Order,2023-09-26 18:27:15.900857
+event_36_3,case_36,Approve Purchase Order,2023-10-12 09:33:33.814032
+event_36_4,case_36,Monitor Order Status,2023-10-14 12:07:18.142292
+event_37_3,case_37,Approve Purchase Order,2023-01-17 22:26:30.905606
+event_37_4,case_37,Monitor Order Status,2023-02-24 09:04:58.094937
+event_37_6,case_37,Evaluate Supplier Performance,2023-02-25 03:03:06.978670
+event_37_1,case_37,Create Purchase Order,2023-06-22 14:36:43.835008
+event_37_5,case_37,Process Invoice,2023-08-15 21:37:36.476223
+event_37_2,case_37,Select Supplier,2023-10-21 07:24:56.957376
+event_37_7,case_37,Renew Contract,2023-11-03 22:01:40.141651
+event_37_0,case_37,Close Purchase Order,2023-11-08 05:18:57.852856
+event_38_6,case_38,Finalize Purchase Details,2023-01-05 09:42:16.676393
+event_38_0,case_38,Close Purchase Order,2023-01-24 03:10:37.032931
+event_38_3,case_38,Dispatch Order,2023-01-30 11:41:59.641667
+event_38_4,case_38,Receive Goods,2023-02-03 22:03:55.829814
+event_38_7,case_38,Renew Contract,2023-04-15 04:26:51.061909
+event_38_1,case_38,Create Purchase Order,2023-06-07 12:02:37.594594
+event_38_5,case_38,Complete Payment,2023-06-07 17:29:25.126296
+event_38_2,case_38,Select Supplier,2023-06-11 05:49:06.377526
+event_39_4,case_39,Receive Goods,2023-01-03 22:41:14.867392
+event_39_7,case_39,Conduct Market Analysis,2023-02-21 22:23:57.184932
+event_39_0,case_39,Close Purchase Order,2023-03-18 11:19:42.173575
+event_39_1,case_39,Create Purchase Order,2023-06-27 20:23:47.312814
+event_39_2,case_39,Select Supplier,2023-07-20 01:55:53.464205
+event_39_4,case_39,Monitor Order Status,2023-08-25 15:20:18.312493
+event_39_6,case_39,Finalize Purchase Details,2023-08-28 01:46:47.585306
+event_39_5,case_39,Complete Payment,2023-11-01 15:52:15.586884
+event_39_3,case_39,Approve Purchase Order,2023-11-26 08:47:07.207894
+event_4_2,case_4,Select Supplier,2023-01-02 19:49:39.397568
+event_4_5,case_4,Process Invoice,2023-01-28 20:10:53.152770
+event_4_6,case_4,Finalize Purchase Details,2023-02-01 10:40:19.700121
+event_4_7,case_4,Conduct Market Analysis,2023-02-18 04:46:56.836659
+event_4_1,case_4,Create Purchase Order,2023-03-23 14:54:57.420744
+event_4_0,case_4,Close Purchase Order,2023-06-10 00:44:28.587533
+event_4_3,case_4,Dispatch Order,2023-06-15 02:45:58.757955
+event_4_4,case_4,Monitor Order Status,2023-08-14 22:45:11.998064
+event_40_1,case_40,Create Purchase Order,2023-01-15 03:44:19.379509
+event_40_0,case_40,Close Purchase Order,2023-02-21 22:06:53.394119
+event_40_5,case_40,Complete Payment,2023-06-02 05:06:29.347736
+event_40_4,case_40,Monitor Order Status,2023-06-20 02:15:34.762730
+event_40_3,case_40,Approve Purchase Order,2023-06-23 16:51:41.932283
+event_40_6,case_40,Finalize Purchase Details,2023-08-07 11:25:58.305100
+event_40_2,case_40,Negotiate Contract,2023-08-08 09:34:47.140576
+event_40_7,case_40,Renew Contract,2023-11-22 08:40:23.510806
+event_41_2,case_41,Negotiate Contract,2023-01-20 16:14:09.394344
+event_41_0,case_41,Close Purchase Order,2023-04-25 13:11:13.151066
+event_41_6,case_41,Evaluate Supplier Performance,2023-05-08 16:52:30.565081
+event_41_7,case_41,Renew Contract,2023-07-01 03:59:37.311027
+event_41_4,case_41,Receive Goods,2023-07-22 04:12:52.820581
+event_41_1,case_41,Create Purchase Order,2023-09-02 13:44:30.682414
+event_41_3,case_41,Approve Purchase Order,2023-09-15 20:49:46.908551
+event_41_5,case_41,Process Invoice,2023-10-21 17:17:27.582798
+event_42_5,case_42,Process Invoice,2023-01-04 17:04:55.418240
+event_42_4,case_42,Monitor Order Status,2023-03-08 02:07:10.345527
+event_42_6,case_42,Finalize Purchase Details,2023-03-20 10:18:40.911005
+event_42_1,case_42,Create Purchase Order,2023-04-02 05:07:24.746013
+event_42_3,case_42,Dispatch Order,2023-06-28 02:17:38.121584
+event_42_2,case_42,Negotiate Contract,2023-09-18 02:31:14.613360
+event_42_0,case_42,Close Purchase Order,2023-11-21 10:18:57.574181
+event_42_7,case_42,Conduct Market Analysis,2023-11-25 23:03:21.305368
+event_43_4,case_43,Receive Goods,2023-05-10 05:31:50.747488
+event_43_5,case_43,Process Invoice,2023-06-13 08:27:06.146931
+event_43_1,case_43,Create Purchase Order,2023-07-12 11:41:03.018830
+event_43_6,case_43,Finalize Purchase Details,2023-07-23 13:37:54.256885
+event_43_7,case_43,Renew Contract,2023-10-23 09:01:08.369337
+event_43_2,case_43,Negotiate Contract,2023-11-09 05:09:23.907876
+event_43_0,case_43,Close Purchase Order,2023-11-23 18:20:48.784553
+event_43_3,case_43,Approve Purchase Order,2023-12-08 12:15:05.811831
+event_44_3,case_44,Approve Purchase Order,2023-03-08 04:31:34.406953
+event_44_1,case_44,Create Purchase Order,2023-06-05 14:34:07.224745
+event_44_0,case_44,Close Purchase Order,2023-07-04 19:40:11.698108
+event_44_7,case_44,Renew Contract,2023-08-08 20:31:20.730215
+event_44_5,case_44,Complete Payment,2023-08-11 12:09:11.901986
+event_44_2,case_44,Negotiate Contract,2023-09-07 19:49:09.198835
+event_44_6,case_44,Finalize Purchase Details,2023-10-19 19:09:48.162356
+event_44_4,case_44,Receive Goods,2023-10-22 02:52:17.569927
+event_45_3,case_45,Approve Purchase Order,2023-02-15 21:48:59.282899
+event_45_7,case_45,Renew Contract,2023-05-20 03:27:21.970743
+event_45_4,case_45,Monitor Order Status,2023-07-12 19:35:06.591371
+event_45_6,case_45,Evaluate Supplier Performance,2023-07-14 07:25:45.331176
+event_45_2,case_45,Negotiate Contract,2023-08-01 01:04:43.099757
+event_45_1,case_45,Create Purchase Order,2023-08-06 00:29:08.856184
+event_45_5,case_45,Process Invoice,2023-11-11 08:43:16.704781
+event_45_0,case_45,Close Purchase Order,2023-11-18 04:00:02.214806
+event_46_1,case_46,Create Purchase Order,2023-01-11 05:08:39.895713
+event_46_4,case_46,Monitor Order Status,2023-01-23 03:32:17.726457
+event_46_2,case_46,Select Supplier,2023-04-01 19:01:09.752072
+event_46_5,case_46,Process Invoice,2023-04-15 05:56:28.850844
+event_46_6,case_46,Evaluate Supplier Performance,2023-07-27 23:52:19.834367
+event_46_0,case_46,Close Purchase Order,2023-10-03 13:55:18.074517
+event_46_7,case_46,Renew Contract,2023-10-30 19:43:10.123690
+event_46_3,case_46,Approve Purchase Order,2023-11-27 15:01:33.871704
+event_47_4,case_47,Receive Goods,2023-01-03 16:45:01.632046
+event_47_2,case_47,Select Supplier,2023-01-30 00:51:42.224085
+event_47_7,case_47,Renew Contract,2023-02-14 01:41:57.938105
+event_47_6,case_47,Finalize Purchase Details,2023-02-23 00:18:00.285294
+event_47_0,case_47,Close Purchase Order,2023-04-07 12:32:13.522240
+event_47_5,case_47,Complete Payment,2023-05-03 05:51:55.977111
+event_47_1,case_47,Create Purchase Order,2023-05-12 14:50:43.986856
+event_47_3,case_47,Approve Purchase Order,2023-07-13 03:53:16.548342
+event_47_6,case_47,Evaluate Supplier Performance,2023-08-27 09:36:16.688690
+event_47_4,case_47,Monitor Order Status,2023-10-25 21:46:23.048875
+event_47_6,case_47,Evaluate Supplier Performance,2023-11-24 05:25:54.432745
+event_48_5,case_48,Process Invoice,2023-05-11 22:24:42.760934
+event_48_3,case_48,Dispatch Order,2023-05-21 10:50:51.837429
+event_48_6,case_48,Evaluate Supplier Performance,2023-06-06 19:00:44.953251
+event_48_2,case_48,Dispatch Order,2023-06-26 09:45:45.327657
+event_48_3,case_48,Approve Purchase Order,2023-07-14 20:04:41.201156
+event_48_2,case_48,Select Supplier,2023-08-02 13:59:11.755170
+event_48_7,case_48,Conduct Market Analysis,2023-10-18 11:34:21.586380
+event_48_1,case_48,Create Purchase Order,2023-10-25 22:44:27.524835
+event_48_0,case_48,Close Purchase Order,2023-11-23 01:43:53.230534
+event_48_4,case_48,Monitor Order Status,2023-12-07 13:56:10.393548
+event_49_4,case_49,Monitor Order Status,2023-01-16 16:50:32.054065
+event_49_3,case_49,Approve Purchase Order,2023-01-26 21:54:12.117562
+event_49_1,case_49,Create Purchase Order,2023-02-01 09:25:19.651849
+event_49_6,case_49,Evaluate Supplier Performance,2023-05-24 12:45:32.129563
+event_49_5,case_49,Process Invoice,2023-08-24 13:20:38.840589
+event_49_7,case_49,Renew Contract,2023-09-30 16:36:12.756843
+event_49_0,case_49,Close Purchase Order,2023-10-13 21:22:09.063980
+event_49_2,case_49,Select Supplier,2023-11-10 22:22:40.967120
+event_5_0,case_5,Close Purchase Order,2023-02-21 03:57:13.085927
+event_5_1,case_5,Create Purchase Order,2023-04-19 00:28:23.390320
+event_5_6,case_5,Finalize Purchase Details,2023-05-11 00:45:54.335381
+event_5_7,case_5,Renew Contract,2023-07-19 15:15:16.248391
+event_5_5,case_5,Complete Payment,2023-07-20 02:49:31.524893
+event_5_4,case_5,Monitor Order Status,2023-08-21 05:11:49.699203
+event_5_2,case_5,Select Supplier,2023-09-04 21:57:25.914017
+event_5_3,case_5,Dispatch Order,2023-10-10 01:15:12.335550
+event_50_6,case_50,Finalize Purchase Details,2023-03-29 03:14:53.772001
+event_50_7,case_50,Conduct Market Analysis,2023-05-27 20:53:26.264954
+event_50_0,case_50,Close Purchase Order,2023-06-08 18:34:21.255276
+event_50_4,case_50,Monitor Order Status,2023-06-17 10:02:19.959695
+event_50_3,case_50,Dispatch Order,2023-07-02 17:15:03.211699
+event_50_1,case_50,Create Purchase Order,2023-07-26 15:50:35.209605
+event_50_5,case_50,Process Invoice,2023-09-22 13:33:43.309457
+event_50_2,case_50,Negotiate Contract,2023-10-02 10:25:50.226275
+event_51_7,case_51,Renew Contract,2023-03-17 22:11:00.390300
+event_51_4,case_51,Receive Goods,2023-07-10 13:27:36.833761
+event_51_2,case_51,Select Supplier,2023-09-10 06:13:05.106525
+event_51_3,case_51,Approve Purchase Order,2023-09-11 03:42:50.899631
+event_51_5,case_51,Process Invoice,2023-11-11 14:52:34.691238
+event_51_6,case_51,Finalize Purchase Details,2023-11-13 22:03:07.415160
+event_51_3,case_51,Dispatch Order,2023-11-21 17:55:44.654280
+event_51_1,case_51,Create Purchase Order,2023-11-27 17:40:08.903600
+event_51_0,case_51,Close Purchase Order,2023-12-02 01:14:07.764985
+event_52_5,case_52,Complete Payment,2023-01-23 00:46:12.287584
+event_52_1,case_52,Create Purchase Order,2023-02-07 04:29:53.817775
+event_52_7,case_52,Renew Contract,2023-03-26 06:44:14.806225
+event_52_4,case_52,Receive Goods,2023-03-27 02:11:48.913428
+event_52_2,case_52,Select Supplier,2023-05-16 21:15:09.918100
+event_52_3,case_52,Dispatch Order,2023-08-31 18:00:45.907163
+event_52_5,case_52,Process Invoice,2023-09-28 21:11:25.489411
+event_52_0,case_52,Close Purchase Order,2023-09-30 05:54:04.697945
+event_52_6,case_52,Evaluate Supplier Performance,2023-11-07 10:40:34.488573
+event_53_1,case_53,Create Purchase Order,2023-01-07 15:21:12.415671
+event_53_6,case_53,Evaluate Supplier Performance,2023-01-16 11:54:00.990459
+event_53_3,case_53,Dispatch Order,2023-02-10 16:09:21.066314
+event_53_2,case_53,Select Supplier,2023-03-09 09:54:37.414733
+event_53_5,case_53,Complete Payment,2023-04-09 11:52:05.194346
+event_53_7,case_53,Conduct Market Analysis,2023-04-09 14:14:05.764115
+event_53_0,case_53,Close Purchase Order,2023-09-03 06:11:36.756476
+event_53_4,case_53,Receive Goods,2023-10-15 12:07:20.272292
+event_54_7,case_54,Conduct Market Analysis,2023-02-18 02:42:15.708346
+event_54_1,case_54,Create Purchase Order,2023-04-02 10:44:49.273427
+event_54_0,case_54,Close Purchase Order,2023-05-18 07:53:23.302680
+event_54_3,case_54,Dispatch Order,2023-06-10 19:22:39.264416
+event_54_2,case_54,Negotiate Contract,2023-08-05 01:01:55.163428
+event_54_5,case_54,Complete Payment,2023-09-07 11:25:17.425588
+event_54_6,case_54,Finalize Purchase Details,2023-09-18 10:19:19.187800
+event_54_4,case_54,Receive Goods,2023-10-11 12:24:33.377943
+event_55_6,case_55,Finalize Purchase Details,2023-01-04 20:10:13.276957
+event_55_7,case_55,Conduct Market Analysis,2023-01-16 02:56:24.155082
+event_55_5,case_55,Complete Payment,2023-01-22 01:00:00.299111
+event_55_2,case_55,Negotiate Contract,2023-07-04 11:50:24.942817
+event_55_4,case_55,Receive Goods,2023-08-04 15:31:53.723941
+event_55_3,case_55,Approve Purchase Order,2023-08-26 21:54:26.458995
+event_55_1,case_55,Create Purchase Order,2023-10-19 11:07:22.741201
+event_55_0,case_55,Close Purchase Order,2023-11-14 13:33:59.156206
+event_56_7,case_56,Renew Contract,2023-01-07 16:36:58.077645
+event_56_3,case_56,Approve Purchase Order,2023-01-13 19:50:01.835342
+event_56_0,case_56,Close Purchase Order,2023-02-20 06:11:36.976854
+event_56_2,case_56,Select Supplier,2023-02-23 22:23:12.511683
+event_56_6,case_56,Finalize Purchase Details,2023-04-06 11:27:07.701191
+event_56_1,case_56,Create Purchase Order,2023-07-09 15:08:48.167962
+event_56_5,case_56,Process Invoice,2023-10-10 15:21:32.096885
+event_56_4,case_56,Monitor Order Status,2023-11-24 14:10:47.638583
+event_57_5,case_57,Process Invoice,2023-03-20 03:56:18.209170
+event_57_6,case_57,Evaluate Supplier Performance,2023-04-07 03:07:32.500231
+event_57_3,case_57,Approve Purchase Order,2023-05-08 13:44:37.524820
+event_57_2,case_57,Negotiate Contract,2023-05-25 02:45:34.707554
+event_57_7,case_57,Conduct Market Analysis,2023-06-04 10:36:51.033929
+event_57_4,case_57,Receive Goods,2023-07-12 23:29:54.314642
+event_57_1,case_57,Create Purchase Order,2023-07-23 20:17:03.410230
+event_57_0,case_57,Close Purchase Order,2023-08-28 07:38:42.150825
+event_58_4,case_58,Receive Goods,2023-01-06 20:22:04.859779
+event_58_5,case_58,Process Invoice,2023-03-10 14:22:50.238643
+event_58_1,case_58,Create Purchase Order,2023-05-01 17:47:02.266695
+event_58_0,case_58,Close Purchase Order,2023-05-15 11:35:48.435491
+event_58_3,case_58,Dispatch Order,2023-05-18 06:22:34.508745
+event_58_6,case_58,Evaluate Supplier Performance,2023-06-20 21:10:10.245548
+event_58_2,case_58,Negotiate Contract,2023-09-08 11:13:33.834992
+event_58_7,case_58,Conduct Market Analysis,2023-10-13 04:53:18.045950
+event_59_7,case_59,Renew Contract,2023-05-07 00:02:42.941473
+event_59_2,case_59,Request Quotations,2023-05-19 22:10:13.491004
+event_59_5,case_59,Process Invoice,2023-05-29 08:41:55.830691
+event_59_4,case_59,Receive Goods,2023-07-19 05:57:23.349398
+event_59_6,case_59,Finalize Purchase Details,2023-09-28 08:34:19.595756
+event_59_0,case_59,Close Purchase Order,2023-10-10 01:59:37.249120
+event_59_1,case_59,Create Purchase Order,2023-10-30 22:00:51.093729
+event_59_3,case_59,Approve Purchase Order,2023-11-07 11:07:27.862876
+event_6_7,case_6,Renew Contract,2023-01-04 02:51:38.923205
+event_6_2,case_6,Select Supplier,2023-02-20 19:42:11.578816
+event_6_4,case_6,Receive Goods,2023-03-24 05:13:08.150054
+event_6_6,case_6,Finalize Purchase Details,2023-03-27 18:03:20.732511
+event_6_1,case_6,Create Purchase Order,2023-04-16 10:58:59.596980
+event_6_0,case_6,Close Purchase Order,2023-05-26 14:43:32.446365
+event_6_3,case_6,Dispatch Order,2023-10-12 20:19:14.995527
+event_6_5,case_6,Complete Payment,2023-10-22 17:42:50.001663
+event_60_5,case_60,Complete Payment,2023-01-09 15:13:03.009783
+event_60_3,case_60,Approve Purchase Order,2023-01-24 23:38:29.133980
+event_60_7,case_60,Renew Contract,2023-04-07 02:49:46.679469
+event_60_6,case_60,Finalize Purchase Details,2023-05-13 05:16:26.007166
+event_60_2,case_60,Request Quotations,2023-05-24 14:03:10.357792
+event_60_0,case_60,Close Purchase Order,2023-06-23 12:28:51.829268
+event_60_4,case_60,Monitor Order Status,2023-08-05 17:19:07.373324
+event_60_6,case_60,Evaluate Supplier Performance,2023-09-15 08:46:40.795617
+event_60_1,case_60,Create Purchase Order,2023-10-07 19:59:10.402032
+event_61_6,case_61,Finalize Purchase Details,2023-01-03 06:49:52.257051
+event_61_1,case_61,Create Purchase Order,2023-02-02 23:54:57.932321
+event_61_0,case_61,Close Purchase Order,2023-02-10 21:51:57.594553
+event_61_3,case_61,Dispatch Order,2023-03-29 01:34:21.347982
+event_61_6,case_61,Evaluate Supplier Performance,2023-04-30 18:11:09.999076
+event_61_4,case_61,Monitor Order Status,2023-05-08 14:23:03.989113
+event_61_4,case_61,Receive Goods,2023-05-11 07:36:44.590412
+event_61_2,case_61,Select Supplier,2023-05-19 01:44:48.450807
+event_61_5,case_61,Process Invoice,2023-06-16 20:16:53.263738
+event_61_7,case_61,Renew Contract,2023-06-25 13:47:14.821258
+event_61_5,case_61,Complete Payment,2023-09-28 18:38:58.093310
+event_62_0,case_62,Close Purchase Order,2023-02-22 11:16:27.683035
+event_62_1,case_62,Create Purchase Order,2023-03-10 11:14:40.605078
+event_62_4,case_62,Monitor Order Status,2023-06-19 07:57:50.069481
+event_62_5,case_62,Complete Payment,2023-08-04 13:20:08.999688
+event_62_2,case_62,Negotiate Contract,2023-08-12 13:37:16.513804
+event_62_7,case_62,Renew Contract,2023-08-15 05:32:48.760967
+event_62_3,case_62,Approve Purchase Order,2023-09-15 00:50:04.435135
+event_62_6,case_62,Finalize Purchase Details,2023-09-19 10:36:30.756960
+event_63_2,case_63,Negotiate Contract,2023-03-20 08:42:16.157595
+event_63_6,case_63,Finalize Purchase Details,2023-03-27 20:20:46.076620
+event_63_4,case_63,Monitor Order Status,2023-04-29 10:49:03.709294
+event_63_0,case_63,Close Purchase Order,2023-06-05 06:44:17.718921
+event_63_5,case_63,Process Invoice,2023-08-05 10:13:27.417993
+event_63_7,case_63,Renew Contract,2023-09-15 19:35:50.800145
+event_63_3,case_63,Approve Purchase Order,2023-10-14 16:10:18.759514
+event_63_1,case_63,Create Purchase Order,2023-11-20 16:17:26.350299
+event_64_4,case_64,Receive Goods,2023-04-01 23:34:53.255895
+event_64_7,case_64,Conduct Market Analysis,2023-04-09 03:46:25.486714
+event_64_3,case_64,Approve Purchase Order,2023-05-03 08:03:13.317260
+event_64_3,case_64,Dispatch Order,2023-06-02 09:57:47.141730
+event_64_1,case_64,Create Purchase Order,2023-06-04 12:03:01.687237
+event_64_3,case_64,Approve Purchase Order,2023-07-24 01:35:26.080822
+event_64_5,case_64,Complete Payment,2023-08-25 07:50:59.162794
+event_64_0,case_64,Close Purchase Order,2023-09-30 04:33:28.203799
+event_64_6,case_64,Evaluate Supplier Performance,2023-10-20 21:27:40.446892
+event_64_2,case_64,Negotiate Contract,2023-11-14 05:36:00.144051
+event_65_5,case_65,Process Invoice,2023-01-12 12:51:05.572133
+event_65_3,case_65,Approve Purchase Order,2023-02-01 13:03:31.185166
+event_65_2,case_65,Request Quotations,2023-03-03 22:38:54.565076
+event_65_4,case_65,Receive Goods,2023-04-11 03:18:28.738926
+event_65_5,case_65,Complete Payment,2023-05-22 23:43:08.074119
+event_65_7,case_65,Conduct Market Analysis,2023-05-29 02:36:56.401845
+event_65_6,case_65,Evaluate Supplier Performance,2023-06-13 23:34:07.025440
+event_65_0,case_65,Close Purchase Order,2023-07-21 07:21:45.518632
+event_65_1,case_65,Create Purchase Order,2023-08-21 11:43:06.645151
+event_66_3,case_66,Approve Purchase Order,2023-02-05 22:46:30.715720
+event_66_6,case_66,Evaluate Supplier Performance,2023-03-17 00:04:25.933794
+event_66_7,case_66,Renew Contract,2023-06-11 19:33:43.342542
+event_66_2,case_66,Negotiate Contract,2023-08-24 20:43:02.712204
+event_66_5,case_66,Process Invoice,2023-10-27 08:12:43.830849
+event_66_0,case_66,Close Purchase Order,2023-11-02 00:24:25.206255
+event_66_1,case_66,Create Purchase Order,2023-11-03 05:26:24.612082
+event_66_4,case_66,Monitor Order Status,2023-11-18 21:49:45.244072
+event_67_7,case_67,Conduct Market Analysis,2023-01-28 00:58:13.091785
+event_67_1,case_67,Create Purchase Order,2023-05-17 06:11:09.963973
+event_67_3,case_67,Dispatch Order,2023-06-04 20:46:08.545878
+event_67_4,case_67,Monitor Order Status,2023-07-09 16:08:56.838269
+event_67_6,case_67,Finalize Purchase Details,2023-07-15 07:49:50.101047
+event_67_0,case_67,Close Purchase Order,2023-07-18 12:04:40.540305
+event_67_5,case_67,Complete Payment,2023-10-20 01:39:04.933751
+event_67_2,case_67,Request Quotations,2023-11-11 03:05:15.568242
+event_68_1,case_68,Create Purchase Order,2023-04-13 22:22:45.577847
+event_68_7,case_68,Conduct Market Analysis,2023-04-20 21:13:39.367803
+event_68_2,case_68,Negotiate Contract,2023-06-16 12:21:44.303273
+event_68_0,case_68,Close Purchase Order,2023-06-22 05:47:38.661330
+event_68_4,case_68,Monitor Order Status,2023-07-28 12:52:51.962295
+event_68_5,case_68,Process Invoice,2023-07-30 19:47:51.032400
+event_68_6,case_68,Finalize Purchase Details,2023-08-29 16:21:16.848660
+event_68_3,case_68,Approve Purchase Order,2023-09-21 19:42:30.436764
+event_68_4,case_68,Receive Goods,2023-09-28 02:04:56.097871
+event_68_4,case_68,Monitor Order Status,2023-11-16 05:19:38.608718
+event_69_0,case_69,Close Purchase Order,2023-03-17 13:45:09.491276
+event_69_3,case_69,Approve Purchase Order,2023-04-09 05:12:00.212031
+event_69_6,case_69,Evaluate Supplier Performance,2023-04-26 06:22:29.993040
+event_69_7,case_69,Renew Contract,2023-06-23 11:27:49.682534
+event_69_4,case_69,Monitor Order Status,2023-07-19 03:36:58.038551
+event_69_2,case_69,Request Quotations,2023-08-03 15:38:41.621844
+event_69_1,case_69,Create Purchase Order,2023-10-08 20:38:28.959065
+event_69_2,case_69,Select Supplier,2023-10-19 10:52:25.546982
+event_69_3,case_69,Dispatch Order,2023-10-26 17:12:33.833422
+event_69_5,case_69,Process Invoice,2023-10-29 22:18:07.693283
+event_7_6,case_7,Evaluate Supplier Performance,2023-01-11 00:52:55.558615
+event_7_7,case_7,Renew Contract,2023-03-21 14:28:11.562164
+event_7_0,case_7,Close Purchase Order,2023-04-21 05:06:33.381366
+event_7_1,case_7,Create Purchase Order,2023-05-26 06:38:05.851735
+event_7_3,case_7,Approve Purchase Order,2023-06-16 13:12:46.569167
+event_7_5,case_7,Process Invoice,2023-07-25 00:54:49.118223
+event_7_2,case_7,Select Supplier,2023-09-12 03:54:28.132134
+event_7_4,case_7,Monitor Order Status,2023-11-30 12:42:03.342103
+event_70_5,case_70,Process Invoice,2023-02-16 06:26:29.018116
+event_70_7,case_70,Conduct Market Analysis,2023-02-26 16:32:42.455313
+event_70_2,case_70,Request Quotations,2023-07-27 00:28:22.258985
+event_70_4,case_70,Receive Goods,2023-08-03 17:17:35.062755
+event_70_3,case_70,Approve Purchase Order,2023-10-10 15:48:39.050305
+event_70_6,case_70,Finalize Purchase Details,2023-10-28 11:35:50.493945
+event_70_0,case_70,Close Purchase Order,2023-11-03 02:02:43.771965
+event_70_1,case_70,Create Purchase Order,2023-11-15 03:38:15.998715
+event_71_2,case_71,Select Supplier,2023-02-05 11:15:38.876825
+event_71_7,case_71,Conduct Market Analysis,2023-03-21 02:56:22.051315
+event_71_0,case_71,Close Purchase Order,2023-03-28 17:14:14.032351
+event_71_1,case_71,Create Purchase Order,2023-08-05 15:24:05.797531
+event_71_3,case_71,Approve Purchase Order,2023-08-20 07:02:05.514167
+event_71_5,case_71,Complete Payment,2023-08-22 01:56:39.747779
+event_71_5,case_71,Process Invoice,2023-09-20 23:42:46.064891
+event_71_4,case_71,Monitor Order Status,2023-11-04 19:36:59.397408
+event_71_6,case_71,Finalize Purchase Details,2023-12-05 06:46:56.054147
+event_72_3,case_72,Approve Purchase Order,2023-01-05 11:40:44.050093
+event_72_4,case_72,Receive Goods,2023-02-23 05:43:40.196445
+event_72_5,case_72,Process Invoice,2023-04-27 11:41:16.981148
+event_72_1,case_72,Create Purchase Order,2023-05-11 05:38:14.256401
+event_72_2,case_72,Select Supplier,2023-05-15 11:58:17.480993
+event_72_6,case_72,Finalize Purchase Details,2023-07-12 13:57:19.026574
+event_72_0,case_72,Close Purchase Order,2023-07-15 15:55:58.598463
+event_72_7,case_72,Renew Contract,2023-11-23 21:24:31.074548
+event_73_6,case_73,Evaluate Supplier Performance,2023-01-29 10:20:40.460505
+event_73_4,case_73,Receive Goods,2023-04-19 07:11:24.633291
+event_73_6,case_73,Finalize Purchase Details,2023-04-28 06:25:57.347122
+event_73_5,case_73,Process Invoice,2023-05-05 19:46:16.414052
+event_73_0,case_73,Close Purchase Order,2023-05-12 22:00:25.877403
+event_73_2,case_73,Request Quotations,2023-07-21 23:22:57.531785
+event_73_1,case_73,Create Purchase Order,2023-07-26 17:21:02.483551
+event_73_3,case_73,Approve Purchase Order,2023-10-13 07:36:58.918571
+event_73_7,case_73,Renew Contract,2023-11-20 01:48:21.522125
+event_74_6,case_74,Finalize Purchase Details,2023-01-08 11:47:25.245448
+event_74_1,case_74,Create Purchase Order,2023-01-18 01:49:39.096695
+event_74_2,case_74,Request Quotations,2023-01-29 04:20:05.974377
+event_74_7,case_74,Renew Contract,2023-03-14 14:17:41.874000
+event_74_0,case_74,Close Purchase Order,2023-03-20 09:19:21.153341
+event_74_4,case_74,Monitor Order Status,2023-05-23 07:58:19.338123
+event_74_5,case_74,Process Invoice,2023-07-29 22:05:00.270160
+event_74_3,case_74,Dispatch Order,2023-11-21 06:44:24.871849
+event_74_2,case_74,Select Supplier,2023-11-27 07:19:41.558796
+event_74_5,case_74,Complete Payment,2023-12-04 22:23:08.793890
+event_74_5,case_74,Process Invoice,2023-12-05 23:14:27.318084
+event_75_1,case_75,Create Purchase Order,2023-01-09 09:20:24.692272
+event_75_2,case_75,Request Quotations,2023-02-27 19:30:16.317294
+event_75_7,case_75,Renew Contract,2023-03-09 10:58:46.218607
+event_75_6,case_75,Evaluate Supplier Performance,2023-03-31 00:18:41.642377
+event_75_4,case_75,Receive Goods,2023-04-03 08:03:34.169212
+event_75_0,case_75,Close Purchase Order,2023-04-06 22:02:17.991191
+event_75_4,case_75,Monitor Order Status,2023-05-11 11:41:56.628243
+event_75_5,case_75,Complete Payment,2023-05-24 23:44:32.654999
+event_75_3,case_75,Dispatch Order,2023-05-25 19:29:08.263302
+event_75_3,case_75,Monitor Order Status,2023-08-14 15:47:15.051931
+event_76_7,case_76,Renew Contract,2023-01-10 12:26:55.879892
+event_76_6,case_76,Evaluate Supplier Performance,2023-04-23 01:04:43.688184
+event_76_0,case_76,Close Purchase Order,2023-04-25 09:35:40.051971
+event_76_5,case_76,Process Invoice,2023-05-01 22:21:35.513609
+event_76_3,case_76,Dispatch Order,2023-07-01 01:54:19.187331
+event_76_2,case_76,Negotiate Contract,2023-08-28 13:16:17.515178
+event_76_4,case_76,Monitor Order Status,2023-09-01 05:07:59.941338
+event_76_1,case_76,Create Purchase Order,2023-10-06 04:29:49.296502
+event_77_3,case_77,Dispatch Order,2023-01-15 18:28:24.784915
+event_77_1,case_77,Create Purchase Order,2023-05-02 01:43:34.205869
+event_77_6,case_77,Finalize Purchase Details,2023-06-10 21:08:59.734382
+event_77_0,case_77,Close Purchase Order,2023-07-11 07:36:53.470039
+event_77_7,case_77,Conduct Market Analysis,2023-08-03 23:54:36.858168
+event_77_4,case_77,Receive Goods,2023-08-22 12:44:40.008153
+event_77_5,case_77,Process Invoice,2023-08-22 22:55:22.390607
+event_77_2,case_77,Select Supplier,2023-10-21 19:42:03.857466
+event_78_4,case_78,Monitor Order Status,2023-01-07 05:56:46.233054
+event_78_6,case_78,Evaluate Supplier Performance,2023-03-14 03:56:22.827897
+event_78_7,case_78,Conduct Market Analysis,2023-04-15 23:14:56.087846
+event_78_5,case_78,Process Invoice,2023-06-26 14:32:07.125253
+event_78_3,case_78,Dispatch Order,2023-08-13 14:56:30.803817
+event_78_0,case_78,Close Purchase Order,2023-08-15 07:15:53.106281
+event_78_1,case_78,Create Purchase Order,2023-08-27 01:45:59.723781
+event_78_2,case_78,Request Quotations,2023-09-02 09:15:12.559300
+event_79_1,case_79,Create Purchase Order,2023-01-28 11:23:57.155497
+event_79_7,case_79,Conduct Market Analysis,2023-01-30 04:07:43.249440
+event_79_2,case_79,Request Quotations,2023-02-20 06:31:11.953544
+event_79_0,case_79,Close Purchase Order,2023-05-03 13:07:02.967629
+event_79_5,case_79,Complete Payment,2023-06-28 02:24:30.087637
+event_79_6,case_79,Finalize Purchase Details,2023-10-11 19:37:44.115421
+event_79_3,case_79,Dispatch Order,2023-12-07 20:56:36.423846
+event_79_4,case_79,Monitor Order Status,2023-12-08 01:29:37.794729
+event_8_2,case_8,Request Quotations,2023-02-22 07:49:07.061386
+event_8_1,case_8,Create Purchase Order,2023-06-16 21:54:59.440026
+event_8_5,case_8,Complete Payment,2023-07-27 08:12:27.376029
+event_8_6,case_8,Evaluate Supplier Performance,2023-07-31 14:11:04.178601
+event_8_4,case_8,Monitor Order Status,2023-09-30 15:57:19.078830
+event_8_5,case_8,Process Invoice,2023-10-01 04:05:39.400586
+event_8_7,case_8,Renew Contract,2023-10-27 18:48:52.501319
+event_8_0,case_8,Close Purchase Order,2023-11-11 03:50:27.350965
+event_8_3,case_8,Dispatch Order,2023-11-21 17:50:12.668161
+event_80_1,case_80,Create Purchase Order,2023-02-07 17:14:06.275742
+event_80_2,case_80,Select Supplier,2023-02-14 11:58:06.269284
+event_80_4,case_80,Receive Goods,2023-04-09 10:34:37.852523
+event_80_3,case_80,Dispatch Order,2023-04-09 12:47:34.972630
+event_80_6,case_80,Finalize Purchase Details,2023-04-11 12:46:11.840728
+event_80_0,case_80,Close Purchase Order,2023-11-03 20:35:58.075559
+event_80_5,case_80,Complete Payment,2023-11-06 06:57:51.729498
+event_80_7,case_80,Conduct Market Analysis,2023-11-25 00:16:31.713958
+event_81_6,case_81,Finalize Purchase Details,2023-02-03 18:41:19.285110
+event_81_5,case_81,Process Invoice,2023-02-07 14:09:48.630876
+event_81_2,case_81,Request Quotations,2023-06-15 04:46:38.976800
+event_81_7,case_81,Renew Contract,2023-08-09 23:50:20.347237
+event_81_1,case_81,Create Purchase Order,2023-09-24 04:50:45.325672
+event_81_0,case_81,Close Purchase Order,2023-09-30 21:01:56.926107
+event_81_3,case_81,Dispatch Order,2023-10-02 23:08:56.117028
+event_81_4,case_81,Monitor Order Status,2023-12-02 01:10:44.313929
+event_82_4,case_82,Receive Goods,2023-04-03 00:24:33.520075
+event_82_0,case_82,Close Purchase Order,2023-04-27 11:15:04.867165
+event_82_5,case_82,Process Invoice,2023-06-03 06:21:25.394533
+event_82_2,case_82,Request Quotations,2023-06-15 10:21:59.035488
+event_82_7,case_82,Conduct Market Analysis,2023-06-22 09:48:24.470177
+event_82_1,case_82,Create Purchase Order,2023-07-26 19:58:33.647432
+event_82_6,case_82,Finalize Purchase Details,2023-10-09 17:30:33.653441
+event_82_3,case_82,Approve Purchase Order,2023-10-15 17:54:57.478141
+event_83_6,case_83,Finalize Purchase Details,2023-04-22 08:31:38.700649
+event_83_2,case_83,Select Supplier,2023-04-27 23:10:09.002015
+event_83_3,case_83,Approve Purchase Order,2023-06-23 19:24:54.040012
+event_83_4,case_83,Monitor Order Status,2023-07-07 08:21:30.833024
+event_83_0,case_83,Close Purchase Order,2023-07-28 19:30:25.160081
+event_83_5,case_83,Process Invoice,2023-08-14 03:56:04.971371
+event_83_1,case_83,Create Purchase Order,2023-08-22 19:52:28.578931
+event_83_7,case_83,Conduct Market Analysis,2023-11-07 11:28:15.782759
+event_84_6,case_84,Evaluate Supplier Performance,2023-01-09 23:33:31.873897
+event_84_3,case_84,Dispatch Order,2023-01-19 00:21:31.206400
+event_84_1,case_84,Create Purchase Order,2023-01-24 20:21:46.328848
+event_84_7,case_84,Conduct Market Analysis,2023-06-08 11:50:40.856789
+event_84_0,case_84,Close Purchase Order,2023-08-29 13:25:33.865527
+event_84_4,case_84,Receive Goods,2023-09-04 12:34:22.217938
+event_84_2,case_84,Request Quotations,2023-10-16 10:09:43.938013
+event_84_5,case_84,Complete Payment,2023-10-25 02:04:44.188292
+event_85_5,case_85,Process Invoice,2023-01-06 07:06:28.805893
+event_85_4,case_85,Monitor Order Status,2023-01-09 07:11:31.777417
+event_85_2,case_85,Select Supplier,2023-02-12 21:45:57.571272
+event_85_2,case_85,Negotiate Contract,2023-05-16 04:45:07.922733
+event_85_0,case_85,Close Purchase Order,2023-06-17 00:56:11.677912
+event_85_1,case_85,Create Purchase Order,2023-08-07 22:42:28.831089
+event_85_6,case_85,Evaluate Supplier Performance,2023-08-18 14:42:07.167079
+event_85_7,case_85,Renew Contract,2023-09-20 22:49:51.786043
+event_85_3,case_85,Approve Purchase Order,2023-11-06 17:24:52.413398
+event_86_0,case_86,Close Purchase Order,2023-01-27 10:42:19.167933
+event_86_4,case_86,Monitor Order Status,2023-02-13 22:05:58.553087
+event_86_5,case_86,Complete Payment,2023-02-20 16:49:17.372975
+event_86_1,case_86,Create Purchase Order,2023-04-01 19:58:43.094140
+event_86_2,case_86,Request Quotations,2023-04-27 11:08:41.522465
+event_86_6,case_86,Finalize Purchase Details,2023-05-13 20:24:29.616172
+event_86_7,case_86,Renew Contract,2023-06-21 12:20:42.728850
+event_86_3,case_86,Approve Purchase Order,2023-07-24 05:32:03.847011
+event_86_3,case_86,Dispatch Order,2023-10-09 22:50:55.782902
+event_87_7,case_87,Conduct Market Analysis,2023-01-02 18:11:14.961841
+event_87_5,case_87,Process Invoice,2023-02-13 01:06:35.365478
+event_87_6,case_87,Finalize Purchase Details,2023-02-19 10:02:39.439501
+event_87_3,case_87,Approve Purchase Order,2023-05-01 05:22:43.312125
+event_87_1,case_87,Create Purchase Order,2023-06-29 17:14:02.767308
+event_87_4,case_87,Receive Goods,2023-07-31 14:42:20.592700
+event_87_0,case_87,Close Purchase Order,2023-11-16 23:53:13.621836
+event_87_2,case_87,Request Quotations,2023-11-20 11:57:20.944082
+event_88_3,case_88,Approve Purchase Order,2023-01-11 08:05:54.138456
+event_88_6,case_88,Evaluate Supplier Performance,2023-04-13 18:02:55.648899
+event_88_7,case_88,Conduct Market Analysis,2023-07-17 20:28:02.915634
+event_88_2,case_88,Request Quotations,2023-08-08 03:26:09.045463
+event_88_5,case_88,Complete Payment,2023-09-13 23:53:15.743906
+event_88_0,case_88,Close Purchase Order,2023-09-18 20:55:24.194356
+event_88_4,case_88,Monitor Order Status,2023-10-03 18:39:24.570059
+event_88_1,case_88,Create Purchase Order,2023-10-12 10:44:00.703117
+event_89_5,case_89,Process Invoice,2023-01-14 08:57:52.565117
+event_89_0,case_89,Close Purchase Order,2023-01-16 21:34:49.477875
+event_89_1,case_89,Create Purchase Order,2023-05-06 12:42:08.507958
+event_89_4,case_89,Receive Goods,2023-08-13 02:24:58.041866
+event_89_3,case_89,Dispatch Order,2023-09-10 15:16:17.444463
+event_89_7,case_89,Conduct Market Analysis,2023-09-29 05:07:36.506576
+event_89_2,case_89,Negotiate Contract,2023-10-07 17:37:05.913793
+event_89_6,case_89,Finalize Purchase Details,2023-11-02 14:42:04.788216
+event_9_2,case_9,Request Quotations,2023-03-06 10:22:06.741865
+event_9_4,case_9,Receive Goods,2023-06-09 16:12:19.559944
+event_9_1,case_9,Create Purchase Order,2023-07-06 20:12:58.875784
+event_9_3,case_9,Dispatch Order,2023-07-19 14:32:10.038917
+event_9_7,case_9,Renew Contract,2023-09-02 20:26:45.813634
+event_9_5,case_9,Complete Payment,2023-09-08 09:12:26.887772
+event_9_6,case_9,Evaluate Supplier Performance,2023-09-11 06:59:44.474461
+event_9_0,case_9,Close Purchase Order,2023-12-05 03:28:01.871020
+event_90_2,case_90,Negotiate Contract,2023-02-08 03:05:23.443568
+event_90_7,case_90,Conduct Market Analysis,2023-02-20 04:32:15.947441
+event_90_5,case_90,Process Invoice,2023-07-17 04:36:56.631804
+event_90_4,case_90,Monitor Order Status,2023-07-25 19:03:54.839139
+event_90_1,case_90,Create Purchase Order,2023-09-02 14:57:22.023636
+event_90_3,case_90,Dispatch Order,2023-10-15 09:54:20.246065
+event_90_0,case_90,Close Purchase Order,2023-10-23 05:52:50.087876
+event_90_6,case_90,Evaluate Supplier Performance,2023-11-15 23:56:17.000075
+event_91_7,case_91,Conduct Market Analysis,2023-03-31 07:07:28.886253
+event_91_6,case_91,Finalize Purchase Details,2023-07-08 00:47:32.788122
+event_91_5,case_91,Complete Payment,2023-07-21 10:59:59.435373
+event_91_4,case_91,Monitor Order Status,2023-08-05 14:39:05.481611
+event_91_0,case_91,Close Purchase Order,2023-08-29 19:00:05.454757
+event_91_1,case_91,Create Purchase Order,2023-09-13 14:21:14.513753
+event_91_2,case_91,Request Quotations,2023-10-24 15:54:50.496346
+event_91_3,case_91,Approve Purchase Order,2023-10-25 17:33:33.644705
+event_92_5,case_92,Process Invoice,2023-01-02 23:03:22.820581
+event_92_6,case_92,Evaluate Supplier Performance,2023-01-04 08:08:38.798460
+event_92_3,case_92,Dispatch Order,2023-01-10 00:31:36.779580
+event_92_0,case_92,Close Purchase Order,2023-05-28 02:37:03.923187
+event_92_7,case_92,Conduct Market Analysis,2023-09-30 02:01:55.627851
+event_92_4,case_92,Monitor Order Status,2023-10-25 20:08:16.975867
+event_92_2,case_92,Negotiate Contract,2023-10-28 17:35:25.461368
+event_92_1,case_92,Create Purchase Order,2023-10-30 22:02:27.409466
+event_93_6,case_93,Evaluate Supplier Performance,2023-02-14 06:32:51.041382
+event_93_6,case_93,Evaluate Supplier Performance,2023-03-15 19:15:14.076184
+event_93_1,case_93,Create Purchase Order,2023-03-30 02:20:26.315910
+event_93_3,case_93,Dispatch Order,2023-04-01 20:51:17.830082
+event_93_4,case_93,Monitor Order Status,2023-04-09 19:48:56.672487
+event_93_5,case_93,Process Invoice,2023-04-15 10:27:44.565035
+event_93_2,case_93,Request Quotations,2023-08-21 00:55:23.740240
+event_93_0,case_93,Close Purchase Order,2023-08-30 19:19:16.705393
+event_93_7,case_93,Conduct Market Analysis,2023-09-07 00:17:39.701924
+event_93_6,case_93,Finalize Purchase Details,2023-09-16 02:27:57.241297
+event_93_5,case_93,Process Invoice,2023-10-03 09:36:52.514730
+event_94_2,case_94,Select Supplier,2023-02-28 10:56:44.370094
+event_94_3,case_94,Dispatch Order,2023-03-06 09:41:52.805371
+event_94_4,case_94,Monitor Order Status,2023-04-19 13:24:10.537937
+event_94_1,case_94,Create Purchase Order,2023-04-20 00:52:37.528824
+event_94_0,case_94,Close Purchase Order,2023-05-19 23:34:19.597383
+event_94_7,case_94,Renew Contract,2023-08-20 23:22:50.239294
+event_94_6,case_94,Finalize Purchase Details,2023-09-20 15:45:21.135568
+event_94_5,case_94,Complete Payment,2023-10-27 08:40:59.259456
+event_95_7,case_95,Renew Contract,2023-02-20 12:53:41.209676
+event_95_0,case_95,Close Purchase Order,2023-03-01 13:28:13.456664
+event_95_6,case_95,Finalize Purchase Details,2023-04-10 05:35:25.886302
+event_95_3,case_95,Dispatch Order,2023-04-17 03:15:16.217929
+event_95_1,case_95,Create Purchase Order,2023-07-14 21:04:40.582141
+event_95_5,case_95,Process Invoice,2023-08-12 08:24:24.382942
+event_95_2,case_95,Negotiate Contract,2023-08-24 01:22:49.698789
+event_95_4,case_95,Monitor Order Status,2023-09-30 15:54:12.716554
+event_96_4,case_96,Monitor Order Status,2023-01-27 04:59:11.373378
+event_96_2,case_96,Request Quotations,2023-03-20 03:25:16.843923
+event_96_5,case_96,Process Invoice,2023-04-12 07:30:10.701420
+event_96_7,case_96,Renew Contract,2023-04-23 21:52:15.317703
+event_96_0,case_96,Close Purchase Order,2023-05-26 14:36:55.534245
+event_96_3,case_96,Dispatch Order,2023-06-11 21:48:13.554644
+event_96_1,case_96,Create Purchase Order,2023-08-31 17:16:56.082409
+event_96_6,case_96,Evaluate Supplier Performance,2023-11-23 11:56:13.487939
+event_97_4,case_97,Receive Goods,2023-01-21 03:29:30.211872
+event_97_0,case_97,Close Purchase Order,2023-02-05 01:22:37.312188
+event_97_2,case_97,Negotiate Contract,2023-05-28 11:40:45.103885
+event_97_3,case_97,Dispatch Order,2023-06-04 01:01:10.786582
+event_97_5,case_97,Complete Payment,2023-07-25 03:56:39.082519
+event_97_5,case_97,Process Invoice,2023-08-21 14:26:57.163272
+event_97_7,case_97,Renew Contract,2023-09-19 07:49:51.149854
+event_97_1,case_97,Create Purchase Order,2023-10-05 03:22:27.384698
+event_97_6,case_97,Finalize Purchase Details,2023-12-01 09:12:52.927326
+event_98_7,case_98,Renew Contract,2023-03-02 13:59:58.885003
+event_98_3,case_98,Approve Purchase Order,2023-04-16 23:48:19.028607
+event_98_4,case_98,Monitor Order Status,2023-08-03 09:06:26.394892
+event_98_6,case_98,Finalize Purchase Details,2023-08-27 00:15:05.892775
+event_98_2,case_98,Select Supplier,2023-08-28 19:54:07.837584
+event_98_1,case_98,Create Purchase Order,2023-10-09 12:15:26.705891
+event_98_0,case_98,Close Purchase Order,2023-11-04 20:11:54.069115
+event_98_5,case_98,Complete Payment,2023-11-16 01:33:27.105928
+event_99_3,case_99,Approve Purchase Order,2023-01-25 15:21:07.113534
+event_99_2,case_99,Select Supplier,2023-02-07 13:06:56.237208
+event_99_6,case_99,Finalize Purchase Details,2023-03-11 05:16:22.939673
+event_99_1,case_99,Create Purchase Order,2023-06-24 22:44:53.442773
+event_99_7,case_99,Conduct Market Analysis,2023-07-26 14:30:49.263027
+event_99_5,case_99,Process Invoice,2023-10-06 21:42:27.890543
+event_99_0,case_99,Close Purchase Order,2023-11-01 10:30:12.018047
+event_99_4,case_99,Receive Goods,2023-12-06 08:54:35.949228

@@ -1,0 +1,11 @@
+<div class="event-log-generator-container">
+    <label for="process-select" class="form-label">Choose a Process:</label>
+    <select id="process-select" class="form-select" [(ngModel)]="selectedProcess">
+      <option value="Procurement">Procurement</option>
+      <option value="Accounts Payable">Accounts Payable</option>
+      <option value="Order Management">Order Management</option>
+      <option value="Accounts Receivable">Accounts Receivable</option>
+    </select>
+  
+    <button class="generate-btn" (click)="generateAndDownloadLog()">Generate and Download Log</button>
+</div>

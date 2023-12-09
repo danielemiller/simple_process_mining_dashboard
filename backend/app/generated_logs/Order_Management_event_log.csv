@@ -1,0 +1,2667 @@
+Event ID,Case ID,Activity,Timestamp
+event_0_1,case_0,Receive Order,2023-02-03 12:57:15.221684
+event_0_7,case_0,Receive Payment,2023-03-06 23:59:24.597496
+event_0_8,case_0,Gather Customer Feedback,2023-04-09 21:19:34.979158
+event_0_3,case_0,Prepare Item,2023-05-01 14:21:33.107393
+event_0_4,case_0,Organize Shipping,2023-07-22 06:08:38.809610
+event_0_5,case_0,Update Order Status,2023-08-24 06:27:17.129104
+event_0_6,case_0,Monitor Delivery Progress,2023-10-31 13:03:45.769097
+event_0_4,case_0,Perform Quality Checks,2023-11-03 03:06:14.446353
+event_0_2,case_0,Validate Order,2023-12-06 22:43:05.391535
+event_1_1,case_1,Receive Order,2023-01-06 09:11:31.979665
+event_1_3,case_1,Schedule Production,2023-04-11 16:09:05.777659
+event_1_5,case_1,Update Order Status,2023-04-17 21:05:54.799383
+event_1_6,case_1,Deliver Item,2023-04-24 12:32:42.965975
+event_1_8,case_1,Manage Customer Communication,2023-04-29 20:29:30.066828
+event_1_4,case_1,Organize Shipping,2023-04-30 11:14:35.301791
+event_1_2,case_1,Validate Order,2023-08-13 01:42:41.652337
+event_1_7,case_1,Handle Returns,2023-12-01 08:37:02.200393
+event_10_8,case_10,Manage Customer Communication,2023-01-18 05:41:28.053642
+event_10_3,case_10,Allocate Inventory,2023-02-18 19:52:26.306917
+event_10_2,case_10,Confirm Order Details,2023-03-05 18:31:11.233341
+event_10_1,case_10,Receive Order,2023-04-12 23:51:16.566579
+event_10_5,case_10,Update Order Status,2023-05-08 22:30:47.721447
+event_10_6,case_10,Monitor Delivery Progress,2023-06-04 09:01:34.543935
+event_10_7,case_10,Handle Returns,2023-06-10 03:42:53.884776
+event_10_4,case_10,Perform Quality Checks,2023-11-10 08:13:06.885208
+event_100_6,case_100,Deliver Item,2023-06-11 21:16:06.263602
+event_100_2,case_100,Confirm Order Details,2023-06-12 18:50:45.831632
+event_100_4,case_100,Organize Shipping,2023-07-11 16:30:36.640116
+event_100_3,case_100,Allocate Inventory,2023-07-15 07:52:05.789362
+event_100_1,case_100,Receive Order,2023-08-06 17:56:34.341560
+event_100_7,case_100,Process Refunds,2023-10-17 12:25:00.304893
+event_100_5,case_100,Dispatch Item,2023-11-06 01:26:05.181597
+event_100_8,case_100,Gather Customer Feedback,2023-11-21 04:53:53.050599
+event_100_6,case_100,Monitor Delivery Progress,2023-11-26 09:05:36.942901
+event_101_4,case_101,Perform Quality Checks,2023-03-01 21:02:50.531908
+event_101_5,case_101,Update Order Status,2023-03-27 12:13:06.064368
+event_101_8,case_101,Gather Customer Feedback,2023-04-02 18:30:30.704027
+event_101_6,case_101,Deliver Item,2023-04-17 15:54:55.671544
+event_101_2,case_101,Validate Order,2023-05-24 11:16:52.086822
+event_101_7,case_101,Process Refunds,2023-08-07 21:24:24.639946
+event_101_3,case_101,Organize Shipping,2023-08-09 22:58:45.891857
+event_101_1,case_101,Receive Order,2023-08-20 14:46:59.686140
+event_101_4,case_101,Organize Shipping,2023-09-09 20:44:19.055969
+event_101_3,case_101,Prepare Item,2023-09-20 22:00:18.351240
+event_102_3,case_102,Allocate Inventory,2023-01-14 11:29:15.495033
+event_102_8,case_102,Gather Customer Feedback,2023-01-28 09:48:31.085360
+event_102_6,case_102,Monitor Delivery Progress,2023-06-24 18:17:47.155356
+event_102_4,case_102,Organize Shipping,2023-08-08 02:03:33.403372
+event_102_2,case_102,Confirm Order Details,2023-08-17 05:40:06.603422
+event_102_7,case_102,Process Refunds,2023-09-07 01:56:17.647111
+event_102_5,case_102,Dispatch Item,2023-09-24 20:31:27.575081
+event_102_1,case_102,Receive Order,2023-11-30 19:44:14.564885
+event_103_2,case_103,Confirm Order Details,2023-01-27 05:56:55.950217
+event_103_6,case_103,Deliver Item,2023-02-01 05:31:16.283589
+event_103_8,case_103,Manage Customer Communication,2023-03-04 06:42:23.808686
+event_103_1,case_103,Receive Order,2023-03-12 18:56:26.502126
+event_103_5,case_103,Update Order Status,2023-04-14 17:24:45.785391
+event_103_4,case_103,Organize Shipping,2023-04-30 22:14:00.627123
+event_103_3,case_103,Allocate Inventory,2023-05-26 06:48:07.185584
+event_103_5,case_103,Dispatch Item,2023-09-16 10:10:52.251523
+event_103_6,case_103,Deliver Item,2023-09-17 02:08:14.578357
+event_103_5,case_103,Update Order Status,2023-10-07 03:53:19.270933
+event_103_7,case_103,Handle Returns,2023-11-10 03:57:11.828657
+event_104_5,case_104,Dispatch Item,2023-02-14 17:47:49.794794
+event_104_4,case_104,Organize Shipping,2023-04-06 19:41:01.602857
+event_104_2,case_104,Confirm Order Details,2023-04-24 12:45:52.555270
+event_104_1,case_104,Receive Order,2023-05-04 05:55:27.070857
+event_104_6,case_104,Monitor Delivery Progress,2023-05-28 01:08:03.911561
+event_104_8,case_104,Gather Customer Feedback,2023-07-23 03:55:40.935594
+event_104_7,case_104,Handle Returns,2023-11-29 23:43:08.426707
+event_104_3,case_104,Prepare Item,2023-12-09 08:46:28.305062
+event_105_6,case_105,Monitor Delivery Progress,2023-01-23 16:33:30.157435
+event_105_4,case_105,Organize Shipping,2023-03-07 07:41:37.707232
+event_105_6,case_105,Monitor Delivery Progress,2023-03-09 17:46:43.513736
+event_105_8,case_105,Manage Customer Communication,2023-03-16 21:06:15.499230
+event_105_5,case_105,Update Order Status,2023-04-17 17:12:23.377138
+event_105_3,case_105,Allocate Inventory,2023-05-13 00:07:14.756270
+event_105_1,case_105,Receive Order,2023-06-16 02:31:44.498326
+event_105_7,case_105,Receive Payment,2023-08-31 08:50:58.640580
+event_105_5,case_105,Update Order Status,2023-10-16 13:03:07.944043
+event_105_2,case_105,Confirm Order Details,2023-11-19 18:07:17.876075
+event_106_3,case_106,Allocate Inventory,2023-01-14 11:37:37.844287
+event_106_5,case_106,Update Order Status,2023-01-19 13:20:47.197626
+event_106_2,case_106,Confirm Order Details,2023-03-04 06:25:18.374976
+event_106_6,case_106,Monitor Delivery Progress,2023-04-17 15:41:11.906460
+event_106_3,case_106,Schedule Production,2023-05-11 10:48:10.660563
+event_106_8,case_106,Gather Customer Feedback,2023-05-12 01:07:26.084716
+event_106_4,case_106,Perform Quality Checks,2023-05-20 12:35:45.767722
+event_106_7,case_106,Receive Payment,2023-09-03 07:37:06.919540
+event_106_4,case_106,Organize Shipping,2023-10-20 04:59:04.022823
+event_106_1,case_106,Receive Order,2023-12-05 08:59:40.709697
+event_107_8,case_107,Gather Customer Feedback,2023-01-26 07:45:50.397334
+event_107_3,case_107,Allocate Inventory,2023-02-11 20:14:42.610509
+event_107_2,case_107,Confirm Order Details,2023-03-16 17:27:19.009002
+event_107_4,case_107,Organize Shipping,2023-04-11 04:39:35.921369
+event_107_3,case_107,Prepare Item,2023-05-24 08:42:46.131450
+event_107_6,case_107,Deliver Item,2023-07-03 07:55:53.664655
+event_107_5,case_107,Dispatch Item,2023-07-21 14:48:41.131826
+event_107_5,case_107,Update Order Status,2023-08-22 08:00:52.713834
+event_107_5,case_107,Dispatch Item,2023-08-25 21:41:53.404985
+event_107_7,case_107,Process Refunds,2023-08-29 14:11:05.783028
+event_107_1,case_107,Receive Order,2023-09-24 11:52:38.202087
+event_108_1,case_108,Receive Order,2023-01-14 07:41:28.897566
+event_108_5,case_108,Dispatch Item,2023-04-25 10:49:33.115726
+event_108_3,case_108,Allocate Inventory,2023-05-03 10:07:55.909997
+event_108_2,case_108,Validate Order,2023-08-09 01:27:27.751858
+event_108_6,case_108,Monitor Delivery Progress,2023-09-10 00:21:06.899582
+event_108_4,case_108,Organize Shipping,2023-09-19 08:49:36.845255
+event_108_8,case_108,Gather Customer Feedback,2023-11-04 10:39:24.193518
+event_108_7,case_108,Receive Payment,2023-11-04 22:53:12.777403
+event_109_6,case_109,Deliver Item,2023-04-05 16:20:59.135114
+event_109_5,case_109,Dispatch Item,2023-04-29 02:39:30.511161
+event_109_4,case_109,Perform Quality Checks,2023-05-18 01:02:26.316095
+event_109_7,case_109,Process Refunds,2023-07-16 01:26:16.403374
+event_109_2,case_109,Validate Order,2023-08-11 22:10:21.558304
+event_109_8,case_109,Manage Customer Communication,2023-10-28 13:25:36.834167
+event_109_1,case_109,Receive Order,2023-11-02 20:51:54.707555
+event_109_3,case_109,Schedule Production,2023-11-04 17:43:13.102318
+event_11_4,case_11,Perform Quality Checks,2023-02-03 16:57:12.815903
+event_11_2,case_11,Validate Order,2023-02-03 20:21:01.697720
+event_11_7,case_11,Process Refunds,2023-04-04 06:42:55.192062
+event_11_1,case_11,Receive Order,2023-05-08 00:26:22.753969
+event_11_4,case_11,Organize Shipping,2023-08-13 02:20:53.855753
+event_11_8,case_11,Manage Customer Communication,2023-08-28 05:51:39.319825
+event_11_6,case_11,Deliver Item,2023-09-20 06:31:13.971600
+event_11_6,case_11,Monitor Delivery Progress,2023-09-21 23:19:52.960977
+event_11_5,case_11,Update Order Status,2023-11-02 19:42:02.665042
+event_11_3,case_11,Allocate Inventory,2023-11-27 06:11:17.762121
+event_110_4,case_110,Organize Shipping,2023-01-03 03:14:20.501536
+event_110_4,case_110,Perform Quality Checks,2023-01-24 15:42:36.498367
+event_110_2,case_110,Validate Order,2023-02-24 09:45:59.540282
+event_110_5,case_110,Dispatch Item,2023-03-03 10:27:21.722478
+event_110_3,case_110,Allocate Inventory,2023-03-04 15:38:04.291780
+event_110_7,case_110,Process Refunds,2023-03-13 20:36:26.441332
+event_110_8,case_110,Gather Customer Feedback,2023-03-25 23:14:18.542934
+event_110_6,case_110,Deliver Item,2023-06-02 21:28:19.512889
+event_110_1,case_110,Receive Order,2023-07-31 21:40:39.634009
+event_111_8,case_111,Gather Customer Feedback,2023-01-02 06:40:35.601651
+event_111_1,case_111,Receive Order,2023-01-16 03:42:34.132630
+event_111_3,case_111,Schedule Production,2023-01-17 21:50:41.768427
+event_111_4,case_111,Organize Shipping,2023-01-24 21:02:20.506753
+event_111_2,case_111,Confirm Order Details,2023-02-15 07:00:43.449440
+event_111_7,case_111,Process Refunds,2023-03-03 04:49:44.587184
+event_111_5,case_111,Dispatch Item,2023-09-24 10:16:35.811249
+event_111_6,case_111,Deliver Item,2023-10-24 03:20:25.982644
+event_112_6,case_112,Monitor Delivery Progress,2023-02-17 19:03:25.717492
+event_112_2,case_112,Confirm Order Details,2023-02-21 02:19:43.432760
+event_112_1,case_112,Receive Order,2023-02-28 16:48:19.089326
+event_112_3,case_112,Allocate Inventory,2023-03-05 13:10:30.335346
+event_112_8,case_112,Gather Customer Feedback,2023-06-12 00:45:28.428282
+event_112_5,case_112,Update Order Status,2023-06-28 23:22:45.449115
+event_112_4,case_112,Perform Quality Checks,2023-07-21 03:53:03.871819
+event_112_4,case_112,Organize Shipping,2023-10-16 06:14:05.522138
+event_112_7,case_112,Process Refunds,2023-10-20 03:55:14.825345
+event_113_2,case_113,Validate Order,2023-02-10 15:42:12.607987
+event_113_6,case_113,Monitor Delivery Progress,2023-02-20 23:49:37.339960
+event_113_7,case_113,Handle Returns,2023-03-06 18:46:13.747288
+event_113_1,case_113,Receive Order,2023-03-15 13:15:52.368502
+event_113_7,case_113,Receive Payment,2023-03-24 14:45:19.079661
+event_113_4,case_113,Organize Shipping,2023-04-17 10:06:56.962369
+event_113_6,case_113,Receive Payment,2023-05-10 19:42:31.566864
+event_113_6,case_113,Deliver Item,2023-06-22 03:23:21.374540
+event_113_8,case_113,Gather Customer Feedback,2023-07-02 01:49:05.401375
+event_113_3,case_113,Allocate Inventory,2023-07-17 01:40:16.038624
+event_113_5,case_113,Dispatch Item,2023-08-04 01:27:59.047059
+event_113_5,case_113,Update Order Status,2023-09-04 12:11:36.290771
+event_114_7,case_114,Receive Payment,2023-01-09 02:49:42.276947
+event_114_2,case_114,Validate Order,2023-02-07 08:52:41.435376
+event_114_4,case_114,Organize Shipping,2023-04-10 08:57:45.769109
+event_114_6,case_114,Monitor Delivery Progress,2023-04-15 19:04:32.512955
+event_114_3,case_114,Allocate Inventory,2023-06-14 11:49:35.445508
+event_114_1,case_114,Receive Order,2023-06-16 03:19:49.502838
+event_114_8,case_114,Manage Customer Communication,2023-10-04 20:36:26.223216
+event_114_5,case_114,Update Order Status,2023-10-10 07:04:00.392375
+event_115_6,case_115,Monitor Delivery Progress,2023-01-21 01:28:10.547029
+event_115_3,case_115,Prepare Item,2023-01-28 22:19:49.648520
+event_115_7,case_115,Handle Returns,2023-04-06 03:11:56.503738
+event_115_5,case_115,Dispatch Item,2023-05-28 22:06:45.168093
+event_115_1,case_115,Receive Order,2023-06-03 01:04:31.157318
+event_115_8,case_115,Gather Customer Feedback,2023-09-01 09:00:48.250568
+event_115_4,case_115,Perform Quality Checks,2023-10-29 09:54:56.208009
+event_115_2,case_115,Confirm Order Details,2023-11-30 10:13:49.256309
+event_116_3,case_116,Schedule Production,2023-03-19 04:36:16.010210
+event_116_2,case_116,Confirm Order Details,2023-04-24 15:25:37.181140
+event_116_1,case_116,Receive Order,2023-04-28 10:08:48.260316
+event_116_4,case_116,Organize Shipping,2023-05-15 23:19:10.563605
+event_116_7,case_116,Receive Payment,2023-06-06 05:03:54.203863
+event_116_5,case_116,Update Order Status,2023-06-19 17:14:22.454844
+event_116_6,case_116,Deliver Item,2023-06-23 01:30:16.338730
+event_116_8,case_116,Manage Customer Communication,2023-11-04 07:49:47.210297
+event_117_6,case_117,Deliver Item,2023-02-23 19:30:25.822309
+event_117_1,case_117,Receive Order,2023-03-12 17:58:57.741109
+event_117_4,case_117,Perform Quality Checks,2023-04-02 09:57:24.846740
+event_117_8,case_117,Manage Customer Communication,2023-04-15 11:29:47.760905
+event_117_5,case_117,Update Order Status,2023-04-21 06:51:56.943777
+event_117_2,case_117,Validate Order,2023-06-12 05:13:46.498095
+event_117_3,case_117,Prepare Item,2023-10-05 03:38:53.137883
+event_117_7,case_117,Process Refunds,2023-11-30 20:42:30.247459
+event_118_7,case_118,Receive Payment,2023-01-12 09:18:22.976309
+event_118_5,case_118,Update Order Status,2023-02-13 23:43:43.144573
+event_118_6,case_118,Monitor Delivery Progress,2023-05-31 17:23:12.145287
+event_118_8,case_118,Gather Customer Feedback,2023-06-13 23:53:45.569631
+event_118_1,case_118,Receive Order,2023-08-04 02:31:10.212725
+event_118_2,case_118,Validate Order,2023-09-24 01:25:19.491315
+event_118_4,case_118,Perform Quality Checks,2023-11-04 22:57:59.989659
+event_118_3,case_118,Allocate Inventory,2023-11-12 20:41:46.876383
+event_119_5,case_119,Dispatch Item,2023-01-07 09:17:06.344427
+event_119_4,case_119,Perform Quality Checks,2023-03-19 15:33:52.889766
+event_119_1,case_119,Receive Order,2023-04-16 22:44:09.389313
+event_119_5,case_119,Update Order Status,2023-05-02 17:10:35.722094
+event_119_6,case_119,Deliver Item,2023-05-17 22:20:41.571617
+event_119_3,case_119,Allocate Inventory,2023-07-01 08:18:55.849312
+event_119_7,case_119,Handle Returns,2023-07-11 10:32:14.976277
+event_119_2,case_119,Confirm Order Details,2023-08-02 20:19:06.323292
+event_119_6,case_119,Monitor Delivery Progress,2023-08-19 20:25:16.670951
+event_119_6,case_119,Monitor Delivery Progress,2023-09-04 05:53:21.224428
+event_119_8,case_119,Manage Customer Communication,2023-11-22 03:58:40.090999
+event_12_6,case_12,Deliver Item,2023-01-02 06:46:46.684387
+event_12_1,case_12,Receive Order,2023-02-15 18:06:12.964320
+event_12_5,case_12,Dispatch Item,2023-04-12 20:13:50.982981
+event_12_8,case_12,Gather Customer Feedback,2023-04-14 03:00:18.397536
+event_12_6,case_12,Monitor Delivery Progress,2023-08-18 21:16:51.895463
+event_12_3,case_12,Allocate Inventory,2023-08-22 08:44:55.492634
+event_12_4,case_12,Perform Quality Checks,2023-09-11 08:13:15.561839
+event_12_2,case_12,Confirm Order Details,2023-09-24 02:35:46.548462
+event_12_3,case_12,Prepare Item,2023-10-29 05:02:39.417904
+event_12_7,case_12,Process Refunds,2023-10-30 17:56:54.460232
+event_120_8,case_120,Manage Customer Communication,2023-01-14 12:08:13.703633
+event_120_1,case_120,Receive Order,2023-03-03 20:37:51.544183
+event_120_2,case_120,Confirm Order Details,2023-04-06 12:33:50.445155
+event_120_3,case_120,Allocate Inventory,2023-05-03 10:56:48.617919
+event_120_7,case_120,Process Refunds,2023-07-17 17:05:22.085523
+event_120_5,case_120,Dispatch Item,2023-07-30 20:53:54.264117
+event_120_6,case_120,Monitor Delivery Progress,2023-09-08 02:30:27.439271
+event_120_4,case_120,Perform Quality Checks,2023-10-20 06:36:42.888479
+event_121_5,case_121,Dispatch Item,2023-01-06 17:15:43.760982
+event_121_2,case_121,Prepare Item,2023-01-19 05:28:22.447572
+event_121_6,case_121,Monitor Delivery Progress,2023-02-24 04:42:51.430263
+event_121_2,case_121,Confirm Order Details,2023-02-28 05:55:04.428108
+event_121_3,case_121,Schedule Production,2023-05-10 04:14:54.990538
+event_121_4,case_121,Perform Quality Checks,2023-06-15 12:56:59.900815
+event_121_1,case_121,Receive Order,2023-08-09 22:50:23.509680
+event_121_3,case_121,Prepare Item,2023-08-19 16:04:00.475564
+event_121_7,case_121,Handle Returns,2023-09-19 15:36:02.621101
+event_121_8,case_121,Manage Customer Communication,2023-09-30 22:18:13.702267
+event_122_2,case_122,Validate Order,2023-02-09 15:26:29.081553
+event_122_1,case_122,Receive Order,2023-04-19 18:54:10.670024
+event_122_8,case_122,Gather Customer Feedback,2023-07-28 09:14:18.448145
+event_122_3,case_122,Schedule Production,2023-08-14 21:56:51.729970
+event_122_4,case_122,Perform Quality Checks,2023-10-05 03:14:21.686949
+event_122_5,case_122,Dispatch Item,2023-10-12 01:21:13.673029
+event_122_7,case_122,Process Refunds,2023-11-10 01:05:17.833377
+event_122_6,case_122,Deliver Item,2023-11-19 07:57:44.617380
+event_123_5,case_123,Update Order Status,2023-01-12 14:20:45.921401
+event_123_4,case_123,Perform Quality Checks,2023-01-21 19:20:49.479046
+event_123_2,case_123,Validate Order,2023-02-09 04:00:03.850583
+event_123_6,case_123,Deliver Item,2023-04-14 09:05:38.922453
+event_123_3,case_123,Allocate Inventory,2023-05-19 21:50:47.111747
+event_123_7,case_123,Handle Returns,2023-07-31 11:56:10.908586
+event_123_1,case_123,Receive Order,2023-09-28 12:22:15.975531
+event_123_8,case_123,Gather Customer Feedback,2023-11-24 13:53:57.243495
+event_124_7,case_124,Handle Returns,2023-01-07 17:51:01.738078
+event_124_5,case_124,Dispatch Item,2023-01-12 02:12:18.073378
+event_124_4,case_124,Perform Quality Checks,2023-08-26 05:44:06.013725
+event_124_3,case_124,Schedule Production,2023-09-01 00:39:41.381219
+event_124_1,case_124,Receive Order,2023-09-06 09:12:43.645807
+event_124_8,case_124,Manage Customer Communication,2023-09-17 04:31:02.654452
+event_124_2,case_124,Confirm Order Details,2023-10-23 00:58:19.799651
+event_124_6,case_124,Monitor Delivery Progress,2023-11-21 22:12:58.396286
+event_125_4,case_125,Organize Shipping,2023-03-01 02:17:51.435669
+event_125_3,case_125,Schedule Production,2023-05-12 10:18:01.281660
+event_125_8,case_125,Manage Customer Communication,2023-05-14 01:29:49.310216
+event_125_1,case_125,Receive Order,2023-05-24 10:54:50.340813
+event_125_5,case_125,Update Order Status,2023-10-16 08:06:07.145297
+event_125_6,case_125,Monitor Delivery Progress,2023-11-08 08:10:48.632286
+event_125_2,case_125,Validate Order,2023-11-10 16:46:00.397567
+event_125_7,case_125,Process Refunds,2023-11-29 08:54:51.220297
+event_126_2,case_126,Confirm Order Details,2023-02-22 06:11:07.623186
+event_126_3,case_126,Prepare Item,2023-03-03 13:46:02.661735
+event_126_1,case_126,Receive Order,2023-03-09 19:04:01.921431
+event_126_4,case_126,Perform Quality Checks,2023-05-06 17:21:22.456818
+event_126_8,case_126,Manage Customer Communication,2023-07-05 23:01:48.209590
+event_126_7,case_126,Process Refunds,2023-07-21 00:31:25.900751
+event_126_6,case_126,Deliver Item,2023-11-22 11:27:08.444957
+event_126_5,case_126,Update Order Status,2023-12-04 21:48:24.652180
+event_127_6,case_127,Deliver Item,2023-04-16 12:45:38.751771
+event_127_6,case_127,Monitor Delivery Progress,2023-04-20 21:17:57.208238
+event_127_1,case_127,Receive Order,2023-05-03 19:32:39.454811
+event_127_4,case_127,Perform Quality Checks,2023-05-24 13:39:52.371522
+event_127_8,case_127,Manage Customer Communication,2023-06-08 21:59:45.448118
+event_127_2,case_127,Validate Order,2023-07-04 12:20:42.134310
+event_127_3,case_127,Allocate Inventory,2023-07-18 19:00:05.931297
+event_127_6,case_127,Deliver Item,2023-08-18 04:12:41.793788
+event_127_7,case_127,Handle Returns,2023-09-27 16:59:39.766726
+event_127_5,case_127,Dispatch Item,2023-09-29 10:54:11.031589
+event_128_1,case_128,Receive Order,2023-01-30 20:30:01.082676
+event_128_8,case_128,Manage Customer Communication,2023-03-05 09:01:15.056523
+event_128_5,case_128,Dispatch Item,2023-06-14 06:43:44.618352
+event_128_4,case_128,Perform Quality Checks,2023-06-24 19:59:37.228313
+event_128_3,case_128,Allocate Inventory,2023-07-28 21:15:27.808445
+event_128_5,case_128,Update Order Status,2023-08-13 02:44:09.343529
+event_128_6,case_128,Monitor Delivery Progress,2023-10-22 10:42:57.532129
+event_128_7,case_128,Process Refunds,2023-11-07 22:52:20.337114
+event_128_2,case_128,Validate Order,2023-11-29 12:34:11.342073
+event_129_2,case_129,Validate Order,2023-02-09 11:40:34.908662
+event_129_3,case_129,Allocate Inventory,2023-02-21 18:10:07.023537
+event_129_5,case_129,Dispatch Item,2023-03-25 16:38:44.063215
+event_129_4,case_129,Perform Quality Checks,2023-04-29 13:07:18.015488
+event_129_7,case_129,Handle Returns,2023-05-25 14:08:41.218768
+event_129_7,case_129,Receive Payment,2023-06-26 18:05:00.930917
+event_129_6,case_129,Deliver Item,2023-09-28 08:51:01.249745
+event_129_1,case_129,Receive Order,2023-11-15 09:39:07.094018
+event_129_8,case_129,Manage Customer Communication,2023-11-21 04:29:30.071959
+event_13_1,case_13,Receive Order,2023-01-11 13:11:15.852130
+event_13_7,case_13,Receive Payment,2023-02-07 16:32:17.476785
+event_13_2,case_13,Validate Order,2023-02-08 00:42:08.926609
+event_13_8,case_13,Manage Customer Communication,2023-03-01 20:11:45.985946
+event_13_2,case_13,Confirm Order Details,2023-03-19 03:35:29.299697
+event_13_3,case_13,Allocate Inventory,2023-05-16 04:41:19.557289
+event_13_6,case_13,Monitor Delivery Progress,2023-07-21 06:47:35.882560
+event_13_5,case_13,Update Order Status,2023-11-11 08:01:16.735317
+event_13_4,case_13,Perform Quality Checks,2023-11-11 22:11:48.630177
+event_130_8,case_130,Gather Customer Feedback,2023-01-02 09:23:57.863936
+event_130_3,case_130,Schedule Production,2023-03-23 00:45:36.599564
+event_130_2,case_130,Confirm Order Details,2023-06-10 12:49:29.696381
+event_130_7,case_130,Receive Payment,2023-06-21 03:59:58.549036
+event_130_5,case_130,Dispatch Item,2023-06-24 14:21:55.063345
+event_130_4,case_130,Perform Quality Checks,2023-07-16 04:15:23.943295
+event_130_6,case_130,Monitor Delivery Progress,2023-08-11 20:20:40.311969
+event_130_1,case_130,Receive Order,2023-08-30 02:40:04.372239
+event_130_4,case_130,Organize Shipping,2023-09-15 04:30:21.342350
+event_130_6,case_130,Deliver Item,2023-11-10 00:27:52.867738
+event_131_8,case_131,Manage Customer Communication,2023-04-14 22:03:00.453039
+event_131_6,case_131,Monitor Delivery Progress,2023-05-29 23:39:19.503738
+event_131_7,case_131,Handle Returns,2023-06-30 23:01:27.232576
+event_131_4,case_131,Perform Quality Checks,2023-08-08 18:39:14.710813
+event_131_5,case_131,Dispatch Item,2023-09-26 00:49:01.376466
+event_131_1,case_131,Receive Order,2023-10-21 01:43:07.294603
+event_131_2,case_131,Validate Order,2023-11-09 12:48:32.279307
+event_131_3,case_131,Schedule Production,2023-11-25 07:45:17.131308
+event_132_2,case_132,Confirm Order Details,2023-06-18 10:08:57.667189
+event_132_4,case_132,Organize Shipping,2023-07-01 04:31:45.105424
+event_132_5,case_132,Dispatch Item,2023-08-24 02:32:30.333297
+event_132_6,case_132,Monitor Delivery Progress,2023-09-07 03:07:52.888046
+event_132_7,case_132,Handle Returns,2023-10-15 00:01:51.354324
+event_132_1,case_132,Receive Order,2023-10-22 04:01:46.183627
+event_132_8,case_132,Gather Customer Feedback,2023-10-28 02:03:42.415537
+event_132_3,case_132,Schedule Production,2023-11-14 16:48:57.968186
+event_133_7,case_133,Process Refunds,2023-01-20 20:58:18.519259
+event_133_5,case_133,Update Order Status,2023-03-02 06:07:41.630937
+event_133_7,case_133,Receive Payment,2023-03-15 19:37:56.705434
+event_133_8,case_133,Gather Customer Feedback,2023-05-11 07:40:56.833798
+event_133_3,case_133,Schedule Production,2023-07-27 06:18:26.609879
+event_133_6,case_133,Deliver Item,2023-07-28 17:05:15.775957
+event_133_2,case_133,Validate Order,2023-08-23 12:59:13.700959
+event_133_4,case_133,Perform Quality Checks,2023-11-05 07:59:58.724722
+event_133_1,case_133,Receive Order,2023-11-25 22:36:58.082427
+event_134_1,case_134,Receive Order,2023-03-20 10:22:24.206890
+event_134_7,case_134,Process Refunds,2023-03-24 06:13:03.830100
+event_134_8,case_134,Manage Customer Communication,2023-04-06 10:51:08.415810
+event_134_7,case_134,Process Refunds,2023-04-24 09:08:27.715132
+event_134_3,case_134,Allocate Inventory,2023-07-10 12:03:22.618108
+event_134_6,case_134,Deliver Item,2023-07-16 14:47:21.890268
+event_134_7,case_134,Receive Payment,2023-08-02 10:13:31.022399
+event_134_2,case_134,Confirm Order Details,2023-09-02 05:42:32.608093
+event_134_5,case_134,Dispatch Item,2023-09-13 21:59:21.298906
+event_134_4,case_134,Perform Quality Checks,2023-11-21 03:27:52.478128
+event_135_4,case_135,Perform Quality Checks,2023-01-09 03:22:53.542892
+event_135_2,case_135,Confirm Order Details,2023-01-13 00:25:18.057795
+event_135_2,case_135,Validate Order,2023-02-15 17:59:10.557495
+event_135_6,case_135,Deliver Item,2023-08-09 23:32:34.474274
+event_135_3,case_135,Schedule Production,2023-09-08 00:59:18.778481
+event_135_5,case_135,Update Order Status,2023-09-11 23:52:31.196642
+event_135_8,case_135,Manage Customer Communication,2023-10-28 02:58:19.462364
+event_135_1,case_135,Receive Order,2023-11-19 04:18:42.026802
+event_135_6,case_135,Monitor Delivery Progress,2023-11-30 16:18:50.312780
+event_135_7,case_135,Process Refunds,2023-12-02 04:15:32.368493
+event_136_6,case_136,Monitor Delivery Progress,2023-01-09 00:07:12.977523
+event_136_2,case_136,Validate Order,2023-01-14 13:02:42.559392
+event_136_1,case_136,Receive Order,2023-02-13 07:28:48.206863
+event_136_2,case_136,Validate Order,2023-02-21 14:14:59.380110
+event_136_4,case_136,Perform Quality Checks,2023-03-18 02:26:07.945773
+event_136_3,case_136,Schedule Production,2023-06-05 11:24:33.879793
+event_136_2,case_136,Confirm Order Details,2023-06-22 18:13:14.032684
+event_136_7,case_136,Process Refunds,2023-09-12 22:28:55.597241
+event_136_2,case_136,Confirm Order Details,2023-09-18 14:40:01.385738
+event_136_5,case_136,Dispatch Item,2023-10-04 21:53:43.293863
+event_136_4,case_136,Organize Shipping,2023-10-20 07:26:12.704408
+event_136_3,case_136,Schedule Production,2023-11-04 09:17:57.274377
+event_136_8,case_136,Manage Customer Communication,2023-11-29 10:10:16.341737
+event_137_5,case_137,Dispatch Item,2023-01-05 12:11:24.947495
+event_137_3,case_137,Prepare Item,2023-01-10 20:33:23.334718
+event_137_7,case_137,Receive Payment,2023-01-11 07:31:35.065380
+event_137_4,case_137,Organize Shipping,2023-01-18 21:47:22.428023
+event_137_1,case_137,Receive Order,2023-05-18 00:54:57.620546
+event_137_6,case_137,Deliver Item,2023-07-28 13:43:15.256278
+event_137_2,case_137,Confirm Order Details,2023-08-12 00:23:07.905531
+event_137_8,case_137,Gather Customer Feedback,2023-11-24 07:04:52.622685
+event_138_6,case_138,Deliver Item,2023-03-29 10:15:48.407676
+event_138_7,case_138,Process Refunds,2023-07-08 11:28:29.956543
+event_138_2,case_138,Confirm Order Details,2023-08-10 22:52:04.893251
+event_138_5,case_138,Update Order Status,2023-09-11 13:46:18.252561
+event_138_3,case_138,Allocate Inventory,2023-09-17 15:03:48.932446
+event_138_8,case_138,Gather Customer Feedback,2023-09-20 16:01:50.496992
+event_138_1,case_138,Receive Order,2023-10-11 08:31:24.979178
+event_138_4,case_138,Perform Quality Checks,2023-12-06 03:38:32.534827
+event_139_8,case_139,Gather Customer Feedback,2023-01-30 20:33:55.885808
+event_139_2,case_139,Confirm Order Details,2023-02-04 07:35:33.138188
+event_139_6,case_139,Deliver Item,2023-02-06 08:22:19.615923
+event_139_5,case_139,Update Order Status,2023-04-08 01:22:44.787923
+event_139_4,case_139,Organize Shipping,2023-04-09 15:19:33.038959
+event_139_7,case_139,Process Refunds,2023-05-26 10:24:45.397524
+event_139_3,case_139,Prepare Item,2023-07-21 06:33:00.685827
+event_139_1,case_139,Receive Order,2023-07-28 03:00:25.815894
+event_139_5,case_139,Dispatch Item,2023-10-15 14:52:31.086830
+event_139_4,case_139,Update Order Status,2023-11-14 10:26:06.263581
+event_14_1,case_14,Receive Order,2023-04-02 11:10:14.876339
+event_14_2,case_14,Validate Order,2023-04-16 11:34:43.467180
+event_14_7,case_14,Receive Payment,2023-06-02 14:14:35.619904
+event_14_4,case_14,Organize Shipping,2023-06-04 00:00:11.381787
+event_14_6,case_14,Monitor Delivery Progress,2023-07-06 18:09:38.479814
+event_14_8,case_14,Gather Customer Feedback,2023-09-12 14:04:49.641447
+event_14_3,case_14,Schedule Production,2023-11-22 18:20:23.560996
+event_14_5,case_14,Update Order Status,2023-11-30 01:01:05.334991
+event_140_1,case_140,Receive Order,2023-02-08 05:01:23.726189
+event_140_5,case_140,Dispatch Item,2023-02-10 10:02:28.897471
+event_140_7,case_140,Receive Payment,2023-03-01 15:41:14.440980
+event_140_6,case_140,Deliver Item,2023-03-06 22:53:14.077111
+event_140_6,case_140,Deliver Item,2023-03-24 18:20:38.514249
+event_140_7,case_140,Handle Returns,2023-05-11 10:13:31.826586
+event_140_3,case_140,Schedule Production,2023-05-26 01:29:02.119693
+event_140_7,case_140,Receive Payment,2023-06-22 01:46:49.784949
+event_140_4,case_140,Perform Quality Checks,2023-09-06 12:06:48.087556
+event_140_8,case_140,Manage Customer Communication,2023-09-28 14:28:30.885442
+event_140_2,case_140,Validate Order,2023-11-07 22:59:07.695771
+event_141_1,case_141,Receive Order,2023-01-15 10:41:20.684022
+event_141_4,case_141,Organize Shipping,2023-01-29 04:57:51.387403
+event_141_3,case_141,Allocate Inventory,2023-01-30 19:03:06.268367
+event_141_6,case_141,Monitor Delivery Progress,2023-03-07 03:03:27.443734
+event_141_7,case_141,Handle Returns,2023-04-14 22:35:58.291924
+event_141_2,case_141,Validate Order,2023-07-22 15:51:59.333544
+event_141_8,case_141,Manage Customer Communication,2023-09-04 09:24:17.039300
+event_141_5,case_141,Update Order Status,2023-09-06 12:56:16.210388
+event_142_8,case_142,Gather Customer Feedback,2023-01-08 22:21:02.911699
+event_142_1,case_142,Receive Order,2023-01-24 10:55:09.126106
+event_142_4,case_142,Organize Shipping,2023-03-04 12:22:07.481559
+event_142_2,case_142,Confirm Order Details,2023-06-14 14:20:08.544600
+event_142_3,case_142,Schedule Production,2023-08-19 01:35:26.674405
+event_142_7,case_142,Process Refunds,2023-09-27 17:23:13.660099
+event_142_5,case_142,Dispatch Item,2023-10-06 05:51:08.281157
+event_142_6,case_142,Monitor Delivery Progress,2023-11-17 14:22:29.641803
+event_143_8,case_143,Manage Customer Communication,2023-02-02 16:43:36.674964
+event_143_2,case_143,Validate Order,2023-03-03 01:12:32.081818
+event_143_3,case_143,Allocate Inventory,2023-04-11 19:47:22.049449
+event_143_1,case_143,Receive Order,2023-05-03 18:24:24.601061
+event_143_5,case_143,Dispatch Item,2023-05-07 04:01:03.046982
+event_143_7,case_143,Receive Payment,2023-06-21 06:19:15.682039
+event_143_2,case_143,Confirm Order Details,2023-07-05 23:16:43.291731
+event_143_4,case_143,Perform Quality Checks,2023-09-21 11:01:08.969239
+event_143_6,case_143,Deliver Item,2023-11-03 09:34:51.762406
+event_144_8,case_144,Manage Customer Communication,2023-01-17 05:43:05.594164
+event_144_6,case_144,Deliver Item,2023-01-29 01:58:09.628926
+event_144_4,case_144,Organize Shipping,2023-03-20 20:36:08.848320
+event_144_1,case_144,Receive Order,2023-05-10 17:51:59.447763
+event_144_5,case_144,Update Order Status,2023-08-03 13:21:56.405914
+event_144_7,case_144,Receive Payment,2023-09-05 11:44:39.832561
+event_144_3,case_144,Prepare Item,2023-11-23 17:00:56.934545
+event_144_2,case_144,Confirm Order Details,2023-11-26 17:53:57.587603
+event_145_5,case_145,Update Order Status,2023-01-15 05:44:05.572788
+event_145_2,case_145,Confirm Order Details,2023-03-10 02:37:14.058826
+event_145_4,case_145,Perform Quality Checks,2023-03-24 08:47:46.162173
+event_145_3,case_145,Allocate Inventory,2023-05-03 05:37:15.567076
+event_145_6,case_145,Monitor Delivery Progress,2023-06-11 02:46:27.533030
+event_145_7,case_145,Handle Returns,2023-07-29 10:03:56.697690
+event_145_1,case_145,Receive Order,2023-08-24 05:27:57.615060
+event_145_8,case_145,Manage Customer Communication,2023-08-27 05:52:17.087089
+event_146_3,case_146,Allocate Inventory,2023-01-31 01:38:43.386832
+event_146_2,case_146,Confirm Order Details,2023-04-06 04:58:45.389544
+event_146_6,case_146,Monitor Delivery Progress,2023-05-31 19:34:28.441845
+event_146_4,case_146,Organize Shipping,2023-08-02 15:28:59.995872
+event_146_5,case_146,Dispatch Item,2023-08-13 21:51:35.802258
+event_146_7,case_146,Receive Payment,2023-08-20 21:48:49.437579
+event_146_1,case_146,Receive Order,2023-08-22 11:43:40.247714
+event_146_3,case_146,Schedule Production,2023-10-01 00:00:23.737813
+event_146_8,case_146,Gather Customer Feedback,2023-12-02 13:10:01.128103
+event_147_3,case_147,Allocate Inventory,2023-01-28 07:23:36.164720
+event_147_5,case_147,Update Order Status,2023-02-17 15:37:58.251354
+event_147_2,case_147,Confirm Order Details,2023-03-12 15:21:53.486190
+event_147_6,case_147,Deliver Item,2023-05-17 05:15:14.137694
+event_147_8,case_147,Gather Customer Feedback,2023-06-12 18:45:02.423038
+event_147_4,case_147,Organize Shipping,2023-07-06 12:18:51.814669
+event_147_1,case_147,Receive Order,2023-08-07 13:10:02.635775
+event_147_7,case_147,Process Refunds,2023-10-05 17:16:32.265309
+event_148_2,case_148,Validate Order,2023-02-11 15:20:38.386821
+event_148_3,case_148,Allocate Inventory,2023-04-10 22:40:47.036815
+event_148_4,case_148,Perform Quality Checks,2023-04-19 10:54:34.581077
+event_148_8,case_148,Gather Customer Feedback,2023-04-26 21:10:56.453296
+event_148_6,case_148,Monitor Delivery Progress,2023-08-11 07:18:05.714874
+event_148_7,case_148,Process Refunds,2023-10-24 10:40:06.374340
+event_148_5,case_148,Update Order Status,2023-11-11 16:59:48.943249
+event_148_1,case_148,Receive Order,2023-12-06 21:15:38.540157
+event_148_3,case_148,Prepare Item,2023-12-08 12:36:17.137964
+event_149_8,case_149,Gather Customer Feedback,2023-04-07 19:20:20.652384
+event_149_6,case_149,Deliver Item,2023-06-20 03:55:49.241494
+event_149_7,case_149,Receive Payment,2023-07-03 00:51:11.257070
+event_149_1,case_149,Receive Order,2023-07-17 04:45:15.451174
+event_149_3,case_149,Schedule Production,2023-07-22 13:12:28.989083
+event_149_2,case_149,Validate Order,2023-08-26 21:33:05.524594
+event_149_5,case_149,Dispatch Item,2023-10-25 15:52:49.257393
+event_149_5,case_149,Update Order Status,2023-12-02 01:11:56.259160
+event_149_4,case_149,Perform Quality Checks,2023-12-02 20:05:12.311508
+event_15_1,case_15,Receive Order,2023-02-24 09:08:00.706035
+event_15_7,case_15,Handle Returns,2023-02-24 18:13:13.568664
+event_15_3,case_15,Allocate Inventory,2023-02-25 17:21:31.898582
+event_15_8,case_15,Gather Customer Feedback,2023-04-21 17:49:57.090773
+event_15_6,case_15,Monitor Delivery Progress,2023-08-30 09:28:29.124708
+event_15_2,case_15,Validate Order,2023-11-07 11:26:39.248791
+event_15_4,case_15,Perform Quality Checks,2023-11-08 12:30:27.647984
+event_15_5,case_15,Dispatch Item,2023-12-02 02:02:49.899827
+event_150_7,case_150,Process Refunds,2023-03-08 20:11:37.629659
+event_150_3,case_150,Prepare Item,2023-03-15 20:53:25.883073
+event_150_2,case_150,Validate Order,2023-03-16 23:45:35.390044
+event_150_8,case_150,Gather Customer Feedback,2023-03-31 10:12:01.682374
+event_150_4,case_150,Organize Shipping,2023-07-01 07:32:32.784740
+event_150_1,case_150,Receive Order,2023-10-10 13:58:49.250112
+event_150_6,case_150,Deliver Item,2023-10-13 05:53:12.991456
+event_150_5,case_150,Update Order Status,2023-11-11 07:19:15.935559
+event_151_4,case_151,Organize Shipping,2023-02-09 10:17:43.748407
+event_151_1,case_151,Receive Order,2023-04-18 21:58:06.863402
+event_151_2,case_151,Confirm Order Details,2023-06-22 08:19:41.169394
+event_151_5,case_151,Dispatch Item,2023-06-26 12:34:44.300930
+event_151_3,case_151,Schedule Production,2023-07-07 17:45:40.697385
+event_151_7,case_151,Receive Payment,2023-07-20 03:42:06.659594
+event_151_8,case_151,Gather Customer Feedback,2023-09-14 16:45:55.223460
+event_151_6,case_151,Monitor Delivery Progress,2023-11-08 13:43:39.909264
+event_151_6,case_151,Deliver Item,2023-11-30 21:02:41.522628
+event_152_4,case_152,Organize Shipping,2023-01-10 08:00:48.410004
+event_152_6,case_152,Deliver Item,2023-02-07 03:18:10.073309
+event_152_5,case_152,Dispatch Item,2023-03-08 05:28:20.340666
+event_152_3,case_152,Schedule Production,2023-06-06 11:50:55.496586
+event_152_7,case_152,Process Refunds,2023-06-08 00:28:18.433796
+event_152_6,case_152,Monitor Delivery Progress,2023-06-26 22:01:10.761040
+event_152_2,case_152,Confirm Order Details,2023-07-21 04:34:18.320692
+event_152_1,case_152,Receive Order,2023-08-28 05:12:44.473826
+event_152_8,case_152,Gather Customer Feedback,2023-09-12 17:49:42.045169
+event_152_7,case_152,Process Refunds,2023-10-03 04:32:26.751220
+event_153_5,case_153,Dispatch Item,2023-03-15 20:23:16.009013
+event_153_2,case_153,Confirm Order Details,2023-03-23 14:35:08.555338
+event_153_6,case_153,Deliver Item,2023-05-26 19:36:28.730334
+event_153_4,case_153,Organize Shipping,2023-06-02 19:28:50.941517
+event_153_2,case_153,Validate Order,2023-07-13 16:01:26.596937
+event_153_3,case_153,Schedule Production,2023-07-17 20:01:56.322573
+event_153_1,case_153,Receive Order,2023-08-07 22:53:08.707212
+event_153_7,case_153,Handle Returns,2023-09-24 22:34:05.816753
+event_153_8,case_153,Gather Customer Feedback,2023-11-15 18:40:18.512374
+event_154_7,case_154,Process Refunds,2023-01-31 01:55:02.505887
+event_154_1,case_154,Receive Order,2023-04-03 03:13:26.642357
+event_154_6,case_154,Monitor Delivery Progress,2023-06-07 16:41:27.095409
+event_154_2,case_154,Confirm Order Details,2023-08-14 15:09:19.399498
+event_154_4,case_154,Perform Quality Checks,2023-09-05 09:30:29.665988
+event_154_8,case_154,Manage Customer Communication,2023-10-03 15:12:19.967363
+event_154_5,case_154,Update Order Status,2023-11-27 10:25:02.234100
+event_154_3,case_154,Prepare Item,2023-11-29 01:35:06.338044
+event_155_1,case_155,Receive Order,2023-01-20 11:59:13.272470
+event_155_6,case_155,Monitor Delivery Progress,2023-02-08 23:45:45.795389
+event_155_5,case_155,Dispatch Item,2023-02-28 06:04:08.917640
+event_155_2,case_155,Validate Order,2023-05-01 11:40:15.549348
+event_155_8,case_155,Gather Customer Feedback,2023-05-25 03:16:50.692904
+event_155_3,case_155,Schedule Production,2023-06-05 21:37:49.093660
+event_155_3,case_155,Allocate Inventory,2023-07-05 15:51:10.975119
+event_155_7,case_155,Handle Returns,2023-07-29 09:16:08.726058
+event_155_1,case_155,Validate Order,2023-09-07 06:26:53.921759
+event_155_4,case_155,Organize Shipping,2023-11-13 16:06:21.829598
+event_155_2,case_155,Confirm Order Details,2023-11-30 22:23:58.806659
+event_156_3,case_156,Schedule Production,2023-01-07 01:16:19.216627
+event_156_1,case_156,Receive Order,2023-01-11 09:15:05.632244
+event_156_2,case_156,Validate Order,2023-02-02 23:37:47.004152
+event_156_6,case_156,Monitor Delivery Progress,2023-02-24 11:31:10.689947
+event_156_4,case_156,Organize Shipping,2023-03-08 10:00:53.102875
+event_156_5,case_156,Dispatch Item,2023-07-06 05:44:38.524173
+event_156_7,case_156,Handle Returns,2023-09-17 02:36:39.753471
+event_156_8,case_156,Gather Customer Feedback,2023-11-08 16:51:00.993704
+event_157_3,case_157,Allocate Inventory,2023-01-14 03:18:17.431545
+event_157_4,case_157,Organize Shipping,2023-01-18 16:28:32.760473
+event_157_1,case_157,Receive Order,2023-02-19 17:28:30.543773
+event_157_7,case_157,Receive Payment,2023-02-21 19:36:23.259649
+event_157_2,case_157,Validate Order,2023-05-25 19:57:48.029134
+event_157_8,case_157,Manage Customer Communication,2023-10-16 04:46:45.432923
+event_157_5,case_157,Dispatch Item,2023-10-19 04:13:27.332589
+event_157_6,case_157,Deliver Item,2023-11-08 00:47:48.949792
+event_158_2,case_158,Validate Order,2023-06-21 02:39:16.909913
+event_158_6,case_158,Deliver Item,2023-07-14 13:22:46.401678
+event_158_8,case_158,Manage Customer Communication,2023-10-10 05:38:50.529449
+event_158_4,case_158,Perform Quality Checks,2023-10-13 12:55:22.074248
+event_158_5,case_158,Dispatch Item,2023-10-15 04:35:59.176185
+event_158_3,case_158,Schedule Production,2023-12-02 20:42:23.968873
+event_158_7,case_158,Process Refunds,2023-12-03 03:44:43.693599
+event_158_1,case_158,Receive Order,2023-12-05 15:33:57.526960
+event_159_2,case_159,Confirm Order Details,2023-01-13 07:00:32.050405
+event_159_5,case_159,Update Order Status,2023-01-21 09:56:01.262853
+event_159_8,case_159,Gather Customer Feedback,2023-01-23 08:14:10.960437
+event_159_7,case_159,Receive Payment,2023-02-19 08:19:38.948932
+event_159_7,case_159,Handle Returns,2023-04-14 05:00:06.434570
+event_159_1,case_159,Receive Order,2023-05-04 18:38:37.094845
+event_159_3,case_159,Allocate Inventory,2023-05-12 14:32:57.677871
+event_159_4,case_159,Perform Quality Checks,2023-08-11 06:12:08.881073
+event_159_6,case_159,Deliver Item,2023-11-25 06:06:58.292132
+event_16_5,case_16,Update Order Status,2023-03-14 09:20:41.480418
+event_16_6,case_16,Monitor Delivery Progress,2023-05-14 19:15:18.703364
+event_16_7,case_16,Process Refunds,2023-06-14 13:35:30.305034
+event_16_3,case_16,Allocate Inventory,2023-06-15 17:33:12.859750
+event_16_2,case_16,Validate Order,2023-08-20 02:20:22.205109
+event_16_8,case_16,Gather Customer Feedback,2023-08-24 10:13:01.740872
+event_16_4,case_16,Perform Quality Checks,2023-09-10 02:06:28.274591
+event_16_1,case_16,Receive Order,2023-09-17 17:15:07.957374
+event_160_5,case_160,Dispatch Item,2023-01-05 12:25:43.360037
+event_160_2,case_160,Confirm Order Details,2023-01-23 15:50:09.774131
+event_160_6,case_160,Deliver Item,2023-02-10 18:14:32.000159
+event_160_7,case_160,Process Refunds,2023-04-16 01:42:18.353118
+event_160_6,case_160,Monitor Delivery Progress,2023-05-29 12:29:47.096151
+event_160_3,case_160,Allocate Inventory,2023-07-01 01:58:39.249861
+event_160_8,case_160,Manage Customer Communication,2023-07-15 12:07:31.169502
+event_160_4,case_160,Organize Shipping,2023-09-19 22:10:18.259598
+event_160_1,case_160,Receive Order,2023-11-01 15:09:25.626144
+event_160_5,case_160,Update Order Status,2023-11-10 22:22:20.979810
+event_161_7,case_161,Receive Payment,2023-04-12 00:16:28.793231
+event_161_4,case_161,Perform Quality Checks,2023-05-02 15:23:38.161562
+event_161_8,case_161,Manage Customer Communication,2023-06-27 18:24:30.088451
+event_161_6,case_161,Monitor Delivery Progress,2023-07-12 15:59:23.878596
+event_161_2,case_161,Confirm Order Details,2023-08-22 18:52:26.783122
+event_161_3,case_161,Schedule Production,2023-09-25 15:12:33.692090
+event_161_1,case_161,Receive Order,2023-10-06 09:28:57.895614
+event_161_7,case_161,Process Refunds,2023-10-19 02:28:23.719664
+event_161_5,case_161,Update Order Status,2023-11-16 01:13:05.898223
+event_162_6,case_162,Monitor Delivery Progress,2023-01-11 17:56:49.577136
+event_162_7,case_162,Receive Payment,2023-01-13 20:05:01.497740
+event_162_3,case_162,Schedule Production,2023-03-09 20:15:34.811038
+event_162_5,case_162,Update Order Status,2023-04-28 19:21:03.439672
+event_162_8,case_162,Manage Customer Communication,2023-05-08 03:38:31.149876
+event_162_1,case_162,Receive Order,2023-05-26 01:23:08.402407
+event_162_4,case_162,Organize Shipping,2023-08-11 18:14:49.267499
+event_162_2,case_162,Confirm Order Details,2023-11-27 02:49:23.760653
+event_163_2,case_163,Confirm Order Details,2023-01-24 06:10:58.932845
+event_163_6,case_163,Deliver Item,2023-03-20 20:39:22.830455
+event_163_5,case_163,Update Order Status,2023-03-26 03:59:24.135774
+event_163_7,case_163,Handle Returns,2023-05-19 07:08:31.466201
+event_163_4,case_163,Perform Quality Checks,2023-08-25 06:46:17.166377
+event_163_1,case_163,Receive Order,2023-09-23 04:43:28.887413
+event_163_3,case_163,Schedule Production,2023-10-13 07:56:02.296947
+event_163_8,case_163,Manage Customer Communication,2023-10-13 16:53:32.636190
+event_163_2,case_163,Validate Order,2023-12-07 21:28:47.564633
+event_164_2,case_164,Validate Order,2023-01-26 13:42:08.418982
+event_164_6,case_164,Monitor Delivery Progress,2023-02-12 15:20:45.700299
+event_164_8,case_164,Gather Customer Feedback,2023-06-22 14:19:32.713840
+event_164_5,case_164,Dispatch Item,2023-08-03 18:41:29.625827
+event_164_7,case_164,Handle Returns,2023-08-03 23:54:42.563196
+event_164_3,case_164,Allocate Inventory,2023-10-09 03:18:15.358232
+event_164_4,case_164,Perform Quality Checks,2023-11-13 01:14:01.016750
+event_164_1,case_164,Receive Order,2023-12-08 12:00:17.698507
+event_165_5,case_165,Update Order Status,2023-01-02 00:13:15.984637
+event_165_3,case_165,Prepare Item,2023-02-06 12:37:18.782323
+event_165_5,case_165,Monitor Delivery Progress,2023-03-30 18:40:13.127466
+event_165_5,case_165,Dispatch Item,2023-05-27 21:32:35.785351
+event_165_4,case_165,Organize Shipping,2023-08-11 05:52:27.111802
+event_165_1,case_165,Receive Order,2023-08-18 11:00:27.085427
+event_165_6,case_165,Deliver Item,2023-08-24 16:14:04.406676
+event_165_2,case_165,Confirm Order Details,2023-10-28 10:10:18.576096
+event_165_6,case_165,Monitor Delivery Progress,2023-10-29 18:24:39.570770
+event_165_8,case_165,Manage Customer Communication,2023-11-02 21:52:04.563130
+event_165_7,case_165,Receive Payment,2023-11-24 17:56:45.418192
+event_166_2,case_166,Validate Order,2023-03-01 11:42:49.700870
+event_166_6,case_166,Monitor Delivery Progress,2023-05-14 05:12:57.558394
+event_166_4,case_166,Perform Quality Checks,2023-06-16 15:21:14.252356
+event_166_1,case_166,Receive Order,2023-07-02 19:48:23.416989
+event_166_3,case_166,Allocate Inventory,2023-07-09 04:50:04.092064
+event_166_5,case_166,Update Order Status,2023-08-22 10:08:34.864415
+event_166_7,case_166,Receive Payment,2023-09-29 03:57:34.230662
+event_166_7,case_166,Process Refunds,2023-10-04 02:17:58.746166
+event_166_8,case_166,Manage Customer Communication,2023-11-19 16:11:05.898723
+event_167_2,case_167,Confirm Order Details,2023-01-23 10:44:15.123486
+event_167_1,case_167,Receive Order,2023-02-25 20:23:38.888746
+event_167_3,case_167,Allocate Inventory,2023-04-06 22:13:19.657820
+event_167_4,case_167,Organize Shipping,2023-06-14 18:18:48.486501
+event_167_8,case_167,Manage Customer Communication,2023-08-20 18:57:30.456691
+event_167_6,case_167,Deliver Item,2023-08-25 22:51:58.837703
+event_167_7,case_167,Process Refunds,2023-09-28 11:58:53.152027
+event_167_5,case_167,Update Order Status,2023-12-07 08:37:46.508456
+event_168_5,case_168,Dispatch Item,2023-01-07 15:17:23.521202
+event_168_6,case_168,Monitor Delivery Progress,2023-02-02 00:57:51.124152
+event_168_1,case_168,Receive Order,2023-06-09 01:50:13.532320
+event_168_3,case_168,Prepare Item,2023-06-10 14:42:36.707278
+event_168_8,case_168,Gather Customer Feedback,2023-06-17 11:11:18.352959
+event_168_2,case_168,Validate Order,2023-08-04 03:45:20.314441
+event_168_7,case_168,Handle Returns,2023-10-27 03:46:25.393396
+event_168_4,case_168,Organize Shipping,2023-11-18 17:24:06.709283
+event_169_8,case_169,Gather Customer Feedback,2023-01-02 22:26:36.299517
+event_169_1,case_169,Receive Order,2023-01-17 15:36:16.627227
+event_169_7,case_169,Process Refunds,2023-04-01 09:56:38.536500
+event_169_5,case_169,Update Order Status,2023-05-24 18:30:22.267856
+event_169_3,case_169,Schedule Production,2023-05-24 23:45:21.598288
+event_169_2,case_169,Validate Order,2023-06-17 08:17:36.381491
+event_169_4,case_169,Perform Quality Checks,2023-08-16 08:47:42.843008
+event_169_6,case_169,Monitor Delivery Progress,2023-08-17 06:34:45.104305
+event_17_4,case_17,Organize Shipping,2023-01-11 18:11:43.343174
+event_17_8,case_17,Gather Customer Feedback,2023-02-05 14:57:06.683358
+event_17_1,case_17,Receive Order,2023-05-16 07:20:40.872786
+event_17_2,case_17,Validate Order,2023-07-11 03:31:19.838987
+event_17_7,case_17,Process Refunds,2023-07-27 19:21:04.711351
+event_17_3,case_17,Allocate Inventory,2023-10-11 03:01:42.699255
+event_17_6,case_17,Monitor Delivery Progress,2023-10-16 08:30:31.343167
+event_17_5,case_17,Update Order Status,2023-11-13 00:18:26.704401
+event_170_7,case_170,Handle Returns,2023-01-23 09:41:47.470539
+event_170_2,case_170,Validate Order,2023-03-23 06:44:46.040956
+event_170_2,case_170,Confirm Order Details,2023-05-14 06:20:52.099813
+event_170_5,case_170,Dispatch Item,2023-05-16 02:15:40.498436
+event_170_4,case_170,Organize Shipping,2023-06-20 17:30:21.726530
+event_170_1,case_170,Receive Order,2023-07-15 11:36:21.378687
+event_170_3,case_170,Allocate Inventory,2023-08-18 10:45:03.049472
+event_170_6,case_170,Monitor Delivery Progress,2023-10-12 09:50:15.993226
+event_170_8,case_170,Manage Customer Communication,2023-11-01 00:32:21.709953
+event_170_5,case_170,Update Order Status,2023-12-02 21:21:58.714435
+event_171_8,case_171,Gather Customer Feedback,2023-01-06 14:37:09.525308
+event_171_7,case_171,Receive Payment,2023-04-23 03:01:13.557346
+event_171_5,case_171,Update Order Status,2023-05-05 23:45:34.166829
+event_171_6,case_171,Monitor Delivery Progress,2023-05-13 07:29:31.854890
+event_171_1,case_171,Receive Order,2023-05-26 17:49:38.225010
+event_171_2,case_171,Confirm Order Details,2023-06-04 10:09:00.999832
+event_171_3,case_171,Schedule Production,2023-08-14 08:20:20.557327
+event_171_4,case_171,Organize Shipping,2023-09-21 23:21:06.701990
+event_172_4,case_172,Perform Quality Checks,2023-01-05 19:01:39.201468
+event_172_7,case_172,Receive Payment,2023-01-28 10:47:54.148348
+event_172_8,case_172,Manage Customer Communication,2023-02-26 00:27:26.498442
+event_172_5,case_172,Update Order Status,2023-03-11 18:20:51.740608
+event_172_3,case_172,Schedule Production,2023-05-12 12:35:57.219315
+event_172_1,case_172,Receive Order,2023-08-06 22:34:41.085073
+event_172_2,case_172,Confirm Order Details,2023-08-14 17:27:10.261811
+event_172_6,case_172,Deliver Item,2023-09-27 04:10:06.631984
+event_173_7,case_173,Handle Returns,2023-03-21 17:21:26.868500
+event_173_8,case_173,Manage Customer Communication,2023-05-13 15:19:10.856417
+event_173_5,case_173,Dispatch Item,2023-05-26 20:10:33.097499
+event_173_6,case_173,Monitor Delivery Progress,2023-05-29 06:46:26.277780
+event_173_3,case_173,Prepare Item,2023-06-22 14:10:46.581326
+event_173_1,case_173,Receive Order,2023-08-04 17:46:02.864216
+event_173_4,case_173,Organize Shipping,2023-08-07 16:58:11.345600
+event_173_2,case_173,Validate Order,2023-08-07 20:15:34.561004
+event_173_6,case_173,Deliver Item,2023-11-21 04:22:40.611238
+event_174_8,case_174,Manage Customer Communication,2023-01-12 09:36:55.435747
+event_174_6,case_174,Monitor Delivery Progress,2023-02-01 05:45:20.161099
+event_174_2,case_174,Confirm Order Details,2023-02-09 14:05:56.346454
+event_174_3,case_174,Allocate Inventory,2023-05-04 18:34:20.095789
+event_174_4,case_174,Perform Quality Checks,2023-05-13 20:00:35.634775
+event_174_5,case_174,Update Order Status,2023-05-18 16:30:22.765059
+event_174_7,case_174,Handle Returns,2023-06-19 09:27:55.022198
+event_174_1,case_174,Receive Order,2023-06-29 09:11:13.029785
+event_174_5,case_174,Dispatch Item,2023-12-01 04:21:07.588083
+event_175_1,case_175,Receive Order,2023-02-02 08:02:07.106540
+event_175_4,case_175,Perform Quality Checks,2023-05-27 05:08:49.843436
+event_175_2,case_175,Validate Order,2023-06-04 15:14:58.002322
+event_175_8,case_175,Gather Customer Feedback,2023-07-05 19:05:36.404774
+event_175_7,case_175,Process Refunds,2023-08-03 18:05:00.187268
+event_175_5,case_175,Dispatch Item,2023-08-14 00:38:10.238657
+event_175_3,case_175,Schedule Production,2023-08-26 05:39:15.218175
+event_175_6,case_175,Deliver Item,2023-10-17 20:57:26.697347
+event_176_3,case_176,Schedule Production,2023-04-23 02:44:30.973770
+event_176_5,case_176,Dispatch Item,2023-05-22 00:22:32.835948
+event_176_7,case_176,Receive Payment,2023-06-20 07:46:06.230886
+event_176_8,case_176,Manage Customer Communication,2023-08-16 01:03:40.788332
+event_176_6,case_176,Monitor Delivery Progress,2023-09-13 12:55:43.189441
+event_176_4,case_176,Perform Quality Checks,2023-10-07 19:38:35.693366
+event_176_2,case_176,Confirm Order Details,2023-10-19 21:34:36.593868
+event_176_1,case_176,Receive Order,2023-11-20 19:56:09.809819
+event_177_4,case_177,Organize Shipping,2023-02-27 15:04:58.725488
+event_177_8,case_177,Gather Customer Feedback,2023-03-09 12:13:58.455209
+event_177_4,case_177,Perform Quality Checks,2023-04-01 16:27:03.570044
+event_177_3,case_177,Schedule Production,2023-05-13 21:08:42.756212
+event_177_1,case_177,Receive Order,2023-05-22 03:13:35.568303
+event_177_6,case_177,Monitor Delivery Progress,2023-07-26 13:33:53.901976
+event_177_7,case_177,Receive Payment,2023-08-11 12:38:32.468848
+event_177_2,case_177,Validate Order,2023-11-03 19:51:46.513321
+event_177_5,case_177,Dispatch Item,2023-12-05 02:37:06.974462
+event_178_2,case_178,Validate Order,2023-03-06 14:51:34.898359
+event_178_5,case_178,Dispatch Item,2023-05-13 18:15:37.103586
+event_178_8,case_178,Gather Customer Feedback,2023-05-13 23:51:09.664900
+event_178_3,case_178,Allocate Inventory,2023-06-12 15:39:31.634229
+event_178_3,case_178,Prepare Item,2023-07-19 19:31:07.554291
+event_178_4,case_178,Perform Quality Checks,2023-08-28 02:45:52.534725
+event_178_1,case_178,Receive Order,2023-09-20 08:02:30.395002
+event_178_6,case_178,Deliver Item,2023-10-27 01:52:08.817825
+event_178_7,case_178,Process Refunds,2023-11-10 16:13:50.388308
+event_179_6,case_179,Monitor Delivery Progress,2023-01-27 07:17:44.280980
+event_179_3,case_179,Prepare Item,2023-05-29 20:50:29.735921
+event_179_8,case_179,Manage Customer Communication,2023-06-14 20:39:13.516128
+event_179_7,case_179,Handle Returns,2023-07-10 18:22:03.895430
+event_179_2,case_179,Confirm Order Details,2023-07-19 18:30:42.428339
+event_179_4,case_179,Organize Shipping,2023-08-20 07:02:11.995155
+event_179_1,case_179,Receive Order,2023-09-11 12:43:21.626781
+event_179_5,case_179,Update Order Status,2023-10-01 03:16:19.268629
+event_179_7,case_179,Process Refunds,2023-12-01 16:53:18.356842
+event_18_3,case_18,Schedule Production,2023-02-21 01:39:08.959954
+event_18_1,case_18,Receive Order,2023-03-11 19:35:12.214375
+event_18_7,case_18,Receive Payment,2023-04-05 20:23:04.897074
+event_18_6,case_18,Deliver Item,2023-06-14 19:36:58.028868
+event_18_2,case_18,Validate Order,2023-07-12 05:31:27.439518
+event_18_5,case_18,Update Order Status,2023-07-16 13:40:37.607161
+event_18_4,case_18,Organize Shipping,2023-08-17 11:53:37.663911
+event_18_8,case_18,Manage Customer Communication,2023-10-24 11:23:25.863693
+event_180_4,case_180,Perform Quality Checks,2023-01-11 16:39:40.959619
+event_180_7,case_180,Handle Returns,2023-02-03 17:39:05.840366
+event_180_3,case_180,Allocate Inventory,2023-03-07 23:10:33.472647
+event_180_4,case_180,Perform Quality Checks,2023-04-26 16:46:14.235155
+event_180_3,case_180,Prepare Item,2023-05-05 15:31:15.841300
+event_180_6,case_180,Deliver Item,2023-07-16 20:06:30.336041
+event_180_1,case_180,Receive Order,2023-09-01 11:16:44.656120
+event_180_8,case_180,Manage Customer Communication,2023-09-03 05:45:52.268086
+event_180_5,case_180,Dispatch Item,2023-10-03 12:10:25.407254
+event_180_2,case_180,Confirm Order Details,2023-11-24 16:26:38.151795
+event_181_1,case_181,Receive Order,2023-01-08 18:59:44.429794
+event_181_3,case_181,Prepare Item,2023-02-05 16:45:49.480235
+event_181_4,case_181,Organize Shipping,2023-02-23 18:12:01.554240
+event_181_8,case_181,Manage Customer Communication,2023-03-03 00:51:06.128611
+event_181_6,case_181,Deliver Item,2023-03-04 10:03:44.150848
+event_181_5,case_181,Dispatch Item,2023-06-30 05:25:17.416171
+event_181_2,case_181,Validate Order,2023-10-10 01:51:31.420727
+event_181_7,case_181,Handle Returns,2023-10-17 22:27:21.344436
+event_181_3,case_181,Allocate Inventory,2023-10-30 03:49:22.063150
+event_182_4,case_182,Organize Shipping,2023-02-15 02:12:45.615351
+event_182_6,case_182,Deliver Item,2023-05-03 15:28:01.307354
+event_182_7,case_182,Process Refunds,2023-06-10 02:36:40.434027
+event_182_3,case_182,Prepare Item,2023-06-11 09:11:21.077688
+event_182_5,case_182,Dispatch Item,2023-08-17 06:57:51.498208
+event_182_2,case_182,Validate Order,2023-09-16 10:25:11.149289
+event_182_8,case_182,Gather Customer Feedback,2023-10-22 07:04:49.604949
+event_182_1,case_182,Receive Order,2023-12-05 11:12:49.528915
+event_183_1,case_183,Receive Order,2023-01-01 15:25:42.131051
+event_183_4,case_183,Perform Quality Checks,2023-01-05 15:27:13.697524
+event_183_7,case_183,Receive Payment,2023-01-10 11:11:56.849163
+event_183_8,case_183,Manage Customer Communication,2023-04-07 15:09:34.540758
+event_183_6,case_183,Monitor Delivery Progress,2023-07-28 12:40:02.990803
+event_183_5,case_183,Dispatch Item,2023-07-28 14:52:33.673835
+event_183_2,case_183,Confirm Order Details,2023-08-10 20:07:51.927752
+event_183_3,case_183,Schedule Production,2023-11-13 04:20:18.438154
+event_184_3,case_184,Allocate Inventory,2023-04-14 08:49:57.630899
+event_184_7,case_184,Receive Payment,2023-06-02 10:39:21.359480
+event_184_8,case_184,Gather Customer Feedback,2023-06-15 22:07:09.356483
+event_184_6,case_184,Monitor Delivery Progress,2023-06-21 03:17:32.998244
+event_184_5,case_184,Dispatch Item,2023-06-30 11:43:41.540771
+event_184_1,case_184,Receive Order,2023-10-04 08:27:56.832427
+event_184_2,case_184,Confirm Order Details,2023-10-09 01:57:53.049069
+event_184_5,case_184,Update Order Status,2023-10-27 23:24:16.484592
+event_184_4,case_184,Organize Shipping,2023-10-30 12:41:23.771868
+event_185_1,case_185,Receive Order,2023-01-16 22:32:54.532030
+event_185_8,case_185,Gather Customer Feedback,2023-02-01 03:37:42.684407
+event_185_4,case_185,Perform Quality Checks,2023-03-01 10:13:22.898611
+event_185_2,case_185,Validate Order,2023-03-03 11:56:06.210985
+event_185_4,case_185,Perform Quality Checks,2023-04-19 00:16:52.385535
+event_185_5,case_185,Update Order Status,2023-05-11 22:41:19.278496
+event_185_7,case_185,Receive Payment,2023-09-06 12:35:08.606884
+event_185_5,case_185,Update Order Status,2023-10-02 20:38:04.305676
+event_185_6,case_185,Monitor Delivery Progress,2023-11-04 07:59:06.081356
+event_185_3,case_185,Prepare Item,2023-12-05 00:35:13.351080
+event_186_1,case_186,Validate Order,2023-01-17 07:18:32.523540
+event_186_5,case_186,Update Order Status,2023-01-25 17:16:01.948913
+event_186_4,case_186,Perform Quality Checks,2023-02-15 03:49:07.917266
+event_186_8,case_186,Manage Customer Communication,2023-02-18 02:28:50.542321
+event_186_1,case_186,Validate Order,2023-04-06 06:46:33.227729
+event_186_7,case_186,Receive Payment,2023-05-15 17:04:40.742382
+event_186_6,case_186,Monitor Delivery Progress,2023-06-29 00:11:40.693457
+event_186_4,case_186,Organize Shipping,2023-07-02 10:31:52.471866
+event_186_1,case_186,Receive Order,2023-07-13 06:21:05.169374
+event_186_3,case_186,Schedule Production,2023-07-26 15:10:56.881937
+event_186_2,case_186,Confirm Order Details,2023-08-14 18:58:17.406828
+event_186_2,case_186,Validate Order,2023-11-10 09:07:34.835089
+event_187_8,case_187,Manage Customer Communication,2023-01-16 13:00:10.658658
+event_187_6,case_187,Monitor Delivery Progress,2023-02-02 03:49:48.145255
+event_187_2,case_187,Confirm Order Details,2023-02-22 06:36:00.813436
+event_187_5,case_187,Dispatch Item,2023-03-12 12:52:30.638970
+event_187_7,case_187,Receive Payment,2023-04-29 14:24:23.844284
+event_187_2,case_187,Validate Order,2023-05-11 12:36:15.989522
+event_187_7,case_187,Handle Returns,2023-08-17 18:00:36.146053
+event_187_4,case_187,Perform Quality Checks,2023-09-16 08:33:36.664778
+event_187_3,case_187,Schedule Production,2023-09-25 17:13:07.626589
+event_187_1,case_187,Receive Order,2023-11-06 08:03:05.253285
+event_188_6,case_188,Deliver Item,2023-03-06 15:40:51.055654
+event_188_1,case_188,Receive Order,2023-03-15 22:49:02.715556
+event_188_5,case_188,Update Order Status,2023-03-17 07:54:15.727097
+event_188_7,case_188,Receive Payment,2023-06-15 19:07:01.997201
+event_188_3,case_188,Prepare Item,2023-06-24 14:59:35.137624
+event_188_4,case_188,Organize Shipping,2023-07-16 09:27:14.854960
+event_188_2,case_188,Validate Order,2023-08-28 16:26:30.794649
+event_188_7,case_188,Process Refunds,2023-09-25 13:48:15.090631
+event_188_8,case_188,Gather Customer Feedback,2023-10-27 20:59:46.129213
+event_189_8,case_189,Manage Customer Communication,2023-01-13 11:05:15.639523
+event_189_3,case_189,Prepare Item,2023-02-17 08:51:03.910433
+event_189_7,case_189,Process Refunds,2023-03-14 09:02:04.047532
+event_189_6,case_189,Monitor Delivery Progress,2023-04-13 16:57:57.317016
+event_189_2,case_189,Validate Order,2023-06-19 08:19:41.488193
+event_189_1,case_189,Receive Order,2023-07-02 19:21:44.461457
+event_189_7,case_189,Handle Returns,2023-08-09 21:39:19.812601
+event_189_5,case_189,Update Order Status,2023-08-20 06:28:53.129600
+event_189_4,case_189,Perform Quality Checks,2023-11-15 02:08:41.469852
+event_19_7,case_19,Handle Returns,2023-01-24 07:12:12.883444
+event_19_1,case_19,Receive Order,2023-02-23 01:31:53.613919
+event_19_4,case_19,Organize Shipping,2023-03-28 23:51:56.498328
+event_19_2,case_19,Confirm Order Details,2023-06-07 20:36:33.119268
+event_19_3,case_19,Schedule Production,2023-10-17 00:55:21.805367
+event_19_8,case_19,Manage Customer Communication,2023-10-18 11:49:32.881902
+event_19_5,case_19,Dispatch Item,2023-11-03 04:06:50.390026
+event_19_6,case_19,Monitor Delivery Progress,2023-11-21 05:00:48.234409
+event_190_5,case_190,Dispatch Item,2023-04-09 01:51:20.188397
+event_190_6,case_190,Deliver Item,2023-06-14 11:04:37.936974
+event_190_1,case_190,Receive Order,2023-06-15 13:06:54.129071
+event_190_3,case_190,Prepare Item,2023-07-05 06:25:22.741642
+event_190_4,case_190,Perform Quality Checks,2023-07-06 11:54:13.028768
+event_190_7,case_190,Process Refunds,2023-07-22 17:38:10.129676
+event_190_2,case_190,Confirm Order Details,2023-07-31 02:33:28.021763
+event_190_5,case_190,Update Order Status,2023-11-18 00:24:56.630053
+event_190_8,case_190,Gather Customer Feedback,2023-12-03 16:06:02.340937
+event_191_5,case_191,Deliver Item,2023-02-06 02:17:10.022676
+event_191_5,case_191,Dispatch Item,2023-02-11 04:16:36.498817
+event_191_6,case_191,Monitor Delivery Progress,2023-03-25 15:01:47.305048
+event_191_5,case_191,Dispatch Item,2023-04-21 18:25:16.582328
+event_191_1,case_191,Receive Order,2023-04-24 20:41:47.849076
+event_191_7,case_191,Process Refunds,2023-04-26 23:31:46.185928
+event_191_3,case_191,Schedule Production,2023-06-26 17:00:57.167510
+event_191_8,case_191,Gather Customer Feedback,2023-07-30 18:08:07.547387
+event_191_6,case_191,Deliver Item,2023-09-12 07:22:28.571702
+event_191_2,case_191,Validate Order,2023-09-24 23:41:49.018460
+event_191_4,case_191,Perform Quality Checks,2023-12-01 17:00:37.895955
+event_192_1,case_192,Receive Order,2023-01-03 13:06:47.802581
+event_192_6,case_192,Monitor Delivery Progress,2023-02-03 07:34:20.676184
+event_192_2,case_192,Validate Order,2023-02-13 09:25:31.972316
+event_192_8,case_192,Gather Customer Feedback,2023-03-17 07:32:02.000421
+event_192_3,case_192,Schedule Production,2023-04-14 06:29:27.063554
+event_192_5,case_192,Update Order Status,2023-06-19 21:05:59.795920
+event_192_4,case_192,Organize Shipping,2023-08-11 16:41:37.736094
+event_192_7,case_192,Process Refunds,2023-09-30 03:04:30.011451
+event_193_1,case_193,Receive Order,2023-01-30 19:36:07.826101
+event_193_2,case_193,Confirm Order Details,2023-02-22 07:31:32.921596
+event_193_7,case_193,Process Refunds,2023-04-24 06:50:09.892884
+event_193_3,case_193,Prepare Item,2023-05-09 22:43:24.667397
+event_193_5,case_193,Dispatch Item,2023-06-11 17:03:05.067209
+event_193_8,case_193,Gather Customer Feedback,2023-09-03 23:50:14.365895
+event_193_4,case_193,Organize Shipping,2023-09-29 00:44:03.944138
+event_193_6,case_193,Monitor Delivery Progress,2023-10-03 14:49:14.879524
+event_194_7,case_194,Process Refunds,2023-01-13 09:39:48.437582
+event_194_4,case_194,Perform Quality Checks,2023-02-11 22:29:29.147595
+event_194_5,case_194,Dispatch Item,2023-04-02 01:48:57.527253
+event_194_2,case_194,Confirm Order Details,2023-04-11 14:05:37.068510
+event_194_8,case_194,Gather Customer Feedback,2023-04-30 08:20:24.577130
+event_194_6,case_194,Monitor Delivery Progress,2023-06-01 17:33:39.178073
+event_194_3,case_194,Schedule Production,2023-07-31 20:31:32.251444
+event_194_1,case_194,Receive Order,2023-11-30 19:41:51.619859
+event_195_7,case_195,Handle Returns,2023-02-10 02:18:08.371230
+event_195_1,case_195,Receive Order,2023-02-25 03:46:03.338767
+event_195_6,case_195,Monitor Delivery Progress,2023-03-01 16:06:37.546351
+event_195_4,case_195,Perform Quality Checks,2023-06-29 04:35:54.184185
+event_195_2,case_195,Confirm Order Details,2023-09-05 07:27:13.334435
+event_195_5,case_195,Dispatch Item,2023-09-08 01:09:55.573664
+event_195_8,case_195,Gather Customer Feedback,2023-10-27 01:17:44.016319
+event_195_3,case_195,Allocate Inventory,2023-11-10 00:28:47.229016
+event_196_3,case_196,Prepare Item,2023-01-07 13:00:43.968402
+event_196_4,case_196,Perform Quality Checks,2023-02-03 10:09:08.609529
+event_196_8,case_196,Manage Customer Communication,2023-02-08 03:03:36.458599
+event_196_7,case_196,Receive Payment,2023-04-21 12:42:46.970118
+event_196_2,case_196,Validate Order,2023-05-15 09:33:35.393130
+event_196_1,case_196,Receive Order,2023-06-24 17:47:19.459215
+event_196_6,case_196,Monitor Delivery Progress,2023-08-11 20:51:18.771060
+event_196_5,case_196,Dispatch Item,2023-11-23 14:05:43.983416
+event_197_8,case_197,Gather Customer Feedback,2023-01-26 21:30:06.915556
+event_197_7,case_197,Process Refunds,2023-02-07 14:12:46.673183
+event_197_2,case_197,Confirm Order Details,2023-02-25 10:35:15.208765
+event_197_7,case_197,Handle Returns,2023-05-19 06:24:33.946342
+event_197_5,case_197,Update Order Status,2023-05-20 15:17:10.225050
+event_197_3,case_197,Allocate Inventory,2023-07-02 16:03:04.445566
+event_197_6,case_197,Deliver Item,2023-08-08 20:38:51.726797
+event_197_1,case_197,Receive Order,2023-09-19 19:36:35.877812
+event_197_4,case_197,Perform Quality Checks,2023-09-19 22:08:34.373936
+event_198_8,case_198,Manage Customer Communication,2023-01-28 16:36:04.106465
+event_198_2,case_198,Validate Order,2023-04-13 15:33:25.063850
+event_198_4,case_198,Organize Shipping,2023-05-22 23:26:48.845619
+event_198_7,case_198,Receive Payment,2023-05-27 22:29:19.477602
+event_198_2,case_198,Confirm Order Details,2023-07-05 04:47:01.607977
+event_198_5,case_198,Dispatch Item,2023-09-05 20:32:00.486376
+event_198_3,case_198,Allocate Inventory,2023-09-20 14:49:17.871602
+event_198_6,case_198,Monitor Delivery Progress,2023-09-25 13:20:46.835114
+event_198_1,case_198,Receive Order,2023-10-02 19:21:49.012636
+event_199_3,case_199,Schedule Production,2023-02-26 06:05:31.835728
+event_199_8,case_199,Gather Customer Feedback,2023-03-19 08:37:11.525677
+event_199_4,case_199,Organize Shipping,2023-05-22 16:26:46.120880
+event_199_3,case_199,Prepare Item,2023-06-22 00:50:45.297939
+event_199_5,case_199,Dispatch Item,2023-07-05 06:27:17.055939
+event_199_7,case_199,Receive Payment,2023-07-11 20:25:17.067781
+event_199_6,case_199,Deliver Item,2023-07-19 14:54:35.820598
+event_199_1,case_199,Receive Order,2023-09-16 22:44:09.519565
+event_199_2,case_199,Validate Order,2023-10-30 07:20:09.685553
+event_199_6,case_199,Monitor Delivery Progress,2023-11-24 00:54:43.305746
+event_2_5,case_2,Update Order Status,2023-04-20 08:53:07.370967
+event_2_7,case_2,Receive Payment,2023-05-06 10:36:12.607154
+event_2_1,case_2,Receive Order,2023-05-25 23:09:10.068278
+event_2_3,case_2,Prepare Item,2023-08-30 19:28:45.922534
+event_2_2,case_2,Confirm Order Details,2023-09-21 03:51:44.791854
+event_2_8,case_2,Gather Customer Feedback,2023-10-20 11:01:31.736252
+event_2_6,case_2,Deliver Item,2023-10-29 22:20:15.768063
+event_2_4,case_2,Organize Shipping,2023-11-05 14:12:53.882240
+event_20_8,case_20,Manage Customer Communication,2023-02-16 03:33:57.890591
+event_20_3,case_20,Allocate Inventory,2023-02-17 07:14:33.391118
+event_20_5,case_20,Dispatch Item,2023-03-16 11:04:42.467538
+event_20_2,case_20,Validate Order,2023-04-05 20:07:38.364287
+event_20_2,case_20,Allocate Inventory,2023-05-16 09:53:48.786150
+event_20_3,case_20,Allocate Inventory,2023-07-16 17:51:52.570231
+event_20_3,case_20,Prepare Item,2023-07-29 08:03:19.286415
+event_20_7,case_20,Receive Payment,2023-08-02 01:28:34.013977
+event_20_1,case_20,Receive Order,2023-09-24 13:14:32.747587
+event_20_4,case_20,Organize Shipping,2023-10-23 17:55:04.495128
+event_20_6,case_20,Monitor Delivery Progress,2023-11-26 02:45:43.542902
+event_200_2,case_200,Confirm Order Details,2023-02-08 04:21:19.598726
+event_200_3,case_200,Prepare Item,2023-03-08 13:02:56.859444
+event_200_8,case_200,Manage Customer Communication,2023-05-19 20:32:39.576407
+event_200_1,case_200,Receive Order,2023-05-30 12:54:50.043367
+event_200_6,case_200,Deliver Item,2023-07-01 20:36:16.653102
+event_200_5,case_200,Dispatch Item,2023-07-03 09:26:10.325181
+event_200_4,case_200,Perform Quality Checks,2023-07-19 07:13:16.316619
+event_200_7,case_200,Process Refunds,2023-10-24 04:54:55.194750
+event_201_5,case_201,Update Order Status,2023-03-26 09:49:42.525359
+event_201_2,case_201,Validate Order,2023-04-09 06:45:31.073640
+event_201_4,case_201,Perform Quality Checks,2023-04-28 23:29:58.974129
+event_201_6,case_201,Monitor Delivery Progress,2023-05-28 16:28:55.288393
+event_201_7,case_201,Process Refunds,2023-06-05 10:44:51.439010
+event_201_1,case_201,Receive Order,2023-07-11 02:47:35.832785
+event_201_8,case_201,Manage Customer Communication,2023-09-14 12:56:02.252263
+event_201_3,case_201,Schedule Production,2023-11-04 04:07:21.156061
+event_202_8,case_202,Manage Customer Communication,2023-03-04 00:32:52.511190
+event_202_2,case_202,Confirm Order Details,2023-03-09 03:57:05.289623
+event_202_2,case_202,Validate Order,2023-03-10 05:43:09.951246
+event_202_3,case_202,Allocate Inventory,2023-03-14 09:38:39.193284
+event_202_5,case_202,Dispatch Item,2023-03-22 17:49:42.881605
+event_202_3,case_202,Schedule Production,2023-03-23 02:39:16.037929
+event_202_7,case_202,Process Refunds,2023-04-10 03:10:31.505054
+event_202_4,case_202,Organize Shipping,2023-04-27 20:20:38.276808
+event_202_4,case_202,Organize Shipping,2023-07-15 14:09:51.216491
+event_202_6,case_202,Deliver Item,2023-07-28 20:19:48.331069
+event_202_7,case_202,Receive Payment,2023-07-30 01:55:01.553037
+event_202_5,case_202,Update Order Status,2023-09-17 04:31:56.099316
+event_202_1,case_202,Receive Order,2023-12-06 22:21:27.249447
+event_203_7,case_203,Handle Returns,2023-01-02 11:44:18.561571
+event_203_1,case_203,Receive Order,2023-02-08 06:17:25.132895
+event_203_4,case_203,Organize Shipping,2023-02-15 09:59:44.008574
+event_203_2,case_203,Validate Order,2023-04-23 11:18:52.936026
+event_203_5,case_203,Update Order Status,2023-05-05 15:24:07.180473
+event_203_6,case_203,Monitor Delivery Progress,2023-05-15 13:24:07.755893
+event_203_3,case_203,Prepare Item,2023-06-02 03:06:48.020870
+event_203_7,case_203,Receive Payment,2023-06-17 15:34:42.915707
+event_203_8,case_203,Manage Customer Communication,2023-07-04 07:19:22.285863
+event_204_4,case_204,Perform Quality Checks,2023-01-06 12:53:04.985041
+event_204_6,case_204,Deliver Item,2023-01-07 20:31:04.925310
+event_204_7,case_204,Handle Returns,2023-01-10 19:44:22.565368
+event_204_1,case_204,Receive Order,2023-03-08 00:36:38.288146
+event_204_3,case_204,Prepare Item,2023-05-10 04:18:05.372746
+event_204_8,case_204,Manage Customer Communication,2023-07-06 08:04:34.887964
+event_204_2,case_204,Confirm Order Details,2023-10-24 12:20:39.691798
+event_204_5,case_204,Update Order Status,2023-12-07 22:46:44.734131
+event_205_1,case_205,Receive Order,2023-01-27 12:39:20.729534
+event_205_7,case_205,Process Refunds,2023-02-08 09:49:49.362982
+event_205_6,case_205,Deliver Item,2023-02-19 14:59:43.826282
+event_205_3,case_205,Prepare Item,2023-03-18 03:22:54.407480
+event_205_5,case_205,Update Order Status,2023-04-01 09:05:14.161729
+event_205_2,case_205,Confirm Order Details,2023-05-25 22:21:20.428439
+event_205_4,case_205,Organize Shipping,2023-05-31 03:57:22.239608
+event_205_8,case_205,Gather Customer Feedback,2023-07-24 02:16:16.424859
+event_205_2,case_205,Validate Order,2023-08-14 11:57:44.512735
+event_206_2,case_206,Validate Order,2023-01-08 00:50:41.688880
+event_206_3,case_206,Schedule Production,2023-01-24 17:19:43.860936
+event_206_6,case_206,Monitor Delivery Progress,2023-03-01 06:07:46.115728
+event_206_7,case_206,Handle Returns,2023-03-13 20:49:31.265514
+event_206_5,case_206,Dispatch Item,2023-04-12 16:11:23.633476
+event_206_4,case_206,Perform Quality Checks,2023-04-23 04:24:50.409433
+event_206_1,case_206,Receive Order,2023-04-24 12:11:55.890258
+event_206_3,case_206,Prepare Item,2023-11-04 10:30:15.674307
+event_206_8,case_206,Manage Customer Communication,2023-11-13 18:51:50.856099
+event_207_3,case_207,Prepare Item,2023-02-14 11:45:46.499131
+event_207_6,case_207,Deliver Item,2023-03-04 19:27:48.604068
+event_207_2,case_207,Validate Order,2023-04-28 01:57:23.029119
+event_207_7,case_207,Process Refunds,2023-08-24 16:57:56.369433
+event_207_1,case_207,Receive Order,2023-09-08 18:06:34.825695
+event_207_8,case_207,Gather Customer Feedback,2023-09-12 00:34:24.026066
+event_207_4,case_207,Organize Shipping,2023-10-20 15:31:12.715874
+event_207_5,case_207,Update Order Status,2023-11-25 15:54:23.664742
+event_208_7,case_208,Handle Returns,2023-01-21 22:12:53.553694
+event_208_4,case_208,Organize Shipping,2023-01-28 09:19:42.952395
+event_208_3,case_208,Prepare Item,2023-02-20 01:32:29.845674
+event_208_5,case_208,Update Order Status,2023-03-01 21:22:18.663410
+event_208_2,case_208,Validate Order,2023-06-10 18:11:39.534522
+event_208_8,case_208,Manage Customer Communication,2023-06-13 22:38:29.121429
+event_208_6,case_208,Deliver Item,2023-10-08 09:25:19.362018
+event_208_1,case_208,Receive Order,2023-10-29 03:56:12.020072
+event_209_6,case_209,Deliver Item,2023-02-07 10:02:43.818468
+event_209_2,case_209,Confirm Order Details,2023-02-28 15:31:44.648861
+event_209_7,case_209,Process Refunds,2023-04-12 09:40:42.592194
+event_209_3,case_209,Schedule Production,2023-04-26 11:40:22.205484
+event_209_5,case_209,Update Order Status,2023-05-28 12:41:28.288097
+event_209_1,case_209,Receive Order,2023-07-07 18:14:21.765484
+event_209_8,case_209,Gather Customer Feedback,2023-07-22 19:11:56.930249
+event_209_4,case_209,Perform Quality Checks,2023-10-12 06:14:04.675189
+event_21_8,case_21,Gather Customer Feedback,2023-06-27 08:09:38.766227
+event_21_1,case_21,Receive Order,2023-08-13 01:57:20.809474
+event_21_5,case_21,Update Order Status,2023-08-22 09:33:16.945482
+event_21_3,case_21,Prepare Item,2023-09-02 18:26:31.551477
+event_21_4,case_21,Perform Quality Checks,2023-09-13 23:49:07.678654
+event_21_2,case_21,Validate Order,2023-09-21 20:04:04.155216
+event_21_7,case_21,Receive Payment,2023-11-02 23:42:40.557710
+event_21_6,case_21,Monitor Delivery Progress,2023-12-02 10:54:27.124496
+event_210_1,case_210,Receive Order,2023-02-20 18:41:51.600451
+event_210_6,case_210,Process Refunds,2023-05-07 10:11:51.479440
+event_210_7,case_210,Receive Payment,2023-05-10 13:11:47.632204
+event_210_7,case_210,Process Refunds,2023-05-27 09:29:36.424389
+event_210_4,case_210,Organize Shipping,2023-08-05 02:12:33.007850
+event_210_2,case_210,Confirm Order Details,2023-08-15 12:11:06.242381
+event_210_2,case_210,Validate Order,2023-08-22 13:11:19.147189
+event_210_8,case_210,Gather Customer Feedback,2023-09-05 08:03:18.695212
+event_210_3,case_210,Allocate Inventory,2023-10-11 18:06:13.754641
+event_210_6,case_210,Deliver Item,2023-10-12 13:08:58.658903
+event_210_5,case_210,Update Order Status,2023-12-05 18:57:16.451729
+event_211_5,case_211,Update Order Status,2023-02-02 10:18:20.649690
+event_211_7,case_211,Handle Returns,2023-02-15 06:07:39.842831
+event_211_2,case_211,Confirm Order Details,2023-02-18 01:18:49.437946
+event_211_2,case_211,Validate Order,2023-06-07 12:47:25.429552
+event_211_5,case_211,Update Order Status,2023-07-05 09:47:29.234887
+event_211_5,case_211,Dispatch Item,2023-07-06 13:17:34.424946
+event_211_1,case_211,Receive Order,2023-07-30 23:34:23.667511
+event_211_3,case_211,Schedule Production,2023-09-04 15:57:53.208887
+event_211_4,case_211,Perform Quality Checks,2023-09-11 00:53:58.657902
+event_211_8,case_211,Manage Customer Communication,2023-11-16 22:21:38.015350
+event_211_6,case_211,Monitor Delivery Progress,2023-11-25 13:33:01.468942
+event_212_4,case_212,Perform Quality Checks,2023-02-28 12:23:49.537006
+event_212_7,case_212,Receive Payment,2023-03-11 07:46:36.692362
+event_212_2,case_212,Confirm Order Details,2023-06-04 19:07:09.037425
+event_212_3,case_212,Prepare Item,2023-06-21 21:49:30.743324
+event_212_1,case_212,Receive Order,2023-08-28 21:38:16.125755
+event_212_5,case_212,Update Order Status,2023-08-29 13:38:19.779324
+event_212_6,case_212,Deliver Item,2023-09-03 09:33:45.851107
+event_212_8,case_212,Gather Customer Feedback,2023-10-08 16:36:16.491585
+event_213_7,case_213,Process Refunds,2023-01-09 22:23:53.606385
+event_213_3,case_213,Allocate Inventory,2023-02-06 09:57:47.471571
+event_213_6,case_213,Deliver Item,2023-02-23 18:13:29.978301
+event_213_5,case_213,Update Order Status,2023-05-05 13:33:11.867855
+event_213_2,case_213,Confirm Order Details,2023-05-09 11:40:24.520935
+event_213_8,case_213,Manage Customer Communication,2023-10-04 03:41:23.480319
+event_213_4,case_213,Perform Quality Checks,2023-10-18 04:06:15.443586
+event_213_1,case_213,Receive Order,2023-11-24 11:27:46.449851
+event_214_7,case_214,Handle Returns,2023-01-07 14:07:11.497850
+event_214_7,case_214,Receive Payment,2023-02-23 00:21:03.054720
+event_214_3,case_214,Schedule Production,2023-03-09 20:01:24.924047
+event_214_6,case_214,Monitor Delivery Progress,2023-03-18 20:17:17.587165
+event_214_7,case_214,Process Refunds,2023-05-28 08:41:36.586321
+event_214_8,case_214,Gather Customer Feedback,2023-05-28 10:38:36.155566
+event_214_4,case_214,Organize Shipping,2023-07-27 09:46:48.860930
+event_214_2,case_214,Validate Order,2023-07-27 10:06:25.975002
+event_214_1,case_214,Receive Order,2023-09-17 18:40:06.212439
+event_214_6,case_214,Deliver Item,2023-10-01 14:12:11.867674
+event_214_5,case_214,Update Order Status,2023-11-04 12:00:20.526254
+event_215_7,case_215,Handle Returns,2023-03-16 12:14:15.857318
+event_215_5,case_215,Dispatch Item,2023-03-22 11:16:47.744811
+event_215_2,case_215,Validate Order,2023-06-03 22:23:38.868560
+event_215_4,case_215,Perform Quality Checks,2023-06-26 00:23:20.879926
+event_215_3,case_215,Allocate Inventory,2023-08-07 16:34:33.938004
+event_215_6,case_215,Monitor Delivery Progress,2023-08-18 04:20:48.777418
+event_215_7,case_215,Process Refunds,2023-08-28 19:56:55.443472
+event_215_8,case_215,Manage Customer Communication,2023-10-22 12:45:01.191222
+event_215_1,case_215,Receive Order,2023-12-03 17:30:55.309142
+event_216_1,case_216,Receive Order,2023-01-13 02:16:27.964494
+event_216_3,case_216,Schedule Production,2023-05-21 14:47:15.894027
+event_216_7,case_216,Receive Payment,2023-07-25 22:26:48.601340
+event_216_2,case_216,Confirm Order Details,2023-09-07 09:21:21.971083
+event_216_6,case_216,Monitor Delivery Progress,2023-10-17 23:11:16.547701
+event_216_8,case_216,Manage Customer Communication,2023-10-20 09:24:46.289146
+event_216_5,case_216,Dispatch Item,2023-11-21 22:32:36.936548
+event_216_4,case_216,Perform Quality Checks,2023-11-28 10:08:28.309869
+event_217_1,case_217,Receive Order,2023-03-19 00:32:14.846704
+event_217_7,case_217,Process Refunds,2023-04-02 11:56:03.245090
+event_217_8,case_217,Manage Customer Communication,2023-05-15 02:58:32.930343
+event_217_3,case_217,Allocate Inventory,2023-06-29 03:28:21.691010
+event_217_2,case_217,Validate Order,2023-09-13 06:11:51.998688
+event_217_2,case_217,Confirm Order Details,2023-09-30 23:16:43.871038
+event_217_5,case_217,Update Order Status,2023-10-20 14:23:07.872303
+event_217_6,case_217,Deliver Item,2023-11-01 08:55:18.523338
+event_217_4,case_217,Perform Quality Checks,2023-11-12 03:51:56.650228
+event_218_8,case_218,Gather Customer Feedback,2023-02-06 01:20:10.807651
+event_218_1,case_218,Receive Order,2023-03-04 05:08:49.801303
+event_218_7,case_218,Receive Payment,2023-03-24 12:34:07.142410
+event_218_4,case_218,Perform Quality Checks,2023-05-08 17:00:45.098469
+event_218_6,case_218,Deliver Item,2023-06-30 20:18:10.268107
+event_218_5,case_218,Dispatch Item,2023-07-28 21:57:36.908098
+event_218_2,case_218,Confirm Order Details,2023-09-19 14:41:50.752697
+event_218_3,case_218,Prepare Item,2023-12-03 17:45:33.023349
+event_219_5,case_219,Update Order Status,2023-01-15 01:10:02.322206
+event_219_7,case_219,Receive Payment,2023-04-14 01:35:18.680473
+event_219_6,case_219,Deliver Item,2023-05-19 07:41:01.651265
+event_219_3,case_219,Prepare Item,2023-05-24 02:22:38.339905
+event_219_8,case_219,Manage Customer Communication,2023-06-04 09:25:46.114904
+event_219_2,case_219,Confirm Order Details,2023-06-27 03:00:54.676686
+event_219_1,case_219,Receive Order,2023-07-14 17:35:05.326655
+event_219_4,case_219,Perform Quality Checks,2023-10-30 23:25:43.236712
+event_22_3,case_22,Allocate Inventory,2023-02-27 07:07:54.127783
+event_22_7,case_22,Process Refunds,2023-04-15 01:24:47.276401
+event_22_5,case_22,Update Order Status,2023-06-18 08:26:46.080056
+event_22_6,case_22,Deliver Item,2023-07-16 14:58:09.231219
+event_22_8,case_22,Gather Customer Feedback,2023-07-18 12:39:12.479388
+event_22_2,case_22,Confirm Order Details,2023-08-24 13:11:07.550962
+event_22_4,case_22,Organize Shipping,2023-08-25 06:23:21.970761
+event_22_1,case_22,Receive Order,2023-09-15 05:10:36.865254
+event_220_1,case_220,Receive Order,2023-02-14 04:52:43.454138
+event_220_5,case_220,Dispatch Item,2023-02-17 08:24:08.813015
+event_220_3,case_220,Prepare Item,2023-03-10 07:05:16.233003
+event_220_4,case_220,Organize Shipping,2023-05-01 10:16:00.650610
+event_220_3,case_220,Schedule Production,2023-05-28 16:17:36.366261
+event_220_5,case_220,Update Order Status,2023-06-05 16:18:29.522365
+event_220_2,case_220,Confirm Order Details,2023-06-07 13:54:28.461266
+event_220_4,case_220,Organize Shipping,2023-07-20 13:42:20.033211
+event_220_4,case_220,Organize Shipping,2023-08-11 10:36:21.557706
+event_220_3,case_220,Prepare Item,2023-08-23 19:47:57.414187
+event_220_7,case_220,Process Refunds,2023-10-02 13:36:37.465030
+event_220_8,case_220,Gather Customer Feedback,2023-10-05 03:10:41.948967
+event_220_6,case_220,Monitor Delivery Progress,2023-10-13 18:43:13.035204
+event_220_5,case_220,Dispatch Item,2023-10-16 18:16:41.822999
+event_221_8,case_221,Manage Customer Communication,2023-01-01 12:45:50.820859
+event_221_7,case_221,Receive Payment,2023-02-13 16:18:44.313335
+event_221_5,case_221,Dispatch Item,2023-03-03 06:08:30.366941
+event_221_6,case_221,Monitor Delivery Progress,2023-05-07 14:00:47.008148
+event_221_1,case_221,Receive Order,2023-05-24 06:43:44.757692
+event_221_2,case_221,Confirm Order Details,2023-06-10 06:19:15.549695
+event_221_3,case_221,Allocate Inventory,2023-09-05 19:21:25.359963
+event_221_4,case_221,Organize Shipping,2023-11-09 05:08:51.389904
+event_222_6,case_222,Deliver Item,2023-02-07 09:06:37.386438
+event_222_7,case_222,Process Refunds,2023-05-26 03:27:18.515316
+event_222_5,case_222,Dispatch Item,2023-06-01 14:04:49.866966
+event_222_1,case_222,Receive Order,2023-06-27 16:28:35.645125
+event_222_3,case_222,Allocate Inventory,2023-08-23 23:13:01.218779
+event_222_4,case_222,Perform Quality Checks,2023-09-21 05:23:34.726873
+event_222_8,case_222,Gather Customer Feedback,2023-10-07 15:05:59.360604
+event_222_2,case_222,Validate Order,2023-10-19 19:57:28.608556
+event_223_5,case_223,Update Order Status,2023-01-06 05:04:34.396268
+event_223_7,case_223,Receive Payment,2023-05-07 06:11:13.703986
+event_223_8,case_223,Gather Customer Feedback,2023-05-26 05:32:46.001577
+event_223_2,case_223,Confirm Order Details,2023-05-29 16:41:53.552329
+event_223_6,case_223,Monitor Delivery Progress,2023-09-22 15:51:43.758229
+event_223_3,case_223,Allocate Inventory,2023-09-23 09:18:58.769794
+event_223_1,case_223,Receive Order,2023-10-28 01:20:53.883323
+event_223_4,case_223,Organize Shipping,2023-11-01 18:31:55.500510
+event_224_1,case_224,Receive Order,2023-01-22 22:22:59.280733
+event_224_4,case_224,Perform Quality Checks,2023-03-03 21:48:26.860262
+event_224_3,case_224,Prepare Item,2023-03-06 00:20:12.299604
+event_224_5,case_224,Update Order Status,2023-03-10 07:47:27.766586
+event_224_8,case_224,Gather Customer Feedback,2023-03-31 03:33:41.267912
+event_224_2,case_224,Confirm Order Details,2023-04-01 21:15:13.402847
+event_224_4,case_224,Organize Shipping,2023-10-08 12:56:26.490659
+event_224_7,case_224,Handle Returns,2023-10-27 17:26:23.522183
+event_224_6,case_224,Deliver Item,2023-11-13 08:09:39.237494
+event_225_5,case_225,Dispatch Item,2023-01-20 08:58:03.848677
+event_225_3,case_225,Prepare Item,2023-01-29 06:39:29.961400
+event_225_6,case_225,Monitor Delivery Progress,2023-02-20 13:03:01.740479
+event_225_1,case_225,Receive Order,2023-03-01 15:15:19.760514
+event_225_4,case_225,Organize Shipping,2023-04-10 19:14:04.617122
+event_225_7,case_225,Receive Payment,2023-06-24 10:09:01.051626
+event_225_2,case_225,Validate Order,2023-07-09 12:40:48.072573
+event_225_8,case_225,Manage Customer Communication,2023-08-15 11:47:36.431561
+event_226_7,case_226,Process Refunds,2023-01-23 02:11:30.698771
+event_226_5,case_226,Update Order Status,2023-01-30 13:44:01.251567
+event_226_6,case_226,Monitor Delivery Progress,2023-02-07 06:31:46.755812
+event_226_4,case_226,Organize Shipping,2023-02-25 06:58:42.811849
+event_226_3,case_226,Allocate Inventory,2023-05-13 13:27:03.375032
+event_226_8,case_226,Gather Customer Feedback,2023-07-26 15:18:05.039843
+event_226_1,case_226,Receive Order,2023-08-29 18:29:04.725223
+event_226_2,case_226,Validate Order,2023-11-01 13:30:52.365974
+event_227_2,case_227,Confirm Order Details,2023-03-08 12:12:29.843858
+event_227_4,case_227,Organize Shipping,2023-03-09 23:10:45.686463
+event_227_6,case_227,Monitor Delivery Progress,2023-03-25 11:59:34.882890
+event_227_7,case_227,Process Refunds,2023-07-06 09:24:54.669128
+event_227_3,case_227,Prepare Item,2023-07-30 21:24:29.702368
+event_227_6,case_227,Deliver Item,2023-08-21 08:06:47.278311
+event_227_8,case_227,Gather Customer Feedback,2023-09-10 08:29:46.342191
+event_227_1,case_227,Receive Order,2023-09-27 11:24:04.314081
+event_227_5,case_227,Dispatch Item,2023-11-27 22:02:45.083305
+event_228_7,case_228,Process Refunds,2023-01-14 02:03:05.417301
+event_228_5,case_228,Update Order Status,2023-03-04 17:02:03.250371
+event_228_8,case_228,Gather Customer Feedback,2023-03-30 05:21:30.437670
+event_228_4,case_228,Perform Quality Checks,2023-07-21 15:00:25.001857
+event_228_2,case_228,Confirm Order Details,2023-08-26 04:26:18.258976
+event_228_1,case_228,Receive Order,2023-09-03 13:02:55.239708
+event_228_6,case_228,Deliver Item,2023-09-20 09:40:37.770325
+event_228_3,case_228,Allocate Inventory,2023-09-27 14:55:34.328815
+event_229_5,case_229,Dispatch Item,2023-01-08 00:11:31.305949
+event_229_3,case_229,Allocate Inventory,2023-02-02 11:47:22.644828
+event_229_4,case_229,Perform Quality Checks,2023-04-11 15:24:56.753972
+event_229_6,case_229,Deliver Item,2023-04-20 03:14:39.986136
+event_229_8,case_229,Gather Customer Feedback,2023-06-08 04:35:24.306657
+event_229_7,case_229,Handle Returns,2023-07-19 22:59:44.332452
+event_229_2,case_229,Confirm Order Details,2023-08-07 00:38:34.875239
+event_229_1,case_229,Receive Order,2023-08-09 21:23:16.313577
+event_23_7,case_23,Process Refunds,2023-02-18 00:18:41.740230
+event_23_4,case_23,Organize Shipping,2023-03-22 19:22:40.365392
+event_23_6,case_23,Monitor Delivery Progress,2023-06-05 07:51:29.718461
+event_23_5,case_23,Dispatch Item,2023-06-30 08:36:15.612049
+event_23_3,case_23,Allocate Inventory,2023-07-24 02:19:56.996525
+event_23_8,case_23,Gather Customer Feedback,2023-08-04 08:22:57.262780
+event_23_1,case_23,Receive Order,2023-11-10 23:36:51.991980
+event_23_2,case_23,Validate Order,2023-12-08 01:51:24.633174
+event_230_3,case_230,Schedule Production,2023-01-03 10:12:32.212169
+event_230_1,case_230,Receive Order,2023-03-11 08:27:24.453942
+event_230_5,case_230,Update Order Status,2023-07-17 14:08:09.185519
+event_230_7,case_230,Receive Payment,2023-08-29 13:20:25.086619
+event_230_2,case_230,Validate Order,2023-09-16 16:24:22.702523
+event_230_4,case_230,Perform Quality Checks,2023-09-22 06:02:41.224971
+event_230_6,case_230,Monitor Delivery Progress,2023-11-08 02:10:27.945074
+event_230_8,case_230,Manage Customer Communication,2023-11-18 16:38:42.036205
+event_231_3,case_231,Allocate Inventory,2023-01-02 23:35:32.556771
+event_231_7,case_231,Receive Payment,2023-03-03 15:11:24.262310
+event_231_6,case_231,Monitor Delivery Progress,2023-03-15 18:55:30.151369
+event_231_4,case_231,Organize Shipping,2023-04-10 04:25:06.152462
+event_231_7,case_231,Process Refunds,2023-05-18 14:02:55.518326
+event_231_2,case_231,Validate Order,2023-06-08 22:38:19.121759
+event_231_5,case_231,Dispatch Item,2023-06-26 08:51:42.135716
+event_231_7,case_231,Process Refunds,2023-08-09 06:47:40.990002
+event_231_8,case_231,Gather Customer Feedback,2023-08-11 13:34:35.652922
+event_231_1,case_231,Receive Order,2023-09-29 03:27:37.998635
+event_231_2,case_231,Confirm Order Details,2023-10-27 17:25:58.182864
+event_232_1,case_232,Receive Order,2023-01-14 16:54:05.594090
+event_232_4,case_232,Organize Shipping,2023-02-06 16:14:45.390583
+event_232_3,case_232,Allocate Inventory,2023-04-12 23:10:43.102522
+event_232_8,case_232,Manage Customer Communication,2023-04-22 17:54:28.964725
+event_232_7,case_232,Receive Payment,2023-05-13 02:16:30.081170
+event_232_2,case_232,Validate Order,2023-05-17 08:19:00.412332
+event_232_5,case_232,Dispatch Item,2023-08-26 02:38:21.107048
+event_232_6,case_232,Monitor Delivery Progress,2023-11-08 14:29:56.783547
+event_233_3,case_233,Prepare Item,2023-03-06 21:02:51.418444
+event_233_5,case_233,Dispatch Item,2023-03-23 22:35:51.782931
+event_233_2,case_233,Confirm Order Details,2023-04-21 22:39:09.379177
+event_233_4,case_233,Organize Shipping,2023-04-26 17:06:45.170961
+event_233_7,case_233,Process Refunds,2023-05-31 22:34:35.683888
+event_233_6,case_233,Deliver Item,2023-06-01 08:14:33.690833
+event_233_7,case_233,Process Refunds,2023-09-07 08:59:39.507899
+event_233_3,case_233,Allocate Inventory,2023-09-15 16:43:23.605188
+event_233_1,case_233,Receive Order,2023-11-02 23:51:19.325875
+event_233_8,case_233,Gather Customer Feedback,2023-11-05 12:05:47.465405
+event_233_6,case_233,Monitor Delivery Progress,2023-11-26 05:52:08.225128
+event_234_8,case_234,Gather Customer Feedback,2023-01-20 12:10:03.207194
+event_234_3,case_234,Allocate Inventory,2023-04-26 02:07:13.943033
+event_234_7,case_234,Handle Returns,2023-05-12 19:28:37.456494
+event_234_1,case_234,Receive Order,2023-05-16 04:13:18.463343
+event_234_6,case_234,Monitor Delivery Progress,2023-05-30 11:58:22.599309
+event_234_4,case_234,Perform Quality Checks,2023-07-21 02:40:08.795193
+event_234_5,case_234,Dispatch Item,2023-10-07 16:50:47.044332
+event_234_2,case_234,Confirm Order Details,2023-10-16 00:04:22.145818
+event_235_8,case_235,Gather Customer Feedback,2023-01-02 18:36:23.704782
+event_235_2,case_235,Validate Order,2023-02-01 04:48:58.902512
+event_235_5,case_235,Update Order Status,2023-02-17 15:00:13.768979
+event_235_3,case_235,Allocate Inventory,2023-04-14 14:09:49.641433
+event_235_3,case_235,Prepare Item,2023-05-03 04:44:28.675863
+event_235_7,case_235,Process Refunds,2023-06-01 14:27:46.990302
+event_235_1,case_235,Receive Order,2023-06-19 03:42:39.279551
+event_235_2,case_235,Validate Order,2023-07-16 06:03:04.627920
+event_235_6,case_235,Monitor Delivery Progress,2023-07-17 07:39:02.548809
+event_235_4,case_235,Perform Quality Checks,2023-10-15 21:46:14.011676
+event_236_6,case_236,Monitor Delivery Progress,2023-01-14 03:19:04.935606
+event_236_7,case_236,Handle Returns,2023-01-29 19:29:28.901910
+event_236_3,case_236,Schedule Production,2023-04-17 22:26:40.602369
+event_236_8,case_236,Gather Customer Feedback,2023-04-19 01:46:40.876629
+event_236_2,case_236,Confirm Order Details,2023-06-30 10:52:14.250581
+event_236_1,case_236,Receive Order,2023-07-29 21:30:31.712692
+event_236_5,case_236,Update Order Status,2023-10-21 05:08:23.092527
+event_236_4,case_236,Perform Quality Checks,2023-10-26 22:19:09.435128
+event_236_3,case_236,Allocate Inventory,2023-11-18 19:14:10.824458
+event_237_8,case_237,Manage Customer Communication,2023-01-11 18:34:06.531357
+event_237_4,case_237,Perform Quality Checks,2023-01-29 14:22:17.364069
+event_237_1,case_237,Receive Order,2023-02-26 03:47:28.545763
+event_237_7,case_237,Receive Payment,2023-07-13 15:47:19.077678
+event_237_5,case_237,Update Order Status,2023-08-09 02:20:31.166808
+event_237_3,case_237,Prepare Item,2023-09-07 00:12:58.670882
+event_237_6,case_237,Deliver Item,2023-09-12 19:16:52.780348
+event_237_2,case_237,Validate Order,2023-09-15 23:20:32.096560
+event_238_2,case_238,Validate Order,2023-01-03 12:42:02.998904
+event_238_8,case_238,Gather Customer Feedback,2023-01-30 00:49:25.248823
+event_238_7,case_238,Process Refunds,2023-01-30 02:49:44.633281
+event_238_5,case_238,Update Order Status,2023-02-05 01:57:39.994600
+event_238_4,case_238,Organize Shipping,2023-02-22 14:12:16.472787
+event_238_3,case_238,Schedule Production,2023-03-31 13:52:27.405173
+event_238_1,case_238,Receive Order,2023-04-01 18:48:17.340224
+event_238_6,case_238,Monitor Delivery Progress,2023-04-07 21:10:00.643905
+event_238_5,case_238,Dispatch Item,2023-10-05 16:58:43.672974
+event_238_4,case_238,Perform Quality Checks,2023-10-28 06:12:02.748874
+event_238_6,case_238,Deliver Item,2023-11-06 06:31:19.929953
+event_239_8,case_239,Gather Customer Feedback,2023-02-01 10:44:21.582948
+event_239_6,case_239,Monitor Delivery Progress,2023-02-04 12:04:02.825345
+event_239_1,case_239,Receive Order,2023-02-18 19:21:34.976080
+event_239_4,case_239,Perform Quality Checks,2023-02-27 11:00:54.658200
+event_239_5,case_239,Update Order Status,2023-02-28 06:49:09.040449
+event_239_2,case_239,Confirm Order Details,2023-04-20 09:19:18.267523
+event_239_3,case_239,Prepare Item,2023-06-15 01:08:24.988352
+event_239_7,case_239,Process Refunds,2023-09-15 21:59:21.144453
+event_24_4,case_24,Organize Shipping,2023-01-02 19:13:42.325151
+event_24_1,case_24,Receive Order,2023-02-22 05:31:40.493130
+event_24_3,case_24,Allocate Inventory,2023-03-04 07:32:09.790108
+event_24_7,case_24,Process Refunds,2023-05-11 17:23:16.953096
+event_24_6,case_24,Monitor Delivery Progress,2023-05-17 15:40:16.912143
+event_24_8,case_24,Gather Customer Feedback,2023-06-21 17:53:41.385869
+event_24_2,case_24,Validate Order,2023-07-11 01:43:09.897001
+event_24_5,case_24,Dispatch Item,2023-08-07 10:17:26.730950
+event_240_8,case_240,Gather Customer Feedback,2023-01-23 11:37:36.036548
+event_240_2,case_240,Validate Order,2023-02-10 00:34:21.784260
+event_240_3,case_240,Schedule Production,2023-02-27 20:34:02.274418
+event_240_7,case_240,Receive Payment,2023-03-07 21:26:56.615399
+event_240_5,case_240,Update Order Status,2023-09-06 16:00:08.553208
+event_240_4,case_240,Organize Shipping,2023-09-16 16:28:26.860961
+event_240_6,case_240,Deliver Item,2023-09-20 03:10:43.935137
+event_240_1,case_240,Receive Order,2023-11-21 02:45:07.248206
+event_241_2,case_241,Validate Order,2023-01-21 18:29:46.012934
+event_241_5,case_241,Update Order Status,2023-02-08 06:20:44.146286
+event_241_6,case_241,Deliver Item,2023-03-13 20:58:59.331566
+event_241_7,case_241,Process Refunds,2023-04-01 07:28:26.432812
+event_241_4,case_241,Organize Shipping,2023-05-17 13:58:11.492447
+event_241_8,case_241,Manage Customer Communication,2023-07-01 11:50:09.535362
+event_241_3,case_241,Schedule Production,2023-07-06 19:03:25.490375
+event_241_1,case_241,Receive Order,2023-10-12 20:03:54.876038
+event_242_3,case_242,Allocate Inventory,2023-01-05 04:06:22.276620
+event_242_4,case_242,Organize Shipping,2023-02-04 19:43:53.379715
+event_242_2,case_242,Confirm Order Details,2023-02-16 07:25:11.602477
+event_242_6,case_242,Monitor Delivery Progress,2023-04-07 09:32:20.010107
+event_242_1,case_242,Receive Order,2023-05-21 04:27:08.754236
+event_242_3,case_242,Schedule Production,2023-06-28 12:29:35.515074
+event_242_7,case_242,Receive Payment,2023-07-06 22:47:10.228241
+event_242_5,case_242,Update Order Status,2023-11-05 06:50:04.898185
+event_242_2,case_242,Validate Order,2023-11-22 09:52:48.677911
+event_242_8,case_242,Gather Customer Feedback,2023-12-03 19:00:06.835725
+event_243_4,case_243,Perform Quality Checks,2023-01-25 16:22:19.514346
+event_243_6,case_243,Monitor Delivery Progress,2023-02-06 20:30:55.298403
+event_243_8,case_243,Gather Customer Feedback,2023-02-23 07:20:31.177104
+event_243_1,case_243,Receive Order,2023-03-06 20:40:22.725803
+event_243_2,case_243,Validate Order,2023-05-06 00:57:08.479557
+event_243_7,case_243,Handle Returns,2023-07-17 05:41:48.828542
+event_243_3,case_243,Prepare Item,2023-08-18 18:07:23.839264
+event_243_5,case_243,Dispatch Item,2023-10-24 06:05:36.600490
+event_243_7,case_243,Receive Payment,2023-11-19 04:12:26.386028
+event_243_6,case_243,Monitor Delivery Progress,2023-12-08 01:18:00.794963
+event_244_6,case_244,Deliver Item,2023-01-16 19:44:34.449560
+event_244_5,case_244,Dispatch Item,2023-01-28 11:43:50.185822
+event_244_7,case_244,Receive Payment,2023-03-01 05:47:19.083584
+event_244_3,case_244,Schedule Production,2023-03-31 14:08:08.237748
+event_244_1,case_244,Confirm Order Details,2023-04-14 02:44:10.523627
+event_244_8,case_244,Manage Customer Communication,2023-04-15 23:20:38.438161
+event_244_3,case_244,Allocate Inventory,2023-04-22 08:04:26.054686
+event_244_4,case_244,Perform Quality Checks,2023-05-14 11:09:28.054844
+event_244_2,case_244,Validate Order,2023-06-09 15:53:17.584201
+event_244_2,case_244,Confirm Order Details,2023-07-06 10:21:53.132037
+event_244_2,case_244,Confirm Order Details,2023-09-01 00:50:08.428044
+event_244_6,case_244,Monitor Delivery Progress,2023-11-22 10:17:06.102621
+event_244_1,case_244,Receive Order,2023-12-04 10:42:40.621533
+event_245_1,case_245,Receive Order,2023-01-26 01:20:26.600325
+event_245_6,case_245,Monitor Delivery Progress,2023-02-16 04:40:02.660785
+event_245_7,case_245,Process Refunds,2023-02-26 20:43:58.570147
+event_245_4,case_245,Organize Shipping,2023-04-19 06:24:07.158712
+event_245_5,case_245,Dispatch Item,2023-05-05 00:55:28.812723
+event_245_8,case_245,Gather Customer Feedback,2023-08-11 03:06:56.043870
+event_245_2,case_245,Validate Order,2023-11-10 03:55:43.791235
+event_245_3,case_245,Allocate Inventory,2023-12-07 18:27:14.806947
+event_246_2,case_246,Validate Order,2023-03-06 03:15:13.602426
+event_246_3,case_246,Schedule Production,2023-03-19 01:26:10.736756
+event_246_4,case_246,Organize Shipping,2023-05-16 04:31:29.682850
+event_246_1,case_246,Receive Order,2023-06-09 10:33:58.242900
+event_246_7,case_246,Receive Payment,2023-07-19 19:54:03.141859
+event_246_6,case_246,Monitor Delivery Progress,2023-08-06 13:55:41.654765
+event_246_5,case_246,Update Order Status,2023-10-16 02:23:40.375572
+event_246_8,case_246,Manage Customer Communication,2023-10-19 19:04:38.857848
+event_247_4,case_247,Organize Shipping,2023-02-23 01:55:20.857256
+event_247_6,case_247,Monitor Delivery Progress,2023-04-23 08:54:13.311879
+event_247_4,case_247,Perform Quality Checks,2023-04-23 10:41:35.716388
+event_247_1,case_247,Receive Order,2023-05-04 11:30:47.097981
+event_247_2,case_247,Confirm Order Details,2023-05-20 07:59:44.914895
+event_247_8,case_247,Gather Customer Feedback,2023-07-26 13:55:27.509215
+event_247_5,case_247,Dispatch Item,2023-08-26 12:57:19.233878
+event_247_3,case_247,Schedule Production,2023-10-19 07:58:35.382159
+event_247_7,case_247,Process Refunds,2023-10-26 15:14:08.108030
+event_248_7,case_248,Handle Returns,2023-01-23 07:31:19.624379
+event_248_6,case_248,Monitor Delivery Progress,2023-03-31 19:03:19.208489
+event_248_5,case_248,Dispatch Item,2023-04-05 10:47:34.286272
+event_248_4,case_248,Organize Shipping,2023-06-06 11:49:50.622689
+event_248_3,case_248,Prepare Item,2023-07-10 06:58:47.122973
+event_248_2,case_248,Confirm Order Details,2023-08-06 08:46:35.703945
+event_248_1,case_248,Receive Order,2023-08-25 18:55:34.033696
+event_248_8,case_248,Gather Customer Feedback,2023-09-04 19:11:23.528772
+event_249_1,case_249,Receive Order,2023-01-06 20:53:08.110847
+event_249_3,case_249,Allocate Inventory,2023-01-14 13:58:37.405894
+event_249_6,case_249,Monitor Delivery Progress,2023-06-21 03:32:21.151906
+event_249_7,case_249,Handle Returns,2023-07-08 10:54:41.988441
+event_249_7,case_249,Receive Payment,2023-08-25 01:03:20.428807
+event_249_8,case_249,Gather Customer Feedback,2023-09-02 04:57:07.199771
+event_249_5,case_249,Dispatch Item,2023-10-20 14:39:49.699638
+event_249_2,case_249,Confirm Order Details,2023-11-01 15:55:09.137446
+event_249_4,case_249,Perform Quality Checks,2023-11-08 10:39:57.998027
+event_25_7,case_25,Process Refunds,2023-02-11 13:53:00.457779
+event_25_1,case_25,Receive Order,2023-02-16 01:32:38.049339
+event_25_6,case_25,Deliver Item,2023-02-18 14:33:45.700237
+event_25_2,case_25,Validate Order,2023-03-16 16:11:29.880296
+event_25_3,case_25,Allocate Inventory,2023-05-09 23:15:56.279820
+event_25_7,case_25,Process Refunds,2023-05-28 08:33:44.647262
+event_25_4,case_25,Perform Quality Checks,2023-06-10 03:00:10.004586
+event_25_6,case_25,Deliver Item,2023-06-24 00:37:27.805594
+event_25_8,case_25,Manage Customer Communication,2023-08-12 02:54:23.920749
+event_25_5,case_25,Update Order Status,2023-08-20 18:27:06.306439
+event_250_2,case_250,Validate Order,2023-02-24 13:07:52.838645
+event_250_6,case_250,Monitor Delivery Progress,2023-03-19 03:40:30.128859
+event_250_3,case_250,Schedule Production,2023-05-05 08:42:46.577585
+event_250_8,case_250,Gather Customer Feedback,2023-06-23 08:29:17.579720
+event_250_1,case_250,Receive Order,2023-09-15 09:29:57.326613
+event_250_4,case_250,Perform Quality Checks,2023-09-22 14:55:59.035161
+event_250_5,case_250,Update Order Status,2023-10-29 15:05:19.101746
+event_250_7,case_250,Handle Returns,2023-12-02 21:16:58.559615
+event_251_8,case_251,Gather Customer Feedback,2023-01-08 13:52:21.044531
+event_251_2,case_251,Allocate Inventory,2023-04-14 05:58:36.568286
+event_251_2,case_251,Confirm Order Details,2023-05-19 09:03:11.105152
+event_251_7,case_251,Receive Payment,2023-06-10 15:02:57.776703
+event_251_4,case_251,Organize Shipping,2023-06-22 13:24:37.701332
+event_251_3,case_251,Allocate Inventory,2023-06-23 08:42:24.400069
+event_251_5,case_251,Dispatch Item,2023-07-21 18:02:00.549075
+event_251_1,case_251,Receive Order,2023-08-14 12:58:29.263261
+event_251_4,case_251,Perform Quality Checks,2023-08-23 14:51:42.625364
+event_251_3,case_251,Schedule Production,2023-09-24 08:15:18.499472
+event_251_6,case_251,Monitor Delivery Progress,2023-10-17 19:28:33.837904
+event_252_4,case_252,Perform Quality Checks,2023-02-21 10:06:39.955542
+event_252_3,case_252,Prepare Item,2023-04-10 13:02:01.938752
+event_252_7,case_252,Receive Payment,2023-05-10 10:59:56.167836
+event_252_1,case_252,Receive Order,2023-06-05 11:34:14.653529
+event_252_6,case_252,Deliver Item,2023-06-09 14:53:49.135833
+event_252_2,case_252,Validate Order,2023-08-02 03:53:57.680461
+event_252_5,case_252,Update Order Status,2023-10-22 16:30:31.414056
+event_252_8,case_252,Gather Customer Feedback,2023-11-07 09:55:35.548069
+event_253_2,case_253,Validate Order,2023-01-05 06:36:30.788076
+event_253_5,case_253,Dispatch Item,2023-02-23 09:02:35.996782
+event_253_3,case_253,Prepare Item,2023-04-10 14:39:55.401327
+event_253_4,case_253,Organize Shipping,2023-04-24 01:04:20.073073
+event_253_7,case_253,Handle Returns,2023-04-29 02:00:39.618623
+event_253_6,case_253,Deliver Item,2023-05-27 09:56:09.732791
+event_253_8,case_253,Manage Customer Communication,2023-08-21 11:59:43.943171
+event_253_1,case_253,Receive Order,2023-12-06 07:25:42.867255
+event_254_8,case_254,Gather Customer Feedback,2023-01-23 21:16:42.040180
+event_254_2,case_254,Confirm Order Details,2023-01-25 20:58:00.582719
+event_254_7,case_254,Handle Returns,2023-03-04 06:57:28.164666
+event_254_3,case_254,Allocate Inventory,2023-03-06 05:42:48.415638
+event_254_1,case_254,Receive Order,2023-03-10 07:51:57.639345
+event_254_2,case_254,Validate Order,2023-06-20 13:27:13.094410
+event_254_6,case_254,Deliver Item,2023-09-04 19:48:03.855934
+event_254_5,case_254,Dispatch Item,2023-11-23 14:50:15.436728
+event_254_4,case_254,Perform Quality Checks,2023-12-03 21:39:03.344273
+event_255_8,case_255,Manage Customer Communication,2023-01-22 15:50:13.493084
+event_255_7,case_255,Process Refunds,2023-02-18 05:56:25.597943
+event_255_2,case_255,Confirm Order Details,2023-05-03 08:52:44.738291
+event_255_1,case_255,Receive Order,2023-05-18 02:24:47.292139
+event_255_5,case_255,Update Order Status,2023-06-21 08:03:03.991938
+event_255_6,case_255,Deliver Item,2023-09-20 14:44:51.515823
+event_255_3,case_255,Prepare Item,2023-10-21 05:14:13.757361
+event_255_4,case_255,Perform Quality Checks,2023-12-01 20:12:31.956642
+event_256_4,case_256,Organize Shipping,2023-02-09 21:25:49.272291
+event_256_6,case_256,Deliver Item,2023-04-18 14:22:20.121804
+event_256_3,case_256,Schedule Production,2023-04-29 07:02:41.595364
+event_256_5,case_256,Update Order Status,2023-05-12 18:52:53.174462
+event_256_2,case_256,Confirm Order Details,2023-07-23 06:29:03.593695
+event_256_8,case_256,Manage Customer Communication,2023-08-24 22:08:09.222467
+event_256_2,case_256,Validate Order,2023-09-05 00:36:44.155359
+event_256_7,case_256,Handle Returns,2023-09-24 13:40:38.440259
+event_256_1,case_256,Receive Order,2023-11-17 11:00:19.334608
+event_257_3,case_257,Allocate Inventory,2023-01-14 03:55:34.232341
+event_257_5,case_257,Dispatch Item,2023-02-10 20:18:10.115520
+event_257_2,case_257,Validate Order,2023-02-10 20:46:41.785369
+event_257_6,case_257,Monitor Delivery Progress,2023-03-13 08:39:00.806666
+event_257_7,case_257,Handle Returns,2023-03-13 20:18:11.006696
+event_257_8,case_257,Manage Customer Communication,2023-04-29 22:11:14.438719
+event_257_1,case_257,Receive Order,2023-09-15 14:58:12.503316
+event_257_4,case_257,Perform Quality Checks,2023-10-13 14:33:24.224777
+event_258_8,case_258,Gather Customer Feedback,2023-01-03 03:36:31.004587
+event_258_4,case_258,Perform Quality Checks,2023-01-04 16:17:45.927491
+event_258_3,case_258,Schedule Production,2023-01-06 14:33:45.866912
+event_258_7,case_258,Process Refunds,2023-01-24 21:29:26.822187
+event_258_6,case_258,Deliver Item,2023-02-20 09:54:56.055101
+event_258_2,case_258,Confirm Order Details,2023-06-22 17:34:08.882940
+event_258_5,case_258,Dispatch Item,2023-07-01 03:33:09.176076
+event_258_1,case_258,Receive Order,2023-09-02 11:56:33.933832
+event_259_7,case_259,Handle Returns,2023-01-23 14:59:36.888284
+event_259_4,case_259,Organize Shipping,2023-01-26 10:31:32.120455
+event_259_3,case_259,Allocate Inventory,2023-03-18 13:25:27.790706
+event_259_6,case_259,Monitor Delivery Progress,2023-05-10 11:09:03.187087
+event_259_8,case_259,Manage Customer Communication,2023-05-22 09:16:10.975035
+event_259_2,case_259,Confirm Order Details,2023-08-03 03:51:55.073637
+event_259_2,case_259,Validate Order,2023-08-16 18:17:03.949899
+event_259_1,case_259,Receive Order,2023-08-31 21:15:29.402150
+event_259_5,case_259,Update Order Status,2023-11-27 07:17:56.602194
+event_26_8,case_26,Manage Customer Communication,2023-02-01 02:44:07.727031
+event_26_1,case_26,Receive Order,2023-02-22 23:39:34.665889
+event_26_6,case_26,Monitor Delivery Progress,2023-04-09 19:13:50.346651
+event_26_2,case_26,Validate Order,2023-04-23 12:44:11.254050
+event_26_3,case_26,Prepare Item,2023-06-30 06:30:51.866925
+event_26_4,case_26,Perform Quality Checks,2023-07-14 17:39:00.640810
+event_26_5,case_26,Update Order Status,2023-07-25 15:59:08.962126
+event_26_3,case_26,Allocate Inventory,2023-09-04 18:21:07.881682
+event_26_7,case_26,Handle Returns,2023-10-25 16:40:04.881576
+event_26_3,case_26,Prepare Item,2023-11-23 14:48:47.177447
+event_260_4,case_260,Perform Quality Checks,2023-01-01 14:33:23.778140
+event_260_1,case_260,Receive Order,2023-01-06 18:45:16.624274
+event_260_2,case_260,Confirm Order Details,2023-02-01 17:39:30.681880
+event_260_2,case_260,Validate Order,2023-02-26 15:12:55.768723
+event_260_5,case_260,Update Order Status,2023-04-06 12:08:03.084676
+event_260_3,case_260,Prepare Item,2023-05-28 01:25:52.719416
+event_260_8,case_260,Manage Customer Communication,2023-07-09 12:48:46.094566
+event_260_6,case_260,Monitor Delivery Progress,2023-09-04 17:47:34.238515
+event_260_7,case_260,Process Refunds,2023-10-26 02:12:25.062888
+event_261_4,case_261,Organize Shipping,2023-01-08 07:03:10.002766
+event_261_7,case_261,Handle Returns,2023-01-12 11:53:34.980511
+event_261_3,case_261,Prepare Item,2023-02-12 05:05:14.537667
+event_261_1,case_261,Receive Order,2023-08-01 17:03:07.564690
+event_261_5,case_261,Update Order Status,2023-08-11 17:50:11.230148
+event_261_6,case_261,Deliver Item,2023-09-24 19:16:44.948845
+event_261_2,case_261,Validate Order,2023-10-23 14:38:32.208288
+event_261_8,case_261,Manage Customer Communication,2023-12-06 06:49:30.204957
+event_262_4,case_262,Organize Shipping,2023-01-09 19:18:22.046291
+event_262_5,case_262,Update Order Status,2023-01-17 14:54:52.930744
+event_262_4,case_262,Perform Quality Checks,2023-03-07 02:49:14.031934
+event_262_3,case_262,Allocate Inventory,2023-04-13 15:33:14.287123
+event_262_1,case_262,Receive Order,2023-05-07 06:33:26.811926
+event_262_2,case_262,Confirm Order Details,2023-05-15 08:04:44.184148
+event_262_4,case_262,Organize Shipping,2023-06-15 06:31:52.142489
+event_262_8,case_262,Manage Customer Communication,2023-07-10 06:55:33.836603
+event_262_7,case_262,Receive Payment,2023-09-24 11:14:02.371505
+event_262_6,case_262,Deliver Item,2023-11-08 20:32:13.648860
+event_263_2,case_263,Confirm Order Details,2023-02-13 18:45:10.406001
+event_263_5,case_263,Update Order Status,2023-02-18 20:33:04.178915
+event_263_6,case_263,Monitor Delivery Progress,2023-02-24 15:52:15.431812
+event_263_7,case_263,Process Refunds,2023-08-07 14:47:24.638933
+event_263_1,case_263,Receive Order,2023-09-20 17:07:16.603564
+event_263_8,case_263,Manage Customer Communication,2023-10-04 15:47:01.432657
+event_263_3,case_263,Prepare Item,2023-11-27 23:10:43.735521
+event_263_4,case_263,Perform Quality Checks,2023-11-30 01:50:12.334507
+event_264_4,case_264,Perform Quality Checks,2023-02-10 20:34:19.550907
+event_264_2,case_264,Confirm Order Details,2023-02-18 04:33:23.618736
+event_264_7,case_264,Receive Payment,2023-02-19 01:37:33.729966
+event_264_8,case_264,Manage Customer Communication,2023-04-05 05:22:30.022178
+event_264_2,case_264,Validate Order,2023-04-14 22:22:57.175152
+event_264_2,case_264,Confirm Order Details,2023-04-15 00:08:47.380898
+event_264_6,case_264,Deliver Item,2023-05-18 12:45:35.815695
+event_264_1,case_264,Receive Order,2023-07-12 01:20:14.816956
+event_264_3,case_264,Schedule Production,2023-09-16 07:03:34.933671
+event_264_5,case_264,Dispatch Item,2023-11-25 07:11:09.986043
+event_264_5,case_264,Update Order Status,2023-12-03 06:54:02.485359
+event_265_4,case_265,Perform Quality Checks,2023-02-17 05:19:27.587686
+event_265_8,case_265,Manage Customer Communication,2023-04-13 17:15:41.765932
+event_265_6,case_265,Deliver Item,2023-04-16 08:35:47.402984
+event_265_5,case_265,Update Order Status,2023-04-23 08:28:04.213141
+event_265_1,case_265,Receive Order,2023-04-23 14:09:12.141941
+event_265_7,case_265,Process Refunds,2023-07-22 12:46:08.193741
+event_265_3,case_265,Schedule Production,2023-07-24 17:41:16.892560
+event_265_6,case_265,Monitor Delivery Progress,2023-09-09 22:17:09.960987
+event_265_2,case_265,Validate Order,2023-12-03 19:37:40.208764
+event_266_2,case_266,Validate Order,2023-01-11 15:00:10.090486
+event_266_1,case_266,Receive Order,2023-02-03 18:25:00.631762
+event_266_3,case_266,Schedule Production,2023-04-25 06:12:08.425189
+event_266_4,case_266,Organize Shipping,2023-04-27 16:34:47.014431
+event_266_8,case_266,Gather Customer Feedback,2023-05-12 07:57:21.904454
+event_266_6,case_266,Deliver Item,2023-07-28 06:08:16.904453
+event_266_5,case_266,Update Order Status,2023-10-09 15:55:10.428026
+event_266_7,case_266,Process Refunds,2023-11-14 10:04:21.195779
+event_267_5,case_267,Update Order Status,2023-02-22 14:37:01.647407
+event_267_8,case_267,Manage Customer Communication,2023-03-29 21:02:34.683006
+event_267_1,case_267,Receive Order,2023-06-10 14:47:55.963666
+event_267_4,case_267,Organize Shipping,2023-06-30 06:47:30.788806
+event_267_3,case_267,Allocate Inventory,2023-09-10 11:12:49.499280
+event_267_6,case_267,Monitor Delivery Progress,2023-10-18 00:51:43.076224
+event_267_7,case_267,Handle Returns,2023-12-04 23:23:08.895731
+event_267_2,case_267,Validate Order,2023-12-05 23:40:36.845188
+event_268_4,case_268,Organize Shipping,2023-01-09 16:18:33.783732
+event_268_3,case_268,Allocate Inventory,2023-01-29 13:04:46.728797
+event_268_1,case_268,Receive Order,2023-04-07 23:57:05.802557
+event_268_8,case_268,Gather Customer Feedback,2023-07-13 07:27:49.219606
+event_268_7,case_268,Handle Returns,2023-08-19 16:16:40.143866
+event_268_5,case_268,Update Order Status,2023-09-12 10:07:51.687749
+event_268_6,case_268,Deliver Item,2023-10-02 17:19:21.304352
+event_268_2,case_268,Validate Order,2023-12-07 00:24:27.309838
+event_269_5,case_269,Update Order Status,2023-03-03 07:11:20.259031
+event_269_6,case_269,Monitor Delivery Progress,2023-05-06 11:51:15.167291
+event_269_8,case_269,Gather Customer Feedback,2023-05-30 05:23:46.883873
+event_269_1,case_269,Receive Order,2023-07-24 20:42:50.530273
+event_269_4,case_269,Perform Quality Checks,2023-07-30 09:39:30.651143
+event_269_3,case_269,Prepare Item,2023-09-01 02:42:14.280555
+event_269_2,case_269,Validate Order,2023-09-17 02:48:43.988666
+event_269_7,case_269,Receive Payment,2023-11-07 21:59:33.317973
+event_269_6,case_269,Deliver Item,2023-11-13 16:33:02.616156
+event_27_7,case_27,Handle Returns,2023-02-11 06:53:44.407338
+event_27_6,case_27,Deliver Item,2023-03-05 21:00:31.824675
+event_27_2,case_27,Confirm Order Details,2023-04-03 13:32:32.109132
+event_27_1,case_27,Receive Order,2023-04-26 09:02:22.082983
+event_27_8,case_27,Gather Customer Feedback,2023-05-05 15:50:55.403312
+event_27_3,case_27,Prepare Item,2023-05-06 03:20:57.959988
+event_27_4,case_27,Organize Shipping,2023-06-29 23:01:58.620491
+event_27_5,case_27,Update Order Status,2023-08-14 22:48:11.694241
+event_27_6,case_27,Monitor Delivery Progress,2023-11-04 16:45:05.614121
+event_270_5,case_270,Update Order Status,2023-01-13 21:23:51.121699
+event_270_2,case_270,Validate Order,2023-01-22 10:42:30.214624
+event_270_7,case_270,Receive Payment,2023-02-28 12:31:46.671520
+event_270_3,case_270,Prepare Item,2023-06-30 13:24:36.960672
+event_270_1,case_270,Receive Order,2023-08-03 09:51:46.514941
+event_270_8,case_270,Gather Customer Feedback,2023-09-08 10:11:43.550174
+event_270_4,case_270,Organize Shipping,2023-10-03 21:44:36.840779
+event_270_6,case_270,Monitor Delivery Progress,2023-11-04 19:49:54.181678
+event_271_5,case_271,Update Order Status,2023-01-10 14:14:29.765114
+event_271_7,case_271,Process Refunds,2023-01-28 09:34:53.789853
+event_271_6,case_271,Deliver Item,2023-03-06 03:28:47.290175
+event_271_8,case_271,Manage Customer Communication,2023-03-09 11:48:10.193313
+event_271_3,case_271,Schedule Production,2023-06-21 03:43:05.830320
+event_271_2,case_271,Validate Order,2023-07-26 09:42:38.771000
+event_271_5,case_271,Dispatch Item,2023-08-03 08:18:11.977718
+event_271_4,case_271,Organize Shipping,2023-08-30 03:16:39.949631
+event_271_1,case_271,Receive Order,2023-11-22 04:53:04.174580
+event_272_1,case_272,Receive Order,2023-01-22 04:53:23.734876
+event_272_3,case_272,Prepare Item,2023-01-23 14:15:36.773449
+event_272_5,case_272,Update Order Status,2023-04-17 12:04:12.782866
+event_272_2,case_272,Validate Order,2023-05-08 23:34:49.192926
+event_272_6,case_272,Monitor Delivery Progress,2023-07-03 05:14:37.369596
+event_272_4,case_272,Organize Shipping,2023-07-09 22:54:01.050155
+event_272_6,case_272,Deliver Item,2023-07-29 11:32:45.347665
+event_272_7,case_272,Process Refunds,2023-10-05 19:27:28.337780
+event_272_8,case_272,Manage Customer Communication,2023-11-03 11:21:22.844816
+event_273_7,case_273,Handle Returns,2023-01-23 04:57:27.809889
+event_273_5,case_273,Update Order Status,2023-01-30 15:36:01.195882
+event_273_4,case_273,Perform Quality Checks,2023-03-09 02:56:20.779401
+event_273_2,case_273,Confirm Order Details,2023-04-12 13:05:58.830394
+event_273_8,case_273,Gather Customer Feedback,2023-04-18 06:02:34.655535
+event_273_3,case_273,Prepare Item,2023-05-27 03:30:56.688959
+event_273_3,case_273,Prepare Item,2023-06-07 10:15:45.351993
+event_273_1,case_273,Receive Order,2023-06-08 02:10:05.932687
+event_273_2,case_273,Validate Order,2023-06-20 13:40:28.080192
+event_273_4,case_273,Organize Shipping,2023-06-24 20:11:16.125799
+event_273_2,case_273,Confirm Order Details,2023-06-25 12:41:31.678356
+event_273_4,case_273,Organize Shipping,2023-06-28 12:32:35.403470
+event_273_4,case_273,Perform Quality Checks,2023-07-03 18:11:17.766147
+event_273_6,case_273,Monitor Delivery Progress,2023-12-01 15:25:15.993110
+event_274_5,case_274,Dispatch Item,2023-01-21 17:13:57.253948
+event_274_8,case_274,Gather Customer Feedback,2023-04-30 18:25:01.260866
+event_274_1,case_274,Receive Order,2023-06-27 11:31:03.479566
+event_274_6,case_274,Monitor Delivery Progress,2023-07-06 00:27:24.379791
+event_274_7,case_274,Handle Returns,2023-07-17 16:25:06.667477
+event_274_3,case_274,Prepare Item,2023-08-24 15:23:11.204710
+event_274_4,case_274,Organize Shipping,2023-11-16 21:08:30.920707
+event_274_2,case_274,Confirm Order Details,2023-11-27 04:40:27.162521
+event_275_8,case_275,Manage Customer Communication,2023-02-02 18:03:02.160681
+event_275_2,case_275,Confirm Order Details,2023-02-05 19:38:40.951461
+event_275_5,case_275,Update Order Status,2023-03-19 05:48:39.616053
+event_275_3,case_275,Schedule Production,2023-04-09 09:55:11.255452
+event_275_7,case_275,Handle Returns,2023-05-27 02:28:14.880358
+event_275_7,case_275,Handle Returns,2023-05-31 03:51:20.702066
+event_275_1,case_275,Receive Order,2023-06-04 20:07:06.966551
+event_275_7,case_275,Receive Payment,2023-07-09 19:16:33.286749
+event_275_4,case_275,Organize Shipping,2023-09-28 18:01:38.178364
+event_275_7,case_275,Receive Payment,2023-10-07 15:03:23.691331
+event_275_6,case_275,Monitor Delivery Progress,2023-10-19 06:31:47.732385
+event_275_7,case_275,Handle Returns,2023-11-09 11:39:51.536865
+event_275_2,case_275,Validate Order,2023-12-06 19:24:01.624703
+event_276_1,case_276,Receive Order,2023-02-18 02:05:41.907066
+event_276_8,case_276,Gather Customer Feedback,2023-04-30 12:43:16.275503
+event_276_5,case_276,Dispatch Item,2023-05-31 14:07:50.275593
+event_276_7,case_276,Process Refunds,2023-06-05 12:08:15.096410
+event_276_3,case_276,Schedule Production,2023-09-29 04:02:43.545652
+event_276_6,case_276,Deliver Item,2023-10-09 03:17:38.091243
+event_276_2,case_276,Validate Order,2023-11-03 17:18:46.128787
+event_276_4,case_276,Organize Shipping,2023-11-04 12:09:11.328850
+event_277_1,case_277,Receive Order,2023-01-14 04:12:17.947451
+event_277_4,case_277,Organize Shipping,2023-01-16 07:19:51.671201
+event_277_2,case_277,Confirm Order Details,2023-02-11 07:13:57.187591
+event_277_3,case_277,Schedule Production,2023-03-18 01:47:28.069595
+event_277_8,case_277,Manage Customer Communication,2023-09-17 03:51:22.872394
+event_277_5,case_277,Update Order Status,2023-09-28 12:45:22.441349
+event_277_7,case_277,Handle Returns,2023-11-26 06:21:05.657969
+event_277_6,case_277,Monitor Delivery Progress,2023-12-01 19:15:18.275636
+event_278_5,case_278,Update Order Status,2023-02-21 17:35:52.489902
+event_278_8,case_278,Gather Customer Feedback,2023-03-03 16:21:23.747840
+event_278_2,case_278,Validate Order,2023-06-03 17:46:23.428098
+event_278_2,case_278,Confirm Order Details,2023-07-02 12:03:47.722945
+event_278_4,case_278,Organize Shipping,2023-07-04 02:53:41.088262
+event_278_6,case_278,Monitor Delivery Progress,2023-09-05 14:59:34.878917
+event_278_3,case_278,Prepare Item,2023-09-14 10:01:06.200746
+event_278_1,case_278,Receive Order,2023-10-03 22:36:35.388156
+event_278_7,case_278,Process Refunds,2023-10-31 12:45:37.368087
+event_279_8,case_279,Gather Customer Feedback,2023-01-01 23:47:35.490078
+event_279_1,case_279,Receive Order,2023-01-13 22:18:35.876416
+event_279_5,case_279,Update Order Status,2023-03-08 16:01:32.971033
+event_279_4,case_279,Perform Quality Checks,2023-04-03 20:42:18.606193
+event_279_7,case_279,Process Refunds,2023-04-11 15:35:41.244619
+event_279_6,case_279,Deliver Item,2023-06-18 05:52:53.028245
+event_279_3,case_279,Prepare Item,2023-07-26 02:04:20.650612
+event_279_2,case_279,Validate Order,2023-07-29 01:51:07.705775
+event_28_1,case_28,Receive Order,2023-01-10 15:32:12.002962
+event_28_2,case_28,Confirm Order Details,2023-02-18 02:48:52.123965
+event_28_8,case_28,Manage Customer Communication,2023-03-24 07:32:06.809543
+event_28_6,case_28,Deliver Item,2023-04-03 07:23:38.703174
+event_28_4,case_28,Organize Shipping,2023-04-07 18:01:37.481935
+event_28_5,case_28,Update Order Status,2023-05-16 16:48:52.621011
+event_28_7,case_28,Process Refunds,2023-08-11 03:46:00.166667
+event_28_3,case_28,Allocate Inventory,2023-09-16 15:50:38.315386
+event_280_5,case_280,Update Order Status,2023-01-12 08:19:53.571626
+event_280_4,case_280,Organize Shipping,2023-01-30 22:56:39.512043
+event_280_3,case_280,Prepare Item,2023-02-01 07:04:59.373316
+event_280_6,case_280,Deliver Item,2023-02-14 17:31:42.851918
+event_280_8,case_280,Manage Customer Communication,2023-04-12 07:08:08.203800
+event_280_2,case_280,Confirm Order Details,2023-09-12 22:23:48.284931
+event_280_7,case_280,Receive Payment,2023-10-25 10:38:00.545907
+event_280_1,case_280,Receive Order,2023-11-26 18:29:55.343537
+event_281_5,case_281,Dispatch Item,2023-01-13 20:08:40.197844
+event_281_4,case_281,Perform Quality Checks,2023-02-14 17:17:02.890746
+event_281_6,case_281,Monitor Delivery Progress,2023-03-28 01:24:17.324435
+event_281_8,case_281,Manage Customer Communication,2023-07-17 18:56:36.404779
+event_281_5,case_281,Update Order Status,2023-08-29 19:34:15.341008
+event_281_1,case_281,Receive Order,2023-09-09 01:38:17.260339
+event_281_7,case_281,Receive Payment,2023-10-06 16:19:04.781560
+event_281_2,case_281,Validate Order,2023-10-07 15:17:31.449676
+event_281_3,case_281,Schedule Production,2023-10-19 23:34:39.598235
+event_282_2,case_282,Confirm Order Details,2023-02-07 19:50:56.445428
+event_282_3,case_282,Schedule Production,2023-02-17 09:09:32.850183
+event_282_7,case_282,Process Refunds,2023-03-27 08:59:59.319434
+event_282_6,case_282,Monitor Delivery Progress,2023-04-09 00:26:23.620955
+event_282_8,case_282,Manage Customer Communication,2023-07-01 22:18:54.822703
+event_282_2,case_282,Validate Order,2023-08-15 01:16:33.873845
+event_282_5,case_282,Dispatch Item,2023-09-21 16:44:49.624022
+event_282_1,case_282,Receive Order,2023-10-03 05:02:20.520170
+event_282_4,case_282,Organize Shipping,2023-10-29 20:39:21.353109
+event_283_5,case_283,Dispatch Item,2023-01-02 15:53:32.935520
+event_283_6,case_283,Deliver Item,2023-01-12 08:50:23.119256
+event_283_1,case_283,Receive Order,2023-01-13 09:07:26.278028
+event_283_5,case_283,Dispatch Item,2023-03-10 07:07:13.411906
+event_283_3,case_283,Prepare Item,2023-03-19 02:27:13.108955
+event_283_4,case_283,Perform Quality Checks,2023-04-24 21:19:59.154882
+event_283_7,case_283,Receive Payment,2023-06-08 19:26:14.746330
+event_283_5,case_283,Update Order Status,2023-09-01 23:30:00.164336
+event_283_8,case_283,Manage Customer Communication,2023-09-10 13:25:03.012146
+event_283_2,case_283,Confirm Order Details,2023-11-15 21:59:28.900704
+event_284_5,case_284,Update Order Status,2023-01-11 19:19:48.956189
+event_284_4,case_284,Perform Quality Checks,2023-03-09 08:48:00.846005
+event_284_6,case_284,Monitor Delivery Progress,2023-04-27 06:53:34.201725
+event_284_8,case_284,Manage Customer Communication,2023-07-22 06:59:28.271998
+event_284_2,case_284,Validate Order,2023-07-27 21:49:07.639165
+event_284_1,case_284,Receive Order,2023-08-10 00:15:13.139734
+event_284_7,case_284,Handle Returns,2023-08-11 08:12:15.531106
+event_284_5,case_284,Dispatch Item,2023-08-27 10:33:43.592195
+event_284_3,case_284,Prepare Item,2023-10-21 21:54:57.259581
+event_285_3,case_285,Prepare Item,2023-01-31 04:50:14.868266
+event_285_1,case_285,Receive Order,2023-02-06 19:31:36.234358
+event_285_6,case_285,Monitor Delivery Progress,2023-02-07 13:18:20.148043
+event_285_8,case_285,Manage Customer Communication,2023-02-17 14:27:11.885101
+event_285_2,case_285,Validate Order,2023-03-28 19:01:48.026115
+event_285_5,case_285,Dispatch Item,2023-04-26 14:43:19.612560
+event_285_7,case_285,Process Refunds,2023-06-30 06:09:37.498012
+event_285_4,case_285,Organize Shipping,2023-11-02 10:26:14.123761
+event_286_7,case_286,Receive Payment,2023-01-20 03:00:44.758760
+event_286_3,case_286,Prepare Item,2023-06-01 14:38:03.305348
+event_286_6,case_286,Monitor Delivery Progress,2023-07-11 05:03:25.508724
+event_286_8,case_286,Gather Customer Feedback,2023-07-16 02:54:13.670716
+event_286_2,case_286,Confirm Order Details,2023-07-29 23:02:46.445549
+event_286_1,case_286,Receive Order,2023-08-27 04:33:13.661565
+event_286_5,case_286,Update Order Status,2023-09-09 01:53:16.347175
+event_286_4,case_286,Organize Shipping,2023-11-03 03:01:41.272762
+event_286_2,case_286,Validate Order,2023-11-20 20:42:31.983541
+event_287_6,case_287,Monitor Delivery Progress,2023-01-15 03:26:26.791772
+event_287_7,case_287,Process Refunds,2023-03-02 19:05:27.893697
+event_287_4,case_287,Perform Quality Checks,2023-04-06 20:13:39.158987
+event_287_2,case_287,Validate Order,2023-04-17 08:16:08.505810
+event_287_5,case_287,Dispatch Item,2023-04-23 13:52:32.982671
+event_287_8,case_287,Gather Customer Feedback,2023-06-07 06:40:25.874985
+event_287_3,case_287,Allocate Inventory,2023-07-29 18:55:35.527970
+event_287_1,case_287,Receive Order,2023-10-17 18:55:49.164617
+event_288_7,case_288,Handle Returns,2023-01-27 15:17:47.447814
+event_288_6,case_288,Deliver Item,2023-02-09 04:17:44.824101
+event_288_4,case_288,Perform Quality Checks,2023-04-25 23:37:01.528115
+event_288_7,case_288,Process Refunds,2023-05-16 13:34:22.249853
+event_288_6,case_288,Monitor Delivery Progress,2023-06-20 12:10:08.303235
+event_288_8,case_288,Manage Customer Communication,2023-07-10 21:56:09.580213
+event_288_1,case_288,Receive Order,2023-07-28 07:31:53.993252
+event_288_7,case_288,Receive Payment,2023-09-18 16:44:43.035186
+event_288_3,case_288,Schedule Production,2023-10-11 22:07:56.406765
+event_288_2,case_288,Confirm Order Details,2023-10-27 12:20:00.835968
+event_288_5,case_288,Dispatch Item,2023-12-08 00:07:15.292360
+event_289_3,case_289,Allocate Inventory,2023-05-08 01:16:06.426110
+event_289_8,case_289,Gather Customer Feedback,2023-05-09 03:51:14.148634
+event_289_5,case_289,Update Order Status,2023-05-20 18:16:43.318705
+event_289_6,case_289,Monitor Delivery Progress,2023-05-22 12:59:57.882132
+event_289_1,case_289,Receive Order,2023-07-06 15:12:05.388976
+event_289_4,case_289,Organize Shipping,2023-08-16 07:32:36.480195
+event_289_2,case_289,Validate Order,2023-11-16 14:22:48.681839
+event_289_7,case_289,Receive Payment,2023-11-28 17:33:07.816437
+event_29_5,case_29,Update Order Status,2023-03-11 09:19:07.072401
+event_29_6,case_29,Monitor Delivery Progress,2023-03-22 04:44:10.033994
+event_29_1,case_29,Receive Order,2023-05-07 02:42:36.365961
+event_29_2,case_29,Confirm Order Details,2023-06-12 15:49:45.245816
+event_29_8,case_29,Gather Customer Feedback,2023-06-17 19:08:56.014257
+event_29_7,case_29,Handle Returns,2023-08-04 06:09:14.968613
+event_29_3,case_29,Prepare Item,2023-10-14 21:52:17.069159
+event_29_4,case_29,Perform Quality Checks,2023-11-02 16:14:25.390952
+event_290_4,case_290,Organize Shipping,2023-01-10 19:20:11.311101
+event_290_2,case_290,Validate Order,2023-01-22 12:27:28.420360
+event_290_6,case_290,Monitor Delivery Progress,2023-02-14 13:48:25.237118
+event_290_7,case_290,Handle Returns,2023-04-20 08:54:57.943542
+event_290_2,case_290,Confirm Order Details,2023-05-18 16:59:29.889237
+event_290_1,case_290,Receive Order,2023-07-12 21:00:54.595428
+event_290_3,case_290,Schedule Production,2023-07-14 08:13:21.255954
+event_290_5,case_290,Dispatch Item,2023-08-27 21:48:35.117181
+event_290_2,case_290,Confirm Order Details,2023-08-31 09:10:07.620190
+event_290_8,case_290,Gather Customer Feedback,2023-11-12 17:45:39.510815
+event_291_4,case_291,Organize Shipping,2023-01-02 15:29:18.275255
+event_291_7,case_291,Process Refunds,2023-04-06 19:33:33.697009
+event_291_2,case_291,Validate Order,2023-05-04 10:30:39.295856
+event_291_5,case_291,Dispatch Item,2023-07-04 23:47:32.387876
+event_291_6,case_291,Deliver Item,2023-07-23 15:21:18.454403
+event_291_8,case_291,Manage Customer Communication,2023-10-17 15:53:56.223311
+event_291_3,case_291,Schedule Production,2023-10-29 12:34:14.284487
+event_291_1,case_291,Receive Order,2023-11-11 15:45:34.876821
+event_292_1,case_292,Receive Order,2023-03-05 12:46:11.228086
+event_292_7,case_292,Handle Returns,2023-04-26 13:33:31.576023
+event_292_4,case_292,Perform Quality Checks,2023-06-06 05:38:28.776750
+event_292_3,case_292,Schedule Production,2023-08-10 07:38:17.300993
+event_292_6,case_292,Monitor Delivery Progress,2023-08-15 04:14:36.562027
+event_292_2,case_292,Confirm Order Details,2023-08-26 09:04:21.960580
+event_292_5,case_292,Update Order Status,2023-09-04 17:37:21.470989
+event_292_8,case_292,Manage Customer Communication,2023-09-13 14:34:16.502401
+event_292_5,case_292,Dispatch Item,2023-10-13 17:51:04.364206
+event_293_3,case_293,Prepare Item,2023-02-01 05:30:25.917099
+event_293_2,case_293,Confirm Order Details,2023-02-21 10:52:14.087932
+event_293_7,case_293,Process Refunds,2023-03-02 02:38:39.869377
+event_293_6,case_293,Deliver Item,2023-04-15 05:55:41.654265
+event_293_8,case_293,Manage Customer Communication,2023-05-19 20:09:48.544100
+event_293_5,case_293,Dispatch Item,2023-06-22 05:48:22.688671
+event_293_7,case_293,Receive Payment,2023-09-17 04:03:08.922209
+event_293_1,case_293,Receive Order,2023-10-01 02:15:17.354007
+event_293_4,case_293,Perform Quality Checks,2023-10-13 13:40:27.184190
+event_294_3,case_294,Allocate Inventory,2023-03-31 08:44:21.688109
+event_294_7,case_294,Receive Payment,2023-05-14 13:47:30.324472
+event_294_5,case_294,Dispatch Item,2023-05-19 20:36:37.618675
+event_294_4,case_294,Perform Quality Checks,2023-06-25 16:00:04.758719
+event_294_7,case_294,Process Refunds,2023-07-04 13:37:52.001155
+event_294_1,case_294,Receive Order,2023-07-04 23:53:38.279418
+event_294_2,case_294,Confirm Order Details,2023-07-06 19:28:20.766283
+event_294_6,case_294,Monitor Delivery Progress,2023-09-09 12:37:40.103807
+event_294_8,case_294,Manage Customer Communication,2023-09-10 21:52:13.768657
+event_295_2,case_295,Confirm Order Details,2023-03-02 05:28:52.851897
+event_295_4,case_295,Perform Quality Checks,2023-03-22 23:41:48.403569
+event_295_6,case_295,Monitor Delivery Progress,2023-05-11 06:35:05.213591
+event_295_5,case_295,Update Order Status,2023-07-09 14:44:18.575062
+event_295_7,case_295,Receive Payment,2023-09-03 22:38:47.500473
+event_295_1,case_295,Receive Order,2023-09-15 15:42:07.963084
+event_295_3,case_295,Prepare Item,2023-09-25 19:56:32.310353
+event_295_8,case_295,Gather Customer Feedback,2023-11-08 05:37:14.327306
+event_296_6,case_296,Monitor Delivery Progress,2023-03-12 14:41:01.988856
+event_296_5,case_296,Dispatch Item,2023-04-17 10:37:31.214533
+event_296_4,case_296,Perform Quality Checks,2023-06-13 15:32:15.621255
+event_296_7,case_296,Process Refunds,2023-07-06 09:27:37.347242
+event_296_3,case_296,Allocate Inventory,2023-08-13 13:11:06.586859
+event_296_2,case_296,Validate Order,2023-09-01 12:28:57.702261
+event_296_1,case_296,Receive Order,2023-09-14 03:54:07.235306
+event_296_8,case_296,Gather Customer Feedback,2023-10-09 00:58:40.294931
+event_297_6,case_297,Deliver Item,2023-01-12 14:25:10.816751
+event_297_3,case_297,Schedule Production,2023-04-03 22:52:55.970335
+event_297_1,case_297,Receive Order,2023-05-27 23:12:17.444434
+event_297_7,case_297,Handle Returns,2023-05-29 15:39:59.952314
+event_297_4,case_297,Perform Quality Checks,2023-06-22 09:29:32.832670
+event_297_5,case_297,Dispatch Item,2023-08-12 14:09:52.818833
+event_297_2,case_297,Confirm Order Details,2023-08-16 03:42:07.629877
+event_297_8,case_297,Manage Customer Communication,2023-11-09 20:09:29.599088
+event_298_1,case_298,Receive Order,2023-01-01 09:42:00.387429
+event_298_2,case_298,Validate Order,2023-02-12 08:40:58.913559
+event_298_8,case_298,Manage Customer Communication,2023-02-14 01:53:33.462101
+event_298_6,case_298,Monitor Delivery Progress,2023-04-06 04:28:41.228925
+event_298_5,case_298,Dispatch Item,2023-04-11 23:42:03.279368
+event_298_7,case_298,Receive Payment,2023-07-09 09:26:17.550155
+event_298_4,case_298,Perform Quality Checks,2023-08-30 17:31:19.951965
+event_298_7,case_298,Process Refunds,2023-09-23 09:39:29.424823
+event_298_3,case_298,Prepare Item,2023-10-06 10:30:27.294168
+event_299_4,case_299,Organize Shipping,2023-01-02 14:10:23.574268
+event_299_7,case_299,Receive Payment,2023-03-09 08:05:10.044676
+event_299_6,case_299,Deliver Item,2023-06-14 09:57:29.361325
+event_299_2,case_299,Validate Order,2023-07-03 03:53:54.380499
+event_299_7,case_299,Handle Returns,2023-09-08 06:46:03.160753
+event_299_8,case_299,Gather Customer Feedback,2023-09-14 13:02:12.262674
+event_299_3,case_299,Prepare Item,2023-09-21 20:47:12.461909
+event_299_5,case_299,Dispatch Item,2023-11-14 02:46:04.903791
+event_299_5,case_299,Update Order Status,2023-11-23 16:23:55.274910
+event_299_1,case_299,Receive Order,2023-11-24 12:48:18.584860
+event_3_6,case_3,Deliver Item,2023-01-18 15:33:12.635405
+event_3_3,case_3,Schedule Production,2023-03-04 22:51:18.735595
+event_3_5,case_3,Update Order Status,2023-03-08 09:32:54.422318
+event_3_2,case_3,Validate Order,2023-03-23 08:29:55.711383
+event_3_4,case_3,Organize Shipping,2023-05-23 20:45:42.202384
+event_3_7,case_3,Receive Payment,2023-05-27 08:32:03.120094
+event_3_1,case_3,Receive Order,2023-07-31 14:55:32.484575
+event_3_8,case_3,Manage Customer Communication,2023-09-18 04:41:28.660739
+event_30_3,case_30,Prepare Item,2023-01-18 23:08:23.190622
+event_30_6,case_30,Monitor Delivery Progress,2023-02-12 16:42:39.593416
+event_30_1,case_30,Receive Order,2023-03-25 21:57:29.716499
+event_30_4,case_30,Organize Shipping,2023-04-06 10:29:40.446486
+event_30_7,case_30,Process Refunds,2023-04-17 04:47:38.511059
+event_30_8,case_30,Gather Customer Feedback,2023-06-02 21:20:40.627962
+event_30_2,case_30,Confirm Order Details,2023-06-12 22:19:05.786126
+event_30_5,case_30,Update Order Status,2023-11-05 16:34:07.919106
+event_30_2,case_30,Validate Order,2023-11-16 09:51:13.357538
+event_31_7,case_31,Receive Payment,2023-05-26 18:35:04.659493
+event_31_6,case_31,Monitor Delivery Progress,2023-07-08 22:07:18.937115
+event_31_5,case_31,Dispatch Item,2023-07-16 16:34:00.256447
+event_31_4,case_31,Perform Quality Checks,2023-09-12 22:03:30.371164
+event_31_8,case_31,Manage Customer Communication,2023-10-30 13:14:38.815311
+event_31_3,case_31,Prepare Item,2023-11-10 11:19:31.127688
+event_31_1,case_31,Receive Order,2023-11-29 00:08:51.203150
+event_31_2,case_31,Validate Order,2023-12-08 08:17:59.753172
+event_32_7,case_32,Handle Returns,2023-02-12 10:52:50.743895
+event_32_6,case_32,Monitor Delivery Progress,2023-04-29 16:18:57.946589
+event_32_1,case_32,Receive Order,2023-04-30 09:17:45.403175
+event_32_3,case_32,Allocate Inventory,2023-06-21 20:57:26.921114
+event_32_2,case_32,Confirm Order Details,2023-07-04 00:53:40.302704
+event_32_5,case_32,Dispatch Item,2023-11-01 01:30:18.742009
+event_32_8,case_32,Manage Customer Communication,2023-11-15 16:48:56.976464
+event_32_4,case_32,Organize Shipping,2023-12-04 04:45:11.112714
+event_33_2,case_33,Confirm Order Details,2023-01-16 04:59:34.351514
+event_33_6,case_33,Monitor Delivery Progress,2023-04-12 12:41:24.675530
+event_33_7,case_33,Handle Returns,2023-05-02 16:56:20.115977
+event_33_1,case_33,Receive Order,2023-06-03 01:50:48.952259
+event_33_3,case_33,Prepare Item,2023-08-18 01:28:48.950642
+event_33_4,case_33,Organize Shipping,2023-08-28 09:37:36.281898
+event_33_3,case_33,Schedule Production,2023-10-08 06:01:04.421233
+event_33_8,case_33,Manage Customer Communication,2023-10-14 08:00:34.402082
+event_33_5,case_33,Update Order Status,2023-12-03 17:36:48.924221
+event_34_3,case_34,Schedule Production,2023-01-28 18:11:42.893299
+event_34_5,case_34,Dispatch Item,2023-03-10 03:38:36.818404
+event_34_1,case_34,Receive Order,2023-04-28 04:50:00.187197
+event_34_7,case_34,Handle Returns,2023-05-20 09:34:56.250504
+event_34_6,case_34,Monitor Delivery Progress,2023-06-01 02:06:03.083418
+event_34_2,case_34,Confirm Order Details,2023-06-15 00:21:47.839512
+event_34_4,case_34,Perform Quality Checks,2023-07-21 08:31:53.830503
+event_34_8,case_34,Manage Customer Communication,2023-07-31 10:16:09.666272
+event_34_4,case_34,Organize Shipping,2023-08-06 14:20:19.913567
+event_34_3,case_34,Allocate Inventory,2023-08-25 10:30:39.365439
+event_35_6,case_35,Monitor Delivery Progress,2023-01-12 07:22:16.925131
+event_35_7,case_35,Handle Returns,2023-01-29 22:02:21.088952
+event_35_5,case_35,Dispatch Item,2023-03-09 06:16:46.995812
+event_35_2,case_35,Validate Order,2023-05-28 10:22:42.683677
+event_35_1,case_35,Receive Order,2023-08-09 21:45:02.725368
+event_35_8,case_35,Manage Customer Communication,2023-09-14 12:01:24.416033
+event_35_4,case_35,Perform Quality Checks,2023-10-06 16:59:47.603001
+event_35_3,case_35,Prepare Item,2023-11-19 08:00:30.635723
+event_35_7,case_35,Receive Payment,2023-12-03 10:28:00.997541
+event_36_6,case_36,Monitor Delivery Progress,2023-01-15 06:21:32.925653
+event_36_5,case_36,Update Order Status,2023-01-18 23:06:00.695660
+event_36_7,case_36,Receive Payment,2023-02-25 22:34:58.363802
+event_36_1,case_36,Receive Order,2023-04-13 13:59:51.181005
+event_36_2,case_36,Validate Order,2023-04-30 06:16:57.907687
+event_36_3,case_36,Allocate Inventory,2023-06-03 10:43:42.660319
+event_36_8,case_36,Gather Customer Feedback,2023-06-20 21:15:31.590836
+event_36_4,case_36,Organize Shipping,2023-07-04 22:42:26.836161
+event_36_7,case_36,Handle Returns,2023-11-09 00:17:39.599568
+event_37_5,case_37,Update Order Status,2023-01-29 06:44:58.074095
+event_37_4,case_37,Perform Quality Checks,2023-01-29 11:46:35.744932
+event_37_1,case_37,Receive Order,2023-03-19 13:13:32.656036
+event_37_6,case_37,Deliver Item,2023-10-15 12:50:21.057540
+event_37_8,case_37,Manage Customer Communication,2023-10-22 00:37:55.586182
+event_37_3,case_37,Allocate Inventory,2023-10-25 14:44:43.630173
+event_37_7,case_37,Receive Payment,2023-11-07 07:19:44.393280
+event_37_2,case_37,Confirm Order Details,2023-11-20 17:55:22.227311
+event_38_1,case_38,Receive Order,2023-01-22 06:38:17.616106
+event_38_2,case_38,Confirm Order Details,2023-02-07 10:50:13.731634
+event_38_6,case_38,Monitor Delivery Progress,2023-02-16 08:36:02.563945
+event_38_8,case_38,Gather Customer Feedback,2023-03-03 09:58:26.641992
+event_38_3,case_38,Prepare Item,2023-05-12 21:18:29.504449
+event_38_7,case_38,Process Refunds,2023-05-16 15:09:03.364587
+event_38_4,case_38,Organize Shipping,2023-10-07 14:55:05.852447
+event_38_5,case_38,Update Order Status,2023-10-27 11:50:07.084843
+event_39_3,case_39,Allocate Inventory,2023-01-24 08:29:29.372392
+event_39_2,case_39,Confirm Order Details,2023-08-11 07:07:06.211481
+event_39_7,case_39,Process Refunds,2023-08-20 07:17:27.025325
+event_39_6,case_39,Monitor Delivery Progress,2023-08-22 01:26:03.553417
+event_39_5,case_39,Update Order Status,2023-09-15 06:13:01.386714
+event_39_4,case_39,Perform Quality Checks,2023-10-14 12:01:09.952083
+event_39_8,case_39,Gather Customer Feedback,2023-10-17 00:41:53.236893
+event_39_1,case_39,Receive Order,2023-11-27 16:04:24.641862
+event_4_3,case_4,Prepare Item,2023-04-17 05:59:33.663303
+event_4_5,case_4,Update Order Status,2023-05-16 06:50:45.799063
+event_4_1,case_4,Receive Order,2023-05-25 06:10:42.800277
+event_4_4,case_4,Perform Quality Checks,2023-08-02 10:09:52.186958
+event_4_6,case_4,Deliver Item,2023-08-18 09:53:41.730493
+event_4_7,case_4,Receive Payment,2023-10-20 23:13:14.655230
+event_4_8,case_4,Manage Customer Communication,2023-11-02 11:34:52.465911
+event_4_2,case_4,Confirm Order Details,2023-11-21 03:42:04.976695
+event_4_5,case_4,Dispatch Item,2023-11-28 01:14:47.976977
+event_40_3,case_40,Prepare Item,2023-01-04 05:24:21.855126
+event_40_3,case_40,Prepare Item,2023-02-23 09:02:06.001492
+event_40_5,case_40,Dispatch Item,2023-03-01 06:36:38.126650
+event_40_6,case_40,Deliver Item,2023-04-29 16:20:37.486783
+event_40_2,case_40,Validate Order,2023-05-02 15:32:16.331977
+event_40_8,case_40,Gather Customer Feedback,2023-05-10 07:52:08.952297
+event_40_1,case_40,Receive Order,2023-07-01 06:15:46.703753
+event_40_7,case_40,Handle Returns,2023-07-17 07:41:06.743599
+event_40_2,case_40,Confirm Order Details,2023-07-30 03:22:10.114568
+event_40_4,case_40,Organize Shipping,2023-10-22 18:28:41.865442
+event_41_7,case_41,Process Refunds,2023-02-09 01:09:10.673844
+event_41_2,case_41,Confirm Order Details,2023-02-21 13:20:41.345067
+event_41_3,case_41,Schedule Production,2023-06-21 13:57:23.536194
+event_41_4,case_41,Perform Quality Checks,2023-07-16 14:46:07.540677
+event_41_6,case_41,Monitor Delivery Progress,2023-08-23 12:21:11.889568
+event_41_5,case_41,Dispatch Item,2023-08-31 22:37:24.740149
+event_41_7,case_41,Handle Returns,2023-09-23 02:56:21.617308
+event_41_8,case_41,Manage Customer Communication,2023-11-21 17:50:57.586645
+event_41_1,case_41,Receive Order,2023-11-30 17:44:23.729574
+event_42_5,case_42,Update Order Status,2023-03-25 00:49:04.286393
+event_42_8,case_42,Gather Customer Feedback,2023-04-16 15:22:52.700341
+event_42_1,case_42,Receive Order,2023-04-24 11:11:55.169276
+event_42_6,case_42,Monitor Delivery Progress,2023-05-13 05:06:32.553411
+event_42_7,case_42,Receive Payment,2023-06-29 19:28:14.814853
+event_42_2,case_42,Confirm Order Details,2023-07-08 06:17:47.875791
+event_42_4,case_42,Organize Shipping,2023-09-15 17:59:53.704298
+event_42_6,case_42,Deliver Item,2023-10-24 08:08:14.318784
+event_42_3,case_42,Prepare Item,2023-11-13 10:49:02.131450
+event_43_2,case_43,Confirm Order Details,2023-02-13 13:57:20.227690
+event_43_3,case_43,Allocate Inventory,2023-03-20 04:24:01.660880
+event_43_8,case_43,Gather Customer Feedback,2023-04-22 12:20:14.787105
+event_43_7,case_43,Receive Payment,2023-05-15 02:01:24.945037
+event_43_6,case_43,Monitor Delivery Progress,2023-06-21 06:38:30.666884
+event_43_5,case_43,Update Order Status,2023-09-08 19:37:03.051993
+event_43_1,case_43,Receive Order,2023-09-27 13:02:03.765593
+event_43_4,case_43,Organize Shipping,2023-10-04 23:59:42.605665
+event_44_1,case_44,Receive Order,2023-02-11 17:16:21.818218
+event_44_4,case_44,Organize Shipping,2023-04-18 09:00:56.547559
+event_44_5,case_44,Update Order Status,2023-04-24 18:55:56.908882
+event_44_8,case_44,Gather Customer Feedback,2023-07-03 00:56:44.302520
+event_44_4,case_44,Perform Quality Checks,2023-07-11 22:05:13.809660
+event_44_6,case_44,Deliver Item,2023-09-16 02:30:42.009235
+event_44_7,case_44,Receive Payment,2023-10-14 11:09:56.385012
+event_44_3,case_44,Schedule Production,2023-11-12 20:58:28.653580
+event_44_2,case_44,Validate Order,2023-12-01 16:47:05.838936
+event_45_8,case_45,Gather Customer Feedback,2023-01-18 15:56:06.827334
+event_45_1,case_45,Receive Order,2023-03-05 18:50:12.208585
+event_45_6,case_45,Deliver Item,2023-04-18 01:04:47.071963
+event_45_5,case_45,Update Order Status,2023-04-22 19:15:10.390813
+event_45_3,case_45,Prepare Item,2023-04-25 00:52:30.094487
+event_45_7,case_45,Process Refunds,2023-04-30 12:15:44.262036
+event_45_4,case_45,Perform Quality Checks,2023-07-19 08:41:55.748531
+event_45_2,case_45,Validate Order,2023-07-31 08:16:12.946530
+event_46_6,case_46,Monitor Delivery Progress,2023-04-17 00:25:36.092677
+event_46_3,case_46,Prepare Item,2023-07-07 14:24:11.432195
+event_46_7,case_46,Process Refunds,2023-08-31 06:30:45.971710
+event_46_2,case_46,Validate Order,2023-09-02 18:21:06.307536
+event_46_4,case_46,Organize Shipping,2023-09-24 22:47:09.936454
+event_46_1,case_46,Receive Order,2023-10-12 13:41:08.097798
+event_46_8,case_46,Gather Customer Feedback,2023-10-28 03:34:42.405692
+event_46_5,case_46,Update Order Status,2023-11-17 17:15:45.208917
+event_47_4,case_47,Organize Shipping,2023-01-14 23:29:23.835770
+event_47_8,case_47,Manage Customer Communication,2023-03-23 12:25:09.646224
+event_47_7,case_47,Process Refunds,2023-05-18 10:30:05.338641
+event_47_6,case_47,Monitor Delivery Progress,2023-05-26 12:43:29.417554
+event_47_2,case_47,Validate Order,2023-06-12 23:05:12.554644
+event_47_3,case_47,Schedule Production,2023-10-06 00:27:19.981775
+event_47_1,case_47,Receive Order,2023-10-25 16:50:42.715720
+event_47_5,case_47,Update Order Status,2023-10-29 00:44:48.623163
+event_47_6,case_47,Deliver Item,2023-11-21 08:24:01.609177
+event_48_5,case_48,Dispatch Item,2023-03-14 22:11:09.915742
+event_48_3,case_48,Prepare Item,2023-04-21 18:29:50.693641
+event_48_4,case_48,Perform Quality Checks,2023-05-16 04:10:29.070858
+event_48_5,case_48,Dispatch Item,2023-05-20 21:49:09.327318
+event_48_4,case_48,Organize Shipping,2023-07-19 18:14:49.319213
+event_48_1,case_48,Receive Order,2023-07-29 22:48:25.702999
+event_48_7,case_48,Handle Returns,2023-08-21 14:30:58.959341
+event_48_8,case_48,Manage Customer Communication,2023-08-31 02:47:25.265985
+event_48_2,case_48,Confirm Order Details,2023-09-04 01:58:03.047591
+event_48_6,case_48,Monitor Delivery Progress,2023-11-25 08:42:53.092766
+event_49_1,case_49,Receive Order,2023-04-19 00:49:08.110618
+event_49_8,case_49,Gather Customer Feedback,2023-04-28 15:52:52.746408
+event_49_3,case_49,Prepare Item,2023-06-20 12:05:13.438661
+event_49_7,case_49,Process Refunds,2023-07-17 20:49:12.232729
+event_49_2,case_49,Confirm Order Details,2023-07-21 23:56:43.645117
+event_49_5,case_49,Dispatch Item,2023-08-06 12:59:02.606274
+event_49_6,case_49,Monitor Delivery Progress,2023-08-11 23:27:05.511266
+event_49_4,case_49,Perform Quality Checks,2023-11-15 06:28:04.588198
+event_5_3,case_5,Schedule Production,2023-01-05 16:50:46.590789
+event_5_2,case_5,Validate Order,2023-04-10 03:04:51.775084
+event_5_8,case_5,Manage Customer Communication,2023-05-05 01:47:38.342978
+event_5_2,case_5,Confirm Order Details,2023-05-22 13:58:04.978858
+event_5_4,case_5,Organize Shipping,2023-08-27 06:59:07.443285
+event_5_5,case_5,Update Order Status,2023-09-03 20:32:08.696830
+event_5_7,case_5,Handle Returns,2023-09-16 18:05:56.381789
+event_5_1,case_5,Receive Order,2023-10-21 11:14:17.107901
+event_5_6,case_5,Monitor Delivery Progress,2023-11-10 19:29:29.859930
+event_50_8,case_50,Gather Customer Feedback,2023-01-24 09:41:44.574080
+event_50_6,case_50,Deliver Item,2023-03-15 02:34:22.899141
+event_50_1,case_50,Receive Order,2023-04-20 15:01:15.449933
+event_50_7,case_50,Receive Payment,2023-06-05 12:20:46.957407
+event_50_2,case_50,Validate Order,2023-09-20 03:43:27.431058
+event_50_4,case_50,Organize Shipping,2023-09-20 07:10:28.898378
+event_50_7,case_50,Handle Returns,2023-10-31 12:30:45.984465
+event_50_6,case_50,Monitor Delivery Progress,2023-11-01 14:05:55.065366
+event_50_3,case_50,Allocate Inventory,2023-11-09 15:17:36.276401
+event_50_5,case_50,Update Order Status,2023-12-05 02:53:52.770387
+event_51_2,case_51,Confirm Order Details,2023-01-09 18:05:54.959297
+event_51_3,case_51,Allocate Inventory,2023-02-27 13:38:50.756993
+event_51_6,case_51,Monitor Delivery Progress,2023-05-14 05:13:17.736517
+event_51_1,case_51,Receive Order,2023-05-31 07:48:54.619586
+event_51_2,case_51,Validate Order,2023-07-02 19:54:18.924689
+event_51_7,case_51,Handle Returns,2023-07-18 12:46:08.747018
+event_51_4,case_51,Organize Shipping,2023-07-28 18:14:19.611604
+event_51_8,case_51,Manage Customer Communication,2023-10-12 23:37:13.414639
+event_51_5,case_51,Dispatch Item,2023-10-27 21:21:58.607212
+event_52_1,case_52,Receive Order,2023-03-23 19:18:31.412282
+event_52_7,case_52,Process Refunds,2023-04-14 03:56:07.243050
+event_52_6,case_52,Deliver Item,2023-08-29 22:33:38.994631
+event_52_5,case_52,Update Order Status,2023-09-10 04:31:44.885511
+event_52_2,case_52,Validate Order,2023-09-14 05:43:44.462993
+event_52_4,case_52,Organize Shipping,2023-11-14 08:47:24.609656
+event_52_8,case_52,Gather Customer Feedback,2023-11-23 02:32:00.709467
+event_52_3,case_52,Allocate Inventory,2023-12-01 07:12:00.450464
+event_53_3,case_53,Prepare Item,2023-01-15 15:15:09.498053
+event_53_1,case_53,Receive Order,2023-03-12 05:08:49.698578
+event_53_5,case_53,Update Order Status,2023-03-31 08:27:06.077477
+event_53_8,case_53,Gather Customer Feedback,2023-03-31 17:57:46.059132
+event_53_7,case_53,Process Refunds,2023-05-01 14:46:10.979770
+event_53_7,case_53,Handle Returns,2023-05-30 18:34:02.021603
+event_53_5,case_53,Dispatch Item,2023-07-08 10:32:38.093306
+event_53_6,case_53,Monitor Delivery Progress,2023-08-16 16:23:20.697053
+event_53_4,case_53,Perform Quality Checks,2023-10-24 07:25:41.206690
+event_53_2,case_53,Confirm Order Details,2023-11-30 20:24:54.399772
+event_54_8,case_54,Manage Customer Communication,2023-02-19 04:18:20.042674
+event_54_7,case_54,Receive Payment,2023-04-02 02:24:48.637619
+event_54_3,case_54,Prepare Item,2023-05-05 01:11:42.463906
+event_54_4,case_54,Organize Shipping,2023-06-03 03:17:18.762875
+event_54_5,case_54,Dispatch Item,2023-06-11 17:32:40.180326
+event_54_2,case_54,Validate Order,2023-07-15 22:41:45.889475
+event_54_6,case_54,Monitor Delivery Progress,2023-08-03 08:43:01.220772
+event_54_1,case_54,Receive Order,2023-10-27 19:29:27.253539
+event_55_5,case_55,Dispatch Item,2023-04-26 03:07:41.777035
+event_55_6,case_55,Monitor Delivery Progress,2023-05-17 10:45:32.793025
+event_55_4,case_55,Perform Quality Checks,2023-05-21 07:08:10.942712
+event_55_1,case_55,Receive Order,2023-05-24 07:50:16.455726
+event_55_7,case_55,Process Refunds,2023-05-30 08:06:44.299102
+event_55_8,case_55,Gather Customer Feedback,2023-08-22 05:33:53.409459
+event_55_2,case_55,Confirm Order Details,2023-08-23 13:54:24.142970
+event_55_3,case_55,Allocate Inventory,2023-10-25 03:50:48.071721
+event_56_4,case_56,Perform Quality Checks,2023-01-17 06:01:26.329857
+event_56_8,case_56,Manage Customer Communication,2023-02-07 03:10:30.036721
+event_56_2,case_56,Validate Order,2023-03-13 22:08:04.996034
+event_56_3,case_56,Allocate Inventory,2023-08-02 02:37:01.884097
+event_56_5,case_56,Update Order Status,2023-08-29 07:22:42.097277
+event_56_7,case_56,Handle Returns,2023-10-10 11:00:32.104518
+event_56_6,case_56,Monitor Delivery Progress,2023-10-17 09:57:47.765941
+event_56_1,case_56,Receive Order,2023-11-25 05:30:23.847318
+event_57_1,case_57,Receive Order,2023-03-03 02:44:20.591298
+event_57_6,case_57,Deliver Item,2023-04-21 09:03:56.665113
+event_57_6,case_57,Monitor Delivery Progress,2023-04-27 08:22:19.228884
+event_57_3,case_57,Prepare Item,2023-05-29 14:29:55.284937
+event_57_7,case_57,Process Refunds,2023-05-31 04:03:27.423666
+event_57_8,case_57,Gather Customer Feedback,2023-07-08 00:15:49.387015
+event_57_4,case_57,Organize Shipping,2023-08-12 01:52:15.291439
+event_57_5,case_57,Dispatch Item,2023-09-29 08:53:46.650384
+event_57_2,case_57,Validate Order,2023-10-13 07:29:28.240082
+event_58_1,case_58,Receive Order,2023-01-08 21:43:52.950038
+event_58_6,case_58,Monitor Delivery Progress,2023-01-13 19:02:21.534526
+event_58_7,case_58,Process Refunds,2023-02-09 03:23:31.388891
+event_58_3,case_58,Schedule Production,2023-02-23 01:09:16.602273
+event_58_2,case_58,Confirm Order Details,2023-03-11 21:08:23.389728
+event_58_3,case_58,Organize Shipping,2023-04-08 20:47:00.919341
+event_58_6,case_58,Deliver Item,2023-06-18 13:58:21.072587
+event_58_2,case_58,Validate Order,2023-09-24 19:42:30.775801
+event_58_4,case_58,Perform Quality Checks,2023-10-08 03:10:40.585731
+event_58_3,case_58,Prepare Item,2023-10-15 12:00:16.554209
+event_58_8,case_58,Gather Customer Feedback,2023-10-18 23:53:07.807578
+event_58_5,case_58,Update Order Status,2023-11-06 00:33:05.111105
+event_58_5,case_58,Dispatch Item,2023-11-10 01:14:06.623231
+event_58_4,case_58,Organize Shipping,2023-11-28 20:11:44.357021
+event_59_4,case_59,Organize Shipping,2023-04-05 06:16:25.835807
+event_59_5,case_59,Update Order Status,2023-06-01 19:03:25.187091
+event_59_1,case_59,Receive Order,2023-07-09 00:13:36.952001
+event_59_6,case_59,Deliver Item,2023-07-30 15:17:46.365132
+event_59_3,case_59,Schedule Production,2023-09-03 02:31:57.509793
+event_59_8,case_59,Gather Customer Feedback,2023-09-28 06:00:24.841517
+event_59_2,case_59,Validate Order,2023-10-26 23:43:22.247526
+event_59_7,case_59,Process Refunds,2023-12-05 14:09:47.115631
+event_6_2,case_6,Confirm Order Details,2023-01-24 22:58:12.458975
+event_6_3,case_6,Schedule Production,2023-02-14 14:34:50.482516
+event_6_8,case_6,Gather Customer Feedback,2023-07-25 13:14:22.359423
+event_6_5,case_6,Dispatch Item,2023-07-28 03:19:59.577928
+event_6_6,case_6,Monitor Delivery Progress,2023-08-10 11:28:32.198625
+event_6_1,case_6,Receive Order,2023-09-16 12:57:53.698389
+event_6_4,case_6,Organize Shipping,2023-10-01 10:00:54.024281
+event_6_7,case_6,Process Refunds,2023-11-23 02:54:51.547451
+event_60_7,case_60,Receive Payment,2023-02-24 08:12:04.344532
+event_60_5,case_60,Update Order Status,2023-03-10 13:51:42.795571
+event_60_3,case_60,Schedule Production,2023-04-28 22:17:58.210454
+event_60_2,case_60,Validate Order,2023-05-19 20:25:03.262281
+event_60_6,case_60,Deliver Item,2023-06-25 09:59:41.695379
+event_60_8,case_60,Gather Customer Feedback,2023-08-03 01:33:09.353003
+event_60_4,case_60,Organize Shipping,2023-09-13 19:56:40.751423
+event_60_1,case_60,Receive Order,2023-10-05 13:08:44.765680
+event_60_2,case_60,Confirm Order Details,2023-10-25 03:24:43.573451
+event_61_8,case_61,Manage Customer Communication,2023-01-17 05:03:54.309863
+event_61_3,case_61,Allocate Inventory,2023-03-25 21:43:57.444952
+event_61_5,case_61,Update Order Status,2023-04-22 17:15:02.308400
+event_61_1,case_61,Receive Order,2023-05-25 23:58:18.604525
+event_61_6,case_61,Monitor Delivery Progress,2023-06-10 06:19:24.406717
+event_61_2,case_61,Validate Order,2023-07-01 10:35:17.692528
+event_61_7,case_61,Handle Returns,2023-08-22 10:09:45.313860
+event_61_4,case_61,Organize Shipping,2023-11-01 18:57:09.341741
+event_62_2,case_62,Confirm Order Details,2023-01-05 03:21:07.566304
+event_62_4,case_62,Perform Quality Checks,2023-05-30 04:33:50.028410
+event_62_1,case_62,Receive Order,2023-06-03 00:58:22.570924
+event_62_2,case_62,Validate Order,2023-06-19 10:41:38.117399
+event_62_7,case_62,Process Refunds,2023-08-05 03:42:26.415619
+event_62_3,case_62,Prepare Item,2023-08-17 00:42:35.681822
+event_62_5,case_62,Update Order Status,2023-09-24 20:40:43.520571
+event_62_6,case_62,Monitor Delivery Progress,2023-10-02 14:45:18.862873
+event_62_8,case_62,Manage Customer Communication,2023-11-17 16:07:02.592204
+event_62_3,case_62,Schedule Production,2023-11-21 18:31:16.631021
+event_63_3,case_63,Schedule Production,2023-01-02 14:34:35.700735
+event_63_8,case_63,Gather Customer Feedback,2023-02-14 07:21:09.515702
+event_63_6,case_63,Deliver Item,2023-05-06 19:45:53.622187
+event_63_2,case_63,Validate Order,2023-05-16 22:51:11.375936
+event_63_1,case_63,Receive Order,2023-08-06 19:26:48.351958
+event_63_5,case_63,Dispatch Item,2023-09-02 02:24:18.144630
+event_63_4,case_63,Perform Quality Checks,2023-11-17 03:16:19.237945
+event_63_7,case_63,Process Refunds,2023-11-30 08:10:06.331568
+event_64_3,case_64,Schedule Production,2023-01-12 17:23:24.928679
+event_64_4,case_64,Dispatch Item,2023-02-26 08:27:33.249102
+event_64_1,case_64,Receive Order,2023-02-27 18:12:14.132179
+event_64_5,case_64,Dispatch Item,2023-02-28 22:18:43.704150
+event_64_6,case_64,Monitor Delivery Progress,2023-03-02 22:14:30.587049
+event_64_2,case_64,Validate Order,2023-06-16 02:46:07.677956
+event_64_5,case_64,Dispatch Item,2023-06-22 16:45:12.424550
+event_64_8,case_64,Manage Customer Communication,2023-07-06 01:43:08.127532
+event_64_5,case_64,Update Order Status,2023-10-01 20:03:17.415615
+event_64_4,case_64,Perform Quality Checks,2023-10-06 23:35:28.188569
+event_64_7,case_64,Handle Returns,2023-10-29 22:29:15.391304
+event_65_3,case_65,Schedule Production,2023-01-22 00:27:28.014844
+event_65_2,case_65,Validate Order,2023-02-10 22:39:03.362200
+event_65_2,case_65,Confirm Order Details,2023-05-22 04:51:04.351269
+event_65_1,case_65,Receive Order,2023-06-08 00:43:46.797750
+event_65_7,case_65,Handle Returns,2023-07-03 03:22:37.225114
+event_65_5,case_65,Dispatch Item,2023-07-24 14:47:50.202530
+event_65_8,case_65,Manage Customer Communication,2023-09-22 22:00:46.211559
+event_65_6,case_65,Monitor Delivery Progress,2023-10-23 15:03:44.729342
+event_65_4,case_65,Organize Shipping,2023-11-03 02:19:12.238086
+event_65_5,case_65,Update Order Status,2023-11-26 03:49:36.059430
+event_66_1,case_66,Receive Order,2023-02-05 18:43:37.574723
+event_66_3,case_66,Schedule Production,2023-03-31 06:22:05.793995
+event_66_5,case_66,Dispatch Item,2023-05-15 05:30:01.649100
+event_66_6,case_66,Monitor Delivery Progress,2023-07-31 06:15:16.723300
+event_66_4,case_66,Organize Shipping,2023-09-12 10:45:08.899866
+event_66_7,case_66,Receive Payment,2023-09-30 09:03:14.314029
+event_66_2,case_66,Confirm Order Details,2023-10-14 18:28:17.012149
+event_66_8,case_66,Manage Customer Communication,2023-10-19 08:03:47.104412
+event_67_1,case_67,Receive Order,2023-01-22 10:09:22.070675
+event_67_3,case_67,Allocate Inventory,2023-01-26 14:18:35.465700
+event_67_7,case_67,Process Refunds,2023-02-03 00:00:55.902055
+event_67_6,case_67,Monitor Delivery Progress,2023-02-08 06:30:25.854627
+event_67_2,case_67,Confirm Order Details,2023-03-10 08:20:07.812183
+event_67_8,case_67,Gather Customer Feedback,2023-05-23 10:54:51.187158
+event_67_5,case_67,Dispatch Item,2023-06-28 16:18:44.862308
+event_67_4,case_67,Organize Shipping,2023-10-23 10:30:14.504107
+event_68_3,case_68,Schedule Production,2023-01-11 15:52:14.449902
+event_68_4,case_68,Organize Shipping,2023-01-16 23:05:14.405465
+event_68_7,case_68,Handle Returns,2023-04-04 23:08:46.547950
+event_68_8,case_68,Gather Customer Feedback,2023-05-19 15:48:44.744031
+event_68_5,case_68,Dispatch Item,2023-06-09 20:42:39.627286
+event_68_2,case_68,Validate Order,2023-06-20 00:00:39.711915
+event_68_6,case_68,Monitor Delivery Progress,2023-07-03 06:12:31.287228
+event_68_1,case_68,Receive Order,2023-09-14 00:00:25.364939
+event_69_2,case_69,Confirm Order Details,2023-02-02 08:16:52.996221
+event_69_1,case_69,Receive Order,2023-02-16 20:12:21.005949
+event_69_5,case_69,Update Order Status,2023-02-28 19:50:08.581858
+event_69_3,case_69,Schedule Production,2023-05-24 09:02:53.880449
+event_69_8,case_69,Gather Customer Feedback,2023-05-25 22:32:27.467993
+event_69_6,case_69,Deliver Item,2023-06-24 02:33:43.732602
+event_69_7,case_69,Receive Payment,2023-07-28 01:26:05.841511
+event_69_5,case_69,Update Order Status,2023-08-06 19:36:03.147072
+event_69_4,case_69,Perform Quality Checks,2023-08-23 11:51:49.324294
+event_69_5,case_69,Dispatch Item,2023-10-28 08:46:38.627931
+event_69_5,case_69,Dispatch Item,2023-10-31 20:39:22.409797
+event_7_4,case_7,Perform Quality Checks,2023-01-05 04:04:46.013667
+event_7_7,case_7,Receive Payment,2023-01-07 12:01:29.957593
+event_7_8,case_7,Gather Customer Feedback,2023-01-22 12:19:34.108018
+event_7_5,case_7,Update Order Status,2023-03-01 12:17:38.715590
+event_7_3,case_7,Allocate Inventory,2023-03-08 02:41:09.078945
+event_7_1,case_7,Receive Order,2023-04-04 13:19:10.119251
+event_7_6,case_7,Monitor Delivery Progress,2023-06-09 04:59:38.800459
+event_7_6,case_7,Deliver Item,2023-08-03 17:21:42.739563
+event_7_2,case_7,Validate Order,2023-12-06 19:28:41.999474
+event_70_7,case_70,Process Refunds,2023-01-15 02:31:56.248424
+event_70_7,case_70,Handle Returns,2023-03-05 17:33:24.365887
+event_70_4,case_70,Organize Shipping,2023-04-17 19:07:38.503201
+event_70_5,case_70,Dispatch Item,2023-05-24 02:23:06.773018
+event_70_2,case_70,Confirm Order Details,2023-06-24 14:49:43.093174
+event_70_1,case_70,Receive Order,2023-07-03 14:07:36.554377
+event_70_8,case_70,Manage Customer Communication,2023-08-02 18:41:01.199291
+event_70_6,case_70,Monitor Delivery Progress,2023-08-07 12:00:07.051310
+event_70_3,case_70,Allocate Inventory,2023-10-15 09:06:32.732490
+event_71_1,case_71,Receive Order,2023-01-27 02:25:39.370931
+event_71_4,case_71,Perform Quality Checks,2023-01-28 03:58:39.090686
+event_71_4,case_71,Organize Shipping,2023-04-30 14:54:51.787918
+event_71_2,case_71,Validate Order,2023-07-05 21:55:08.030673
+event_71_5,case_71,Dispatch Item,2023-07-19 23:40:02.010946
+event_71_3,case_71,Schedule Production,2023-07-23 20:06:46.021338
+event_71_6,case_71,Deliver Item,2023-08-16 13:18:28.113751
+event_71_8,case_71,Manage Customer Communication,2023-09-30 22:56:03.353304
+event_71_7,case_71,Process Refunds,2023-12-08 03:07:57.797719
+event_72_6,case_72,Monitor Delivery Progress,2023-01-10 19:30:06.242993
+event_72_4,case_72,Perform Quality Checks,2023-01-15 17:02:33.060728
+event_72_3,case_72,Allocate Inventory,2023-04-21 13:00:14.594626
+event_72_1,case_72,Receive Order,2023-04-29 07:28:23.134119
+event_72_7,case_72,Handle Returns,2023-06-28 23:52:50.373285
+event_72_8,case_72,Gather Customer Feedback,2023-08-30 02:55:57.748289
+event_72_2,case_72,Confirm Order Details,2023-09-26 01:27:20.835233
+event_72_5,case_72,Dispatch Item,2023-12-05 19:39:05.898752
+event_73_5,case_73,Update Order Status,2023-01-20 17:26:30.551482
+event_73_6,case_73,Deliver Item,2023-03-16 01:01:35.399894
+event_73_1,case_73,Receive Order,2023-04-19 07:30:47.065590
+event_73_8,case_73,Gather Customer Feedback,2023-04-20 22:41:52.723064
+event_73_7,case_73,Process Refunds,2023-04-24 11:45:24.435969
+event_73_7,case_73,Receive Payment,2023-04-25 21:27:53.598090
+event_73_2,case_73,Confirm Order Details,2023-08-20 10:58:02.436996
+event_73_3,case_73,Allocate Inventory,2023-10-21 21:51:44.468059
+event_73_4,case_73,Perform Quality Checks,2023-11-13 22:26:07.092786
+event_74_7,case_74,Handle Returns,2023-01-17 12:16:24.949279
+event_74_4,case_74,Perform Quality Checks,2023-01-28 21:33:55.127917
+event_74_8,case_74,Manage Customer Communication,2023-02-24 00:52:38.669257
+event_74_7,case_74,Receive Payment,2023-04-20 07:31:43.230448
+event_74_1,case_74,Receive Order,2023-05-25 08:36:29.310478
+event_74_5,case_74,Update Order Status,2023-08-09 23:11:20.031529
+event_74_6,case_74,Deliver Item,2023-08-12 20:48:02.987783
+event_74_3,case_74,Prepare Item,2023-09-15 09:58:10.457478
+event_74_5,case_74,Dispatch Item,2023-12-04 12:08:17.261884
+event_74_2,case_74,Validate Order,2023-12-05 03:20:16.941572
+event_75_2,case_75,Confirm Order Details,2023-01-17 05:20:19.188417
+event_75_4,case_75,Organize Shipping,2023-01-22 18:21:27.815103
+event_75_3,case_75,Allocate Inventory,2023-01-31 18:24:36.719742
+event_75_6,case_75,Monitor Delivery Progress,2023-05-25 04:59:56.327035
+event_75_7,case_75,Process Refunds,2023-08-09 06:43:03.585599
+event_75_8,case_75,Gather Customer Feedback,2023-09-08 11:00:37.252819
+event_75_5,case_75,Dispatch Item,2023-09-19 09:35:50.315138
+event_75_1,case_75,Receive Order,2023-11-05 13:54:54.795529
+event_76_7,case_76,Process Refunds,2023-03-04 01:28:01.480190
+event_76_4,case_76,Perform Quality Checks,2023-05-09 05:27:10.826450
+event_76_6,case_76,Deliver Item,2023-05-25 19:04:40.881353
+event_76_3,case_76,Allocate Inventory,2023-07-10 02:49:26.104084
+event_76_3,case_76,Schedule Production,2023-08-13 07:15:34.549706
+event_76_2,case_76,Validate Order,2023-08-21 12:02:04.133548
+event_76_5,case_76,Update Order Status,2023-09-04 05:50:46.186402
+event_76_1,case_76,Receive Order,2023-09-23 13:32:49.583088
+event_76_8,case_76,Manage Customer Communication,2023-10-03 11:04:02.549382
+event_77_7,case_77,Process Refunds,2023-01-03 12:14:19.679087
+event_77_1,case_77,Receive Order,2023-02-28 20:32:56.315605
+event_77_7,case_77,Receive Payment,2023-04-03 03:52:34.354811
+event_77_2,case_77,Validate Order,2023-07-03 11:37:37.061750
+event_77_4,case_77,Perform Quality Checks,2023-08-19 16:25:34.778412
+event_77_5,case_77,Update Order Status,2023-08-30 10:26:42.935060
+event_77_8,case_77,Gather Customer Feedback,2023-09-30 01:42:29.172439
+event_77_6,case_77,Deliver Item,2023-11-22 23:11:07.606732
+event_77_3,case_77,Schedule Production,2023-12-08 08:23:22.246518
+event_78_5,case_78,Dispatch Item,2023-01-31 02:48:24.156343
+event_78_6,case_78,Deliver Item,2023-02-07 12:12:39.130372
+event_78_3,case_78,Prepare Item,2023-05-13 09:12:15.581474
+event_78_2,case_78,Validate Order,2023-06-24 20:07:04.684530
+event_78_8,case_78,Gather Customer Feedback,2023-08-21 10:54:04.371691
+event_78_4,case_78,Organize Shipping,2023-08-21 22:44:32.847560
+event_78_6,case_78,Monitor Delivery Progress,2023-10-09 00:52:41.520367
+event_78_4,case_78,Perform Quality Checks,2023-11-10 10:56:50.067714
+event_78_1,case_78,Receive Order,2023-11-25 19:15:41.534070
+event_78_7,case_78,Process Refunds,2023-12-02 20:35:20.233713
+event_79_7,case_79,Process Refunds,2023-01-08 16:18:07.667446
+event_79_2,case_79,Confirm Order Details,2023-01-10 23:23:34.385602
+event_79_4,case_79,Organize Shipping,2023-02-10 09:34:54.747623
+event_79_7,case_79,Handle Returns,2023-04-08 11:58:39.561722
+event_79_3,case_79,Prepare Item,2023-04-19 10:21:38.998281
+event_79_1,case_79,Receive Order,2023-06-17 05:11:53.255032
+event_79_4,case_79,Perform Quality Checks,2023-06-28 14:44:55.144514
+event_79_8,case_79,Gather Customer Feedback,2023-07-06 00:15:23.573786
+event_79_6,case_79,Deliver Item,2023-07-09 08:00:18.541999
+event_79_5,case_79,Update Order Status,2023-08-12 12:48:30.491883
+event_79_6,case_79,Monitor Delivery Progress,2023-11-09 18:53:17.895283
+event_8_1,case_8,Receive Order,2023-03-07 21:24:47.825063
+event_8_5,case_8,Dispatch Item,2023-03-18 23:20:38.949357
+event_8_8,case_8,Manage Customer Communication,2023-09-01 15:27:30.546690
+event_8_7,case_8,Receive Payment,2023-09-09 19:21:04.903987
+event_8_6,case_8,Deliver Item,2023-09-16 00:29:38.468655
+event_8_3,case_8,Schedule Production,2023-09-27 07:57:27.802548
+event_8_4,case_8,Organize Shipping,2023-10-03 08:54:00.495973
+event_8_2,case_8,Confirm Order Details,2023-10-19 05:34:36.467432
+event_80_7,case_80,Process Refunds,2023-01-08 02:44:04.915912
+event_80_2,case_80,Validate Order,2023-02-01 09:49:55.628473
+event_80_8,case_80,Manage Customer Communication,2023-02-02 07:53:36.195186
+event_80_1,case_80,Receive Order,2023-03-14 06:40:58.818773
+event_80_5,case_80,Dispatch Item,2023-03-30 22:18:02.207908
+event_80_6,case_80,Deliver Item,2023-04-03 16:42:33.428231
+event_80_4,case_80,Organize Shipping,2023-07-11 21:33:29.974650
+event_80_3,case_80,Schedule Production,2023-09-13 16:06:50.177938
+event_81_2,case_81,Validate Order,2023-02-06 01:48:15.744930
+event_81_3,case_81,Allocate Inventory,2023-02-08 22:15:15.664117
+event_81_4,case_81,Perform Quality Checks,2023-03-10 19:27:32.839219
+event_81_6,case_81,Deliver Item,2023-03-28 04:57:20.806979
+event_81_7,case_81,Process Refunds,2023-04-30 16:17:24.710764
+event_81_5,case_81,Dispatch Item,2023-05-11 08:21:25.920364
+event_81_8,case_81,Manage Customer Communication,2023-08-14 12:13:33.459255
+event_81_6,case_81,Monitor Delivery Progress,2023-11-12 08:21:35.212617
+event_81_1,case_81,Receive Order,2023-11-21 10:56:24.028067
+event_82_7,case_82,Handle Returns,2023-02-28 09:58:49.754671
+event_82_3,case_82,Allocate Inventory,2023-03-05 23:25:37.887143
+event_82_4,case_82,Perform Quality Checks,2023-05-04 09:04:09.604253
+event_82_3,case_82,Prepare Item,2023-07-10 09:00:48.355182
+event_82_1,case_82,Receive Order,2023-07-12 06:40:08.217803
+event_82_8,case_82,Manage Customer Communication,2023-07-19 20:58:57.534583
+event_82_6,case_82,Monitor Delivery Progress,2023-08-03 13:58:44.550202
+event_82_2,case_82,Validate Order,2023-10-25 23:17:05.692927
+event_82_5,case_82,Dispatch Item,2023-11-17 05:05:33.976199
+event_83_7,case_83,Process Refunds,2023-01-18 11:18:43.050640
+event_83_3,case_83,Prepare Item,2023-02-01 22:19:42.296870
+event_83_8,case_83,Gather Customer Feedback,2023-03-07 02:57:39.688033
+event_83_6,case_83,Monitor Delivery Progress,2023-04-08 14:02:42.471967
+event_83_5,case_83,Dispatch Item,2023-05-18 01:05:27.080127
+event_83_4,case_83,Organize Shipping,2023-05-22 05:25:17.155316
+event_83_2,case_83,Confirm Order Details,2023-08-04 03:43:07.768889
+event_83_1,case_83,Receive Order,2023-10-13 03:03:00.429962
+event_84_7,case_84,Receive Payment,2023-01-22 19:07:16.456475
+event_84_6,case_84,Monitor Delivery Progress,2023-01-23 04:24:20.281323
+event_84_2,case_84,Confirm Order Details,2023-07-01 00:13:18.004970
+event_84_8,case_84,Manage Customer Communication,2023-07-02 13:56:16.294770
+event_84_1,case_84,Receive Order,2023-07-08 21:25:49.892743
+event_84_5,case_84,Dispatch Item,2023-07-26 16:35:45.493590
+event_84_4,case_84,Organize Shipping,2023-09-05 05:22:58.698555
+event_84_3,case_84,Prepare Item,2023-11-11 17:07:03.926699
+event_85_5,case_85,Dispatch Item,2023-01-12 04:13:39.192583
+event_85_7,case_85,Handle Returns,2023-01-12 13:41:48.879565
+event_85_5,case_85,Update Order Status,2023-02-14 16:41:11.559685
+event_85_1,case_85,Receive Order,2023-03-26 00:53:44.302509
+event_85_4,case_85,Organize Shipping,2023-03-26 11:33:15.935920
+event_85_8,case_85,Gather Customer Feedback,2023-04-25 15:43:07.331115
+event_85_3,case_85,Schedule Production,2023-07-11 17:36:43.182056
+event_85_2,case_85,Validate Order,2023-09-16 02:02:38.843968
+event_85_6,case_85,Monitor Delivery Progress,2023-11-09 07:07:15.516291
+event_86_1,case_86,Receive Order,2023-02-13 04:22:16.434340
+event_86_5,case_86,Update Order Status,2023-02-14 14:01:35.201499
+event_86_4,case_86,Organize Shipping,2023-03-23 09:51:43.900615
+event_86_7,case_86,Handle Returns,2023-03-25 14:38:14.381468
+event_86_8,case_86,Manage Customer Communication,2023-07-07 04:27:59.022236
+event_86_6,case_86,Deliver Item,2023-07-18 08:03:06.249680
+event_86_2,case_86,Confirm Order Details,2023-09-17 13:59:07.525939
+event_86_3,case_86,Allocate Inventory,2023-11-08 23:58:17.200129
+event_87_2,case_87,Confirm Order Details,2023-01-22 17:00:01.152314
+event_87_7,case_87,Process Refunds,2023-02-10 22:48:04.127408
+event_87_4,case_87,Organize Shipping,2023-03-08 09:05:04.389981
+event_87_3,case_87,Schedule Production,2023-04-01 18:50:49.718838
+event_87_1,case_87,Receive Order,2023-06-16 02:49:12.850309
+event_87_8,case_87,Gather Customer Feedback,2023-06-30 06:41:52.440018
+event_87_6,case_87,Monitor Delivery Progress,2023-11-02 10:26:40.028495
+event_87_5,case_87,Dispatch Item,2023-11-26 01:51:02.268378
+event_88_1,case_88,Receive Order,2023-01-18 21:14:29.387721
+event_88_2,case_88,Confirm Order Details,2023-02-10 04:08:26.415451
+event_88_4,case_88,Perform Quality Checks,2023-04-23 15:23:22.300241
+event_88_4,case_88,Organize Shipping,2023-05-24 07:27:28.467741
+event_88_5,case_88,Dispatch Item,2023-05-24 19:46:41.075107
+event_88_7,case_88,Handle Returns,2023-09-06 17:02:50.424290
+event_88_8,case_88,Gather Customer Feedback,2023-09-16 03:46:59.983460
+event_88_6,case_88,Monitor Delivery Progress,2023-10-25 16:55:46.601720
+event_88_3,case_88,Schedule Production,2023-11-16 21:35:10.340053
+event_89_8,case_89,Manage Customer Communication,2023-03-04 09:06:09.505789
+event_89_4,case_89,Perform Quality Checks,2023-03-30 00:40:52.909591
+event_89_2,case_89,Confirm Order Details,2023-03-30 19:51:45.173060
+event_89_4,case_89,Organize Shipping,2023-05-09 11:06:57.913701
+event_89_6,case_89,Deliver Item,2023-06-26 17:52:25.517904
+event_89_5,case_89,Dispatch Item,2023-09-11 20:41:16.543137
+event_89_1,case_89,Receive Order,2023-10-12 19:22:21.016407
+event_89_7,case_89,Process Refunds,2023-10-27 10:14:32.327041
+event_89_3,case_89,Schedule Production,2023-11-14 22:20:04.484145
+event_9_3,case_9,Schedule Production,2023-02-28 08:05:30.103944
+event_9_6,case_9,Deliver Item,2023-04-14 23:08:45.365763
+event_9_5,case_9,Dispatch Item,2023-04-15 08:03:51.643767
+event_9_4,case_9,Organize Shipping,2023-05-16 08:16:26.860874
+event_9_8,case_9,Manage Customer Communication,2023-05-22 10:19:18.286779
+event_9_1,case_9,Receive Order,2023-06-03 02:59:15.881970
+event_9_7,case_9,Process Refunds,2023-08-14 22:10:20.276901
+event_9_2,case_9,Validate Order,2023-09-05 23:49:26.696569
+event_90_1,case_90,Receive Order,2023-01-03 21:00:05.319686
+event_90_2,case_90,Validate Order,2023-02-20 10:07:42.515007
+event_90_6,case_90,Monitor Delivery Progress,2023-04-24 01:33:32.997327
+event_90_3,case_90,Allocate Inventory,2023-05-24 19:43:30.378958
+event_90_4,case_90,Perform Quality Checks,2023-06-27 05:31:25.275915
+event_90_5,case_90,Dispatch Item,2023-08-12 15:15:02.163869
+event_90_7,case_90,Receive Payment,2023-09-30 11:36:47.946965
+event_90_8,case_90,Manage Customer Communication,2023-12-06 16:41:11.304762
+event_91_7,case_91,Handle Returns,2023-01-27 21:46:55.056506
+event_91_6,case_91,Deliver Item,2023-04-10 20:52:13.607027
+event_91_2,case_91,Confirm Order Details,2023-04-20 13:22:36.646164
+event_91_8,case_91,Gather Customer Feedback,2023-06-17 11:39:41.051573
+event_91_3,case_91,Schedule Production,2023-08-15 00:18:15.792367
+event_91_1,case_91,Receive Order,2023-10-03 05:57:49.091173
+event_91_5,case_91,Update Order Status,2023-10-22 14:12:14.075012
+event_91_4,case_91,Perform Quality Checks,2023-11-26 14:10:14.388992
+event_92_8,case_92,Gather Customer Feedback,2023-02-13 05:29:40.484986
+event_92_4,case_92,Perform Quality Checks,2023-02-20 22:58:10.073485
+event_92_5,case_92,Update Order Status,2023-03-14 14:55:48.411047
+event_92_2,case_92,Validate Order,2023-05-08 20:29:36.867582
+event_92_3,case_92,Prepare Item,2023-07-20 10:24:19.259181
+event_92_1,case_92,Receive Order,2023-08-31 21:15:21.494412
+event_92_7,case_92,Process Refunds,2023-09-06 17:11:41.664914
+event_92_6,case_92,Monitor Delivery Progress,2023-09-26 20:05:56.186427
+event_93_2,case_93,Confirm Order Details,2023-01-09 15:29:11.840770
+event_93_1,case_93,Receive Order,2023-03-17 12:33:30.854648
+event_93_2,case_93,Validate Order,2023-06-02 08:06:45.734759
+event_93_6,case_93,Deliver Item,2023-07-07 06:15:34.613879
+event_93_4,case_93,Organize Shipping,2023-09-01 01:05:12.924094
+event_93_8,case_93,Manage Customer Communication,2023-10-08 18:00:22.729868
+event_93_7,case_93,Receive Payment,2023-11-12 02:38:35.243919
+event_93_5,case_93,Dispatch Item,2023-11-23 16:55:54.741809
+event_93_3,case_93,Schedule Production,2023-11-29 18:57:36.991453
+event_94_5,case_94,Update Order Status,2023-01-25 02:09:46.978002
+event_94_8,case_94,Manage Customer Communication,2023-03-10 23:25:14.455972
+event_94_6,case_94,Monitor Delivery Progress,2023-07-15 23:32:50.307835
+event_94_4,case_94,Perform Quality Checks,2023-08-06 09:04:48.879254
+event_94_2,case_94,Confirm Order Details,2023-08-31 15:10:27.504015
+event_94_1,case_94,Receive Order,2023-09-11 06:36:55.453404
+event_94_5,case_94,Dispatch Item,2023-09-29 18:27:29.024984
+event_94_7,case_94,Handle Returns,2023-10-04 00:24:38.796192
+event_94_3,case_94,Prepare Item,2023-10-30 02:11:40.323174
+event_95_7,case_95,Process Refunds,2023-01-15 11:37:14.753253
+event_95_4,case_95,Perform Quality Checks,2023-03-15 15:36:35.274746
+event_95_5,case_95,Dispatch Item,2023-05-03 23:12:15.204091
+event_95_1,case_95,Receive Order,2023-06-17 18:41:55.078688
+event_95_2,case_95,Confirm Order Details,2023-08-17 00:33:18.938342
+event_95_6,case_95,Monitor Delivery Progress,2023-09-22 23:13:58.787031
+event_95_3,case_95,Prepare Item,2023-10-19 22:04:50.280155
+event_95_8,case_95,Gather Customer Feedback,2023-11-02 08:10:05.620232
+event_96_4,case_96,Perform Quality Checks,2023-01-10 23:11:13.188623
+event_96_4,case_96,Perform Quality Checks,2023-01-27 00:09:19.980579
+event_96_5,case_96,Dispatch Item,2023-02-11 21:28:43.140944
+event_96_8,case_96,Manage Customer Communication,2023-02-28 00:31:18.929760
+event_96_4,case_96,Perform Quality Checks,2023-05-01 07:52:15.163199
+event_96_2,case_96,Confirm Order Details,2023-06-26 08:49:11.427167
+event_96_7,case_96,Process Refunds,2023-08-22 05:30:42.562527
+event_96_6,case_96,Monitor Delivery Progress,2023-09-25 23:42:01.459263
+event_96_3,case_96,Prepare Item,2023-10-17 13:21:14.712629
+event_96_1,case_96,Receive Order,2023-11-09 09:31:57.851140
+event_96_3,case_96,Prepare Item,2023-11-26 12:59:26.391919
+event_96_3,case_96,Prepare Item,2023-12-05 04:21:30.451828
+event_97_2,case_97,Validate Order,2023-01-03 08:25:19.964229
+event_97_5,case_97,Update Order Status,2023-01-13 09:40:26.235186
+event_97_6,case_97,Monitor Delivery Progress,2023-03-17 07:58:20.528116
+event_97_3,case_97,Prepare Item,2023-03-24 13:05:57.706939
+event_97_8,case_97,Gather Customer Feedback,2023-05-07 00:42:24.060631
+event_97_7,case_97,Handle Returns,2023-05-25 12:49:54.606597
+event_97_4,case_97,Organize Shipping,2023-06-26 19:46:11.871747
+event_97_1,case_97,Receive Order,2023-11-04 05:23:20.097892
+event_98_8,case_98,Manage Customer Communication,2023-01-20 16:38:21.473248
+event_98_7,case_98,Handle Returns,2023-01-29 00:09:28.418517
+event_98_5,case_98,Update Order Status,2023-01-30 03:52:50.054512
+event_98_3,case_98,Allocate Inventory,2023-03-01 20:39:00.366880
+event_98_2,case_98,Validate Order,2023-03-26 05:40:43.828400
+event_98_1,case_98,Receive Order,2023-04-13 09:26:19.203383
+event_98_4,case_98,Organize Shipping,2023-10-08 01:02:33.252675
+event_98_6,case_98,Monitor Delivery Progress,2023-10-19 18:05:42.705485
+event_99_4,case_99,Organize Shipping,2023-03-26 14:54:59.005098
+event_99_7,case_99,Process Refunds,2023-04-12 02:17:36.327311
+event_99_2,case_99,Validate Order,2023-06-04 10:19:10.050046
+event_99_5,case_99,Dispatch Item,2023-07-31 04:49:07.261111
+event_99_3,case_99,Prepare Item,2023-09-07 12:48:14.220603
+event_99_8,case_99,Manage Customer Communication,2023-10-03 19:31:39.563448
+event_99_6,case_99,Deliver Item,2023-11-10 12:02:47.548468
+event_99_1,case_99,Receive Order,2023-11-16 19:17:41.536377

@@ -36,9 +36,19 @@ def register_process_mining_routes(app):
 
     @app.route('/identify_bottlenecks', methods=['POST'])
     def identify_bottlenecks():
-        event_log_id = request.json['event_log_id']
-        bottlenecks = ProcessMiningService.analyze_bottlenecks(event_log_id, app.config['UPLOAD_FOLDER'])
-        return jsonify(bottlenecks)
+        try:
+            data = request.get_json()
+            event_log_id = data.get('event_log_id')
+
+            if not event_log_id:
+                return jsonify({"error": "Event log ID not provided"}), 400
+
+            # Directly return the response from analyze_bottlenecks
+            return ProcessMiningService.analyze_bottlenecks(event_log_id, app.config['UPLOAD_FOLDER'])
+
+        except Exception as e:
+            logging.error(f"Error in /identify_bottlenecks: {e}")
+            return jsonify({"error": str(e)}), 500
 
     
     @app.route('/process_mining/event_logs', methods=['GET'])

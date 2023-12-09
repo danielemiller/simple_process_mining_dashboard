@@ -16,6 +16,7 @@
       <a *ngIf="authService.isLoggedIn()" class="navbar-item" [routerLink]="'/dashboard'">Process Dashboard</a>
       <a *ngIf="authService.isLoggedIn()" class="navbar-item" [routerLink]="'/analytics'">Analytics</a>
       <a *ngIf="authService.isLoggedIn()" class="navbar-item" [routerLink]="'/upload'">Upload</a>
+      <a *ngIf="authService.isLoggedIn()" class="navbar-item" [routerLink]="'/generator'">Generate Event Log</a>
     </div>
 
     <div class="navbar-end">

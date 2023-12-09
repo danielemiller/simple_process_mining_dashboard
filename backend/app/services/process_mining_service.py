@@ -1,3 +1,4 @@
+from flask import jsonify
 import pm4py
 from pm4py.objects.conversion.log import converter as log_converter
 # from pm4py.objects.conversion.process_tree import converter as pt_converter
@@ -17,13 +18,14 @@ from io import BytesIO
 import logging, os, io, pandas as pd, tempfile
 from backend.app.models import EventLog
 from backend.app.extensions import db
+from dateutil import parser as dateutil_parser
 
 
 class ProcessMiningService:
     @staticmethod
     def _parse_timestamp(timestamp):
         """Attempts to parse a timestamp string into a datetime object using multiple known formats."""
-        known_formats = ['%m/%d/%y %H:%M', '%Y-%m-%d %H:%M:%S', '%d-%m-%Y %H:%M:%S', ...]  # Add more formats as needed
+        known_formats = ['%m/%d/%y %H:%M', '%Y-%m-%d %H:%M:%S', '%d-%m-%Y %H:%M:%S']  # Add more formats as needed
         for fmt in known_formats:
             try:
                 return pd.to_datetime(timestamp, format=fmt)
@@ -31,9 +33,10 @@ class ProcessMiningService:
                 continue
         # As a last resort, try to infer the format
         try:
-            return parser.parse(timestamp)
+            return dateutil_parser.parse(timestamp)
         except ValueError:
             raise ValueError(f"Unable to parse timestamp: {timestamp}")
+
 
     @staticmethod
     def _fetch_and_process_event_log(event_log_id, upload_folder):
@@ -140,19 +143,19 @@ class ProcessMiningService:
         try:
             data = ProcessMiningService._fetch_and_process_event_log(event_log_id, upload_folder)
             event_log = log_converter.apply(data, parameters={log_converter.Variants.TO_EVENT_LOG.value.Parameters.CASE_ID_KEY: '_CASE_KEY'})
-            
+
             activity_frequency = defaultdict(int)
             waiting_times = defaultdict(list)
             activity_durations = defaultdict(list)
 
             for trace in event_log:
-                for i in range(0, len(trace) - 1):
+                for i in range(len(trace) - 1):
                     current_activity = trace[i]['concept:name']
                     next_activity = trace[i + 1]['concept:name']
                     activity_frequency[current_activity] += 1
+
                     end_time_current = trace[i]['time:timestamp']
                     start_time_next = trace[i + 1]['time:timestamp']
-
                     if isinstance(end_time_current, datetime) and isinstance(start_time_next, datetime):
                         waiting_time = (start_time_next - end_time_current).total_seconds()
                         waiting_times[(current_activity, next_activity)].append(waiting_time)
@@ -163,15 +166,16 @@ class ProcessMiningService:
                             duration = (end_time_current - start_time_current).total_seconds()
                             activity_durations[current_activity].append(duration)
 
-            # Convert tuple keys to string keys
-            average_waiting_times = {' -> '.join(act_pair): sum(times) / len(times) if times else 0 for act_pair, times in waiting_times.items()}
+            # Convert tuple keys to string format for JSON serialization
+            average_waiting_times = {f'{act1} -> {act2}': sum(times) / len(times) if times else 0 for (act1, act2), times in waiting_times.items()}
             average_activity_durations = {act: sum(durations) / len(durations) if durations else 0 for act, durations in activity_durations.items()}
 
-            return {
-                "activity_frequency": dict(activity_frequency),
-                "average_waiting_times": average_waiting_times,
-                "average_activity_durations": average_activity_durations
-            }
+            return jsonify({
+                'activity_frequency': dict(activity_frequency),
+                'average_waiting_times': average_waiting_times,
+                'average_activity_durations': average_activity_durations
+            })
+
         except Exception as e:
             logging.error(f"Error analyzing bottlenecks: {e}")
             raise

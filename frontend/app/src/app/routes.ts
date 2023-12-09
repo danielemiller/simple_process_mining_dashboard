@@ -9,6 +9,7 @@ import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 import { DocsComponent } from './components/docs/docs.component';
 import { FullArticleComponent } from './components/full-article/full-article.component';
+import { EventLogGeneratorComponent } from './components/event-log-generator/event-log-generator.component';
 
 export const routes: Route[] = [
   { path: 'login', component: LoginComponent },
@@ -19,6 +20,7 @@ export const routes: Route[] = [
   {path: 'home', component: HomeComponent},
   {path: 'about', component: AboutComponent},
   {path: 'docs', component: DocsComponent},
+  {path: 'generator', component: EventLogGeneratorComponent},
   { path: 'article/:id', component: FullArticleComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];

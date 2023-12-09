@@ -24,6 +24,13 @@ export class ProcessMiningService {
     return this.http.delete(`${this.apiUrl}/process_mining/event_logs/${eventLogId}`, { headers: this.headers });
   }
 
+  generateEventLog(processType: string): Observable<Blob> {
+    return this.http.get(`${this.apiUrl}/generate_event_log/${processType}`, {
+      headers: this.headers,
+      responseType: 'blob'  // Expecting a file (Blob) in response
+    });
+  }
+
   getProcessRepresentation(eventLogId: number, representationType: 'text' | 'graph' | 'bpmn'): Observable<any> {
     return this.http.post<any>(`${this.apiUrl}/process_mining/discovery`, {
       event_log_id: eventLogId,

@@ -1,3 +1,4 @@
+from flask_jwt_extended import jwt_required, get_jwt_identity
 from flask import jsonify, request, send_file
 import os
 from backend.app.services.event_log_generator_service import EventLogGeneratorService
@@ -5,6 +6,7 @@ import logging
 
 def register_generator_routes(app):
     @app.route('/generate_event_log/<process_type>', methods=['GET'])
+    @jwt_required()
     def generate_event_log_route(process_type):
         try:
             base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

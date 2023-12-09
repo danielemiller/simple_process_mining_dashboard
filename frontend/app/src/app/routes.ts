@@ -17,10 +17,10 @@ export const routes: Route[] = [
   { path: 'upload', component: FileUploadComponent, canActivate: [AuthGuard] },
   { path: 'dashboard', component: ProcessDashboardComponent, canActivate: [AuthGuard] },
   { path: 'analytics', component: ProcessAnalysisComponent, canActivate: [AuthGuard] },
+  {path: 'generator', component: EventLogGeneratorComponent, canActivate: [AuthGuard]},
   {path: 'home', component: HomeComponent},
   {path: 'about', component: AboutComponent},
   {path: 'docs', component: DocsComponent},
-  {path: 'generator', component: EventLogGeneratorComponent},
   { path: 'article/:id', component: FullArticleComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];
